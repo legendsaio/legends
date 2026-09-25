@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "product": "legendsaio",
+  "version": "20260925-234353",
+  "key_id": "20260925-234353",
+  "generated_at": "2026-09-25T16:44:20.7504839Z",
+  "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
+  "files": [
+    {
+      "path": "myapp.rtx.dll",
+      "url": "myapp.rtx.dll.laioenc",
+      "sha256": "EBAF9AC4782429B0461D6B968D591DBDB30356848EE76F45BC6AD403E3AEE4C9",
+      "size": 4967976,
+      "encryption": "LAIOENC1",
+      "plain_sha256": "C9F1746EB6EB84C9D27EB4EC4F1F49417662636E64218165B451C1687B0EDAD3"
+    },
+    {
+      "path": "myapp.legendsense.dll",
+      "url": "myapp.legendsense.dll.laioenc",
+      "sha256": "16A5E864EB282860925F7C18E8616BB82FCC05F7951880C61103EB485D3E6B8A",
+      "size": 19307560,
+      "encryption": "LAIOENC1",
+      "plain_sha256": "F7D85F59535B580E5420724B33DB2EB130534416A4BA503D7D35B2272F5B28EC"
+    },
+    {
+      "path": "loader.exe",
+      "url": "loader.exe.laioenc",
+      "sha256": "24565D07758B3B068D9C9C857F2B4303A9E1D07AA9490C28F9BAAED38E75071F",
+      "size": 50452500,
+      "encryption": "LAIOENC1",
+      "plain_sha256": "F07688FBBCDC954DFE332C3D63EF3D8A4AA80E92F3D4C8A0894CC77976C5415A"
+    }
+  ]
+}
