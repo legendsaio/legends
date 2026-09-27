@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "rtx-gameupdate-tls-20260928-035538",
-  "key_id": "rtx-gameupdate-tls-20260928-035538",
-  "generated_at": "2026-09-27T20:55:40.3940983Z",
+  "version": "rtx-gamehook-tls-20260928-040831",
+  "key_id": "rtx-gamehook-tls-20260928-040831",
+  "generated_at": "2026-09-27T21:08:33.2103237Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "files": [
     {
       "path": "myapp.rtx.dll",
       "url": "myapp.rtx.dll.laioenc",
-      "sha256": "2DBF9E95154CF05D7FE769AC9977C18E5722FF4FD3D8C6A5113EEBEEA73F6BE4",
-      "size": 4968488,
+      "sha256": "E72E72F1B9657B1565AF37BBA20D468949C7532243A9EBD1FDEAD1CCB64BF7C4",
+      "size": 4969000,
       "encryption": "LAIOENC1",
-      "plain_sha256": "FB82524407697003CA6CEB7DC5F1668F9A76691C6C3053FD486EE081D36DC10C"
+      "plain_sha256": "2A17360910EB8D77F3FB6B1270E7DA17BE0D37FF2E25209CEF1DC566FE521BCC"
     }
   ]
 }
