@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "rtx-manualmap-tls-20260928-031643",
-  "key_id": "rtx-manualmap-tls-20260928-031643",
-  "generated_at": "2026-09-27T20:16:44.1142601Z",
+  "version": "rtx-gameupdate-tls-20260928-035538",
+  "key_id": "rtx-gameupdate-tls-20260928-035538",
+  "generated_at": "2026-09-27T20:55:40.3940983Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "files": [
     {
       "path": "myapp.rtx.dll",
       "url": "myapp.rtx.dll.laioenc",
-      "sha256": "99D0F65D115D55BCE97C8153E45C5DBF61730B8DA1836D4EDD83DAE13C3565F6",
-      "size": 4967976,
+      "sha256": "2DBF9E95154CF05D7FE769AC9977C18E5722FF4FD3D8C6A5113EEBEEA73F6BE4",
+      "size": 4968488,
       "encryption": "LAIOENC1",
-      "plain_sha256": "2429E277699E050FEF3ABAC9DD1961E783D0E419C488733FC0F81B3725753A2C"
+      "plain_sha256": "FB82524407697003CA6CEB7DC5F1668F9A76691C6C3053FD486EE081D36DC10C"
     }
   ]
 }
