@@ -1,18 +1,26 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "rtx-gamehook-tls-20260928-040831",
-  "key_id": "rtx-gamehook-tls-20260928-040831",
-  "generated_at": "2026-09-27T21:08:33.2103237Z",
+  "version": "dual-gh-manualmap-20260928-115214",
+  "key_id": "dual-gh-manualmap-20260928-115214",
+  "generated_at": "2026-09-28T04:52:15.4153129Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "files": [
     {
       "path": "myapp.rtx.dll",
       "url": "myapp.rtx.dll.laioenc",
-      "sha256": "E72E72F1B9657B1565AF37BBA20D468949C7532243A9EBD1FDEAD1CCB64BF7C4",
+      "sha256": "1FC6BF7A50B3C9BD61E5469F9C771F6547A4ED57CB7224EF6DA01BFFEE082753",
       "size": 4969000,
       "encryption": "LAIOENC1",
       "plain_sha256": "2A17360910EB8D77F3FB6B1270E7DA17BE0D37FF2E25209CEF1DC566FE521BCC"
+    },
+    {
+      "path": "myapp.legendsense.dll",
+      "url": "myapp.legendsense.dll.laioenc",
+      "sha256": "AC608FF426D156050314924683218432B22DE58D4F593859688D46053C340157",
+      "size": 19305000,
+      "encryption": "LAIOENC1",
+      "plain_sha256": "C84E8B974E362E3D8CDE349F63DBD18FAF205A0D44460ADA308B11FA1CCA4887"
     }
   ]
 }
