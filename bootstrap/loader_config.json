@@ -1,0 +1,27 @@
+﻿{
+    "serverUrl":  "https://license.legendsaio.com",
+    "telegramBotUrl":  "https://t.me/my_legends_license_bot",
+    "runtimeDir":  "C:\\legends\\myapp.ls",
+    "theme":  "dark",
+    "showDebugTools":  false,
+    "updateEnabled":  true,
+    "storeEncryptedDllsOnly":  true,
+    "updateManifestUrl":  "https://raw.githubusercontent.com/legendsaio/legends/main/updates/manifest.json",
+    "updateManifestSignatureUrl":  "https://raw.githubusercontent.com/legendsaio/legends/main/updates/manifest.sig",
+    "supportedGameVersions":  [
+                                  "16.19.820.7193",
+                                  "16.19.821.7343"
+                              ],
+    "apps":  [
+                 {
+                     "id":  "myapp.rtx",
+                     "name":  "myapp.rtx",
+                     "url":  "https://license.legendsaio.com"
+                 },
+                 {
+                     "id":  "myapp.legendsene",
+                     "name":  "myapp.legendsene",
+                     "url":  "https://license.legendsaio.com"
+                 }
+             ]
+}

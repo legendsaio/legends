@@ -1,26 +1,42 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "dual-gh-manualmap-20260928-115214",
-  "key_id": "dual-gh-manualmap-20260928-115214",
-  "generated_at": "2026-09-28T04:52:15.4153129Z",
+  "version": "aio-20260928-204738",
+  "key_id": "aio-20260928-204738",
+  "generated_at": "2026-09-28T13:47:40.4268294Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "files": [
     {
       "path": "myapp.rtx.dll",
       "url": "myapp.rtx.dll.laioenc",
-      "sha256": "1FC6BF7A50B3C9BD61E5469F9C771F6547A4ED57CB7224EF6DA01BFFEE082753",
-      "size": 4969000,
+      "sha256": "714CCFEF98EAD1800D619E642E8BC5CF9EC62D0C217C8CA84EA6291DBAD3E51F",
+      "size": 6542376,
       "encryption": "LAIOENC1",
-      "plain_sha256": "2A17360910EB8D77F3FB6B1270E7DA17BE0D37FF2E25209CEF1DC566FE521BCC"
+      "plain_sha256": "5FCA4D977F9606C02B211DD8D309C0BBDD18662756F966390BE30B91EF656CC6"
     },
     {
       "path": "myapp.legendsense.dll",
       "url": "myapp.legendsense.dll.laioenc",
-      "sha256": "AC608FF426D156050314924683218432B22DE58D4F593859688D46053C340157",
-      "size": 19305000,
+      "sha256": "5C172D6B856EDA316172400DB8AF5E4B7BF0772EAE55B19885739DE1CFD1D2F4",
+      "size": 20906536,
       "encryption": "LAIOENC1",
-      "plain_sha256": "C84E8B974E362E3D8CDE349F63DBD18FAF205A0D44460ADA308B11FA1CCA4887"
+      "plain_sha256": "4AB85204B73CE5C2E09CF005390FCF643AB5C261B77B8DBFDAD5A50568C07A69"
+    },
+    {
+      "path": "loader.exe",
+      "url": "loader.exe.laioenc",
+      "sha256": "583F35CEFD70DDBC53992BAC783ABDC0DD5E2579FF4EAB85EDB8A66621CB41A7",
+      "size": 50459874,
+      "encryption": "LAIOENC1",
+      "plain_sha256": "E115A460FCB67711613AD4AD6F80D0B556F2FD0A111DDFB1F4889E301EA7CC99"
+    },
+    {
+      "path": "laio.package_verifier.dll",
+      "url": "laio.package_verifier.dll.laioenc",
+      "sha256": "8CFA987048AC46C1FDB78671F41AFCEEBE7E06DAC3492138EF4970A38F6EAD09",
+      "size": 1653288,
+      "encryption": "LAIOENC1",
+      "plain_sha256": "CB2670F537CB741E94096D3CA878D939933802628FB9F1155149CA1B00143A13"
     }
   ]
 }
