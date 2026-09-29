@@ -1,37 +1,37 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "aio-20260929-215805",
-  "key_id": "aio-20260929-215805",
-  "generated_at": "2026-09-29T14:58:06.0106311Z",
+  "version": "aio-20260930-000047",
+  "key_id": "aio-20260930-000047",
+  "generated_at": "2026-09-29T17:00:48.1929265Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "files": [
     {
       "path": "myapp.rtx.dll",
       "url": "myapp.rtx.dll.laioenc",
       "encryption": "LAIOENC1",
-      "size": 6376488,
-      "sha256": "c4b7f311bf40c23d34c0ff308e85dd3d1f5e3c186d0fdc97141c6e9fa466f30a",
-      "plain_sha256": "f852a47bf6af475888aefb85b712aee7beeae34bc101eeb44b55a4f2853695f3"
+      "size": 6653480,
+      "sha256": "f32fecd431736bc786ac6f47df3eab62f7f50681ef3cbb13253c691dd214afd3",
+      "plain_sha256": "dad3d6aaf2ee892d7ff4bdbf6f1c0d5a62646b336bed89c3f19c325943099eb2"
     },
     {
       "path": "myapp.legendsense.dll",
       "url": "myapp.legendsense.dll.laioenc",
       "encryption": "LAIOENC1",
-      "size": 21797416,
-      "sha256": "68173cbac1b3b4177e90ac702efad86d64ec3161c47186e39748958dcf49e9b4",
-      "plain_sha256": "f4165fb2aeaa306e1c3018851458f1bc5d80dee66de99261b0aebd2fd45f4c29"
+      "size": 21940264,
+      "sha256": "a6d7bc7c0918acf0890f4420a96b008721e8da8ed1538524eabecfb2a51e0be5",
+      "plain_sha256": "ea97567675e9470e73925fd32e8fe8d4835ab4622fb11ad5e67731569d594d92"
     },
     {
       "path": "loader.exe",
       "url": "loader.exe",
-      "sha256": "177cf7f5e681d5d810eeb1dca33863f6da56d596a59b570583eef4c41e9b56f8",
-      "size": 4028416
+      "sha256": "bcfb84b1204f2daf2794efedf4278316b03c0f25ba4abcb539525ca9c1160e72",
+      "size": 4023808
     }
   ],
   "game_support": {
     "url": "supported_versions.json",
     "size": 492,
-    "sha256": "C6368911211855530B77AC58AB6FA8929C14C16838ED85FD908BB8B0B236D1F0"
+    "sha256": "778717FD57FF15513B76A17729CEDEBA98D57727CD62E6F3295B9E4FBD96781E"
   }
 }
