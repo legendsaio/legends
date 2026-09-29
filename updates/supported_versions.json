@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "executable": "League of Legends.exe",
+  "match": "exact",
+  "artifacts": {
+    "myapp.rtx.dll": {
+      "sha256": "3d4ba420f82b0655173fa075ac2f4b5a291e80ab456d40d521a41f666be0e1ec",
+      "versions": [
+        "16.19.823.722",
+        "16.19.821.7343"
+      ]
+    },
+    "myapp.legendsense.dll": {
+      "sha256": "2b73fa7e279ea2b79444c64a6614bcb54a125c24d45e6913e41c1faafaa2dd84",
+      "versions": [
+        "16.19.823.722",
+        "16.19.821.7343"
+      ]
+    }
+  }
+}

@@ -28,5 +28,10 @@
       "sha256": "EF122CC603EA2485778094B9513BFF7AB82EDD528734D8D2F31D00088ACB92EB",
       "size": 3920384
     }
-  ]
+  ],
+  "game_support": {
+    "url": "supported_versions.json",
+    "size": 492,
+    "sha256": "e5074ad28d9eee538f196a4d196cb1c34946ab87a894a3ce60a5af3b2853df02"
+  }
 }
