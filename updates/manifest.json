@@ -1,42 +1,34 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "aio-20260928-204738",
-  "key_id": "aio-20260928-204738",
-  "generated_at": "2026-09-28T13:47:40.4268294Z",
+  "version": "aio-20260929-090706",
+  "key_id": "aio-20260929-090706",
+  "generated_at": "2026-09-29T02:07:07.4428829Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "files": [
     {
       "path": "myapp.rtx.dll",
       "url": "myapp.rtx.dll.laioenc",
-      "sha256": "714CCFEF98EAD1800D619E642E8BC5CF9EC62D0C217C8CA84EA6291DBAD3E51F",
-      "size": 6542376,
+      "sha256": "2D90F14E3428782D8684F2E2C9A96F3AA5B12BB1C6F725A58A85A152C3D1FE74",
+      "size": 6538792,
       "encryption": "LAIOENC1",
-      "plain_sha256": "5FCA4D977F9606C02B211DD8D309C0BBDD18662756F966390BE30B91EF656CC6"
+      "plain_sha256": "655F341529AD9A41712B7D512D7E11CF03CC6CEEEDA724A5920F7663D345D037"
     },
     {
       "path": "myapp.legendsense.dll",
       "url": "myapp.legendsense.dll.laioenc",
-      "sha256": "5C172D6B856EDA316172400DB8AF5E4B7BF0772EAE55B19885739DE1CFD1D2F4",
-      "size": 20906536,
+      "sha256": "4CB925A0AEB4F0635098500887144FE4E5E83B3B5BF098C210FDEDB85CCBF199",
+      "size": 20920360,
       "encryption": "LAIOENC1",
-      "plain_sha256": "4AB85204B73CE5C2E09CF005390FCF643AB5C261B77B8DBFDAD5A50568C07A69"
+      "plain_sha256": "34C36A8F0BAB61D2417EE7F5747BF1780553441E48F3ADA4D5A65A177D8B9D33"
     },
     {
       "path": "loader.exe",
       "url": "loader.exe.laioenc",
-      "sha256": "583F35CEFD70DDBC53992BAC783ABDC0DD5E2579FF4EAB85EDB8A66621CB41A7",
-      "size": 50459874,
+      "sha256": "9FBD71B62061CD1EA1CD4567EE94748C4B03FE84A9BCEA4414C3E6DE2C248661",
+      "size": 3985960,
       "encryption": "LAIOENC1",
-      "plain_sha256": "E115A460FCB67711613AD4AD6F80D0B556F2FD0A111DDFB1F4889E301EA7CC99"
-    },
-    {
-      "path": "laio.package_verifier.dll",
-      "url": "laio.package_verifier.dll.laioenc",
-      "sha256": "8CFA987048AC46C1FDB78671F41AFCEEBE7E06DAC3492138EF4970A38F6EAD09",
-      "size": 1653288,
-      "encryption": "LAIOENC1",
-      "plain_sha256": "CB2670F537CB741E94096D3CA878D939933802628FB9F1155149CA1B00143A13"
+      "plain_sha256": "AB34805711CE040E2C6ABE4BE62A8DE9284C2F9813D081D0666063DD55D19CCC"
     }
   ]
 }
