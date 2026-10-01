@@ -1,3 +1,6 @@
 updates/manifest.json -text
 updates/manifest.sig -text
 Dependencies/** -text
+
+updates/** -text
+Dependencies/** -text
