@@ -1,0 +1,1666 @@
+{
+  "schema": 1,
+  "product": "legendsaio-runtime-files",
+  "files": [
+    {
+      "path": "Config/LSClientIdentity.ini",
+      "size": 131,
+      "sha256": "c1d1db4fcb0d4377d24284a2051cec990160f0a2037635f2e175fb6422e8f480"
+    },
+    {
+      "path": "Config/Language.json",
+      "size": 341788,
+      "sha256": "6d8c4477c6047975436690b474e7b8dd66bc030dab57cdacd4a64e252a32584f"
+    },
+    {
+      "path": "Config/Language.json.h",
+      "size": 1854459,
+      "sha256": "9e9487197c5ea930261aa7456c51e682913836b9deb35f4c0355974f5ecebc6c"
+    },
+    {
+      "path": "Config/MenuComponent.json",
+      "size": 2540594,
+      "sha256": "b8c96062cda608791c0207aeaede8538bbabf64a9bf976ac3113f48cb57b789d"
+    },
+    {
+      "path": "Config/MenuComponent2.json",
+      "size": 392736,
+      "sha256": "9bd2c8f476a11e04468d56dd349e8a80fd18e5de1bc1818c981e07574d898606"
+    },
+    {
+      "path": "Resource/Localization/myapp.legendsense/README.md",
+      "size": 3775,
+      "sha256": "d423fb8c42c324f41f8b0bff3a1e322e712fef93f89e0184b8ae6f7ce35e5818"
+    },
+    {
+      "path": "Resource/Localization/myapp.legendsense/en-US.json",
+      "size": 80894,
+      "sha256": "770a16eceab2228c39c05d07a37c4fe17ad2d95ea8b395883bc47a01c32f8c71"
+    },
+    {
+      "path": "Resource/Localization/myapp.legendsense/vi-VN.json",
+      "size": 96020,
+      "sha256": "16106c6b35b33077dad0f26e58a49e73784a9d9a66dd3e8d434cf90b4ef6f4cb"
+    },
+    {
+      "path": "Resource/Localization/myapp.legendsense/zh-CN.json",
+      "size": 80762,
+      "sha256": "a4434abb815cb205c49c02647d5a13123f85f00df9d55eb85557e591c03da32b"
+    },
+    {
+      "path": "Resource/common/common.lua",
+      "size": 62200,
+      "sha256": "b2afc1ed501e5352f03a83f5397a116e2bc40f2b73e5c5a76f05bd95294f2bfd"
+    },
+    {
+      "path": "Resource/common/damagelib.lua",
+      "size": 54196,
+      "sha256": "a780f92de3064baf59bd98655dd2af95ff20d4b2209f00daa5ad6e89bdff813d"
+    },
+    {
+      "path": "Resource/fonts/AstroSpace.ttf.h",
+      "size": 61757,
+      "sha256": "cfdd74cbe2e1b12d40587e5f10021f9484df6c4898df70be77608fb9d61dc519"
+    },
+    {
+      "path": "Resource/fonts/fa-regular-400.ttf",
+      "size": 34052,
+      "sha256": "1769572028dc4d8fbc422414ca44947b4a156321f814eedefe4ec8d39173fb24"
+    },
+    {
+      "path": "Resource/fonts/notosans-bold.vfont",
+      "size": 310579,
+      "sha256": "c867271479eff7b88e403976002c1b3e2aa0c6edb3be45189965b3bacc3008ce"
+    },
+    {
+      "path": "Resource/fonts/notosanskr-bold.vfont",
+      "size": 4723075,
+      "sha256": "f211093777f90eca07390935d25c4ef173a9fae84d849b7cef1c3d37f0864ff7"
+    },
+    {
+      "path": "Resource/fonts/notosanskr-regular.vfont",
+      "size": 4559547,
+      "sha256": "2ebcd4114620a71da0a69025ba100d7f3b01682d25d01eeaa203eabde727d573"
+    },
+    {
+      "path": "Resource/fonts/notosanssc-bold.vfont",
+      "size": 8617967,
+      "sha256": "51f30309292265ccf52ce48bfbd8b32f27d7545364c9fc56eebe6b57f68955c7"
+    },
+    {
+      "path": "Resource/fonts/notosanssc-regular.vfont",
+      "size": 8368851,
+      "sha256": "35f0fe0925252cba01b7f32f7ed6d812c582cb452af8f3606108048266a6162f"
+    },
+    {
+      "path": "Resource/shaders/blur_x.glsl",
+      "size": 758,
+      "sha256": "89f88cbf85581327c4161e4e4ab917133f9cecd42b7ad44f4ab57cf288723108"
+    },
+    {
+      "path": "Resource/shaders/blur_x.h",
+      "size": 4576,
+      "sha256": "c402474a4f27ea158429a2d82d1eec59c8e1ca92da1005701ede2047d7cb8578"
+    },
+    {
+      "path": "Resource/shaders/blur_x.hlsl",
+      "size": 598,
+      "sha256": "001d5862bf1e5603355906e3e707208a423197723b6477e45e969660425010b3"
+    },
+    {
+      "path": "Resource/shaders/blur_y.glsl",
+      "size": 761,
+      "sha256": "89b93a5ffc0dd2f3b76642dd0f589db1044f8f860053cfb96a21a1e37be41fd0"
+    },
+    {
+      "path": "Resource/shaders/blur_y.h",
+      "size": 4577,
+      "sha256": "c8145de1c8469e2c14acae13093ec383e745c1ce7b6d9f9c97b440276dc97c20"
+    },
+    {
+      "path": "Resource/shaders/blur_y.hlsl",
+      "size": 601,
+      "sha256": "b9d9b6ec0113fd91f50199f1923f9f89b012dfb7b8b18caf9fc39f4475be830f"
+    },
+    {
+      "path": "Resource/shaders/chromatic_aberration.glsl",
+      "size": 518,
+      "sha256": "9a061dd1a6915131529261cbc347cfe214ecb4e705433796748befba81dafead"
+    },
+    {
+      "path": "Resource/shaders/chromatic_aberration.h",
+      "size": 2836,
+      "sha256": "e507eed60edece42582f10bc95f8efe911a8621e557b69d4c41fc0e7c89027fd"
+    },
+    {
+      "path": "Resource/shaders/chromatic_aberration.hlsl",
+      "size": 266,
+      "sha256": "d9b0294ea70916a008e0c11408a8288b6ba51b55376147282889b9e32f895682"
+    },
+    {
+      "path": "Resource/shaders/default_vs.h",
+      "size": 2090,
+      "sha256": "c7b03219aea279228365b74d25862b1d547d21d45823cd29256b888910c8d0ca"
+    },
+    {
+      "path": "Resource/shaders/default_vs.hlsl",
+      "size": 457,
+      "sha256": "d9117ffbb07b93bf4d2dcfd55fb126df62bf832cf2729fe54f375e0045607db1"
+    },
+    {
+      "path": "Resource/shaders/monochrome.glsl",
+      "size": 490,
+      "sha256": "5bac7528794b7f7a8bed28c170d1df443a2d66fd02c9a147941ead4f451024cd"
+    },
+    {
+      "path": "Resource/shaders/monochrome.h",
+      "size": 2468,
+      "sha256": "eeb2313470c87b39c4bfd7a529bfb2a8330d1c18522440b668d0a94d73da272f"
+    },
+    {
+      "path": "Resource/shaders/monochrome.hlsl",
+      "size": 246,
+      "sha256": "919f416b5c0aea81982e7db74d0e38372d20f28c98465251ad2c7df70323f12e"
+    },
+    {
+      "path": "Resource/shaders/passthrough.glsl",
+      "size": 246,
+      "sha256": "6a5aa4f18d0b707b4cbe74d55b53a851d9ac06065508c0da5604c340e2a1bbd0"
+    },
+    {
+      "path": "cached/1022257066",
+      "size": 5578429,
+      "sha256": "f4d212642c1ffdd8f592b600a0b898ec1944392ac26e8ed4fce8c621fa748b01"
+    },
+    {
+      "path": "cached/1148074481",
+      "size": 5869410,
+      "sha256": "65a6e54ea24e98d8137d7da1f94d47ba69341c8e2489f846f585fea2f1dd8ae3"
+    },
+    {
+      "path": "cached/1182399069",
+      "size": 289769,
+      "sha256": "e62a0e14b3a78e8a48b0e71824c82b89976ebaa0a68e323e44ee72daaa244042"
+    },
+    {
+      "path": "cached/1202413978",
+      "size": 379335,
+      "sha256": "13b70e7c35a86aabb637927bf6fb24e69a525e77f847c2c4db7c1154e0d2ccbd"
+    },
+    {
+      "path": "cached/120824829",
+      "size": 2428990,
+      "sha256": "c3f63f98a563b4f3cb1fc59d14412a69efb075d59624cc4c6e56a99a52f86fcd"
+    },
+    {
+      "path": "cached/1253580414",
+      "size": 466829,
+      "sha256": "df9d3349515da35e65a54cfff6dd34b03e3b43a9ed9822c04fe490ab06cdddef"
+    },
+    {
+      "path": "cached/1364265363",
+      "size": 110406,
+      "sha256": "ca3b4c4c2876ae0551a5cc4b34b7ec0e766cd31bf1d8a8570de6ba3bb4a622a6"
+    },
+    {
+      "path": "cached/1372655327",
+      "size": 4096,
+      "sha256": "ada571f21ac023acd4811c25afe45589696d5d37f80d7bbd3550c6908961e175"
+    },
+    {
+      "path": "cached/1449999119",
+      "size": 3836053,
+      "sha256": "fb8276f3e9260df177c78fc388038b8c30db75e3416b56f7f84605787f58dfa1"
+    },
+    {
+      "path": "cached/1578750805",
+      "size": 197,
+      "sha256": "2fc60755f8d79f15a6f3a2dbb55b5467fdf1df444f4e3ab4d59ff8c9ee291b21"
+    },
+    {
+      "path": "cached/161342707",
+      "size": 23722,
+      "sha256": "5939f22a355e37a2963fbe0871fd07a8133209ed16498bf8fef773e668baa553"
+    },
+    {
+      "path": "cached/1656323956",
+      "size": 356939,
+      "sha256": "7072c236b9362a9c17c4938cf6a2eaf67bc102d36531020fc78189245ea0787c"
+    },
+    {
+      "path": "cached/1683408551",
+      "size": 1434,
+      "sha256": "ef3bf9cfa55b7f1b361d5dfa7c051256d815074081304b7ac9270016fbaf3d87"
+    },
+    {
+      "path": "cached/1797517459",
+      "size": 8102398,
+      "sha256": "0da7156dc70f2ebfd32246b215dcf3ec931bae0c9be8c6f65b5beb261699a17d"
+    },
+    {
+      "path": "cached/1979114038",
+      "size": 868140,
+      "sha256": "b6b3ce5fea36254f7204134fcddcffac0744c8e288a37d4a47afc25a9c1dbad6"
+    },
+    {
+      "path": "cached/2080454099",
+      "size": 29632,
+      "sha256": "33dcb1a0feea8228bdf77b3f1ba463e1e6b44c6afcff838c673ec250cf8357c5"
+    },
+    {
+      "path": "cached/2144768730",
+      "size": 73699,
+      "sha256": "59ee5f9e2427a68fa9df10d16a178f685f4000a40f39a58dbd5039995839beb5"
+    },
+    {
+      "path": "cached/2214612812",
+      "size": 351664,
+      "sha256": "94380cc0ab5d6524b2adb9115d9112ca3a0f27b8de63e92eb0e33e6e3de5d9b5"
+    },
+    {
+      "path": "cached/2234312956",
+      "size": 5550543,
+      "sha256": "bfa52e2228cd97ab56c5e1cafc9a2047e77a1cd9002f935382379bc4cb6ed51c"
+    },
+    {
+      "path": "cached/2376563033",
+      "size": 7045912,
+      "sha256": "a256c3f0f735215614bb48fcf0ccb687b63110a5e53fc3010afa696ac0d28cbf"
+    },
+    {
+      "path": "cached/2381355443",
+      "size": 427050,
+      "sha256": "1e28d8a229821be1d0fce0cb09c9d09ecf5a0e9e5ce6d0ada8d236b42fb9f672"
+    },
+    {
+      "path": "cached/2382837506",
+      "size": 512391,
+      "sha256": "baf5fcb6848d11502f5581686fb9e9918b2d5edcd27de855d7299f9a9a3b8351"
+    },
+    {
+      "path": "cached/2505040918",
+      "size": 4076518,
+      "sha256": "6d3faff015f7050fce50cd112963a05701a75eb674ef5b202eff3d622afed86d"
+    },
+    {
+      "path": "cached/267043666",
+      "size": 751365,
+      "sha256": "4e377258556ec1ddd5cfaad837b5e6084f04c6a4384709509a54d4bb313d4ccd"
+    },
+    {
+      "path": "cached/2732775736",
+      "size": 9934023,
+      "sha256": "e7aef5d833bfaa1c48b58a52b1c9f5130b5d428667fd08c30665b153eac1f0da"
+    },
+    {
+      "path": "cached/2749628049",
+      "size": 133320,
+      "sha256": "289896964b4029ff797358a81127baf7e5314095e6e9d96b37e4766ac10e5aeb"
+    },
+    {
+      "path": "cached/2756815902",
+      "size": 1128871,
+      "sha256": "e646ce4fabee4051e75598792ab15219d178d901866f8c4cfa933fbeb048dd21"
+    },
+    {
+      "path": "cached/2765895613",
+      "size": 9234360,
+      "sha256": "03b1ef901a659a2c7554e5e845bb73c3d1cad3ac365a972c5aab1684ef691fc6"
+    },
+    {
+      "path": "cached/2894375484",
+      "size": 144962,
+      "sha256": "6a71c0be318bbea854eff45029dfdb82aecb7662550984924308ebbd71f70bd1"
+    },
+    {
+      "path": "cached/3183248515",
+      "size": 16960,
+      "sha256": "0c08df0ad2dd4cc5ce89f19aa4fb62f91bdf3fff258f737f2049d329fb8179d7"
+    },
+    {
+      "path": "cached/3295038861",
+      "size": 1125689,
+      "sha256": "a9684cdcbf73682a65cb6ae8f8f5d489625b8773f7ca8b90e4e00607ab7c8e4e"
+    },
+    {
+      "path": "cached/3385405914",
+      "size": 686718,
+      "sha256": "b99e2d39b9e4889aba67f0fd181e17817d708360ac1f7a4e2cc3b967d8ed1fe5"
+    },
+    {
+      "path": "cached/3429446443",
+      "size": 1528728,
+      "sha256": "3b046d43a430847eaf78e18504ea3c33786c09b551435b142f9b40724463724b"
+    },
+    {
+      "path": "cached/3798752976",
+      "size": 2046477,
+      "sha256": "739db55403de41a9f42711a0c7d34f04c8069af79c09d606269df1dd19d39beb"
+    },
+    {
+      "path": "cached/391367950",
+      "size": 1283,
+      "sha256": "c5a2bebd6881fb989082295d1d2d3cf06e9f697a8160ae7a871d039bbea5e7ed"
+    },
+    {
+      "path": "cached/3921113601",
+      "size": 4941320,
+      "sha256": "038afd1917ec18486d30ddc291ca8132ec0891e929d578037e531e374839aff4"
+    },
+    {
+      "path": "cached/411292807",
+      "size": 11399,
+      "sha256": "0b547567741e224971466d4ea143fe8650aee498399b470305bcac5918cc3dba"
+    },
+    {
+      "path": "cached/4174325753",
+      "size": 3773565,
+      "sha256": "5638067f5ac6f4134a88950bdb3068e13ce442f37e95249f02ce008655fccfda"
+    },
+    {
+      "path": "cached/4263738924",
+      "size": 802222,
+      "sha256": "18bca9dd4451866c70ba8089af5d09bc533d5fe7b84ff46498c6920ce0af6751"
+    },
+    {
+      "path": "cached/460064022",
+      "size": 39505,
+      "sha256": "a4fca48fb38d4a3240fb9893ef9a4828e2d75b41b287fe17be93f3ce1b1d23a7"
+    },
+    {
+      "path": "cached/600826039",
+      "size": 597834,
+      "sha256": "eef1ea720f149367fd1b740c74999d682bd0f42a37e570cb4e8d47dd9da3d705"
+    },
+    {
+      "path": "cached/844391376",
+      "size": 197,
+      "sha256": "a0be8b5b56439f974ba370eeb928fb7e31b60bf4b0d142f12ffd849a08e027f0"
+    },
+    {
+      "path": "cached/887197611",
+      "size": 608,
+      "sha256": "9f260602952bdfe1fc60546f3a5e1513a68b6d71d44021585e0493c92c2d9fd0"
+    },
+    {
+      "path": "cached/911298206",
+      "size": 4841111,
+      "sha256": "89234c062c6e70e012e66c8368eed5e2806af86b831e282a75b3a14ec8093e83"
+    },
+    {
+      "path": "cached/970841100",
+      "size": 2252338,
+      "sha256": "2eb065eaf368a53a3d119ff9ba438dc5374526ef0929a340e816c6ac0a8ab812"
+    },
+    {
+      "path": "cached/bgx/files/core/x64/core_plugin.dll",
+      "size": 682044,
+      "sha256": "289b67730e6cef3581d85f3d7fdb7777986d175486a52af3f816a4df9a642831"
+    },
+    {
+      "path": "cached/bgx/files/lib/.gitkeep",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/ADCSeries.dll",
+      "size": 1330236,
+      "sha256": "304a6c55b38dfdc27bed91b8a30ee1321e75df9fccf1b2f758b9e02495950cd0"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/BGX.dll",
+      "size": 2986556,
+      "sha256": "ec281bd4f5509c42689eec4d73abfea35336e9fbdc94bccbcdec548651e595e7"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/BGXEvade.dll",
+      "size": 1196604,
+      "sha256": "c95877c3e02a30e0f11ebbc33087a11dbe802c457aa123c149c12bc73eb49538"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/BlackOutAIO.dll",
+      "size": 6446140,
+      "sha256": "e5889e57471f2247c9a87f2983396e5d3ac5addf264113f25c87d6622106b8a7"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/BlackOutActivator.dll",
+      "size": 2153020,
+      "sha256": "694dbb1dab2020bcaf1c0bb7da8222bd1fd3c52f5d6c7cf185d96d581fea83f3"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/CSXAIO.dll",
+      "size": 4729404,
+      "sha256": "fcee9f0d568d01b1760fc14db6536989efb2ad70689a93aa33f434265ad5ddf9"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/DynastyOrbwalker.dll",
+      "size": 740924,
+      "sha256": "b38b94c391a143b2b3f418275e7bb6357f72f8650991004aaab828a5805435c2"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/FerrisUtilities.dll",
+      "size": 6198844,
+      "sha256": "15d837fa447522379ae7c6aff8517cabbb3a02f42ea53e41382a9c54c3077304"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/KiriAIO.dll",
+      "size": 5252668,
+      "sha256": "a190222975402f6ec07a6f3f6b750d30f7d4816378126a7fdcc3cdcb73eebad7"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/L9AIO.dll",
+      "size": 4730940,
+      "sha256": "3c36d4b91b8e636aaec959f462759316cb1b5ba689b30c9c8b73a26f2bea1b36"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/Luna-Orb.dll",
+      "size": 1038396,
+      "sha256": "aecbee0c02276a1eb5f1f323d824c53b9fb2f16c64e2d50289f801b20b053046"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/Luna-TS.dll",
+      "size": 617020,
+      "sha256": "76856e89ac60cd29ddb446660984b5de20d2f5abd51daa3be5bf5dc31bd2888e"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/LunaAIO.dll",
+      "size": 10813500,
+      "sha256": "2f377992040c9084e858a5bcb89293fa8f96566af909dde22bd7588aab68b5c7"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/LunaUtility.dll",
+      "size": 4277820,
+      "sha256": "0ce86f1f2e74f5f90592eaeeec486d8259b02646c3c734374d6c02030db15004"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/OpenSeries.dll",
+      "size": 595004,
+      "sha256": "675bef6f9501d4b6b617c3e7ff2bd972587fddf89e051254cf3900a185d1f40e"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/OpenUtilities.dll",
+      "size": 383036,
+      "sha256": "daa0764fc136416c4e4ded7269fadf584825b3ec0bae1920d6489c122a667602"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/RTXPOWER.dll",
+      "size": 3581500,
+      "sha256": "9f6ce345a3cfdca3f8ebc58fd531ad8775b1951a787d419913b233b3bc60148e"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/ShadowAIO.dll",
+      "size": 4085308,
+      "sha256": "a7fb0b24bfa78835b906282955195fa23be5c6980e1b5330cce81fa076a75a69"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/ShadowTargetSelector.dll",
+      "size": 276028,
+      "sha256": "e9d749abda00593a93f961b2d760903acabfdef853d0173eca0f50c2e77b4296"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/Utility.dll",
+      "size": 943676,
+      "sha256": "30e923338c7fc62cf32a128db25e1660f52efc2832ae63ea555638be5a0d6088"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/YuumiBot.dll",
+      "size": 662588,
+      "sha256": "44e315f60ebd8b7d657e768c4495d82f4a6de8f0d7ed1a997feae9df7be916eb"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/ZiraPack.dll",
+      "size": 2899516,
+      "sha256": "79b72ec6fe7b8fc188d577cc7873ccbe4da4e0344cd6a59594c3bb4bd4a2019e"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/core_plugin.dll",
+      "size": 682044,
+      "sha256": "289b67730e6cef3581d85f3d7fdb7777986d175486a52af3f816a4df9a642831"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/xSaliceAIO.dll",
+      "size": 1014332,
+      "sha256": "e43526bcd8010fe39ea8bc51d2c7073308fce173d18a2a3c02009df5e56dcd8b"
+    },
+    {
+      "path": "cached/bgx/files/plugins/x64/xSalicePrediction.dll",
+      "size": 526396,
+      "sha256": "171b40897b51d82982af2be410608d9c4c5a0161bd2fb8030982c2d0367df255"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/Bullseye.png",
+      "size": 16705,
+      "sha256": "765f19d908b32671b871aa04dbced982b4d43884e49b4068fe0983743f6b9655"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/Combo.png",
+      "size": 15099,
+      "sha256": "a5ddaf563eabbb48d732f1aa996b39452f8f480f7f89be5d8ff8a6ffec69b91b"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/Drawing.png",
+      "size": 13647,
+      "sha256": "bca11b1519938d7c332d9a42fd032a49dd221b10eff2422c3240ec45f4db6452"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/Flee.png",
+      "size": 10830,
+      "sha256": "aebbd1400060abcedf4df184013d43269c7b01d761425aa12c9a4504435782d0"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/Harass.png",
+      "size": 12946,
+      "sha256": "ebf2cbb4d37d6e92e390bf18f3b62838b12b82c83222603dbc21536ee3c33986"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/JungleClear.png",
+      "size": 8688,
+      "sha256": "e610e0578aedc400383c3e6c462835408085b7c15d9b16ea61f879028c16425f"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/KillSteal.png",
+      "size": 17884,
+      "sha256": "e89e196540b6dce4ebeee876f18933cef487c71a1b6c5e056974ebc834ffe2ea"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/LaneClear.png",
+      "size": 15971,
+      "sha256": "1b25c00b377c93b448fe9441b972a266d5e0c7697b2061e15f7fed0535160e04"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/Lantern.png",
+      "size": 17967,
+      "sha256": "4540f771b270b4b5372240d1139c8631a151a3b2182c3b26b3c6787a3c4a81a3"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/LastHit.png",
+      "size": 12334,
+      "sha256": "55cfb545aed41430163a407ae48bcac3788b8ffebf7eb3291fa137d1c5461903"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/ahri_menu.png",
+      "size": 19604,
+      "sha256": "770590dad5116d09c71eabbc64d0f6c42cc1a887b56e65b53b39be4c5ec77c64"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/belveth_circle.png",
+      "size": 19917,
+      "sha256": "89170777d54d0a556a80de7eee57561fc39a70f58c7489edacb5931e88b44145"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/belveth_passive.png",
+      "size": 6912,
+      "sha256": "f99d4b5a23667cdc773f9e888c0b6193c31e6a58317432aeb58c7e04d48e127a"
+    },
+    {
+      "path": "cached/bgx/files/resources/BlackOutAIO/blackout_activator.png",
+      "size": 1492,
+      "sha256": "79e0f7c3ab7b1427d1feaa23f101b019611474503f736457aac68ef9425058e8"
+    },
+    {
+      "path": "cached/bgx/files/resources/CSXAIO/CSXAIO.png",
+      "size": 8213,
+      "sha256": "ff5b670ff428e5e454b50ef29db910cdb47a67a6c6a2630dd1312dfb113a55d5"
+    },
+    {
+      "path": "cached/bgx/files/resources/Dynasty/dynasty.png",
+      "size": 8781,
+      "sha256": "fec909b485937cc86841b3ed9d59bbeac53c8672337ebd3a778bf4eb49565725"
+    },
+    {
+      "path": "cached/bgx/files/resources/EllieAIO/indicators_menu.png",
+      "size": 9205,
+      "sha256": "ec363c162f67ac1eadd6603cbf86dde3fa13603bc7e924a8f483a6ab516fa89b"
+    },
+    {
+      "path": "cached/bgx/files/resources/EllieAIO/indicators_sizes.png",
+      "size": 2459,
+      "sha256": "5694d7620529214b7640b2232c00962ee3c597ea2413c56045c3bfff835d826c"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Hud.png",
+      "size": 390282,
+      "sha256": "3e924f0a157b94688b805f77f80810538f14c0bb1f3e53340cfbf8fd7b7b336d"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Icons/ArenaRank.png",
+      "size": 40263,
+      "sha256": "875c2d100f0f77c729a83e0a06802240107e5ee3dff663ce31b831d53ef48a16"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Icons/Augments.png",
+      "size": 602279,
+      "sha256": "9c4fbc824e074a8536a3c57f06bb5d8701a8bbc358653578e1653a6093224fcd"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Icons/CleanItem.png",
+      "size": 478524,
+      "sha256": "96189e9ea05f1c071734327671e74db27540c74bdd1c8b9c053290f0edd26cd2"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Icons/Generic.png",
+      "size": 56610,
+      "sha256": "6492941e9132816ba495241d26a91b6c216a03a174a13dab72f1976b743cdbfc"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Icons/Items.png",
+      "size": 869794,
+      "sha256": "57d7dc49f257907fe0b6d8bd0a20d7fbfe8e5942769ce6d0980b6e7980d8b994"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Icons/Menu.png",
+      "size": 10895,
+      "sha256": "284d9c1b0628a96c0c36c1d6fc33239a9d1b5b4edb2b93f057bd49465230c923"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Icons/Misc.png",
+      "size": 74455,
+      "sha256": "357b7bc7fb26388fc2b8f22a55759da95b71c785559a89283a44a567b8411a20"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Icons/Monsters.png",
+      "size": 414204,
+      "sha256": "ff163ea9b60ced037a8f30fb87395c3e8e726bf439a5fbf9e3fa126c16a60ddc"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Icons/RankIcons.png",
+      "size": 54977,
+      "sha256": "924862f0d7d19383e78f6afe94b73e4789d23ce210fd1bbbadabc26bc59fdf6d"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Icons/TFTAugments.png",
+      "size": 726737,
+      "sha256": "c74c9a1f87f10f89a8ecbd812dbc4b5c75987d27f1d1c3e86864975e4418058a"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Lang/Utilities/Chinese.lang",
+      "size": 182864,
+      "sha256": "4077f4ea05e43d56fa87308cf5e9d79335b1cf0dcd9cb988a6e3d51f5ff9f9fb"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Lang/Utilities/German.lang",
+      "size": 185759,
+      "sha256": "c26e029f0fd118b810b9a49cdbc9ca29e08561753fb52dc991a71889d12db7aa"
+    },
+    {
+      "path": "cached/bgx/files/resources/Ferris/Lang/Utilities/Portuguese.lang",
+      "size": 192379,
+      "sha256": "20aa4ce314d1ef9558d9a355302eefd99c005f3edf71b0bf5a636b8fe6614eee"
+    },
+    {
+      "path": "cached/bgx/files/resources/LotusAIO.png",
+      "size": 26036,
+      "sha256": "5cdc1008acaa55f5a19eb4afba800ca1da03c5565176a693a99ab25b0fb10a63"
+    },
+    {
+      "path": "cached/bgx/files/resources/bgx_banner.dds",
+      "size": 1398256,
+      "sha256": "924d892cfe9e09cf263b412f91393b8e2f09b3385613abb178df4d84fa0143ed"
+    },
+    {
+      "path": "cached/bgx/files/resources/bgx_banner2.dds",
+      "size": 1398256,
+      "sha256": "0ddd0152dbdb6579e76e7db307cc98996802c0b9f1377eb775d901d03e44af5f"
+    },
+    {
+      "path": "cached/bgx/files/resources/bgx_banner3.dds",
+      "size": 1398256,
+      "sha256": "879f7684cbf83a4acb40c25f59341b7ce84d47ae5067abc1c93505037191b7dc"
+    },
+    {
+      "path": "cached/bgx/files/resources/dead/im_sad.wav",
+      "size": 218800,
+      "sha256": "fc3661b4e13fbe72922206d6f2d1c447216d7a84202ae1503ed1fe0248807d86"
+    },
+    {
+      "path": "cached/bgx/files/resources/dead/need_more_pratice.wav",
+      "size": 228228,
+      "sha256": "28a5dfbba84a08df7fc1f7e57bc8745e64e851661b8d1ffa59e01ec713079621"
+    },
+    {
+      "path": "cached/bgx/files/resources/dead/never_giveup.wav",
+      "size": 155624,
+      "sha256": "3464c07e0fdaf836f560bbd3c391577a9ac05c4880e7af1e3ed9cf050907849c"
+    },
+    {
+      "path": "cached/bgx/files/resources/dead/next_time.wav",
+      "size": 232000,
+      "sha256": "cdcf26646a21906840435cb50c2321c71a1585f01a5936448a3271cc39e4b338"
+    },
+    {
+      "path": "cached/bgx/files/resources/dead/not_this_time.wav",
+      "size": 197112,
+      "sha256": "3d4e9326bd60e11416a9a7e92d1451fa7f6cec6a00effaabe9c50d6b0e8896ee"
+    },
+    {
+      "path": "cached/bgx/files/resources/dead/only_game_mad.wav",
+      "size": 544108,
+      "sha256": "a5c7c8a5f75d7a1e899e70f88b9c77b58ac5fea44467edbb2bc60eeac0933cde"
+    },
+    {
+      "path": "cached/bgx/files/resources/dead/you_almost.wav",
+      "size": 192396,
+      "sha256": "3b6806a39efccf3e2329fbd47f9f67f50524436097a45292d18bfdfd151141bb"
+    },
+    {
+      "path": "cached/bgx/files/resources/dead/you_can_more.wav",
+      "size": 172596,
+      "sha256": "063ab9b651193cac9d2a481389baea12d763ded58d968f1218584209f5da8bb0"
+    },
+    {
+      "path": "cached/bgx/files/resources/dead/you_disappointed.wav",
+      "size": 202768,
+      "sha256": "e796d315aa3a5ad52cd78bb55d4df23ec58602a04c92cb4ca547ed5366525eb9"
+    },
+    {
+      "path": "cached/bgx/files/resources/die.dds",
+      "size": 291728,
+      "sha256": "9f2c14fd0a3e573847445a25fed7492e6e8c8b7d1baeee6d47cf8382c85b5408"
+    },
+    {
+      "path": "cached/bgx/files/resources/double/amazing.wav",
+      "size": 167884,
+      "sha256": "7ef2d7329cc98154c5ca8e1f1add8f170395263b721fbd27fe5ca99189de8930"
+    },
+    {
+      "path": "cached/bgx/files/resources/double/dont_stop.wav",
+      "size": 296116,
+      "sha256": "e5080c6d2c40fa429a163e576376775a05818e7283f2677382c0588c932007ee"
+    },
+    {
+      "path": "cached/bgx/files/resources/double/good_job.wav",
+      "size": 152792,
+      "sha256": "f1ee27965f0b03b86a9acdd4b28336724540b38c224ed82f45dafa968824eb81"
+    },
+    {
+      "path": "cached/bgx/files/resources/double/show_more.wav",
+      "size": 144312,
+      "sha256": "9a8770d8758b12d3e62cc1c3dff8193963786c00f0997454b529083dd0379f27"
+    },
+    {
+      "path": "cached/bgx/files/resources/double/very_nice.wav",
+      "size": 218796,
+      "sha256": "a0549ffdd37326f713990d1e73a5c3c57a8cd668bd0dc00f710ff6ec5133d6ab"
+    },
+    {
+      "path": "cached/bgx/files/resources/double_kill.dds",
+      "size": 291728,
+      "sha256": "3da48daa48c3c5c6063de577525b49e49a48ab6d48c66625901a061dbb8c687c"
+    },
+    {
+      "path": "cached/bgx/files/resources/l9.dds",
+      "size": 262272,
+      "sha256": "be175eb04eeb88f04fd4fa8e1157e31cd0d05c0680f9a8d084717264c2921044"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_aio/colors.png",
+      "size": 2162,
+      "sha256": "4114f56d083cc03fbdb94f5cd74f090b100343f7c1f379598c4f8a73e5fe67d5"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_aio/main_icon.png",
+      "size": 1625,
+      "sha256": "6dbfad1562e80aead9180b32cab6b69747aaec893353042acb8562dc9b992d11"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_aio/sizes.png",
+      "size": 1986,
+      "sha256": "37bd2718528893671320a199fa203f316d1bdb37168836f9dd629bee116cc64d"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_aio/zeri_menu_icons.dds",
+      "size": 80128,
+      "sha256": "8bc022936293a4ba013d11ace36e65e34f9be08f45372ce2a56ccf91b90cf13f"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_orb/colors.png",
+      "size": 2162,
+      "sha256": "4114f56d083cc03fbdb94f5cd74f090b100343f7c1f379598c4f8a73e5fe67d5"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_orb/main_icon.png",
+      "size": 1625,
+      "sha256": "6dbfad1562e80aead9180b32cab6b69747aaec893353042acb8562dc9b992d11"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_orb/menu_icons.dds",
+      "size": 80128,
+      "sha256": "8bc022936293a4ba013d11ace36e65e34f9be08f45372ce2a56ccf91b90cf13f"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_orb/sizes.png",
+      "size": 1986,
+      "sha256": "37bd2718528893671320a199fa203f316d1bdb37168836f9dd629bee116cc64d"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_ts/colors.png",
+      "size": 2162,
+      "sha256": "4114f56d083cc03fbdb94f5cd74f090b100343f7c1f379598c4f8a73e5fe67d5"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_ts/main_icon.png",
+      "size": 1625,
+      "sha256": "6dbfad1562e80aead9180b32cab6b69747aaec893353042acb8562dc9b992d11"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_utils/colors.png",
+      "size": 2162,
+      "sha256": "4114f56d083cc03fbdb94f5cd74f090b100343f7c1f379598c4f8a73e5fe67d5"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_utils/main_icon.png",
+      "size": 1625,
+      "sha256": "6dbfad1562e80aead9180b32cab6b69747aaec893353042acb8562dc9b992d11"
+    },
+    {
+      "path": "cached/bgx/files/resources/luna_utils/ward.png",
+      "size": 913,
+      "sha256": "ba1cbb886465cd586af7c526964c50f3261156693d2546371bcb0cef496b2fd7"
+    },
+    {
+      "path": "cached/bgx/files/resources/penta/good_job_hero.wav",
+      "size": 441324,
+      "sha256": "c4bffa2e4bb591a756aa8231609949fbe32264feed3d1768cc80dd3b301fc714"
+    },
+    {
+      "path": "cached/bgx/files/resources/penta/master_wet.wav",
+      "size": 460812,
+      "sha256": "0a17fbba7e2ed9dd1b0e3f9e16635ab03fb27a63ff10849f90541293ab0cd0f0"
+    },
+    {
+      "path": "cached/bgx/files/resources/penta/wanna_waifu.wav",
+      "size": 275372,
+      "sha256": "6598708904f44408fad79080da435f2cd6409ca3e83261a3644ae6a0408153ae"
+    },
+    {
+      "path": "cached/bgx/files/resources/penta_kill.dds",
+      "size": 705728,
+      "sha256": "a807bb0b0ab17e1baef718b7757a2c404711ab0f35d3556c0185ef0c19596291"
+    },
+    {
+      "path": "cached/bgx/files/resources/quadra/charming.wav",
+      "size": 266888,
+      "sha256": "0351fed3f70f9a2c4d6abe4c66ae782211ac0ba4905f7e15ae699f743fdfb646"
+    },
+    {
+      "path": "cached/bgx/files/resources/quadra/one_left.wav",
+      "size": 154680,
+      "sha256": "265036cc1bea9c015580955c6cb406a59aa3b830fe9e212219da697a0e116c43"
+    },
+    {
+      "path": "cached/bgx/files/resources/quadra/you_god.wav",
+      "size": 226340,
+      "sha256": "939608a57c430c80eda5cee0d59b1c310888433f87080a98dc05bd04c24502c5"
+    },
+    {
+      "path": "cached/bgx/files/resources/quadra/you_me_so_good.wav",
+      "size": 317804,
+      "sha256": "89f09ebb5197739c9e210ba0ca8a07ec9c845d7fb91648ec8c352df09eae9f20"
+    },
+    {
+      "path": "cached/bgx/files/resources/quadra_kill.dds",
+      "size": 291728,
+      "sha256": "8772ce4073c59747363607b7e7f75c0a1703cc98a400451848d7f912fc8116b9"
+    },
+    {
+      "path": "cached/bgx/files/resources/shadow/box.png",
+      "size": 1870,
+      "sha256": "42ef35c731ec2f2b16e9e7b19d376ca7870d3a182f793368decda29c7f5fd4e1"
+    },
+    {
+      "path": "cached/bgx/files/resources/triple/half_down.wav",
+      "size": 298004,
+      "sha256": "3226c79d6f802f90cf213d11060b9c0038e6ea29f9145ff347fb7284fcc8dab4"
+    },
+    {
+      "path": "cached/bgx/files/resources/triple/it_was_clean.wav",
+      "size": 215968,
+      "sha256": "cbd125ec200a706482d2b37a39f3380223594680381af33321e4132525b18947"
+    },
+    {
+      "path": "cached/bgx/files/resources/triple/more_more.wav",
+      "size": 197112,
+      "sha256": "f402641b2b87c41719085728e955e1bb9c44384f48ced25695ed99ba75766146"
+    },
+    {
+      "path": "cached/bgx/files/resources/triple/more_please.wav",
+      "size": 171652,
+      "sha256": "0b3e68af12c11b8315af364f30d840c071539abdc3ecb1d6165eaff4ace4efde"
+    },
+    {
+      "path": "cached/bgx/files/resources/triple/you_best.wav",
+      "size": 168824,
+      "sha256": "320d4b412f1219b25007f9f2af016758a0c5461a38f537a9c23458f0128098ac"
+    },
+    {
+      "path": "cached/bgx/files/resources/triple_kill.dds",
+      "size": 291728,
+      "sha256": "5ae21a93835eb75698625b05a1c567e854570e444f06d0c1aa38e25b6142a8dd"
+    },
+    {
+      "path": "cached/bgx/scripts/checksum.js",
+      "size": 550,
+      "sha256": "893d49a13f17add879093e5b974e8ff34841536cfd86f09b67c964c8ece656c7"
+    },
+    {
+      "path": "cached/bgx/scripts/plugins.js",
+      "size": 5419,
+      "sha256": "2f38a2d21039393baa1d07f034282b2a081d9debb01c87dabdc08e09d4b13e81"
+    },
+    {
+      "path": "cached/checksums.json",
+      "size": 4926,
+      "sha256": "b03ce60fc199122306d73e245afb788f2cb929c3653c67278a57e16918727b9e"
+    },
+    {
+      "path": "cached/plugins.json",
+      "size": 41914,
+      "sha256": "8dd317aa22ddd7479ebad4a9b5f528fbd1e136921a499b0b3d54168683a9bb8f"
+    },
+    {
+      "path": "cached/plugins.sig",
+      "size": 89,
+      "sha256": "0e4519bae9c28624151c19f374977b7dc48f8417e0819de706cd3c3f1bbd7345"
+    },
+    {
+      "path": "cached/rtx/plugins/1v9-AIO.dll",
+      "size": 1281930,
+      "sha256": "0c554d8b30d6241433ba485f49b89c4203d5ea3c30153a399e06cf919a85ee12"
+    },
+    {
+      "path": "cached/rtx/plugins/AURORAAiO.dll",
+      "size": 695178,
+      "sha256": "64c41e6a5983e290e45218a85b676a230173c73990e06718161fb01fca3d7437"
+    },
+    {
+      "path": "cached/rtx/plugins/AiPredV2.dll",
+      "size": 8056414,
+      "sha256": "276a72624ee50ec27460e743f46f5453f448a7bd2c9adaff5508253f52f684f3"
+    },
+    {
+      "path": "cached/rtx/plugins/AiPrediction.dll",
+      "size": 25001521,
+      "sha256": "1b7e7c9da4e4b82f6dde8322b23f6b0175f8b5b0f31a8641b1e4b43c93f1bf86"
+    },
+    {
+      "path": "cached/rtx/plugins/AuroraEvade.dll",
+      "size": 3481101,
+      "sha256": "4a192d6cb187568eca0050eef623fa38fbb77b50ad2d2ed831b07f96220aef92"
+    },
+    {
+      "path": "cached/rtx/plugins/AuroraOrbwalker.dll",
+      "size": 380298,
+      "sha256": "8be3216eef83d2483b6db9e2b3812d0fa0dbcc0f4cbc93f5b32646132357362a"
+    },
+    {
+      "path": "cached/rtx/plugins/AuroraPrediction.dll",
+      "size": 377738,
+      "sha256": "cce897e3ff37fe9c0a4574da8059911b9f7a558da94614e33a52f2df36839805"
+    },
+    {
+      "path": "cached/rtx/plugins/BanthorsAIO.dll",
+      "size": 688522,
+      "sha256": "3d25cc4b2c226fab60408d74f4af98711358b54ebb737664251f58a8a8120029"
+    },
+    {
+      "path": "cached/rtx/plugins/BenAIO.dll",
+      "size": 509322,
+      "sha256": "53592d9e82aaf973b281e191cddc1a99e3f5745b4d774c9bbbd635be32bd7cdd"
+    },
+    {
+      "path": "cached/rtx/plugins/BlahajAIO.dll",
+      "size": 799626,
+      "sha256": "2299296a97c2ec036300493c0d77e1f93a9a5d6be4f0dc74b4739da8113c8d03"
+    },
+    {
+      "path": "cached/rtx/plugins/DivineSeries.dll",
+      "size": 325514,
+      "sha256": "6d2fb60ebfa0bd610827a9a9403f8329aed877e1aaa4212131411a10e4b2a4e8"
+    },
+    {
+      "path": "cached/rtx/plugins/DynastyOrb.dll",
+      "size": 480328,
+      "sha256": "00a73137bc5ef9e762c71a27e991f930e4340dce4ff59a6428ca9f1b2a74fddd"
+    },
+    {
+      "path": "cached/rtx/plugins/ElderAIO.dll",
+      "size": 374797,
+      "sha256": "91ba08de25cd7c44c3b1cd2f63af2d25cd4fda54e2d5eb2c1a2186c748547dcb"
+    },
+    {
+      "path": "cached/rtx/plugins/ElliesAIO.dll",
+      "size": 9698855,
+      "sha256": "cd642b98d946cfce25e7f0d4b6f9b496a79b90323bb0b1294872c10174dc2be2"
+    },
+    {
+      "path": "cached/rtx/plugins/EuphoriaAIO.dll",
+      "size": 2430858,
+      "sha256": "9f731d0fdc8378701d28766a74c2cc3058108704fbabcd29681ebb3744a59762"
+    },
+    {
+      "path": "cached/rtx/plugins/Excalibur.dll",
+      "size": 1203594,
+      "sha256": "f147c68c05871aed026fb3c08b7190cc2a94d4abaedf1c038d9e87779decef08"
+    },
+    {
+      "path": "cached/rtx/plugins/HabibiAIO.dll",
+      "size": 328224,
+      "sha256": "a73153566142a201aa31e2a20553a70bea4cffe6d2849d75c5ff19646a776b7d"
+    },
+    {
+      "path": "cached/rtx/plugins/IcarusAIO.dll",
+      "size": 390026,
+      "sha256": "d6fda5f9493c3f75c6b5019d6c7b44dbebc8a6b164b30a94bc7e2abeb786e5d1"
+    },
+    {
+      "path": "cached/rtx/plugins/ImpulsePrediction.dll",
+      "size": 399807,
+      "sha256": "9a242b1eb50418ed50b129265041270a81a3d3f0b5ae9205ed30ee070c243968"
+    },
+    {
+      "path": "cached/rtx/plugins/Invisible_Recall.dll",
+      "size": 205840,
+      "sha256": "5fdafcb5706ae3c7f42fb8343f1e0d1d2b3e37ad0785d9dd7b625f7556aa082b"
+    },
+    {
+      "path": "cached/rtx/plugins/KaparovKindred.dll",
+      "size": 280080,
+      "sha256": "3ed73659d161ffb28df7e7c7432119da2f8dfbd29bfb5256def57b6deabc4e60"
+    },
+    {
+      "path": "cached/rtx/plugins/KissMyAIO.dll",
+      "size": 461706,
+      "sha256": "6da6e2423b9f16aa28376f1ea9a21aa6414dffe009b7c83a2716a60a1db68682"
+    },
+    {
+      "path": "cached/rtx/plugins/Klee-TS.dll",
+      "size": 602637,
+      "sha256": "9f4ac8f72bbe424beb74feef2ba3342c30e8cc3a8dacdeec6f16eccf3e31509d"
+    },
+    {
+      "path": "cached/rtx/plugins/KleeAIO.dll",
+      "size": 9697319,
+      "sha256": "40892c5f34158db5c2117f14bcdc40ca603e1ef5586efcafe000e75caff0f1ac"
+    },
+    {
+      "path": "cached/rtx/plugins/KleeUtility.dll",
+      "size": 4168743,
+      "sha256": "168315e7f28eb4ef609b89ceaf0bc5a90ebeefe6469a742b138b91681e1395c0"
+    },
+    {
+      "path": "cached/rtx/plugins/L9Utility.dll",
+      "size": 584074,
+      "sha256": "3331c107fb288512ce9bb5eac519923304697ae1da6e5441dc8ad0825acb02ac"
+    },
+    {
+      "path": "cached/rtx/plugins/LeaguesharpAIO.dll",
+      "size": 3575900,
+      "sha256": "7e9c32e14daabe32406be268aa4291113946ac2b8e737034b924e3083c53e4e4"
+    },
+    {
+      "path": "cached/rtx/plugins/LordsPred.dll",
+      "size": 525759,
+      "sha256": "8214ebb5e184e202115a3162b0a87a8cb4225bf7dff57b01c97972323b6a89dc"
+    },
+    {
+      "path": "cached/rtx/plugins/LotusAIO.dll",
+      "size": 1037899,
+      "sha256": "4c3278523adc3118e1f4668566362273166de195de77a2ed4c635db8bb07e7ca"
+    },
+    {
+      "path": "cached/rtx/plugins/Marksman.dll",
+      "size": 1750544,
+      "sha256": "55e83e4b4538cfc6ab6a0a2c7a031c32520a6a5cb16a5950a00032fcf256a3f3"
+    },
+    {
+      "path": "cached/rtx/plugins/MidlaneCarry.dll",
+      "size": 667152,
+      "sha256": "6ae5395203fd10926c9373baf1db8b3cd3fe5d7989444f9ecf330399550f2cb2"
+    },
+    {
+      "path": "cached/rtx/plugins/OHAIO.dll",
+      "size": 422794,
+      "sha256": "96ae6394e498a5c2e2dad91365cb7116fc38b5e44e688de81b0cc9b8d4596c6b"
+    },
+    {
+      "path": "cached/rtx/plugins/PentaAIO.dll",
+      "size": 588170,
+      "sha256": "3d6b918f8170d515385294ad1383b63d53a6b365ca6f1a37ff24c0961062682f"
+    },
+    {
+      "path": "cached/rtx/plugins/RTXMel.dll",
+      "size": 214544,
+      "sha256": "3edf803830649a65251f6b8a219d875a15f1d7838be6df74403f3d3b9b6a8599"
+    },
+    {
+      "path": "cached/rtx/plugins/RageAIO.dll",
+      "size": 426378,
+      "sha256": "5dd03469280e02786ea111497d6330814a59c239ca779fa0aa3ae1ef7a59b60e"
+    },
+    {
+      "path": "cached/rtx/plugins/SebasBGX.dll",
+      "size": 1825162,
+      "sha256": "469256c219add51f0d7bad3aca32ca4e36c62e59373cd4df7658c3329041972f"
+    },
+    {
+      "path": "cached/rtx/plugins/SebasPrediction.dll",
+      "size": 321930,
+      "sha256": "b4455e405a6370d2dc7f2f839a4fd8db499813632607456aa20734129ee77eab"
+    },
+    {
+      "path": "cached/rtx/plugins/ShadowExploit.dll",
+      "size": 202768,
+      "sha256": "77ca5d72cc419929524965fa6b89bfb9d238226ef52c24a305ef9abe2ad59865"
+    },
+    {
+      "path": "cached/rtx/plugins/SkinwalkerAIO.dll",
+      "size": 3432464,
+      "sha256": "7293d538b4e7fc8d3e60e35b51efcfc94e5d2ea827a80b9a0c1c819390c9a7e2"
+    },
+    {
+      "path": "cached/rtx/plugins/SmartPings.dll",
+      "size": 188944,
+      "sha256": "c4de1e4db96d40f0c5fa588e995e9fc5b7a681c721e514d2f032efbfe3638084"
+    },
+    {
+      "path": "cached/rtx/plugins/TaiwanAIO.dll",
+      "size": 312848,
+      "sha256": "51d0301f4157b3c6fb9de7e6c08523d09e458d078a69a82a2814b3fa3f516994"
+    },
+    {
+      "path": "cached/rtx/plugins/TrentAIO.dll",
+      "size": 853024,
+      "sha256": "9ab8e75192736600af8e25f6f1993e386a16eadc32e720419e3dbb5fea69e4dd"
+    },
+    {
+      "path": "cached/rtx/plugins/TrueDamageAIO.dll",
+      "size": 326688,
+      "sha256": "0c2c650cc2a0e8843355d4836e70626ad9b1228d29bcab745b03104cac3895ca"
+    },
+    {
+      "path": "cached/rtx/plugins/YordleAIO.dll",
+      "size": 358944,
+      "sha256": "94cb69324759db31ab34afa7f14af781b0a7e8874fa333dfb499079c4fd739aa"
+    },
+    {
+      "path": "cached/rtx/plugins/ZumOkroa.dll",
+      "size": 453136,
+      "sha256": "5a44a84093100ccc3594b8d47ca9a25374f49796f4aba4a522b93cff26beab22"
+    },
+    {
+      "path": "cached/rtx/plugins/Zumzum.dll",
+      "size": 172048,
+      "sha256": "49c158beb311fe226ef932992c7b590e335780cb5d1ba127564d615ad64b6390"
+    },
+    {
+      "path": "cached/rtx/plugins/ZzihaoAIO.dll",
+      "size": 1290332,
+      "sha256": "b6dff0cb000756f09e304dee1882286e4ca4ab673f409f9f6a3426162937f3c3"
+    },
+    {
+      "path": "cached/rtx/plugins/entropy-aio.dll",
+      "size": 534905,
+      "sha256": "beee559d736c3d6cd5dc659b27e219facddf5dd3c95fde7dbe6081c988a3fd55"
+    },
+    {
+      "path": "cached/rtx/plugins/relaxAIO.dll",
+      "size": 1942410,
+      "sha256": "ac2cea1b6ef7219c1458118771f89fcc308e578deeb5879051dcd2e1b745d6bf"
+    },
+    {
+      "path": "cached/rtx/plugins/solaceOrb.dll",
+      "size": 254858,
+      "sha256": "35b3cc6a353819fc29b8e91843536307202d6b44acac7e7ca24e68446a321a0d"
+    },
+    {
+      "path": "cached/rtx/plugins/xDreammsAIO.dll",
+      "size": 2369602,
+      "sha256": "330827dc1319606cd20d3168d058563a624a4d37c7504eef096f97d343d3b1d5"
+    },
+    {
+      "path": "cached/rtx/plugins/xDreammsUtility.dll",
+      "size": 2279490,
+      "sha256": "8489263e41be5a5841b2d33c72afa40ad4866242b25be01c4d0aa991d71dd6b4"
+    },
+    {
+      "path": "cached/rtx/plugins/xKittyAIO.dll",
+      "size": 364938,
+      "sha256": "a5d2ac8fe88ad464ea229eb8d7442c061c9cf17de0c6dba932d2de1bf63cc3b6"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/Bullseye.png",
+      "size": 16705,
+      "sha256": "765f19d908b32671b871aa04dbced982b4d43884e49b4068fe0983743f6b9655"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/Combo.png",
+      "size": 15099,
+      "sha256": "a5ddaf563eabbb48d732f1aa996b39452f8f480f7f89be5d8ff8a6ffec69b91b"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/Drawing.png",
+      "size": 13647,
+      "sha256": "bca11b1519938d7c332d9a42fd032a49dd221b10eff2422c3240ec45f4db6452"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/Flee.png",
+      "size": 10830,
+      "sha256": "aebbd1400060abcedf4df184013d43269c7b01d761425aa12c9a4504435782d0"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/Harass.png",
+      "size": 12946,
+      "sha256": "ebf2cbb4d37d6e92e390bf18f3b62838b12b82c83222603dbc21536ee3c33986"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/JungleClear.png",
+      "size": 8688,
+      "sha256": "e610e0578aedc400383c3e6c462835408085b7c15d9b16ea61f879028c16425f"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/KillSteal.png",
+      "size": 17884,
+      "sha256": "e89e196540b6dce4ebeee876f18933cef487c71a1b6c5e056974ebc834ffe2ea"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/LaneClear.png",
+      "size": 15971,
+      "sha256": "1b25c00b377c93b448fe9441b972a266d5e0c7697b2061e15f7fed0535160e04"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/Lantern.png",
+      "size": 17967,
+      "sha256": "4540f771b270b4b5372240d1139c8631a151a3b2182c3b26b3c6787a3c4a81a3"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/LastHit.png",
+      "size": 12334,
+      "sha256": "55cfb545aed41430163a407ae48bcac3788b8ffebf7eb3291fa137d1c5461903"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/ahri_menu.png",
+      "size": 19604,
+      "sha256": "770590dad5116d09c71eabbc64d0f6c42cc1a887b56e65b53b39be4c5ec77c64"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/belveth_circle.png",
+      "size": 19917,
+      "sha256": "89170777d54d0a556a80de7eee57561fc39a70f58c7489edacb5931e88b44145"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/belveth_passive.png",
+      "size": 6912,
+      "sha256": "f99d4b5a23667cdc773f9e888c0b6193c31e6a58317432aeb58c7e04d48e127a"
+    },
+    {
+      "path": "cached/rtx/resources/BlackOutAIO/blackout_activator.png",
+      "size": 1492,
+      "sha256": "79e0f7c3ab7b1427d1feaa23f101b019611474503f736457aac68ef9425058e8"
+    },
+    {
+      "path": "cached/rtx/resources/CSXAIO/CSXAIO.png",
+      "size": 8213,
+      "sha256": "ff5b670ff428e5e454b50ef29db910cdb47a67a6c6a2630dd1312dfb113a55d5"
+    },
+    {
+      "path": "cached/rtx/resources/Dynasty/dynasty.png",
+      "size": 8781,
+      "sha256": "fec909b485937cc86841b3ed9d59bbeac53c8672337ebd3a778bf4eb49565725"
+    },
+    {
+      "path": "cached/rtx/resources/EllieAIO/indicators_menu.png",
+      "size": 9205,
+      "sha256": "ec363c162f67ac1eadd6603cbf86dde3fa13603bc7e924a8f483a6ab516fa89b"
+    },
+    {
+      "path": "cached/rtx/resources/EllieAIO/indicators_sizes.png",
+      "size": 2459,
+      "sha256": "5694d7620529214b7640b2232c00962ee3c597ea2413c56045c3bfff835d826c"
+    },
+    {
+      "path": "cached/rtx/resources/Ferris/Hud.png",
+      "size": 390282,
+      "sha256": "3e924f0a157b94688b805f77f80810538f14c0bb1f3e53340cfbf8fd7b7b336d"
+    },
+    {
+      "path": "cached/rtx/resources/Ferris/Icons/ArenaRank.png",
+      "size": 40263,
+      "sha256": "875c2d100f0f77c729a83e0a06802240107e5ee3dff663ce31b831d53ef48a16"
+    },
+    {
+      "path": "cached/rtx/resources/Ferris/Icons/Augments.png",
+      "size": 602279,
+      "sha256": "9c4fbc824e074a8536a3c57f06bb5d8701a8bbc358653578e1653a6093224fcd"
+    },
+    {
+      "path": "cached/rtx/resources/Ferris/Icons/CleanItem.png",
+      "size": 478524,
+      "sha256": "96189e9ea05f1c071734327671e74db27540c74bdd1c8b9c053290f0edd26cd2"
+    },
+    {
+      "path": "cached/rtx/resources/Ferris/Icons/Generic.png",
+      "size": 56610,
+      "sha256": "6492941e9132816ba495241d26a91b6c216a03a174a13dab72f1976b743cdbfc"
+    },
+    {
+      "path": "cached/rtx/resources/Ferris/Icons/Items.png",
+      "size": 869794,
+      "sha256": "57d7dc49f257907fe0b6d8bd0a20d7fbfe8e5942769ce6d0980b6e7980d8b994"
+    },
+    {
+      "path": "cached/rtx/resources/Ferris/Icons/Menu.png",
+      "size": 10895,
+      "sha256": "284d9c1b0628a96c0c36c1d6fc33239a9d1b5b4edb2b93f057bd49465230c923"
+    },
+    {
+      "path": "cached/rtx/resources/Ferris/Icons/Misc.png",
+      "size": 74455,
+      "sha256": "357b7bc7fb26388fc2b8f22a55759da95b71c785559a89283a44a567b8411a20"
+    },
+    {
+      "path": "cached/rtx/resources/Ferris/Icons/Monsters.png",
+      "size": 414204,
+      "sha256": "ff163ea9b60ced037a8f30fb87395c3e8e726bf439a5fbf9e3fa126c16a60ddc"
+    },
+    {
+      "path": "cached/rtx/resources/Ferris/Icons/RankIcons.png",
+      "size": 54977,
+      "sha256": "924862f0d7d19383e78f6afe94b73e4789d23ce210fd1bbbadabc26bc59fdf6d"
+    },
+    {
+      "path": "cached/rtx/resources/Ferris/Icons/TFTAugments.png",
+      "size": 726737,
+      "sha256": "c74c9a1f87f10f89a8ecbd812dbc4b5c75987d27f1d1c3e86864975e4418058a"
+    },
+    {
+      "path": "cached/rtx/resources/Icons/ArenaRank.png",
+      "size": 40263,
+      "sha256": "875c2d100f0f77c729a83e0a06802240107e5ee3dff663ce31b831d53ef48a16"
+    },
+    {
+      "path": "cached/rtx/resources/Icons/Augments.png",
+      "size": 602279,
+      "sha256": "9c4fbc824e074a8536a3c57f06bb5d8701a8bbc358653578e1653a6093224fcd"
+    },
+    {
+      "path": "cached/rtx/resources/Icons/CleanItem.png",
+      "size": 478524,
+      "sha256": "96189e9ea05f1c071734327671e74db27540c74bdd1c8b9c053290f0edd26cd2"
+    },
+    {
+      "path": "cached/rtx/resources/Icons/Generic.png",
+      "size": 56610,
+      "sha256": "6492941e9132816ba495241d26a91b6c216a03a174a13dab72f1976b743cdbfc"
+    },
+    {
+      "path": "cached/rtx/resources/Icons/Items.png",
+      "size": 869794,
+      "sha256": "57d7dc49f257907fe0b6d8bd0a20d7fbfe8e5942769ce6d0980b6e7980d8b994"
+    },
+    {
+      "path": "cached/rtx/resources/Icons/Menu.png",
+      "size": 10895,
+      "sha256": "284d9c1b0628a96c0c36c1d6fc33239a9d1b5b4edb2b93f057bd49465230c923"
+    },
+    {
+      "path": "cached/rtx/resources/Icons/Misc.png",
+      "size": 74455,
+      "sha256": "357b7bc7fb26388fc2b8f22a55759da95b71c785559a89283a44a567b8411a20"
+    },
+    {
+      "path": "cached/rtx/resources/Icons/Monsters.png",
+      "size": 414204,
+      "sha256": "ff163ea9b60ced037a8f30fb87395c3e8e726bf439a5fbf9e3fa126c16a60ddc"
+    },
+    {
+      "path": "cached/rtx/resources/Icons/RankIcons.png",
+      "size": 54977,
+      "sha256": "924862f0d7d19383e78f6afe94b73e4789d23ce210fd1bbbadabc26bc59fdf6d"
+    },
+    {
+      "path": "cached/rtx/resources/Icons/TFTAugments.png",
+      "size": 726737,
+      "sha256": "c74c9a1f87f10f89a8ecbd812dbc4b5c75987d27f1d1c3e86864975e4418058a"
+    },
+    {
+      "path": "cached/rtx/resources/Klee/Cleanse.png",
+      "size": 8774,
+      "sha256": "a49ada86af72747f23092eb36e5cdad12a69609015c11a727ff5e065a758ab0a"
+    },
+    {
+      "path": "cached/rtx/resources/Klee/Recall.png",
+      "size": 8774,
+      "sha256": "a49ada86af72747f23092eb36e5cdad12a69609015c11a727ff5e065a758ab0a"
+    },
+    {
+      "path": "cached/rtx/resources/Klee/gargoyle_stoneplate.png",
+      "size": 9866,
+      "sha256": "a3120040921078d4ee9ba5389bd57da9df25304f9dfa72f7e8e459e68c2e53e4"
+    },
+    {
+      "path": "cached/rtx/resources/Klee/goredrinker.png",
+      "size": 10214,
+      "sha256": "258cd8a1b4417c18d7f58435240d3b107ebab8e37b9bbe18e90c469c104cb54c"
+    },
+    {
+      "path": "cached/rtx/resources/Klee/kaisa_e.png",
+      "size": 10605,
+      "sha256": "57b277e669d6f4dc12f76c9cfda116afebc4e5f43597034092329796ffcf362d"
+    },
+    {
+      "path": "cached/rtx/resources/Klee/kaisa_e_evolved.png",
+      "size": 8987,
+      "sha256": "ca8d727d924be3d2c3c7eb86ab58e27b29e322f246492f602ff4a408ee7b8e4f"
+    },
+    {
+      "path": "cached/rtx/resources/Klee/klee.png",
+      "size": 19568,
+      "sha256": "0f9917adff76da7b47173963b481689071e57030957c5224ecd322faa9cf3b18"
+    },
+    {
+      "path": "cached/rtx/resources/Klee/smite.png",
+      "size": 8935,
+      "sha256": "14c2e216f699242adcfb346c7ed5a9e9ad94f717264113d085219b43a78122e3"
+    },
+    {
+      "path": "cached/rtx/resources/LotusAIO.png",
+      "size": 26036,
+      "sha256": "5cdc1008acaa55f5a19eb4afba800ca1da03c5565176a693a99ab25b0fb10a63"
+    },
+    {
+      "path": "cached/rtx/resources/NotoSansCJKtc-Bold.ttf",
+      "size": 18052048,
+      "sha256": "b87c1ef7cf0ccaaeec6bc0d279c14d0abbd83619509800cd7f5119b323ec23d6"
+    },
+    {
+      "path": "cached/rtx/resources/WafendAIO/dropdown_icon_permashow.png",
+      "size": 6619,
+      "sha256": "e1df11a6eb17043b27c8120dbf766ec96a1ddb957c519b8a96ebd5790b9da0d8"
+    },
+    {
+      "path": "cached/rtx/resources/WafendAIO/dropup_icon_permashow.png",
+      "size": 5832,
+      "sha256": "81bb7188a2e23060c420a94611160e31eb36c2d3e87c464bded6b1144bd09d78"
+    },
+    {
+      "path": "cached/rtx/resources/aurora.png",
+      "size": 13747,
+      "sha256": "79536f85c68ba4d0f36cc50e2378650ebdb4e9b978d8739c1da8f36193fc954a"
+    },
+    {
+      "path": "cached/rtx/resources/dead/im_sad.wav",
+      "size": 218800,
+      "sha256": "fc3661b4e13fbe72922206d6f2d1c447216d7a84202ae1503ed1fe0248807d86"
+    },
+    {
+      "path": "cached/rtx/resources/dead/need_more_pratice.wav",
+      "size": 228228,
+      "sha256": "28a5dfbba84a08df7fc1f7e57bc8745e64e851661b8d1ffa59e01ec713079621"
+    },
+    {
+      "path": "cached/rtx/resources/dead/never_giveup.wav",
+      "size": 155624,
+      "sha256": "3464c07e0fdaf836f560bbd3c391577a9ac05c4880e7af1e3ed9cf050907849c"
+    },
+    {
+      "path": "cached/rtx/resources/dead/next_time.wav",
+      "size": 232000,
+      "sha256": "cdcf26646a21906840435cb50c2321c71a1585f01a5936448a3271cc39e4b338"
+    },
+    {
+      "path": "cached/rtx/resources/dead/not_this_time.wav",
+      "size": 197112,
+      "sha256": "3d4e9326bd60e11416a9a7e92d1451fa7f6cec6a00effaabe9c50d6b0e8896ee"
+    },
+    {
+      "path": "cached/rtx/resources/dead/only_game_mad.wav",
+      "size": 544108,
+      "sha256": "a5c7c8a5f75d7a1e899e70f88b9c77b58ac5fea44467edbb2bc60eeac0933cde"
+    },
+    {
+      "path": "cached/rtx/resources/dead/you_almost.wav",
+      "size": 192396,
+      "sha256": "3b6806a39efccf3e2329fbd47f9f67f50524436097a45292d18bfdfd151141bb"
+    },
+    {
+      "path": "cached/rtx/resources/dead/you_can_more.wav",
+      "size": 172596,
+      "sha256": "063ab9b651193cac9d2a481389baea12d763ded58d968f1218584209f5da8bb0"
+    },
+    {
+      "path": "cached/rtx/resources/dead/you_disappointed.wav",
+      "size": 202768,
+      "sha256": "e796d315aa3a5ad52cd78bb55d4df23ec58602a04c92cb4ca547ed5366525eb9"
+    },
+    {
+      "path": "cached/rtx/resources/die.dds",
+      "size": 176099,
+      "sha256": "b14d824d8161f69d5585f192be0591fd5b77b471c3e30802eeeb9da3d8f305b2"
+    },
+    {
+      "path": "cached/rtx/resources/double/amazing.wav",
+      "size": 167884,
+      "sha256": "7ef2d7329cc98154c5ca8e1f1add8f170395263b721fbd27fe5ca99189de8930"
+    },
+    {
+      "path": "cached/rtx/resources/double/dont_stop.wav",
+      "size": 296116,
+      "sha256": "e5080c6d2c40fa429a163e576376775a05818e7283f2677382c0588c932007ee"
+    },
+    {
+      "path": "cached/rtx/resources/double/good_job.wav",
+      "size": 152792,
+      "sha256": "f1ee27965f0b03b86a9acdd4b28336724540b38c224ed82f45dafa968824eb81"
+    },
+    {
+      "path": "cached/rtx/resources/double/show_more.wav",
+      "size": 144312,
+      "sha256": "9a8770d8758b12d3e62cc1c3dff8193963786c00f0997454b529083dd0379f27"
+    },
+    {
+      "path": "cached/rtx/resources/double/very_nice.wav",
+      "size": 218796,
+      "sha256": "a0549ffdd37326f713990d1e73a5c3c57a8cd668bd0dc00f710ff6ec5133d6ab"
+    },
+    {
+      "path": "cached/rtx/resources/double_kill.dds",
+      "size": 224406,
+      "sha256": "23d9498c43ffb8fa4daf59837ff4605d14e8dd3b18c83f00134698e91667f2f3"
+    },
+    {
+      "path": "cached/rtx/resources/l9.dds",
+      "size": 44167,
+      "sha256": "b03190942de7a6df80ea8627f038d0aa276c0a79b001b7682a523e4c4839e341"
+    },
+    {
+      "path": "cached/rtx/resources/penta/good_job_hero.wav",
+      "size": 441324,
+      "sha256": "c4bffa2e4bb591a756aa8231609949fbe32264feed3d1768cc80dd3b301fc714"
+    },
+    {
+      "path": "cached/rtx/resources/penta/master_wet.wav",
+      "size": 460812,
+      "sha256": "0a17fbba7e2ed9dd1b0e3f9e16635ab03fb27a63ff10849f90541293ab0cd0f0"
+    },
+    {
+      "path": "cached/rtx/resources/penta/wanna_waifu.wav",
+      "size": 275372,
+      "sha256": "6598708904f44408fad79080da435f2cd6409ca3e83261a3644ae6a0408153ae"
+    },
+    {
+      "path": "cached/rtx/resources/penta_kill.dds",
+      "size": 535855,
+      "sha256": "88b1ef42b3c818af2a03bcdbd184576b02e90a63296b040ee61acaa74140112b"
+    },
+    {
+      "path": "cached/rtx/resources/quadra/charming.wav",
+      "size": 266888,
+      "sha256": "0351fed3f70f9a2c4d6abe4c66ae782211ac0ba4905f7e15ae699f743fdfb646"
+    },
+    {
+      "path": "cached/rtx/resources/quadra/one_left.wav",
+      "size": 154680,
+      "sha256": "265036cc1bea9c015580955c6cb406a59aa3b830fe9e212219da697a0e116c43"
+    },
+    {
+      "path": "cached/rtx/resources/quadra/you_god.wav",
+      "size": 226340,
+      "sha256": "939608a57c430c80eda5cee0d59b1c310888433f87080a98dc05bd04c24502c5"
+    },
+    {
+      "path": "cached/rtx/resources/quadra/you_me_so_good.wav",
+      "size": 317804,
+      "sha256": "89f09ebb5197739c9e210ba0ca8a07ec9c845d7fb91648ec8c352df09eae9f20"
+    },
+    {
+      "path": "cached/rtx/resources/quadra_kill.dds",
+      "size": 212071,
+      "sha256": "832584011458ba28ffb2967328840908cfe6cdfb01035afc1d4f3e029058885e"
+    },
+    {
+      "path": "cached/rtx/resources/resourcelist.json",
+      "size": 7798,
+      "sha256": "44a9828bfdd042a9ac7217a0eee21988641f710037636109734092b750ca7bb0"
+    },
+    {
+      "path": "cached/rtx/resources/shadow/box.png",
+      "size": 8781,
+      "sha256": "fec909b485937cc86841b3ed9d59bbeac53c8672337ebd3a778bf4eb49565725"
+    },
+    {
+      "path": "cached/rtx/resources/triple/half_down.wav",
+      "size": 298004,
+      "sha256": "3226c79d6f802f90cf213d11060b9c0038e6ea29f9145ff347fb7284fcc8dab4"
+    },
+    {
+      "path": "cached/rtx/resources/triple/it_was_clean.wav",
+      "size": 215968,
+      "sha256": "cbd125ec200a706482d2b37a39f3380223594680381af33321e4132525b18947"
+    },
+    {
+      "path": "cached/rtx/resources/triple/more_more.wav",
+      "size": 197112,
+      "sha256": "f402641b2b87c41719085728e955e1bb9c44384f48ced25695ed99ba75766146"
+    },
+    {
+      "path": "cached/rtx/resources/triple/more_please.wav",
+      "size": 171652,
+      "sha256": "0b3e68af12c11b8315af364f30d840c071539abdc3ecb1d6165eaff4ace4efde"
+    },
+    {
+      "path": "cached/rtx/resources/triple/you_best.wav",
+      "size": 168824,
+      "sha256": "320d4b412f1219b25007f9f2af016758a0c5461a38f537a9c23458f0128098ac"
+    },
+    {
+      "path": "cached/rtx/resources/triple_kill.dds",
+      "size": 180938,
+      "sha256": "ced4bdbd5f53217e3dfa7a69ce9bcf3a6d8ce5a931668cdfdeb67e893b68317a"
+    },
+    {
+      "path": "tier3/.gitkeep",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}
