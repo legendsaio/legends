@@ -9445,6 +9445,21 @@
             "Asheleveler.start_lvl": {
                 "value": 2
             },
+            "Fioraleveler.enabled": {
+                "value": true
+            },
+            "Fioraleveler.lvl1": {
+                "value": 1
+            },
+            "Fioraleveler.lvl2": {
+                "value": 1
+            },
+            "Fioraleveler.lvl3": {
+                "value": 1
+            },
+            "Fioraleveler.start_lvl": {
+                "value": 2
+            },
             "IsOpen": {
                 "value": false
             },
@@ -9850,10 +9865,16 @@
                 "disable_aa_comboAshe": {
                     "value": 0
                 },
+                "disable_aa_comboFiora": {
+                    "value": 0
+                },
                 "disable_aa_comboRiven": {
                     "value": 0
                 },
                 "disable_aa_combo_aa_cntAshe": {
+                    "value": 2
+                },
+                "disable_aa_combo_aa_cntFiora": {
                     "value": 2
                 },
                 "disable_aa_combo_aa_cntRiven": {
@@ -9861,6 +9882,9 @@
                 }
             },
             "support.support_mode.Ashe": {
+                "value": false
+            },
+            "support.support_mode.Fiora": {
                 "value": false
             },
             "support.support_mode.Riven": {
@@ -9961,11 +9985,22 @@
                     "value": false
                 }
             },
+            "plugin##bgx/LunaAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/LunaAIO.dll##Fiora": {
+                    "value": false
+                }
+            },
             "plugin##bgx/RTXPOWER.dll": {
                 "IsOpen": {
                     "value": false
                 },
                 "plugin##bgx/RTXPOWER.dll##Ashe": {
+                    "value": false
+                },
+                "plugin##bgx/RTXPOWER.dll##Fiora": {
                     "value": false
                 }
             },
@@ -9974,6 +10009,9 @@
                     "value": false
                 },
                 "plugin##rtx/LeaguesharpAIO.dll##Ashe": {
+                    "value": false
+                },
+                "plugin##rtx/LeaguesharpAIO.dll##Fiora": {
                     "value": false
                 }
             },
@@ -10431,6 +10469,20 @@
                     "value": 0
                 }
             },
+            "hero_Irelia": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Irelia": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Irelia": {
+                    "value": 0
+                }
+            },
             "hero_Jinx": {
                 "IsOpen": {
                     "value": false
@@ -10461,6 +10513,20 @@
                     "value": 0
                 },
                 "skins.Ashe": {
+                    "value": 0
+                }
+            },
+            "hero_Fiora": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Fiora": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Fiora": {
                     "value": 0
                 }
             }
