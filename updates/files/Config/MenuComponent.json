@@ -109123,7 +109123,7 @@
       },
       "isDebugEnabled": {
         "PermaShowValue": false,
-        "value": false
+        "value": true
       },
       "isDebugProcessingFriendlySpells": {
         "PermaShowValue": false,
