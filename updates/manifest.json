@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "aio-20261003-173947",
-  "key_id": "aio-20261003-173947",
-  "generated_at": "2026-10-03T10:39:55.8964771Z",
+  "version": "aio-20261003-182216",
+  "key_id": "aio-20261003-182216",
+  "generated_at": "2026-10-03T11:22:23.3683556Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "files": [
     {
@@ -12,7 +12,14 @@
       "encryption": "LAIOENC1",
       "size": 7086632,
       "sha256": "55ef4639d83922ced962d342648e1433dec2e806da9de161bc46d176c01419ea",
-      "plain_sha256": "2803c17200616f8780553294e1b748a9de609085f0548ab3bf909c248d4131ec"
+      "plain_sha256": "2803c17200616f8780553294e1b748a9de609085f0548ab3bf909c248d4131ec",
+      "component_version": "16.19.823.722.00",
+      "version_history": [
+        {
+          "version": "16.19.823.722.00",
+          "sha256": "55ef4639d83922ced962d342648e1433dec2e806da9de161bc46d176c01419ea"
+        }
+      ]
     },
     {
       "path": "myapp.legendsense.dll",
@@ -20,13 +27,27 @@
       "encryption": "LAIOENC1",
       "size": 23856168,
       "sha256": "5a03bc57db3123db0bfed631e4b1ab82014ff1120fa7b3b979de3cd0b90ae300",
-      "plain_sha256": "3679e287707be60aed0be07ab255a0d94d9d473c54718f684435f1f1690ffb26"
+      "plain_sha256": "3679e287707be60aed0be07ab255a0d94d9d473c54718f684435f1f1690ffb26",
+      "component_version": "16.19.823.722.00",
+      "version_history": [
+        {
+          "version": "16.19.823.722.00",
+          "sha256": "5a03bc57db3123db0bfed631e4b1ab82014ff1120fa7b3b979de3cd0b90ae300"
+        }
+      ]
     },
     {
       "path": "loader.exe",
       "url": "loader.exe",
-      "sha256": "89be5bc8e1dfbff44f3d4142c1d37619a725094141202f9a4ad51089647b1b35",
-      "size": 4518400
+      "sha256": "0cb5cbf0740a296bf72b7d0fa95a057cf92e0d91f51dafd84bc9cfdf228fb1f3",
+      "size": 4531712,
+      "component_version": "16.19.823.722.00",
+      "version_history": [
+        {
+          "version": "16.19.823.722.00",
+          "sha256": "0cb5cbf0740a296bf72b7d0fa95a057cf92e0d91f51dafd84bc9cfdf228fb1f3"
+        }
+      ]
     }
   ],
   "game_support": {
