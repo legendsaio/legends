@@ -17582,6 +17582,35 @@
         "load": false
       }
     },
+    "Kaisa": {
+      "CC - AIO": {
+        "load": false
+      },
+      "DanZAIO": {
+        "load": false
+      },
+      "FH Official": {
+        "load": true
+      },
+      "L#": {
+        "load": false
+      },
+      "Notasy AIO": {
+        "load": false
+      },
+      "RU(SA)_AIO": {
+        "load": false
+      },
+      "T0-AIO": {
+        "load": false
+      },
+      "[YL AIO]": {
+        "load": false
+      },
+      "小海-AI合集": {
+        "load": false
+      }
+    },
     "Kalista": {
       "CC - AIO": {
         "load": false
@@ -17821,7 +17850,7 @@
     "Jayce": 2,
     "Jhin": 2,
     "KSante": 2,
-    "Kaisa": 0,
+    "Kaisa": 2,
     "Kalista": 0,
     "Karma": 2,
     "Nidalee": 2,
@@ -21365,7 +21394,7 @@
       "CustomColor": {
         "BackgroundColorV5": {
           "PermaShowValue": false,
-          "color": 1862270976,
+          "color": 2785742098,
           "value": false
         },
         "IsOpen": {
@@ -21378,7 +21407,7 @@
         },
         "LogoColorV5B": {
           "PermaShowValue": false,
-          "color": 4293281371,
+          "color": 4289088468,
           "value": false
         },
         "ScrollbarBgColorV5": {
@@ -21388,7 +21417,7 @@
         },
         "ScrollbarGrabActiveColorV5": {
           "PermaShowValue": false,
-          "color": 4293281371,
+          "color": 4289088468,
           "value": false
         },
         "ScrollbarGrabColorV5": {
@@ -21398,17 +21427,17 @@
         },
         "ScrollbarGrabHoveredColorV5": {
           "PermaShowValue": false,
-          "color": 4293281371,
+          "color": 4290536933,
           "value": false
         },
         "TitleColorAV5": {
           "PermaShowValue": false,
-          "color": 4293281371,
+          "color": 4284900974,
           "value": false
         },
         "TitleColorCV5": {
           "PermaShowValue": false,
-          "color": 4294967295,
+          "color": 4290139105,
           "value": false
         },
         "TitleColorV5": {
@@ -21418,32 +21447,32 @@
         },
         "TooltipIconColorV5": {
           "PermaShowValue": false,
-          "color": 4293281371,
+          "color": 4289088468,
           "value": false
         },
         "TreeComponentColorV5": {
           "PermaShowValue": false,
-          "color": 3188921107,
+          "color": 2518094368,
           "value": false
         },
         "TreeFocusColorV5": {
           "PermaShowValue": false,
-          "color": 3030591807,
+          "color": 2691445895,
           "value": false
         },
         "WindowComponentMainActiveColorV5": {
           "PermaShowValue": false,
-          "color": 4285756275,
+          "color": 4285805199,
           "value": false
         },
         "WindowComponentMainColorV5": {
           "PermaShowValue": false,
-          "color": 4293281371,
+          "color": 4289088468,
           "value": false
         },
         "WindowComponentMainHoveredColorV5": {
           "PermaShowValue": false,
-          "color": 4294967295,
+          "color": 4290536933,
           "value": false
         },
         "WindowTextColorV5": {
@@ -21476,6 +21505,10 @@
       "menuSkin": {
         "IsOpen": {
           "value": false
+        },
+        "MenuThemeV1": {
+          "PermaShowValue": false,
+          "value": 0
         }
       }
     },
@@ -31107,10 +31140,58 @@
         "value": true
       },
       "spellE": {
+        "FiddleSticks": {
+          "0": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "IsOpen": {
+            "value": false
+          },
+          "specialAttack": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
         "IsOpen": {
           "value": false
         },
+        "Lucian": {
+          "0": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "IsOpen": {
+            "value": false
+          },
+          "specialAttack": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
         "PracticeTool_TargetDummy": {
+          "IsOpen": {
+            "value": false
+          },
+          "specialAttack": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "Soraka": {
+          "1": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "IsOpen": {
+            "value": false
+          },
+          "specialAttack": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "Swain": {
           "IsOpen": {
             "value": false
           },
@@ -31599,14 +31680,17 @@
         },
         "qRange": {
           "PermaShowValue": false,
+          "color": 4289901311,
           "value": true
         },
         "rRange": {
           "PermaShowValue": false,
+          "color": 867349247,
           "value": false
         },
         "wRange": {
           "PermaShowValue": false,
+          "color": 4289901311,
           "value": false
         }
       },
@@ -31689,7 +31773,7 @@
       },
       "PredictionType": {
         "PermaShowValue": false,
-        "value": 0
+        "value": 1
       },
       "collAA": {
         "PermaShowValue": false,
@@ -34014,37 +34098,10 @@
     "391367950": {
       "load": false
     },
-    "Akali": {
-      "load": false
-    },
-    "Anivia": {
-      "load": false
-    },
-    "Annie": {
-      "load": false
-    },
     "Aorus AIO": {
       "load": false
     },
-    "AurelionSol": {
-      "load": false
-    },
     "Avada AIO": {
-      "load": false
-    },
-    "Azir": {
-      "load": false
-    },
-    "Camille": {
-      "load": false
-    },
-    "DanZAIO": {
-      "load": false
-    },
-    "Diana": {
-      "load": false
-    },
-    "EzrealFH": {
       "load": false
     },
     "FH Official": {
@@ -34053,49 +34110,16 @@
     "FH Utility": {
       "load": false
     },
-    "Fiora": {
-      "load": false
-    },
     "FrostAIO": {
-      "load": false
-    },
-    "Gangplank": {
-      "load": false
-    },
-    "Gragas": {
-      "load": false
-    },
-    "Graves": {
-      "load": false
-    },
-    "Heimerdinger": {
-      "load": false
-    },
-    "Illaoi": {
-      "load": false
-    },
-    "Katarina": {
       "load": false
     },
     "Kernel Utility": {
       "load": false
     },
-    "Ksante": {
-      "load": false
-    },
-    "L#": {
-      "load": false
-    },
-    "LS-FHUtility": {
-      "load": false
-    },
     "Legend - XP TRACKER": {
       "load": false
     },
-    "Malzahar": {
-      "load": false
-    },
-    "Milio": {
+    "M S Standard": {
       "load": false
     },
     "Momo AIO": {
@@ -34104,19 +34128,16 @@
     "NS": {
       "load": false
     },
-    "Naafiri": {
-      "load": false
-    },
-    "Nilah": {
-      "load": false
-    },
     "NovaChamps": {
       "load": false
     },
     "NovaUtils": {
       "load": false
     },
-    "Qiyana": {
+    "Potato AIO": {
+      "load": false
+    },
+    "Python - AIO": {
       "load": false
     },
     "R-AIO": {
@@ -34125,55 +34146,16 @@
     "Ragnarok": {
       "load": false
     },
-    "Rammus": {
-      "load": false
-    },
-    "Riven": {
-      "load": false
-    },
-    "Shaco": {
-      "load": false
-    },
-    "T0-AIO": {
-      "load": false
-    },
-    "Veigar": {
-      "load": false
-    },
-    "Vex": {
-      "load": false
-    },
-    "Vi": {
+    "RushPack": {
       "load": false
     },
     "Victory - 工具箱": {
       "load": false
     },
-    "Vladimir": {
-      "load": false
-    },
     "X''": {
       "load": false
     },
-    "Xerath": {
-      "load": false
-    },
-    "Xiaohai-Ai AIO": {
-      "load": false
-    },
     "Xueli AIO": {
-      "load": false
-    },
-    "Yuumi": {
-      "load": false
-    },
-    "Zeri": {
-      "load": false
-    },
-    "Zoe": {
-      "load": false
-    },
-    "Zyra": {
       "load": false
     },
     "[HGAIO]": {
@@ -48960,6 +48942,14 @@
         "PermaShowValue": false,
         "value": true
       },
+      "CheckBlockingAABuff": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "CheckInvulnerable": {
+        "PermaShowValue": false,
+        "value": true
+      },
       "ExtraWindUpTime": {
         "PermaShowValue": false,
         "value": 54
@@ -48971,6 +48961,14 @@
       "HoldRadius": {
         "PermaShowValue": false,
         "value": 0
+      },
+      "HumanizedOrbwalkerValue": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "HumanizerMove": {
+        "PermaShowValue": false,
+        "value": true
       },
       "IsOpen": {
         "value": false
@@ -76742,11 +76740,19 @@
       "value": 0
     },
     "Priorities": {
+      "FiddleSticks": {
+        "PermaShowValue": false,
+        "value": 3
+      },
       "Info": {
         "PermaShowValue": false
       },
       "IsOpen": {
         "value": false
+      },
+      "Lucian": {
+        "PermaShowValue": false,
+        "value": 5
       },
       "PracticeTool_TargetDummy": {
         "PermaShowValue": false,
@@ -76755,6 +76761,14 @@
       "Reset": {
         "PermaShowValue": false,
         "value": false
+      },
+      "Soraka": {
+        "PermaShowValue": false,
+        "value": 3
+      },
+      "Swain": {
+        "PermaShowValue": false,
+        "value": 2
       },
       "Vex": {
         "PermaShowValue": false,
@@ -95564,6 +95578,10 @@
       "IsOpen": {
         "value": false
       },
+      "autoDelay": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "enabled": {
         "PermaShowValue": false,
         "value": true
@@ -95808,6 +95826,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "MonkeyKing": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Nidalee": {
             "PermaShowValue": false,
             "value": true
@@ -95893,6 +95915,10 @@
             "value": true
           },
           "Zed": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Ziggs": {
             "PermaShowValue": false,
             "value": true
           }
@@ -96005,6 +96031,10 @@
         "IsOpen": {
           "value": false
         },
+        "blueWardRange": {
+          "PermaShowValue": false,
+          "value": 4000
+        },
         "comboOnly": {
           "PermaShowValue": false,
           "value": true
@@ -96014,6 +96044,31 @@
           "value": true
         },
         "useBlueWard": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "BilgewaterCutlass": {
+        "IsOpen": {
+          "value": false
+        },
+        "always": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "chase": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "enabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "flee": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "killSteal": {
           "PermaShowValue": false,
           "value": true
         }
@@ -96043,11 +96098,40 @@
           "value": true
         }
       },
+      "HextechGunblade": {
+        "IsOpen": {
+          "value": false
+        },
+        "always": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "chase": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "enabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "flee": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "killSteal": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
       "Hydra6630": {
         "IsOpen": {
           "value": false
         },
         "enabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "useTitanic": {
           "PermaShowValue": false,
           "value": true
         },
@@ -96058,6 +96142,48 @@
       },
       "IsOpen": {
         "value": false
+      },
+      "ItemSwordOfFeastAndFamine": {
+        "IsOpen": {
+          "value": false
+        },
+        "always": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "chase": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "enabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "flee": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "killSteal": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "ProwlersClaw": {
+        "IsOpen": {
+          "value": false
+        },
+        "always": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "antigap": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "enabled": {
+          "PermaShowValue": false,
+          "value": true
+        }
       },
       "Randuins": {
         "IsOpen": {
@@ -96183,6 +96309,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "FiddleSticks": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Fizz": {
             "PermaShowValue": false,
             "value": true
@@ -96255,6 +96385,10 @@
             "value": true
           },
           "Lissandra": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Lucian": {
             "PermaShowValue": false,
             "value": true
           },
@@ -103431,6 +103565,53 @@
           "dangerLevel": {
             "PermaShowValue": false,
             "value": 2
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "IsOpen": {
+          "value": false
+        }
+      },
+      "FiddleSticksSpellMenu": {
+        "FiddleSticksFiddleSticksE": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "FiddleSticksFiddleSticksESilence": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
           },
           "isDrawingEnabled": {
             "PermaShowValue": false,
@@ -116262,6 +116443,10 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "allySkin_Fiora": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "allySkin_Garen": {
         "PermaShowValue": false,
         "value": 0
@@ -116291,6 +116476,10 @@
         "value": 0
       },
       "allySkin_MissFortune": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "allySkin_MonkeyKing": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -116335,6 +116524,10 @@
         "value": 0
       },
       "allySkin_Warwick": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "allySkin_Ziggs": {
         "PermaShowValue": false,
         "value": 0
       }
@@ -116392,6 +116585,10 @@
         "value": 0
       },
       "enemySkin_Ezreal": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "enemySkin_FiddleSticks": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -116464,6 +116661,10 @@
         "value": 0
       },
       "enemySkin_Lissandra": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "enemySkin_Lucian": {
         "PermaShowValue": false,
         "value": 0
       },
