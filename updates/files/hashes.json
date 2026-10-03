@@ -24,8 +24,8 @@
     },
     {
       "path": "Config/MenuComponent2.json",
-      "size": 394618,
-      "sha256": "53cbbde8ed4dfe9490f30b812065a1d3f0b9fb77bcf67719a2645ef9ed8e446c"
+      "size": 497110,
+      "sha256": "f7a929bef650ca955f57c7e3ad4faa678c0f8633327d1d4ceae214b93c6b39ee"
     },
     {
       "path": "Resource/Localization/myapp.legendsense/README.md",
@@ -960,7 +960,7 @@
     {
       "path": "cached/plugins.sig",
       "size": 89,
-      "sha256": "b56f8a018d37eed21b4b7b01206acd317e40d8d6d633f8906f94f66cd3571c28"
+      "sha256": "c17c5e25b05f783aec29b64c38c12bb558482ebfd0841f4aad626a1a38b8bc34"
     },
     {
       "path": "cached/rtx/plugins/1v9-AIO.dll",

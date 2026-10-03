@@ -1,9 +1,881 @@
 {
-    "RTX": {
-        "MenuSettings": {
-            "BasePosition": {
-                "X": 0.0,
-                "Y": 93.0
+    "Evade": {
+        "IsOpen": {
+            "value": false
+        },
+        "Spells": {
+            "AllChampions": {
+                "6656Cast": {
+                    "DangerLevel": {
+                        "value": 4
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "ArcaneComet": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "SummonerSnowball": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Anivia": {
+                "E AniviaR": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "E AniviaR2": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "Q FlashFrostSpell": {
+                    "DangerLevel": {
+                        "value": 4
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Corki": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q PhosphorusBomb": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R MissileBarrageMissile": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R MissileBarrageMissile2": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Galio": {
+                "E GalioE": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "Q GalioQ": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "Q GalioQ Ground": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W GalioW": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": false
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "XinZhao": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q XinZhaoR": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W XinZhaoW": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Zyra": {
+                "E ZyraE": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "Q ZyraQ": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R ZyraR Damage": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R ZyraR KnockUp": {
+                    "DangerLevel": {
+                        "value": 5
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "advanced_tab": {
+            ".evade_mode": {
+                "value": 0
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "collision_tab": {
+                "EnableCollisionEx": {
+                    "value": false
+                },
+                "HeroCollision": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MinionCollision": {
+                    "value": true
+                },
+                "YasuoCollision": {
+                    "value": true
+                }
+            },
+            "evade_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "enemy_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "evade_tab.DodgeAwayFromEnemiesBuffAF": {
+                        "value": 100
+                    },
+                    "evade_tab.dodge_away": {
+                        "value": false
+                    }
+                },
+                "evade_tab.allow_path_change": {
+                    "value": true
+                },
+                "underturret_tab": {
+                    "DisableUnderTurret": {
+                        "value": false
+                    },
+                    "DisableUnderTurretMaxLvl": {
+                        "value": 3
+                    },
+                    "DisableUnderTurretPathfinder": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                }
+            },
+            "misc_tab": {
+                "AllowAaKillableEnemy": {
+                    "value": true
+                },
+                "DangerLevel": {
+                    "value": 1
+                },
+                "DoubleClickToRemove": {
+                    "value": true
+                },
+                "Evade.DisableRecall": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "spell_blocker_tab": {
+                ".BlockSpells": {
+                    "value": 2
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "spellBlockerECaitlyn": {
+                    "value": false
+                },
+                "spellBlockerQCaitlyn": {
+                    "value": true
+                },
+                "spellBlockerRCaitlyn": {
+                    "value": true
+                },
+                "spellBlockerWCaitlyn": {
+                    "value": true
+                }
+            }
+        },
+        "drawings_tab": {
+            "DrawEvadePoint": {
+                "value": true
+            },
+            "DrawEvadeStatus": {
+                "value": true
+            },
+            "DrawMode": {
+                "value": 0
+            },
+            "EnableDrawings": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            }
+        },
+        "evade_spells_tab": {
+            "Caitlyn E": {
+                "BlockDangerLevelMenu": {
+                    "value": 1
+                },
+                "BlockMenu": {
+                    "value": true
+                },
+                "DangerLevel": {
+                    "value": 3
+                },
+                "Enable": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "Flash": {
+                "BlockDangerLevelMenu": {
+                    "value": 1
+                },
+                "BlockMenu": {
+                    "value": true
+                },
+                "DangerLevel": {
+                    "value": 5
+                },
+                "Enable": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "Galeforce": {
+                "BlockDangerLevelMenu": {
+                    "value": 1
+                },
+                "BlockMenu": {
+                    "value": true
+                },
+                "DangerLevel": {
+                    "value": 3
+                },
+                "Enable": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "Heal": {
+                "DangerLevel": {
+                    "value": 5
+                },
+                "Enable": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "Zhonyas": {
+                "DangerLevel": {
+                    "value": 5
+                },
+                "Enable": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            }
+        },
+        "hotkeys_tab": {
+            "Evade.DodgeCircular": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 72,
+                "value": true
+            },
+            "Evade.Enabled": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 76,
+                "value": true
+            },
+            "IgnoreOnlyDangerous": {
+                "value": 40
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "OnlyDangerous": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 32,
+                "value": false
+            }
+        },
+        "humanizer_tab": {
+            "IsOpen": {
+                "value": false
+            },
+            "dglvl1": {
+                "DisableFow": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MaxAngleDodge": {
+                    "value": 180
+                },
+                "MinHP": {
+                    "value": 100
+                },
+                "MinReactionTime": {
+                    "value": 0
+                },
+                "MinReactionTimeSpell": {
+                    "value": 0
+                },
+                "spell_detection_delay": {
+                    "value": 0
+                }
+            },
+            "dglvl2": {
+                "DisableFow": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MaxAngleDodge": {
+                    "value": 180
+                },
+                "MinHP": {
+                    "value": 100
+                },
+                "MinReactionTime": {
+                    "value": 0
+                },
+                "MinReactionTimeSpell": {
+                    "value": 0
+                },
+                "spell_detection_delay": {
+                    "value": 0
+                }
+            },
+            "dglvl3": {
+                "DisableFow": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MaxAngleDodge": {
+                    "value": 180
+                },
+                "MinHP": {
+                    "value": 100
+                },
+                "MinReactionTime": {
+                    "value": 0
+                },
+                "MinReactionTimeSpell": {
+                    "value": 0
+                },
+                "spell_detection_delay": {
+                    "value": 0
+                }
+            },
+            "dglvl4": {
+                "DisableFow": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MaxAngleDodge": {
+                    "value": 180
+                },
+                "MinHP": {
+                    "value": 100
+                },
+                "MinReactionTime": {
+                    "value": 0
+                },
+                "MinReactionTimeSpell": {
+                    "value": 0
+                },
+                "spell_detection_delay": {
+                    "value": 0
+                }
+            },
+            "dglvl5": {
+                "DisableFow": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MaxAngleDodge": {
+                    "value": 180
+                },
+                "MinHP": {
+                    "value": 100
+                },
+                "MinReactionTime": {
+                    "value": 0
+                },
+                "MinReactionTimeSpell": {
+                    "value": 0
+                },
+                "spell_detection_delay": {
+                    "value": 0
+                }
+            },
+            "rest": {
+                "IsOpen": {
+                    "value": false
+                }
+            }
+        },
+        "restore_tab": {
+            "IsOpen": {
+                "value": false
             }
         }
     },
@@ -9084,6 +9956,1790 @@
             }
         }
     },
+    "RTX": {
+        "MenuSettings": {
+            "BasePosition": {
+                "X": 0.0,
+                "Y": 93.0
+            }
+        }
+    },
+    "blackoutActivatorMainMenuTab": {
+        "IsOpen": {
+            "value": false
+        },
+        "blackoutActivatorblackOutActivatorDrawingsSettings": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorcoreLoadMessage": {
+                "value": true
+            },
+            "blackoutActivatordrawRangeExhaust": {
+                "value": false
+            },
+            "blackoutActivatordrawRangeExhaustColorPicker": {
+                "color": 3858891495
+            },
+            "blackoutActivatorexhaustIndicatorTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatordrawExhaustStatusX": {
+                    "value": 5
+                },
+                "blackoutActivatordrawExhaustStatusY": {
+                    "value": 5
+                },
+                "blackoutActivatorexhaustIndicatorFontSize": {
+                    "value": 16
+                }
+            },
+            "blackoutActivatorthreshLanternDrawingsTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatordrawAutoLanternCheckbox": {
+                    "value": true
+                },
+                "blackoutActivatordrawRangeThreshLantern": {
+                    "color": 4289827583
+                }
+            }
+        },
+        "blackoutActivatordefensiveItems": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorlocketMenu": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorlocketOfTheIronSolariAlliesWhitelist": {
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "blackoutActivatoruseLocket": {
+                    "value": true
+                },
+                "blackoutActivatoruseLocketCombo": {
+                    "value": false
+                },
+                "blackoutActivatoruseLocketIfAllyCount": {
+                    "value": 2
+                },
+                "blackoutActivatoruseLocketIncomingDamage": {
+                    "value": true
+                },
+                "blackoutActivatoruseLocketIncomingDamageSlider": {
+                    "value": 20
+                },
+                "blackoutActivatoruseLocketOnlyIfAlly": {
+                    "value": false
+                },
+                "blackoutActivatoruseLocketSaveAlly": {
+                    "value": true
+                },
+                "blackoutActivatoruseOnlyIfEnemies": {
+                    "value": true
+                },
+                "blackoutActivatoruseOnlyIfEnemiesRangeSlider": {
+                    "value": 1000
+                }
+            },
+            "blackoutActivatorqssMikaelsMenuTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatormikaelsBuffTypesDangerousSystem": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatormikaelsAsleepDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsAsleepDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsAsleepDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsAsleepDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsBerserkDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsBerserkDangerousBelowHP": {
+                            "value": 100
+                        },
+                        "blackoutActivatormikaelsBerserkDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsBerserkDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsBlindDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsBlindDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatormikaelsBlindDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatormikaelsBlindDangerousEnemiesRangeSlider": {
+                            "value": 650
+                        }
+                    },
+                    "blackoutActivatormikaelsCharmDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsCharmDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsCharmDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsCharmDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsDisarmDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsDisarmDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatormikaelsDisarmDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatormikaelsDisarmDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatormikaelsDrowsyDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsDrowsyDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsDrowsyDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsDrowsyDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsFearDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsFearDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsFearDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsFearDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsFleeDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsFleeDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatormikaelsFleeDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatormikaelsFleeDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatormikaelsPoisonDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsPoisonDangerousBelowHP": {
+                            "value": 70
+                        },
+                        "blackoutActivatormikaelsPoisonDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatormikaelsPoisonDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatormikaelsPolymorphDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsPolymorphDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsPolymorphDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsPolymorphDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsSnareDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsSnareDangerousBelowHP": {
+                            "value": 70
+                        },
+                        "blackoutActivatormikaelsSnareDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatormikaelsSnareDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatormikaelsStunDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsStunDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsStunDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsStunDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsTauntDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsTauntDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsTauntDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsTauntDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    }
+                },
+                "blackoutActivatormikaelsMenuTab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatormikaelsMenuWhitelistTab": {
+                        "IsOpen": {
+                            "value": false
+                        }
+                    },
+                    "blackoutActivatoroperationalModeMikaelsCCDB": {
+                        "value": 0
+                    },
+                    "blackoutActivatoruseMikaels": {
+                        "value": false
+                    },
+                    "blackoutActivatoruseMikaelsAllies": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseMikaelsCombo": {
+                        "value": false
+                    }
+                },
+                "blackoutActivatormikaelsQssBuffTypes": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatorasleepQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorberserkQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorblindQss": {
+                        "value": false
+                    },
+                    "blackoutActivatorcharmQss": {
+                        "value": true
+                    },
+                    "blackoutActivatordisarmQss": {
+                        "value": true
+                    },
+                    "blackoutActivatordrowsyQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorfearQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorfleeQss": {
+                        "value": false
+                    },
+                    "blackoutActivatorpoisonQss": {
+                        "value": false
+                    },
+                    "blackoutActivatorpolymorphQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorsnareQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorstunQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorsupressionQss": {
+                        "value": true
+                    },
+                    "blackoutActivatortauntQss": {
+                        "value": true
+                    }
+                },
+                "blackoutActivatormikaelsSpellDatabaseWhitelist": {
+                    "AniviaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPAniviaQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesAniviaQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.AniviaQ": {
+                            "value": true
+                        }
+                    },
+                    "GalioCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPGalioW Taunt": {
+                            "value": 50
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesGalioW Taunt": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.GalioW Taunt": {
+                            "value": true
+                        }
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ZyraCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPZyraE": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesZyraE": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.ZyraE": {
+                            "value": true
+                        }
+                    }
+                },
+                "blackoutActivatorqssBuffTypesDangerousSystem": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatorqssAsleepDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssAsleepDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssAsleepDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssAsleepDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssBerserkDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssBerserkDangerousBelowHP": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssBerserkDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssBerserkDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssBlindDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssBlindDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatorqssBlindDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssBlindDangerousEnemiesRangeSlider": {
+                            "value": 650
+                        }
+                    },
+                    "blackoutActivatorqssCharmDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssCharmDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssCharmDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssCharmDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssDisarmDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDisarmDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatorqssDisarmDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssDisarmDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatorqssDrowsyDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDrowsyDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssDrowsyDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssDrowsyDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssFearDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssFearDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssFearDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssFearDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssFleeDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssFleeDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatorqssFleeDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssFleeDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatorqssPoisonDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssPoisonDangerousBelowHP": {
+                            "value": 70
+                        },
+                        "blackoutActivatorqssPoisonDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssPoisonDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatorqssPolymorphDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssPolymorphDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssPolymorphDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssPolymorphDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssSnareDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssSnareDangerousBelowHP": {
+                            "value": 70
+                        },
+                        "blackoutActivatorqssSnareDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssSnareDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatorqssStunDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssStunDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssStunDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssStunDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssTauntDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssTauntDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssTauntDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssTauntDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    }
+                },
+                "blackoutActivatorqssMenuTab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatorblackListQSSTab": {
+                        "IsOpen": {
+                            "value": false
+                        }
+                    },
+                    "blackoutActivatorminHpQss": {
+                        "value": 15
+                    },
+                    "blackoutActivatoroperationalModeQssCCDB": {
+                        "value": 0
+                    },
+                    "blackoutActivatorqssDelay": {
+                        "value": 0
+                    },
+                    "blackoutActivatorqssHumanizerX": {
+                        "value": 100
+                    },
+                    "blackoutActivatorqssHumanizerY": {
+                        "value": 200
+                    },
+                    "blackoutActivatorqssMinimumDuration": {
+                        "value": 500
+                    },
+                    "blackoutActivatorqss_delay_mode_combo": {
+                        "value": 1
+                    },
+                    "blackoutActivatorslowDebuffsMenu": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssSlowDebuffMovementSpeed": {
+                            "value": 230
+                        },
+                        "blackoutActivatorqssSlowDebuffNew": {
+                            "value": false
+                        }
+                    },
+                    "blackoutActivatorspellDatabaseCheckEnemiesRangeQSS": {
+                        "value": 1000
+                    },
+                    "blackoutActivatoruseQSSEnabled": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseQssAlwaysMode": {
+                        "value": false
+                    },
+                    "blackoutActivatoruseQssCombo": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseQssHarass": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseQssOtherMode": {
+                        "value": false
+                    }
+                },
+                "blackoutActivatorqssSpellDatabaseWhitelist": {
+                    "AniviaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPAniviaQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayAniviaQ": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesAniviaQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.AniviaQ": {
+                            "value": true
+                        }
+                    },
+                    "GalioCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPGalioW Taunt": {
+                            "value": 50
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayGalioW Taunt": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesGalioW Taunt": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.GalioW Taunt": {
+                            "value": true
+                        }
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ZyraCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPZyraE": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayZyraE": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesZyraE": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.ZyraE": {
+                            "value": true
+                        }
+                    }
+                }
+            },
+            "blackoutActivatorranduinsOmenMenu": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatoruseRanduins": {
+                    "value": true
+                },
+                "blackoutActivatoruseRanduinsFlee": {
+                    "value": true
+                },
+                "blackoutActivatoruseRanduinsWhenBelowXHP": {
+                    "value": 50
+                },
+                "blackoutActivatoruseRanduinsWhenCrit": {
+                    "value": 40
+                },
+                "blackoutActivatoruseRanduinsWhenEnemyBelowXHP": {
+                    "value": 35
+                },
+                "blackoutActivatoruseRanduinsWhenXEnemies": {
+                    "value": true
+                },
+                "blackoutActivatoruseRanduinsWhenXEnemiesSlider": {
+                    "value": 3
+                }
+            },
+            "blackoutActivatorredemption_menu_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorredemption_ally_blacklist": {
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "blackoutActivatorredemption_ally_count_teamfight": {
+                    "value": 3
+                },
+                "blackoutActivatorredemption_enemy_blacklist": {
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "blackoutActivatorredemption_enemy_count_teamfight": {
+                    "value": 3
+                },
+                "blackoutActivatorredemption_save_allies": {
+                    "value": true
+                },
+                "blackoutActivatoruse_redemption": {
+                    "value": true
+                },
+                "blackoutActivatoruse_redemption_ally_below_x_health_percent": {
+                    "value": true
+                },
+                "blackoutActivatoruse_redemption_ally_below_x_health_percent_slider": {
+                    "value": 35
+                },
+                "blackoutActivatoruse_redemption_combo_only": {
+                    "value": false
+                },
+                "blackoutActivatoruse_redemption_killsteal": {
+                    "value": true
+                },
+                "blackoutActivatoruse_redemption_teamfight": {
+                    "value": false
+                }
+            },
+            "blackoutActivatorshurelyasBattleSongTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatoruseShurelyaBattle": {
+                    "value": true
+                },
+                "blackoutActivatoruseShurelyaFleeEnmies": {
+                    "value": true
+                },
+                "blackoutActivatoruseShurelyasCombo": {
+                    "value": true
+                },
+                "blackoutActivatoruseShurelyasEnemyCountSlider": {
+                    "value": 2
+                },
+                "blackoutActivatoruseShurelyasEnemyRangeSlider": {
+                    "value": 1000
+                },
+                "blackoutActivatoruseShurelyasFleeMode": {
+                    "value": true
+                },
+                "blackoutActivatoruseShurelyasMinimumAllies": {
+                    "value": 2
+                }
+            },
+            "blackoutActivatorzhonyaMenu": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorstopwatch_evade": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatoruseStopwatchEvadeDangerousLevel": {
+                        "value": 4
+                    },
+                    "blackoutActivatoruseStopwatchEvadeIfBelowHP": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseStopwatchEvadeIfBelowHPSlider": {
+                        "value": 40
+                    },
+                    "blackoutActivatoruseStopwatchEvadeSpeedBuffer": {
+                        "value": 7
+                    },
+                    "blackoutActivatoruseStopwatchIfEvadeCantDodge": {
+                        "value": true
+                    }
+                },
+                "blackoutActivatoruseZhonyaStopWatch": {
+                    "value": true
+                },
+                "blackoutActivatoruseZhonyasCombo": {
+                    "value": false
+                },
+                "blackoutActivatoruse_stopwatch_hard_cc": {
+                    "value": false
+                },
+                "blackoutActivatoruse_stopwatch_incoming_damage": {
+                    "value": true
+                },
+                "blackoutActivatoruse_stopwatch_incoming_damage_skillshots": {
+                    "value": true
+                },
+                "blackoutActivatoruse_stopwatch_incoming_damage_slider": {
+                    "value": 45
+                },
+                "blackoutActivatoruse_stopwatch_spell_database_stuns": {
+                    "AniviaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPAniviaQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesAniviaQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorstopwatchEnabled.AniviaQ": {
+                            "value": true
+                        }
+                    },
+                    "GalioCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPGalioW Taunt": {
+                            "value": 50
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesGalioW Taunt": {
+                            "value": 1
+                        },
+                        "blackoutActivatorstopwatchEnabled.GalioW Taunt": {
+                            "value": true
+                        }
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ZyraCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPZyraE": {
+                            "value": 100
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesZyraE": {
+                            "value": 1
+                        },
+                        "blackoutActivatorstopwatchEnabled.ZyraE": {
+                            "value": true
+                        }
+                    }
+                },
+                "blackoutActivatoruse_zhonya_hard_cc": {
+                    "value": false
+                },
+                "blackoutActivatoruse_zhonya_incoming_damage": {
+                    "value": true
+                },
+                "blackoutActivatoruse_zhonya_incoming_damage_skillshots": {
+                    "value": true
+                },
+                "blackoutActivatoruse_zhonya_incoming_damage_slider": {
+                    "value": 45
+                },
+                "blackoutActivatoruse_zhonya_spell_database_stuns": {
+                    "AniviaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPAniviaQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesAniviaQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorzhonyaEnabled.AniviaQ": {
+                            "value": true
+                        }
+                    },
+                    "GalioCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPGalioW Taunt": {
+                            "value": 50
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesGalioW Taunt": {
+                            "value": 1
+                        },
+                        "blackoutActivatorzhonyaEnabled.GalioW Taunt": {
+                            "value": true
+                        }
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ZyraCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPZyraE": {
+                            "value": 100
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesZyraE": {
+                            "value": 1
+                        },
+                        "blackoutActivatorzhonyaEnabled.ZyraE": {
+                            "value": true
+                        }
+                    }
+                },
+                "blackoutActivatorzhonyaWatchesOurHeroIgnited": {
+                    "value": 0
+                },
+                "blackoutActivatorzhonyaWatchesOurHeroIgnitedDuration": {
+                    "value": 4
+                },
+                "blackoutActivatorzhonyaWatchesOurHeroIgnitedHP": {
+                    "value": 300
+                },
+                "blackoutActivatorzhonyaWatchesOurHeroIgnitedMaxEnemies": {
+                    "value": 1
+                },
+                "blackoutActivatorzhonya_watches_evade": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatoruseZhonyaEvadeDangerousLevel": {
+                        "value": 4
+                    },
+                    "blackoutActivatoruseZhonyaEvadeIfBelowHP": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseZhonyaEvadeIfBelowHPSlider": {
+                        "value": 40
+                    },
+                    "blackoutActivatoruseZhonyaEvadeSpeedBuffer": {
+                        "value": 7
+                    },
+                    "blackoutActivatoruseZhonyaIfEvadeCantDodge": {
+                        "value": true
+                    }
+                }
+            }
+        },
+        "blackoutActivatorhealthPotions": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatordontUseLvlOne": {
+                "value": true
+            },
+            "blackoutActivatordontUseLvlOneIgnoreCombo": {
+                "value": true
+            },
+            "blackoutActivatoruseBiscsuitsUnderManaEnabled": {
+                "value": true
+            },
+            "blackoutActivatoruseBiscuits": {
+                "value": true
+            },
+            "blackoutActivatoruseBiscuitsUnderHp": {
+                "value": 30
+            },
+            "blackoutActivatoruseBiscuitsUnderManaSlider": {
+                "value": 35
+            },
+            "blackoutActivatoruseCorruptingPotion": {
+                "value": true
+            },
+            "blackoutActivatoruseHealthPotion": {
+                "value": true
+            },
+            "blackoutActivatoruseHealthPotionsIfIgnited": {
+                "value": true
+            },
+            "blackoutActivatorusePotionsCombo": {
+                "value": false
+            },
+            "blackoutActivatorusePotionsIfEnemiesInXRange": {
+                "value": 900
+            },
+            "blackoutActivatorusePotionsIfMyheroHP": {
+                "value": true
+            },
+            "blackoutActivatorusePotionsIfMyheroHpSlider": {
+                "value": 65
+            },
+            "blackoutActivatorusePotionsOnlyIfXEnemies": {
+                "value": true
+            },
+            "blackoutActivatorusePotionsXEnemiesRange": {
+                "value": 1
+            },
+            "blackoutActivatoruseRefillablePotion": {
+                "value": true
+            }
+        },
+        "blackoutActivatoroffensiveItems": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorhextechProtobeltTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorhextechMaximumDistanceToEnemy": {
+                    "value": 275
+                },
+                "blackoutActivatoruseHextechCursor": {
+                    "value": false
+                },
+                "blackoutActivatoruseHextechCursorRange": {
+                    "value": 260
+                },
+                "blackoutActivatoruseHextechFleeMode": {
+                    "value": false
+                },
+                "blackoutActivatoruseHextechKillable": {
+                    "value": true
+                },
+                "blackoutActivatoruseHextechKillableAA": {
+                    "value": 2
+                },
+                "blackoutActivatoruseHextechMaxEnemies": {
+                    "value": 2
+                },
+                "blackoutActivatoruseHextechMaxEnemiesRange": {
+                    "value": 500
+                },
+                "blackoutActivatoruseHextechProtobelt": {
+                    "value": true
+                }
+            },
+            "blackoutActivatorprofaneHydraTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorprofane_aa_reset": {
+                    "value": true
+                },
+                "blackoutActivatorprofane_if_dmg": {
+                    "value": true
+                },
+                "blackoutActivatoruseProfaneHydra": {
+                    "value": true
+                },
+                "blackoutActivatoruse_profane_killsteal": {
+                    "value": true
+                },
+                "blackoutActivatoruse_profane_under_x_hp": {
+                    "value": false
+                },
+                "blackoutActivatoruse_profane_under_x_hp_slider": {
+                    "value": 45
+                }
+            },
+            "blackoutActivatorravenous_hydra_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorrav_fiora_aa_reset_after_e": {
+                    "value": true
+                },
+                "blackoutActivatorrav_yi_aa_reset_after_w": {
+                    "value": true
+                },
+                "blackoutActivatorravenous_aa_reset": {
+                    "value": true
+                },
+                "blackoutActivatorravenous_aa_reset_jungle": {
+                    "value": true
+                },
+                "blackoutActivatorravenous_aa_reset_lane_minions": {
+                    "value": false
+                },
+                "blackoutActivatorravenous_dont_use_if_enemies": {
+                    "value": 800
+                },
+                "blackoutActivatorravenous_dont_wait_aa": {
+                    "value": 40
+                },
+                "blackoutActivatorravenous_if_dmg": {
+                    "value": true
+                },
+                "blackoutActivatorravenous_killsteal": {
+                    "value": true
+                },
+                "blackoutActivatorravenous_no_aa_reset": {
+                    "value": 3
+                },
+                "blackoutActivatoruse_ravenous_hydra": {
+                    "value": true
+                }
+            },
+            "blackoutActivatorstrideBreakerMenu": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorstideBreakerAALane": {
+                    "value": true
+                },
+                "blackoutActivatorstideBreakerAAResetJungle": {
+                    "value": true
+                },
+                "blackoutActivatorstrideBreakerAAReset": {
+                    "value": true
+                },
+                "blackoutActivatorstrideBreakerDontUseIfEnemies": {
+                    "value": 800
+                },
+                "blackoutActivatorstrideBreakerFleeModeUsage": {
+                    "value": true
+                },
+                "blackoutActivatoruseStrideBreaker": {
+                    "value": true
+                }
+            },
+            "blackoutActivatortiamatHydraTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorfiora_aa_reset_after_e": {
+                    "value": true
+                },
+                "blackoutActivatoruseTiamat": {
+                    "value": true
+                },
+                "blackoutActivatoryi_aa_reset_after_w": {
+                    "value": true
+                }
+            },
+            "blackoutActivatortitanicHydraTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatoruseTitanicHydra": {
+                    "value": true
+                },
+                "blackoutActivatoruse_titanic_aa_reset": {
+                    "value": true
+                }
+            },
+            "blackoutActivatoryoumuuGhostBladeTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatoruseYoumuuCursorDistanceCheck": {
+                    "value": true
+                },
+                "blackoutActivatoruseYoumuuCursorDistanceSlider": {
+                    "value": 165
+                },
+                "blackoutActivatoruseYoumuusDistanceEnemySlider": {
+                    "value": 500
+                },
+                "blackoutActivatoruseYoumuusGhostBladeChaseSliderHP": {
+                    "value": 35
+                },
+                "blackoutActivatoruseYoumuusGhostbladeChase": {
+                    "value": true
+                },
+                "blackoutActivatoruseYoumuusGhostbladeFleeModeCheckbox": {
+                    "value": true
+                },
+                "blackoutActivatoryoumuusItemState": {
+                    "value": true
+                }
+            }
+        },
+        "blackoutActivatorsummonerBarrier": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatordontUseBarrierLevelOne": {
+                "value": true
+            },
+            "blackoutActivatorsummonerBarrierOurHeroIgnited": {
+                "value": 0
+            },
+            "blackoutActivatorsummonerBarrierOurHeroIgnitedDuration": {
+                "value": 4
+            },
+            "blackoutActivatorsummonerBarrierOurHeroIgnitedHP": {
+                "value": 300
+            },
+            "blackoutActivatorsummonerBarrierOurHeroIgnitedMaxEnemies": {
+                "value": 4
+            },
+            "blackoutActivatoruseBarrier": {
+                "value": true
+            },
+            "blackoutActivatoruseBarrierCombo": {
+                "value": true
+            },
+            "blackoutActivatoruseBarrierIfCC": {
+                "value": false
+            },
+            "blackoutActivatoruseBarrierIfSpellKillUs": {
+                "value": true
+            },
+            "blackoutActivatoruseBarrierIncomingDamage": {
+                "value": true
+            },
+            "blackoutActivatoruseBarrierIncomingDamageIncludeSkillshots": {
+                "value": true
+            },
+            "blackoutActivatoruseBarrierIncomingDamageSlider": {
+                "value": 30
+            }
+        },
+        "blackoutActivatorsummonerExhaust": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorantigapcloserTabExhaust": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatoruseExhaustAntiGapCloser": {
+                    "value": true
+                },
+                "blackoutActivatoruseExhaustAntiGapCloserBelowHPNew": {
+                    "value": 25
+                }
+            },
+            "blackoutActivatorautomaticExhaustDontWasteIfEnemyHP": {
+                "value": 15
+            },
+            "blackoutActivatorblackListExhaustAutomatic": {
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "blackoutActivatordontUseExhaustIfEnemyIsKillableWithAA": {
+                "value": false
+            },
+            "blackoutActivatordontUseExhaustIfEnemyKillableWIthAASlider": {
+                "value": 2
+            },
+            "blackoutActivatorlowerDmgSpells": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorenabled.AniviaE": {
+                    "value": false
+                },
+                "blackoutActivatorenabled.AniviaR": {
+                    "value": true
+                },
+                "blackoutActivatorenabled.ZyraR": {
+                    "value": true
+                }
+            },
+            "blackoutActivatoruseAutomaticExhaustEnemyBelowHP": {
+                "value": 30
+            },
+            "blackoutActivatoruseExhaust": {
+                "value": true
+            },
+            "blackoutActivatoruseExhaustCombo": {
+                "value": true
+            },
+            "blackoutActivatoruseExhaustIfAlliesCheckbox": {
+                "value": false
+            },
+            "blackoutActivatoruseExhaustIfAlliesSlider": {
+                "value": 2
+            },
+            "blackoutActivatoruseExhaustIfEnemyUnderTurret": {
+                "value": true
+            },
+            "blackoutActivatoruseExhaustOnlyIfOurHeroHp": {
+                "value": false
+            },
+            "blackoutActivatoruseExhaustOnlyIfOurHeroHpSlider": {
+                "value": 85
+            },
+            "blackoutActivatoruseExhaustToLowerDmg": {
+                "value": true
+            },
+            "blackoutActivatoruseSemiExhaustOrbwalk": {
+                "value": true
+            },
+            "exhaustForceKey": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 71,
+                "value": false
+            }
+        },
+        "blackoutActivatorusageOfElixirs": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatoruseElixirIron": {
+                "value": true
+            },
+            "blackoutActivatoruseElixirSorcery": {
+                "value": true
+            },
+            "blackoutActivatoruseElixirWrath": {
+                "value": true
+            },
+            "blackoutActivatoruseElixirs": {
+                "value": true
+            },
+            "blackoutActivatoruseElixirsIfEnemies": {
+                "value": 700
+            },
+            "blackoutActivatoruseElixirsIfEnemiesCount": {
+                "value": 1
+            },
+            "blackoutActivatoruseElixirsIfOurHeroHp": {
+                "value": 100
+            }
+        },
+        "blackoutActivatorusePykeYourCut": {
+            "value": true
+        },
+        "summonersToggleHotkey": {
+            "IsToggle": true,
+            "MouseWheelBind": true,
+            "key": 0,
+            "value": true
+        },
+        "toggleItemUsageSS": {
+            "IsToggle": true,
+            "MouseWheelBind": true,
+            "key": 0,
+            "value": true
+        }
+    },
+    "blackoutActivatorUtilityTab": {
+        "IsOpen": {
+            "value": false
+        },
+        "blackoutActivatorantiNexusOrbTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorantiNexusOnlyOrbMode": {
+                "value": false
+            },
+            "blackoutActivatorantiNexusTurretOrbPrevent": {
+                "value": false
+            }
+        },
+        "blackoutActivatorattackRangeDrawingsTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorattackRangeColorPick": {
+                "color": 3957891584
+            },
+            "blackoutActivatorattackRangeEnabled": {
+                "value": false
+            },
+            "blackoutActivatorattackRangeInsideGlowPower": {
+                "value": 30
+            },
+            "blackoutActivatorattackRangeInsideGlowSize": {
+                "value": 100
+            },
+            "blackoutActivatorattackRangeOutsideGlowSize": {
+                "value": 0
+            },
+            "blackoutActivatorattackRangeThickness": {
+                "value": 2
+            }
+        },
+        "blackoutActivatorautoWardUpgradeTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorautoWardUpgradeModeSelection": {
+                "value": 0
+            },
+            "blackoutActivatorautoWardUpgradeOnlyIfLevel": {
+                "value": 6
+            },
+            "blackoutActivatorautoWardUpgradeToggle": {
+                "value": false
+            }
+        },
+        "blackoutActivatorcustomMapsTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorcustoMapsComboBox": {
+                "value": 0
+            },
+            "blackoutActivatorcustomMapColorPick": {
+                "color": 1273537024
+            },
+            "blackoutActivatorcustomMapsCircleQuality": {
+                "value": 350
+            }
+        },
+        "blackoutActivatordashTrackerTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatordashTrackerChampionIconSize": {
+                "value": 40
+            },
+            "blackoutActivatordashTrackerChampionLineWidth": {
+                "value": 2
+            },
+            "blackoutActivatordashTrackerColorPick": {
+                "color": 3872970261
+            },
+            "blackoutActivatordashTrackerPointingArrowWidth": {
+                "value": 2
+            },
+            "blackoutActivatordashTrackerSelectMode": {
+                "value": 0
+            },
+            "blackoutActivatorenableDashTracker": {
+                "value": true
+            },
+            "blackoutActivatorenableDashTrackerEnemies": {
+                "value": true
+            },
+            "blackoutActivatorenableDashTrackerOurHero": {
+                "value": false
+            }
+        },
+        "blackoutActivatordevelopers_tab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorcustom_range_colorpick": {
+                "color": 4281529057
+            },
+            "blackoutActivatordefine_custom_range_slider": {
+                "value": 550
+            },
+            "blackoutActivatorshow_custom_range": {
+                "value": false
+            }
+        },
+        "blackoutActivatoremoteSpammerTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatoremoteSpammerAfterKill": {
+                "value": false
+            },
+            "blackoutActivatoremoteSpammerOnProcessSpellcast": {
+                "value": false
+            },
+            "blackoutActivatoremoteSpammerSelection": {
+                "value": 0
+            }
+        },
+        "blackoutActivatorhotkey_hold_to_stop_evade": {
+            "IsToggle": false,
+            "MouseWheelBind": true,
+            "key": 0,
+            "value": false
+        },
+        "blackoutActivatorigniteTrackerTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorenableIgniteTracker": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerAlliesCheckbox": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerDrawDead": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerDrawDeadGlow": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerDrawDeadText": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerEnemies": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerGlowSettingsTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorigniteTrackerGlowBlurnessSlider": {
+                    "value": 10
+                },
+                "blackoutActivatorigniteTrackerGlowSettingsColorpick": {
+                    "color": 4294306053
+                },
+                "blackoutActivatorigniteTrackerGlowThicknessSlider": {
+                    "value": 1
+                }
+            },
+            "blackoutActivatorigniteTrackerIconFontSize": {
+                "value": 20
+            },
+            "blackoutActivatorigniteTrackerIconSize": {
+                "value": 35
+            },
+            "blackoutActivatorigniteTrackerOurHero": {
+                "value": true
+            }
+        },
+        "blackoutActivatormasteryBadgeSpammerTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatoruseMasteryBadgeAfterKill": {
+                "value": false
+            },
+            "blackoutActivatoruseMasteryBadgeOnProcessSpellcast": {
+                "value": false
+            }
+        },
+        "blackoutActivatorpingSpellsTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatordontPingEnemySpellsInAARange": {
+                "value": true
+            },
+            "blackoutActivatorpingEnemySummonersBlacklistTab": {
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "blackoutActivatorpingEnemyUltimateBlacklistTab": {
+                "Anivia": {
+                    "value": false
+                },
+                "Corki": {
+                    "value": false
+                },
+                "Galio": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "XinZhao": {
+                    "value": false
+                },
+                "Zyra": {
+                    "value": false
+                }
+            },
+            "blackoutActivatorpingHumanizerDistanceCheckSlidesr": {
+                "value": 1500
+            },
+            "blackoutActivatorpingHumanizerDistanceChecks": {
+                "value": false
+            },
+            "blackoutActivatorpingHumanizerRangeX": {
+                "value": 50
+            },
+            "blackoutActivatorpingHumanizerRangeY": {
+                "value": 100
+            },
+            "blackoutActivatorpingStaticDelaySlider": {
+                "value": 50
+            },
+            "blackoutActivatorpingSummonerSpellUsage": {
+                "value": false
+            },
+            "blackoutActivatorpingUltimateUsage": {
+                "value": false
+            },
+            "blackoutActivatorpingUtilityEnemyWards": {
+                "value": false
+            },
+            "blackoutActivatorpingUtilityEnemyWardsPingType": {
+                "value": 0
+            },
+            "blackoutActivatorpingUtilityHumanizer": {
+                "value": 2
+            }
+        },
+        "blackoutActivatorthreshAutoLanternTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "autoLanternForceKey": {
+                "IsToggle": false,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "autoLanternSemiCursorRange": {
+                "value": 1150
+            },
+            "blackoutActivatorautoLanternDelay": {
+                "value": 0
+            },
+            "blackoutActivatorautoLanternDelayModeComboN": {
+                "value": 1
+            },
+            "blackoutActivatorautoLanternEnableToggle": {
+                "value": true
+            },
+            "blackoutActivatorautoLanternEnemiesRangeSlider": {
+                "value": 600
+            },
+            "blackoutActivatorautoLanternEnemiesSlider": {
+                "value": 1
+            },
+            "blackoutActivatorautoLanternHumanizerX": {
+                "value": 100
+            },
+            "blackoutActivatorautoLanternHumanizerY": {
+                "value": 200
+            },
+            "blackoutActivatorautoLanternIfOurHeroBelowHP": {
+                "value": 15
+            },
+            "blackoutActivatorautoLanternOnlyCombo": {
+                "value": true
+            },
+            "blackoutActivatorthreshAutoWard": {
+                "value": true
+            },
+            "blackoutActivatorthreshAutoWardCombo": {
+                "value": true
+            },
+            "blackoutActivatorthreshAutoWardControl": {
+                "value": false
+            },
+            "blackoutActivatorthreshAutoWardFarsight": {
+                "value": true
+            },
+            "blackoutActivatorthreshAutoWardSupportItem": {
+                "value": true
+            }
+        },
+        "blackoutActivatorturnAroundTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorautoTurnAroundC": {
+                "value": true
+            },
+            "blackoutActivatorturnAroundCombo": {
+                "value": false
+            },
+            "blackoutActivatorturnAroundEvade": {
+                "value": true
+            },
+            "blackoutActivatorturnAround_Cass": {
+                "value": true
+            },
+            "blackoutActivatorturnAround_Trynda": {
+                "value": true
+            }
+        },
+        "blackoutActivatorturretRangeTracker": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorally_turretRangeBonus": {
+                "value": 50
+            },
+            "blackoutActivatorally_turretRangeColorPick": {
+                "color": 4278248703
+            },
+            "blackoutActivatorally_turretRangeDistanceCheck": {
+                "value": 1800
+            },
+            "blackoutActivatorally_turretRangeEnabled": {
+                "value": false
+            },
+            "blackoutActivatorally_turretRangeInsideGlowPower": {
+                "value": 0
+            },
+            "blackoutActivatorally_turretRangeInsideGlowSize": {
+                "value": 0
+            },
+            "blackoutActivatorally_turretRangeOutsideGlowPower": {
+                "value": 82
+            },
+            "blackoutActivatorally_turretRangeOutsideGlowSize": {
+                "value": 100
+            },
+            "blackoutActivatorally_turretRangeThickness": {
+                "value": 2
+            },
+            "blackoutActivatorturretRangeBonus": {
+                "value": 50
+            },
+            "blackoutActivatorturretRangeColorPick": {
+                "color": 4278248703
+            },
+            "blackoutActivatorturretRangeColorPickAggro": {
+                "color": 4278196223
+            },
+            "blackoutActivatorturretRangeDistanceCheck": {
+                "value": 1800
+            },
+            "blackoutActivatorturretRangeEnabled": {
+                "value": false
+            },
+            "blackoutActivatorturretRangeInsideGlowPower": {
+                "value": 0
+            },
+            "blackoutActivatorturretRangeInsideGlowSize": {
+                "value": 0
+            },
+            "blackoutActivatorturretRangeOutsideGlowPower": {
+                "value": 82
+            },
+            "blackoutActivatorturretRangeOutsideGlowSize": {
+                "value": 100
+            },
+            "blackoutActivatorturretRangeThickness": {
+                "value": 2
+            }
+        }
+    },
+    "blackoutActivatorblackoutActivatorPermashowTab": {
+        "IsOpen": {
+            "value": false
+        },
+        "blackoutActivatordrawPermashow": {
+            "value": false
+        },
+        "blackoutActivatorpermashowBackgroundColor": {
+            "color": 1677721600
+        },
+        "blackoutActivatorpermashowDragKey": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 1,
+            "value": false
+        },
+        "blackoutActivatorpermashowTextColor": {
+            "color": 4289722171
+        },
+        "blackoutActivatorpermashowWidth": {
+            "value": 300
+        },
+        "blackoutActivatorpermashowX": {
+            "value": 1215
+        },
+        "blackoutActivatorpermashowY": {
+            "value": 900
+        }
+    },
     "core_plugins": {
         "IsOpen": {
             "value": false
@@ -9325,6 +11981,34 @@
                 "IsOpen": {
                     "value": false
                 },
+                "barier": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "barier_enable": {
+                        "value": true
+                    }
+                },
+                "exhaust": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "exhaust_always_combo": {
+                        "value": false
+                    },
+                    "exhaust_enable": {
+                        "value": true
+                    },
+                    "exhaust_force": {
+                        "IsToggle": false,
+                        "MouseWheelBind": false,
+                        "key": 71,
+                        "value": false
+                    },
+                    "exhaust_important_spells": {
+                        "value": false
+                    }
+                },
                 "heal": {
                     "IsOpen": {
                         "value": false
@@ -9443,6 +12127,21 @@
                 "value": 1
             },
             "Asheleveler.start_lvl": {
+                "value": 2
+            },
+            "Caitlynleveler.enabled": {
+                "value": true
+            },
+            "Caitlynleveler.lvl1": {
+                "value": 1
+            },
+            "Caitlynleveler.lvl2": {
+                "value": 1
+            },
+            "Caitlynleveler.lvl3": {
+                "value": 1
+            },
+            "Caitlynleveler.start_lvl": {
                 "value": 2
             },
             "Fioraleveler.enabled": {
@@ -9865,6 +12564,9 @@
                 "disable_aa_comboAshe": {
                     "value": 0
                 },
+                "disable_aa_comboCaitlyn": {
+                    "value": 0
+                },
                 "disable_aa_comboFiora": {
                     "value": 0
                 },
@@ -9872,6 +12574,9 @@
                     "value": 0
                 },
                 "disable_aa_combo_aa_cntAshe": {
+                    "value": 2
+                },
+                "disable_aa_combo_aa_cntCaitlyn": {
                     "value": 2
                 },
                 "disable_aa_combo_aa_cntFiora": {
@@ -9882,6 +12587,9 @@
                 }
             },
             "support.support_mode.Ashe": {
+                "value": false
+            },
+            "support.support_mode.Caitlyn": {
                 "value": false
             },
             "support.support_mode.Fiora": {
@@ -9972,6 +12680,9 @@
                 },
                 "plugin##bgx/BGX.dll##Ashe": {
                     "value": false
+                },
+                "plugin##bgx/BGX.dll##Caitlyn": {
+                    "value": false
                 }
             },
             "plugin##bgx/CSXAIO.dll": {
@@ -9982,6 +12693,14 @@
                     "value": false
                 },
                 "plugin##bgx/CSXAIO.dll##Riven": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/KiriAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/KiriAIO.dll##Caitlyn": {
                     "value": false
                 }
             },
@@ -10000,7 +12719,18 @@
                 "plugin##bgx/RTXPOWER.dll##Ashe": {
                     "value": false
                 },
+                "plugin##bgx/RTXPOWER.dll##Caitlyn": {
+                    "value": false
+                },
                 "plugin##bgx/RTXPOWER.dll##Fiora": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/1v9-AIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/1v9-AIO.dll##Caitlyn": {
                     "value": false
                 }
             },
@@ -10009,6 +12739,9 @@
                     "value": false
                 },
                 "plugin##rtx/LeaguesharpAIO.dll##Ashe": {
+                    "value": false
+                },
+                "plugin##rtx/LeaguesharpAIO.dll##Caitlyn": {
                     "value": false
                 },
                 "plugin##rtx/LeaguesharpAIO.dll##Fiora": {
@@ -10029,6 +12762,9 @@
                 },
                 "plugin##rtx/Marksman.dll##Ashe": {
                     "value": false
+                },
+                "plugin##rtx/Marksman.dll##Caitlyn": {
+                    "value": false
                 }
             },
             "plugin##rtx/SebasBGX.dll": {
@@ -10036,6 +12772,14 @@
                     "value": false
                 },
                 "plugin##rtx/SebasBGX.dll##Riven": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/ZzihaoAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/ZzihaoAIO.dll##Caitlyn": {
                     "value": false
                 }
             },
@@ -10102,6 +12846,9 @@
             },
             "plugin##rtx/AiPredV2.dll": {
                 "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/AiPredV2.dll": {
                     "value": false
                 }
             },
@@ -10439,6 +13186,135 @@
             }
         }
     },
+    "rtx_power_Caitlyn": {
+        "IsOpen": {
+            "value": false
+        },
+        "combo": {
+            "IsOpen": {
+                "value": false
+            },
+            "comboUseE": {
+                "value": true
+            },
+            "comboUseQ": {
+                "value": true
+            },
+            "comboUseR": {
+                "value": true
+            },
+            "comboUseW": {
+                "value": true
+            },
+            "comboUseWmelee": {
+                "value": true
+            }
+        },
+        "drawings": {
+            "Caitlyn.draw.E": {
+                "value": true
+            },
+            "Caitlyn.draw.Q": {
+                "value": true
+            },
+            "Caitlyn.draw.R": {
+                "value": true
+            },
+            "Caitlyn.draw.W": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "drawings.dmg_indicator.draw": {
+                "value": true
+            },
+            "drawings.only_ready": {
+                "value": false
+            }
+        },
+        "global": {
+            "IsOpen": {
+                "value": false
+            },
+            "spell_farm": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 4,
+                "value": true
+            }
+        },
+        "harass": {
+            "IsOpen": {
+                "value": false
+            },
+            "harassMana": {
+                "value": 50
+            },
+            "harassUseQ": {
+                "value": true
+            }
+        },
+        "hitchances": {
+            "Caitlynhitchance.E": {
+                "value": 2
+            },
+            "Caitlynhitchance.Q": {
+                "value": 2
+            },
+            "Caitlynhitchance.W": {
+                "value": 2
+            },
+            "IsOpen": {
+                "value": false
+            }
+        },
+        "jungleclear": {
+            "IsOpen": {
+                "value": false
+            },
+            "jungleclearMana": {
+                "value": 20
+            },
+            "jungleclearUseQ": {
+                "value": true
+            }
+        },
+        "laneclear": {
+            "IsOpen": {
+                "value": false
+            },
+            "laneclearMana": {
+                "value": 30
+            },
+            "laneclearUseQ": {
+                "value": true
+            }
+        },
+        "misc": {
+            "IsOpen": {
+                "value": false
+            },
+            "antigapcloser": {
+                "value": true
+            },
+            "autowBush": {
+                "value": true
+            },
+            "autowTurret": {
+                "value": true
+            },
+            "dash_to_mouse": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 71,
+                "value": false
+            },
+            "interrupter": {
+                "value": true
+            }
+        }
+    },
     "skinchanger": {
         "IsOpen": {
             "value": false
@@ -10446,6 +13322,62 @@
         "allies": {
             "IsOpen": {
                 "value": false
+            },
+            "hero_LeeSin": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.LeeSin": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.LeeSin": {
+                    "value": 0
+                }
+            },
+            "hero_Lux": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Lux": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Lux": {
+                    "value": 0
+                }
+            },
+            "hero_Mordekaiser": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Mordekaiser": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Mordekaiser": {
+                    "value": 0
+                }
+            },
+            "hero_Veigar": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Veigar": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Veigar": {
+                    "value": 0
+                }
             }
         },
         "enabled": {
@@ -10454,6 +13386,20 @@
         "enemies": {
             "IsOpen": {
                 "value": false
+            },
+            "hero_Anivia": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Anivia": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Anivia": {
+                    "value": 0
+                }
             },
             "hero_Chogath": {
                 "IsOpen": {
@@ -10466,6 +13412,34 @@
                     "value": 0
                 },
                 "skins.Chogath": {
+                    "value": 0
+                }
+            },
+            "hero_Corki": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Corki": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Corki": {
+                    "value": 0
+                }
+            },
+            "hero_Galio": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Galio": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Galio": {
                     "value": 0
                 }
             },
@@ -10496,6 +13470,34 @@
                 "skins.Jinx": {
                     "value": 0
                 }
+            },
+            "hero_XinZhao": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.XinZhao": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.XinZhao": {
+                    "value": 0
+                }
+            },
+            "hero_Zyra": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Zyra": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Zyra": {
+                    "value": 0
+                }
             }
         },
         "local": {
@@ -10513,6 +13515,20 @@
                     "value": 0
                 },
                 "skins.Ashe": {
+                    "value": 0
+                }
+            },
+            "hero_Caitlyn": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Caitlyn": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Caitlyn": {
                     "value": 0
                 }
             },
