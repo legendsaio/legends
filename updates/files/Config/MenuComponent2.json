@@ -365,6 +365,63 @@
             "IsOpen": {
                 "value": false
             },
+            "Volibear": {
+                "E VolibearE": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "E VolibearR": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
             "XinZhao": {
                 "IsOpen": {
                     "value": false
@@ -613,13 +670,25 @@
                 "IsOpen": {
                     "value": false
                 },
+                "spellBlockerEAshe": {
+                    "value": true
+                },
                 "spellBlockerECaitlyn": {
+                    "value": false
+                },
+                "spellBlockerQAshe": {
                     "value": false
                 },
                 "spellBlockerQCaitlyn": {
                     "value": true
                 },
+                "spellBlockerRAshe": {
+                    "value": false
+                },
                 "spellBlockerRCaitlyn": {
+                    "value": true
+                },
+                "spellBlockerWAshe": {
                     "value": true
                 },
                 "spellBlockerWCaitlyn": {
@@ -9995,6 +10064,29 @@
                     "value": 16
                 }
             },
+            "blackoutActivatorghostIndicatorTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatordrawGhostColorPickerDisabled": {
+                    "color": 3860398335
+                },
+                "blackoutActivatordrawGhostColorPickerEnabled": {
+                    "color": 3875536895
+                },
+                "blackoutActivatordrawGhostFontPickSize": {
+                    "value": 18
+                },
+                "blackoutActivatordrawGhostIndicatorCheckBox": {
+                    "value": true
+                },
+                "blackoutActivatordrawGhostStatusX": {
+                    "value": 5
+                },
+                "blackoutActivatordrawGhostStatusY": {
+                    "value": 65
+                }
+            },
             "blackoutActivatorthreshLanternDrawingsTab": {
                 "IsOpen": {
                     "value": false
@@ -10340,6 +10432,20 @@
                     "IsOpen": {
                         "value": false
                     },
+                    "VolibearCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPVolibearQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesVolibearQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.VolibearQ": {
+                            "value": true
+                        }
+                    },
                     "ZyraCC_DB": {
                         "IsOpen": {
                             "value": false
@@ -10640,6 +10746,23 @@
                     "IsOpen": {
                         "value": false
                     },
+                    "VolibearCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPVolibearQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayVolibearQ": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesVolibearQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.VolibearQ": {
+                            "value": true
+                        }
+                    },
                     "ZyraCC_DB": {
                         "IsOpen": {
                             "value": false
@@ -10827,6 +10950,20 @@
                     "IsOpen": {
                         "value": false
                     },
+                    "VolibearCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPVolibearQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesVolibearQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorstopwatchEnabled.VolibearQ": {
+                            "value": true
+                        }
+                    },
                     "ZyraCC_DB": {
                         "IsOpen": {
                             "value": false
@@ -10885,6 +11022,20 @@
                     },
                     "IsOpen": {
                         "value": false
+                    },
+                    "VolibearCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPVolibearQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesVolibearQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorzhonyaEnabled.VolibearQ": {
+                            "value": true
+                        }
                     },
                     "ZyraCC_DB": {
                         "IsOpen": {
@@ -11281,6 +11432,135 @@
                 "value": false
             }
         },
+        "blackoutActivatorsummonerGhost": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorsummonerGhostChaseUsage": {
+                "value": true
+            },
+            "blackoutActivatorsummonerGhostChaseUsageCursorDistance": {
+                "value": 200
+            },
+            "blackoutActivatorsummonerGhostChaseUsageDistanceToEnemy": {
+                "value": 600
+            },
+            "blackoutActivatorsummonerGhostChaseUsageHPSlider": {
+                "value": 40
+            },
+            "blackoutActivatorsummonerGhostCheckbox": {
+                "value": true
+            },
+            "blackoutActivatorsummonerGhostFleeModeUsage": {
+                "value": false
+            },
+            "blackoutActivatorsummonerGhostFleeUsageHPSlider": {
+                "value": 35
+            },
+            "blackoutActivatorsummonerGhostWhitelistTab": {
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "summonerGhostUnderTowerHotkey": {
+                "IsToggle": true,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": true
+            }
+        },
+        "blackoutActivatorsummonerHeal": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatordontUseHealLevelOne": {
+                "value": true
+            },
+            "blackoutActivatorhealCheckForEnemiesInRangeSlider": {
+                "value": 850
+            },
+            "blackoutActivatorsummonerHealAlliesSettingsTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorhealAllyIncDmgIncludeSkillshot": {
+                    "value": true
+                },
+                "blackoutActivatorsummonerHealAlliesIgnited": {
+                    "value": 1
+                },
+                "blackoutActivatorsummonerHealAlliesIgnitedDuration": {
+                    "value": 4
+                },
+                "blackoutActivatorsummonerHealAlliesIgnitedHP": {
+                    "value": 200
+                },
+                "blackoutActivatorsummonerHealAlliesIgnitedMaxEnemies": {
+                    "value": 4
+                },
+                "blackoutActivatoruseHealIncDmgAllies": {
+                    "value": false
+                },
+                "blackoutActivatoruseHealIncDmgIfAllyBelowHP": {
+                    "value": 15
+                },
+                "blackoutActivatoruseHealIncDmgIfAllyWillBeBelowHP": {
+                    "value": false
+                },
+                "blackoutActivatoruseHealIncDmgSliderAllies": {
+                    "value": 15
+                },
+                "blackoutActivatorusehealifAllyWillDie": {
+                    "value": true
+                },
+                "blackoutActivatorwhitelistHealTabMenu": {
+                    "IsOpen": {
+                        "value": false
+                    }
+                }
+            },
+            "blackoutActivatorsummonerHealOurHeroSettingsTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorsummonerHealOurHeroIgnited": {
+                    "value": 0
+                },
+                "blackoutActivatorsummonerHealOurHeroIgnitedDuration": {
+                    "value": 4
+                },
+                "blackoutActivatorsummonerHealOurHeroIgnitedHP": {
+                    "value": 350
+                },
+                "blackoutActivatorsummonerHealOurHeroIgnitedMaxEnemies": {
+                    "value": 4
+                },
+                "blackoutActivatoruseHealHardCC": {
+                    "value": false
+                },
+                "blackoutActivatoruseHealIfMyheroDies": {
+                    "value": true
+                },
+                "blackoutActivatoruseHealIncomingDamageIncludeSkillshots": {
+                    "value": true
+                },
+                "blackoutActivatoruseHealIncomingDamageMechanic": {
+                    "value": true
+                },
+                "blackoutActivatoruseHealIncomingDamageSlider": {
+                    "value": 30
+                },
+                "blackoutActivatoruseIncDmgMakeOurHeroBelowHP": {
+                    "value": 15
+                }
+            },
+            "blackoutActivatoruseHeal": {
+                "value": true
+            },
+            "blackoutActivatoruseHealOnlyInCombo": {
+                "value": true
+            }
+        },
         "blackoutActivatorusageOfElixirs": {
             "IsOpen": {
                 "value": false
@@ -11532,6 +11812,9 @@
                     "value": false
                 },
                 "IsOpen": {
+                    "value": false
+                },
+                "Volibear": {
                     "value": false
                 },
                 "XinZhao": {
@@ -12955,7 +13238,7 @@
                     "value": false
                 },
                 "plugin##bgx/BGXEvade.dll": {
-                    "value": false
+                    "value": true
                 }
             },
             "plugin##bgx/BlackOutActivator.dll": {
@@ -12963,7 +13246,7 @@
                     "value": false
                 },
                 "plugin##bgx/BlackOutActivator.dll": {
-                    "value": false
+                    "value": true
                 }
             },
             "plugin##bgx/FerrisUtilities.dll": {
@@ -13050,6 +13333,8 @@
     },
     "pluginsLoadAlways": {
         "global": {
+            "bgx/BGXEvade.dll": true,
+            "bgx/BlackOutActivator.dll": true,
             "bgx/Utility.dll": true,
             "bgx/core_plugin.dll": true
         }
@@ -13468,6 +13753,20 @@
                     "value": 0
                 },
                 "skins.Jinx": {
+                    "value": 0
+                }
+            },
+            "hero_Volibear": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Volibear": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Volibear": {
                     "value": 0
                 }
             },
