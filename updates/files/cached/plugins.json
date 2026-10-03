@@ -1162,12 +1162,12 @@
     "name": "Evade",
     "plugin_type": 0,
     "supported": [],
-    "updateTime": 1717151956,
+    "updateTime": 1791019595,
     "source": "bgx",
     "relativePath": "bgx/files/plugins/x64/BGXEvade.dll",
     "container": "pcne",
-    "sourceSha256": "c95877c3e02a30e0f11ebbc33087a11dbe802c457aa123c149c12bc73eb49538",
-    "imageSha256": "dbf4ab6e0b2b8f79bbb641c4731f7f925701a39b4b706afd507e8f12f8520a45",
+    "sourceSha256": "e22ddfcc412bc7ef3e69dc2b8eb5de368417dcd21ecfb41a61cc25a9d2bc0fc0",
+    "imageSha256": "9b859f1dde72f2842656c1a7588aa83757cf6dd018274616da74a22327422e5d",
     "loadable": true
   },
   {

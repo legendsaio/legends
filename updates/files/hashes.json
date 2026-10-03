@@ -415,7 +415,7 @@
     {
       "path": "cached/bgx/files/plugins/x64/BGXEvade.dll",
       "size": 1196604,
-      "sha256": "c95877c3e02a30e0f11ebbc33087a11dbe802c457aa123c149c12bc73eb49538"
+      "sha256": "e22ddfcc412bc7ef3e69dc2b8eb5de368417dcd21ecfb41a61cc25a9d2bc0fc0"
     },
     {
       "path": "cached/bgx/files/plugins/x64/BlackOutAIO.dll",
@@ -950,17 +950,17 @@
     {
       "path": "cached/checksums.json",
       "size": 4926,
-      "sha256": "b03ce60fc199122306d73e245afb788f2cb929c3653c67278a57e16918727b9e"
+      "sha256": "7bae5a25fab7aae973d0230ea3e2f8d94445058f7fcac26cdf98dbea50a0b58f"
     },
     {
       "path": "cached/plugins.json",
       "size": 41914,
-      "sha256": "8dd317aa22ddd7479ebad4a9b5f528fbd1e136921a499b0b3d54168683a9bb8f"
+      "sha256": "f1fe7ad745a477d55bb31f654341ad12e9b6c8571222a0caaf075372b0c20cf1"
     },
     {
       "path": "cached/plugins.sig",
       "size": 89,
-      "sha256": "0e4519bae9c28624151c19f374977b7dc48f8417e0819de706cd3c3f1bbd7345"
+      "sha256": "b56f8a018d37eed21b4b7b01206acd317e40d8d6d633f8906f94f66cd3571c28"
     },
     {
       "path": "cached/rtx/plugins/1v9-AIO.dll",
