@@ -28,36 +28,6 @@
       "sha256": "44104b6a8eb49f8677613df89a2e1197190cca5df2d5219377255a5780bec898"
     },
     {
-      "path": "Resource/Localization/myapp.legendsense/README.md",
-      "size": 3775,
-      "sha256": "d423fb8c42c324f41f8b0bff3a1e322e712fef93f89e0184b8ae6f7ce35e5818"
-    },
-    {
-      "path": "Resource/Localization/myapp.legendsense/en-US.json",
-      "size": 80894,
-      "sha256": "770a16eceab2228c39c05d07a37c4fe17ad2d95ea8b395883bc47a01c32f8c71"
-    },
-    {
-      "path": "Resource/Localization/myapp.legendsense/vi-VN.json",
-      "size": 96020,
-      "sha256": "16106c6b35b33077dad0f26e58a49e73784a9d9a66dd3e8d434cf90b4ef6f4cb"
-    },
-    {
-      "path": "Resource/Localization/myapp.legendsense/zh-CN.json",
-      "size": 80762,
-      "sha256": "a4434abb815cb205c49c02647d5a13123f85f00df9d55eb85557e591c03da32b"
-    },
-    {
-      "path": "Resource/common/common.lua",
-      "size": 62200,
-      "sha256": "b2afc1ed501e5352f03a83f5397a116e2bc40f2b73e5c5a76f05bd95294f2bfd"
-    },
-    {
-      "path": "Resource/common/damagelib.lua",
-      "size": 54196,
-      "sha256": "a780f92de3064baf59bd98655dd2af95ff20d4b2209f00daa5ad6e89bdff813d"
-    },
-    {
       "path": "Resource/fonts/AstroSpace.ttf.h",
       "size": 61757,
       "sha256": "cfdd74cbe2e1b12d40587e5f10021f9484df6c4898df70be77608fb9d61dc519"
@@ -91,81 +61,6 @@
       "path": "Resource/fonts/notosanssc-regular.vfont",
       "size": 8368851,
       "sha256": "35f0fe0925252cba01b7f32f7ed6d812c582cb452af8f3606108048266a6162f"
-    },
-    {
-      "path": "Resource/shaders/blur_x.glsl",
-      "size": 758,
-      "sha256": "89f88cbf85581327c4161e4e4ab917133f9cecd42b7ad44f4ab57cf288723108"
-    },
-    {
-      "path": "Resource/shaders/blur_x.h",
-      "size": 4576,
-      "sha256": "c402474a4f27ea158429a2d82d1eec59c8e1ca92da1005701ede2047d7cb8578"
-    },
-    {
-      "path": "Resource/shaders/blur_x.hlsl",
-      "size": 598,
-      "sha256": "001d5862bf1e5603355906e3e707208a423197723b6477e45e969660425010b3"
-    },
-    {
-      "path": "Resource/shaders/blur_y.glsl",
-      "size": 761,
-      "sha256": "89b93a5ffc0dd2f3b76642dd0f589db1044f8f860053cfb96a21a1e37be41fd0"
-    },
-    {
-      "path": "Resource/shaders/blur_y.h",
-      "size": 4577,
-      "sha256": "c8145de1c8469e2c14acae13093ec383e745c1ce7b6d9f9c97b440276dc97c20"
-    },
-    {
-      "path": "Resource/shaders/blur_y.hlsl",
-      "size": 601,
-      "sha256": "b9d9b6ec0113fd91f50199f1923f9f89b012dfb7b8b18caf9fc39f4475be830f"
-    },
-    {
-      "path": "Resource/shaders/chromatic_aberration.glsl",
-      "size": 518,
-      "sha256": "9a061dd1a6915131529261cbc347cfe214ecb4e705433796748befba81dafead"
-    },
-    {
-      "path": "Resource/shaders/chromatic_aberration.h",
-      "size": 2836,
-      "sha256": "e507eed60edece42582f10bc95f8efe911a8621e557b69d4c41fc0e7c89027fd"
-    },
-    {
-      "path": "Resource/shaders/chromatic_aberration.hlsl",
-      "size": 266,
-      "sha256": "d9b0294ea70916a008e0c11408a8288b6ba51b55376147282889b9e32f895682"
-    },
-    {
-      "path": "Resource/shaders/default_vs.h",
-      "size": 2090,
-      "sha256": "c7b03219aea279228365b74d25862b1d547d21d45823cd29256b888910c8d0ca"
-    },
-    {
-      "path": "Resource/shaders/default_vs.hlsl",
-      "size": 457,
-      "sha256": "d9117ffbb07b93bf4d2dcfd55fb126df62bf832cf2729fe54f375e0045607db1"
-    },
-    {
-      "path": "Resource/shaders/monochrome.glsl",
-      "size": 490,
-      "sha256": "5bac7528794b7f7a8bed28c170d1df443a2d66fd02c9a147941ead4f451024cd"
-    },
-    {
-      "path": "Resource/shaders/monochrome.h",
-      "size": 2468,
-      "sha256": "eeb2313470c87b39c4bfd7a529bfb2a8330d1c18522440b668d0a94d73da272f"
-    },
-    {
-      "path": "Resource/shaders/monochrome.hlsl",
-      "size": 246,
-      "sha256": "919f416b5c0aea81982e7db74d0e38372d20f28c98465251ad2c7df70323f12e"
-    },
-    {
-      "path": "Resource/shaders/passthrough.glsl",
-      "size": 246,
-      "sha256": "6a5aa4f18d0b707b4cbe74d55b53a851d9ac06065508c0da5604c340e2a1bbd0"
     },
     {
       "path": "cached/1022257066",
