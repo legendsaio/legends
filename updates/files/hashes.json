@@ -28,6 +28,26 @@
       "sha256": "77b881e8667a41a0ee956adbfe1c70b1579d450255213295b29884fe377ac9da"
     },
     {
+      "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/Ijwhost.dll",
+      "size": 129800,
+      "sha256": "595a01cf6f215f88235b4ae3430c6054bb348baf1d2348340f80e992e56a55f4"
+    },
+    {
+      "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/LeaguePatchCollectionCore.deps.json",
+      "size": 447,
+      "sha256": "b6120cbb291cd8b7e911f91205f59adc42ff1339f11b86c3ef1f57f7cb340406"
+    },
+    {
+      "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/LeaguePatchCollectionCore.dll",
+      "size": 148992,
+      "sha256": "780fc3316761a843f2bf9d4b450a3b4995b9933c7a39e72d169f2dc792a67221"
+    },
+    {
+      "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/LeaguePatchCollectionCpp.runtimeconfig.json",
+      "size": 497,
+      "sha256": "50b22e441c02208a3130c59203312e0f1497403b42a071db2acbbf0c7abc013e"
+    },
+    {
       "path": "Resource/fonts/AstroSpace.ttf.h",
       "size": 61757,
       "sha256": "cfdd74cbe2e1b12d40587e5f10021f9484df6c4898df70be77608fb9d61dc519"

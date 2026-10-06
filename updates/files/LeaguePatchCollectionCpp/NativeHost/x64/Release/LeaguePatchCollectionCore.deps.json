@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net8.0-windows",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net8.0-windows": {
+      "LeaguePatchCollectionCore/1.0.0": {
+        "runtime": {
+          "LeaguePatchCollectionCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeaguePatchCollectionCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
