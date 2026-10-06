@@ -23,9 +23,9 @@
       "sha256": "3c6189661877348a2d517db63a7dd916f10c4457d058446b1918dc5c774f1f65"
     },
     {
-      "path": "Config/MenuComponent2.json",
-      "size": 507860,
-      "sha256": "44104b6a8eb49f8677613df89a2e1197190cca5df2d5219377255a5780bec898"
+      "path": "Config/rtx.json",
+      "size": 1507032,
+      "sha256": "77b881e8667a41a0ee956adbfe1c70b1579d450255213295b29884fe377ac9da"
     },
     {
       "path": "Resource/fonts/AstroSpace.ttf.h",
