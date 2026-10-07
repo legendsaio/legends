@@ -1,20 +1,24 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "aio-20261007-114457",
-  "key_id": "aio-20261007-114457",
-  "generated_at": "2026-10-07T04:45:07.5218869Z",
+  "version": "aio-20261007-154808",
+  "key_id": "aio-20261007-154808",
+  "generated_at": "2026-10-07T08:48:17.7646085Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "files": [
     {
       "path": "myapp.rtx.dll",
       "url": "myapp.rtx.dll.laioenc",
       "encryption": "LAIOENC1",
-      "size": 7078952,
-      "sha256": "2a859c641b47f2a8b4291b84c4f72de1c854ede7bfe87dcb38c2ec09e90e00f3",
-      "plain_sha256": "7082f795125cf8ce2916f4f1dd6fb14a108d3a6e3fcf868f7eb2a25df39ff633",
-      "component_version": "16.20.824.8524.02",
+      "size": 7067688,
+      "sha256": "410bd70fa5253ac7aa838ea4655df0740803b945327a502281598fd0368010ac",
+      "plain_sha256": "204b312f8b69ab6c46ea0df8944e1a133ac3c376121056bd7cbc08bb02a4027f",
+      "component_version": "16.20.824.8524.03",
       "version_history": [
+        {
+          "version": "16.20.824.8524.03",
+          "sha256": "410bd70fa5253ac7aa838ea4655df0740803b945327a502281598fd0368010ac"
+        },
         {
           "version": "16.20.824.8524.02",
           "sha256": "2a859c641b47f2a8b4291b84c4f72de1c854ede7bfe87dcb38c2ec09e90e00f3"
@@ -57,11 +61,15 @@
       "path": "myapp.legendsense.dll",
       "url": "myapp.legendsense.dll.laioenc",
       "encryption": "LAIOENC1",
-      "size": 23862824,
-      "sha256": "5f4e50ad0f9fe16c4914cfecf9d5e26289442bbb13b6d93247dceb47b9ccda9d",
-      "plain_sha256": "94e15bf35a4d91edfe4ee556c499843f8d50ca59c6fc34c0d2ab3b9bea668c5e",
-      "component_version": "16.20.824.8524.02",
+      "size": 23853096,
+      "sha256": "684bbd63144d7451e3eac9e5d1f0984bc91040f87cfa3b10068f30fd84f35921",
+      "plain_sha256": "f558d7e641ab6de5ce903d1db8cd1a869939f0985af0cac159c16703ca13eae1",
+      "component_version": "16.20.824.8524.03",
       "version_history": [
+        {
+          "version": "16.20.824.8524.03",
+          "sha256": "684bbd63144d7451e3eac9e5d1f0984bc91040f87cfa3b10068f30fd84f35921"
+        },
         {
           "version": "16.20.824.8524.02",
           "sha256": "5f4e50ad0f9fe16c4914cfecf9d5e26289442bbb13b6d93247dceb47b9ccda9d"
@@ -153,6 +161,6 @@
   "game_support": {
     "url": "supported_versions.json",
     "size": 442,
-    "sha256": "D240B5DFCFFD286DA550E7BDDA9570284D1EB511F293C12E39D52B873D58B3BC"
+    "sha256": "FBE0E3F4D9D71B020A6D9CCA2F341696B2983D1A53A909CCE539ACB9C462DBC6"
   }
 }
