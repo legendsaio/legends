@@ -19,13 +19,13 @@
     },
     {
       "path": "Config/MenuComponent.json",
-      "size": 2545848,
-      "sha256": "3c6189661877348a2d517db63a7dd916f10c4457d058446b1918dc5c774f1f65"
+      "size": 2546348,
+      "sha256": "3169803c16f5695362c920774d4c9522270bedd1fabd4c789cdcca4f53466e0e"
     },
     {
       "path": "Config/rtx.json",
-      "size": 1507032,
-      "sha256": "77b881e8667a41a0ee956adbfe1c70b1579d450255213295b29884fe377ac9da"
+      "size": 1461210,
+      "sha256": "782261cdb4fd6d159666e5e476420ef921d1d70362102593ca0e09c9deadd6ca"
     },
     {
       "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/Ijwhost.dll",

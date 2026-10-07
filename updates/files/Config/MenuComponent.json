@@ -17666,10 +17666,7 @@
     },
     "Riven": {
       "FH Official": {
-        "load": false
-      },
-      "Riven": {
-        "load": false
+        "load": true
       },
       "[Xaxup AIO]": {
         "load": false
@@ -17855,7 +17852,7 @@
     "Karma": 2,
     "Nidalee": 2,
     "Ornn": 2,
-    "Riven": 1,
+    "Riven": 2,
     "TwistedFate": 1,
     "Varus": 2,
     "Vayne": 2,
@@ -34104,6 +34101,12 @@
     "Avada AIO": {
       "load": false
     },
+    "CC - AIO": {
+      "load": false
+    },
+    "DanZAIO": {
+      "load": false
+    },
     "FH Official": {
       "load": false
     },
@@ -34116,6 +34119,9 @@
     "Kernel Utility": {
       "load": false
     },
+    "L#": {
+      "load": false
+    },
     "Legend - XP TRACKER": {
       "load": false
     },
@@ -34126,6 +34132,9 @@
       "load": false
     },
     "NS": {
+      "load": false
+    },
+    "Notasy AIO": {
       "load": false
     },
     "NovaChamps": {
@@ -34143,10 +34152,16 @@
     "R-AIO": {
       "load": false
     },
+    "RU(SA)_AIO": {
+      "load": false
+    },
     "Ragnarok": {
       "load": false
     },
     "RushPack": {
+      "load": false
+    },
+    "T0-AIO": {
       "load": false
     },
     "Victory - 工具箱": {
@@ -34168,6 +34183,9 @@
       "load": false
     },
     "[Xaxup AIO]": {
+      "load": false
+    },
+    "[YL AIO]": {
       "load": false
     },
     "cache 1372655327": {
@@ -34195,6 +34213,9 @@
       "load": false
     },
     "tripp tech": {
+      "load": false
+    },
+    "小海-AI合集": {
       "load": false
     }
   },
@@ -73926,6 +73947,10 @@
         "champListPracticeTool_TargetDummy": {
           "PermaShowValue": false,
           "value": true
+        },
+        "champListTryndamere": {
+          "PermaShowValue": false,
+          "value": true
         }
       },
       "burstEsave": {
@@ -77190,6 +77215,10 @@
       "Reset": {
         "PermaShowValue": false,
         "value": false
+      },
+      "Tryndamere": {
+        "PermaShowValue": false,
+        "value": 2
       }
     }
   },
@@ -116834,7 +116863,7 @@
     },
     "skinList": {
       "PermaShowValue": false,
-      "value": 0
+      "value": 19
     },
     "switchDown": {
       "IsToggle": true,
