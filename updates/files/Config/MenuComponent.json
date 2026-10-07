@@ -17562,12 +17562,15 @@
     },
     "Jhin": {
       "Notasy AIO": {
-        "load": false
+        "load": true
       },
       "NovaChamps": {
         "load": false
       },
       "RU(SA)_AIO": {
+        "load": false
+      },
+      "小海-AI合集": {
         "load": false
       }
     },
@@ -30027,11 +30030,31 @@
           "PermaShowValue": false,
           "value": true
         },
+        "Kassadin": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Lulu": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Nasus": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "PracticeTool_TargetDummy": {
           "PermaShowValue": false,
           "value": true
         },
         "Smolder": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Varus": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Zaahen": {
           "PermaShowValue": false,
           "value": true
         }
@@ -34111,7 +34134,7 @@
       "load": false
     },
     "FH Utility": {
-      "load": false
+      "load": true
     },
     "FrostAIO": {
       "load": false
@@ -34134,12 +34157,6 @@
     "NS": {
       "load": false
     },
-    "Notasy AIO": {
-      "load": false
-    },
-    "NovaChamps": {
-      "load": false
-    },
     "NovaUtils": {
       "load": false
     },
@@ -34150,9 +34167,6 @@
       "load": false
     },
     "R-AIO": {
-      "load": false
-    },
-    "RU(SA)_AIO": {
       "load": false
     },
     "Ragnarok": {
@@ -34213,9 +34227,6 @@
       "load": false
     },
     "tripp tech": {
-      "load": false
-    },
-    "小海-AI合集": {
       "load": false
     }
   },
@@ -57238,6 +57249,15 @@
           "value": true
         }
       },
+      "RU_ACTIVATORBoostLulu": {
+        "IsOpen": {
+          "value": false
+        },
+        "W": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
       "RU_ACTIVATORBoostMalphite": {
         "IsOpen": {
           "value": false
@@ -57263,6 +57283,15 @@
         "Q": {
           "PermaShowValue": false,
           "value": true
+        }
+      },
+      "RU_ACTIVATORBoostNasus": {
+        "IsOpen": {
+          "value": false
+        },
+        "W": {
+          "PermaShowValue": false,
+          "value": false
         }
       },
       "RU_ACTIVATORBoostNautilus": {
@@ -58379,6 +58408,54 @@
               "PermaShowValue": false
             }
           },
+          "RU_ACTIVATORFlashlistblockmenuKassadin": {
+            "0": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "0HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "1": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "1HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "2": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "2HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "3HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "64": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "64HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "IsOpen": {
+              "value": false
+            },
+            "as": {
+              "PermaShowValue": false
+            }
+          },
           "RU_ACTIVATORFlashlistblockmenuLeeSin": {
             "0": {
               "PermaShowValue": false,
@@ -58428,6 +58505,54 @@
             }
           },
           "RU_ACTIVATORFlashlistblockmenuLissandra": {
+            "0": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "0HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "1": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "1HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "2": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "2HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "3HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "64": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "64HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "IsOpen": {
+              "value": false
+            },
+            "as": {
+              "PermaShowValue": false
+            }
+          },
+          "RU_ACTIVATORFlashlistblockmenuLulu": {
             "0": {
               "PermaShowValue": false,
               "value": false
@@ -58628,6 +58753,54 @@
             }
           },
           "RU_ACTIVATORFlashlistblockmenuNami": {
+            "0": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "0HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "1": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "1HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "2": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "2HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "3HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "64": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "64HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "IsOpen": {
+              "value": false
+            },
+            "as": {
+              "PermaShowValue": false
+            }
+          },
+          "RU_ACTIVATORFlashlistblockmenuNasus": {
             "0": {
               "PermaShowValue": false,
               "value": false
@@ -59211,6 +59384,62 @@
               "PermaShowValue": false
             }
           },
+          "RU_ACTIVATORFlashlistblockmenuVarus": {
+            "0": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "0HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "1": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "1HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "2": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "2HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "33": {
+              "PermaShowValue": false,
+              "value": true
+            },
+            "33HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "64": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "64HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "IsOpen": {
+              "value": false
+            },
+            "as": {
+              "PermaShowValue": false
+            }
+          },
           "RU_ACTIVATORFlashlistblockmenuVayne": {
             "0": {
               "PermaShowValue": false,
@@ -59499,6 +59728,54 @@
               "PermaShowValue": false
             }
           },
+          "RU_ACTIVATORFlashlistblockmenuZaahen": {
+            "0": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "0HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "1": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "1HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "2": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "2HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "3HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "64": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "64HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "IsOpen": {
+              "value": false
+            },
+            "as": {
+              "PermaShowValue": false
+            }
+          },
           "RU_ACTIVATORFlashlistblockmenuZiggs": {
             "0": {
               "PermaShowValue": false,
@@ -59716,6 +59993,22 @@
           "value": false
         },
         "Kaisa": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "KogMaw": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Lissandra": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Sejuani": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Sona": {
           "PermaShowValue": false,
           "value": true
         },
@@ -60041,11 +60334,19 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Kassadin": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "LeeSin": {
             "PermaShowValue": false,
             "value": true
           },
           "Lissandra": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Lulu": {
             "PermaShowValue": false,
             "value": true
           },
@@ -60062,6 +60363,10 @@
             "value": true
           },
           "Nami": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Nasus": {
             "PermaShowValue": false,
             "value": true
           },
@@ -60109,6 +60414,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Varus": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Vayne": {
             "PermaShowValue": false,
             "value": true
@@ -60130,6 +60439,10 @@
             "value": true
           },
           "Yunara": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Zaahen": {
             "PermaShowValue": false,
             "value": true
           },
@@ -60273,11 +60586,19 @@
           "PermaShowValue": false,
           "value": true
         },
+        "Kassadin": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "LeeSin": {
           "PermaShowValue": false,
           "value": true
         },
         "Lissandra": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Lulu": {
           "PermaShowValue": false,
           "value": true
         },
@@ -60294,6 +60615,10 @@
           "value": true
         },
         "Nami": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Nasus": {
           "PermaShowValue": false,
           "value": true
         },
@@ -60341,6 +60666,10 @@
           "PermaShowValue": false,
           "value": true
         },
+        "Varus": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "Vayne": {
           "PermaShowValue": false,
           "value": true
@@ -60362,6 +60691,10 @@
           "value": true
         },
         "Yunara": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Zaahen": {
           "PermaShowValue": false,
           "value": true
         },
@@ -61310,6 +61643,54 @@
               "PermaShowValue": false
             }
           },
+          "RU_ACTIVATORexhaustlistblockmenuKassadin": {
+            "0": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "0HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "1": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "1HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "2": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "2HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "3HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "64": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "64HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "IsOpen": {
+              "value": false
+            },
+            "as": {
+              "PermaShowValue": false
+            }
+          },
           "RU_ACTIVATORexhaustlistblockmenuLeeSin": {
             "0": {
               "PermaShowValue": false,
@@ -61359,6 +61740,54 @@
             }
           },
           "RU_ACTIVATORexhaustlistblockmenuLissandra": {
+            "0": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "0HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "1": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "1HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "2": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "2HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "3HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "64": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "64HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "IsOpen": {
+              "value": false
+            },
+            "as": {
+              "PermaShowValue": false
+            }
+          },
+          "RU_ACTIVATORexhaustlistblockmenuLulu": {
             "0": {
               "PermaShowValue": false,
               "value": false
@@ -61559,6 +61988,54 @@
             }
           },
           "RU_ACTIVATORexhaustlistblockmenuNami": {
+            "0": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "0HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "1": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "1HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "2": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "2HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "3HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "64": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "64HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "IsOpen": {
+              "value": false
+            },
+            "as": {
+              "PermaShowValue": false
+            }
+          },
+          "RU_ACTIVATORexhaustlistblockmenuNasus": {
             "0": {
               "PermaShowValue": false,
               "value": false
@@ -62142,6 +62619,62 @@
               "PermaShowValue": false
             }
           },
+          "RU_ACTIVATORexhaustlistblockmenuVarus": {
+            "0": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "0HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "1": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "1HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "2": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "2HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "33": {
+              "PermaShowValue": false,
+              "value": true
+            },
+            "33HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "64": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "64HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "IsOpen": {
+              "value": false
+            },
+            "as": {
+              "PermaShowValue": false
+            }
+          },
           "RU_ACTIVATORexhaustlistblockmenuVayne": {
             "0": {
               "PermaShowValue": false,
@@ -62383,6 +62916,54 @@
             }
           },
           "RU_ACTIVATORexhaustlistblockmenuYunara": {
+            "0": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "0HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "1": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "1HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "2": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "2HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "3": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "3HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "64": {
+              "PermaShowValue": false,
+              "value": false
+            },
+            "64HP": {
+              "PermaShowValue": false,
+              "value": 100
+            },
+            "IsOpen": {
+              "value": false
+            },
+            "as": {
+              "PermaShowValue": false
+            }
+          },
+          "RU_ACTIVATORexhaustlistblockmenuZaahen": {
             "0": {
               "PermaShowValue": false,
               "value": false
@@ -62700,11 +63281,19 @@
           "PermaShowValue": false,
           "value": true
         },
+        "Kassadin": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "LeeSin": {
           "PermaShowValue": false,
           "value": true
         },
         "Lissandra": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Lulu": {
           "PermaShowValue": false,
           "value": true
         },
@@ -62721,6 +63310,10 @@
           "value": true
         },
         "Nami": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Nasus": {
           "PermaShowValue": false,
           "value": true
         },
@@ -62768,6 +63361,10 @@
           "PermaShowValue": false,
           "value": true
         },
+        "Varus": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "Vayne": {
           "PermaShowValue": false,
           "value": true
@@ -62789,6 +63386,10 @@
           "value": true
         },
         "Yunara": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Zaahen": {
           "PermaShowValue": false,
           "value": true
         },
@@ -62877,11 +63478,19 @@
           "PermaShowValue": false,
           "value": true
         },
+        "Kassadin": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "LeeSin": {
           "PermaShowValue": false,
           "value": true
         },
         "Lissandra": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Lulu": {
           "PermaShowValue": false,
           "value": true
         },
@@ -62898,6 +63507,10 @@
           "value": true
         },
         "Nami": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Nasus": {
           "PermaShowValue": false,
           "value": true
         },
@@ -62945,6 +63558,10 @@
           "PermaShowValue": false,
           "value": true
         },
+        "Varus": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "Vayne": {
           "PermaShowValue": false,
           "value": true
@@ -62966,6 +63583,10 @@
           "value": true
         },
         "Yunara": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Zaahen": {
           "PermaShowValue": false,
           "value": true
         },
@@ -63125,7 +63746,15 @@
             "PermaShowValue": false,
             "value": true
           },
+          "KogMaw": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "LeeSin": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Lissandra": {
             "PermaShowValue": false,
             "value": true
           },
@@ -63134,6 +63763,14 @@
             "value": true
           },
           "Nidalee": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Sejuani": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Sona": {
             "PermaShowValue": false,
             "value": true
           },
@@ -63369,6 +64006,15 @@
               "value": true
             }
           },
+          "RU_ACTIVATORpreventionItemMorellosBanelistLulu": {
+            "IsOpen": {
+              "value": false
+            },
+            "W": {
+              "PermaShowValue": false,
+              "value": true
+            }
+          },
           "RU_ACTIVATORpreventionItemMorellosBanelistMalphite": {
             "IsOpen": {
               "value": false
@@ -63400,6 +64046,15 @@
               "value": true
             },
             "R": {
+              "PermaShowValue": false,
+              "value": false
+            }
+          },
+          "RU_ACTIVATORpreventionItemMorellosBanelistNasus": {
+            "IsOpen": {
+              "value": false
+            },
+            "W": {
               "PermaShowValue": false,
               "value": false
             }
@@ -63819,6 +64474,15 @@
             "value": true
           }
         },
+        "RU_ACTIVATORpreventionQuicksilverLulu": {
+          "IsOpen": {
+            "value": false
+          },
+          "W": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
         "RU_ACTIVATORpreventionQuicksilverMalphite": {
           "IsOpen": {
             "value": false
@@ -63850,6 +64514,15 @@
             "value": true
           },
           "R": {
+            "PermaShowValue": false,
+            "value": false
+          }
+        },
+        "RU_ACTIVATORpreventionQuicksilverNasus": {
+          "IsOpen": {
+            "value": false
+          },
+          "W": {
             "PermaShowValue": false,
             "value": false
           }
@@ -64997,6 +65670,54 @@
                 "PermaShowValue": false
               }
             },
+            "RU_ACTIVATORpreventionZhonyalistblockmenuKassadin": {
+              "0": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "0HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "1": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "1HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "2": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "2HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "3": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "3HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "64": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "64HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "IsOpen": {
+                "value": false
+              },
+              "as": {
+                "PermaShowValue": false
+              }
+            },
             "RU_ACTIVATORpreventionZhonyalistblockmenuLeeSin": {
               "0": {
                 "PermaShowValue": false,
@@ -65046,6 +65767,54 @@
               }
             },
             "RU_ACTIVATORpreventionZhonyalistblockmenuLissandra": {
+              "0": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "0HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "1": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "1HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "2": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "2HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "3": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "3HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "64": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "64HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "IsOpen": {
+                "value": false
+              },
+              "as": {
+                "PermaShowValue": false
+              }
+            },
+            "RU_ACTIVATORpreventionZhonyalistblockmenuLulu": {
               "0": {
                 "PermaShowValue": false,
                 "value": false
@@ -65246,6 +66015,54 @@
               }
             },
             "RU_ACTIVATORpreventionZhonyalistblockmenuNami": {
+              "0": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "0HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "1": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "1HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "2": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "2HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "3": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "3HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "64": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "64HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "IsOpen": {
+                "value": false
+              },
+              "as": {
+                "PermaShowValue": false
+              }
+            },
+            "RU_ACTIVATORpreventionZhonyalistblockmenuNasus": {
               "0": {
                 "PermaShowValue": false,
                 "value": false
@@ -65829,6 +66646,62 @@
                 "PermaShowValue": false
               }
             },
+            "RU_ACTIVATORpreventionZhonyalistblockmenuVarus": {
+              "0": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "0HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "1": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "1HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "2": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "2HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "3": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "33": {
+                "PermaShowValue": false,
+                "value": true
+              },
+              "33HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "3HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "64": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "64HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "IsOpen": {
+                "value": false
+              },
+              "as": {
+                "PermaShowValue": false
+              }
+            },
             "RU_ACTIVATORpreventionZhonyalistblockmenuVayne": {
               "0": {
                 "PermaShowValue": false,
@@ -66070,6 +66943,54 @@
               }
             },
             "RU_ACTIVATORpreventionZhonyalistblockmenuYunara": {
+              "0": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "0HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "1": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "1HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "2": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "2HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "3": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "3HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "64": {
+                "PermaShowValue": false,
+                "value": false
+              },
+              "64HP": {
+                "PermaShowValue": false,
+                "value": 100
+              },
+              "IsOpen": {
+                "value": false
+              },
+              "as": {
+                "PermaShowValue": false
+              }
+            },
+            "RU_ACTIVATORpreventionZhonyalistblockmenuZaahen": {
               "0": {
                 "PermaShowValue": false,
                 "value": false
@@ -70487,7 +71408,27 @@
           "PermaShowValue": false,
           "value": true
         },
+        "EGCchampionKassadin": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "EGCchampionLulu": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "EGCchampionNasus": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "EGCchampionPracticeTool_TargetDummy": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "EGCchampionVarus": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "EGCchampionZaahen": {
           "PermaShowValue": false,
           "value": true
         },
@@ -76645,6 +77586,18 @@
         "PermaShowValue": false,
         "value": 5
       },
+      "Kassadin": {
+        "PermaShowValue": false,
+        "value": 3
+      },
+      "Lulu": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "Nasus": {
+        "PermaShowValue": false,
+        "value": 1
+      },
       "PracticeTool_TargetDummy": {
         "PermaShowValue": false,
         "value": 1
@@ -76665,9 +77618,17 @@
         "PermaShowValue": false,
         "value": 5
       },
+      "Varus": {
+        "PermaShowValue": false,
+        "value": 5
+      },
       "XinZhao": {
         "PermaShowValue": false,
         "value": 2
+      },
+      "Zaahen": {
+        "PermaShowValue": false,
+        "value": 1
       }
     }
   },
@@ -95831,7 +96792,15 @@
             "PermaShowValue": false,
             "value": true
           },
+          "KogMaw": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "LeeSin": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Lissandra": {
             "PermaShowValue": false,
             "value": true
           },
@@ -95888,6 +96857,10 @@
             "value": true
           },
           "Sivir": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Sona": {
             "PermaShowValue": false,
             "value": true
           },
@@ -96421,6 +97394,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Lulu": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Lux": {
             "PermaShowValue": false,
             "value": true
@@ -96534,6 +97511,10 @@
             "value": true
           },
           "Twitch": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Varus": {
             "PermaShowValue": false,
             "value": true
           },
@@ -96812,11 +97793,31 @@
           "PermaShowValue": false,
           "value": true
         },
+        "Jhin_wl_agc_checkboxKassadin": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_wl_agc_checkboxLulu": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_wl_agc_checkboxNasus": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "Jhin_wl_agc_checkboxPracticeTool_TargetDummy": {
           "PermaShowValue": false,
           "value": true
         },
         "Jhin_wl_agc_checkboxSmolder": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_wl_agc_checkboxVarus": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Jhin_wl_agc_checkboxZaahen": {
           "PermaShowValue": false,
           "value": true
         }
@@ -104733,7 +105734,7 @@
         }
       },
       "IsOpen": {
-        "value": false
+        "value": true
       },
       "JannaSpellMenu": {
         "IsOpen": {
@@ -115211,6 +116212,22 @@
           "wWhitelistJhin": {
             "PermaShowValue": false,
             "value": true
+          },
+          "wWhitelistKogMaw": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistLissandra": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistSejuani": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistSona": {
+            "PermaShowValue": false,
+            "value": true
           }
         }
       },
@@ -115261,6 +116278,22 @@
           "wWhitelistJhin": {
             "PermaShowValue": false,
             "value": true
+          },
+          "wWhitelistKogMaw": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistLissandra": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistSejuani": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistSona": {
+            "PermaShowValue": false,
+            "value": true
           }
         }
       },
@@ -115301,6 +116334,22 @@
             "value": true
           },
           "wWhitelistJhin": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistKogMaw": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistLissandra": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistSejuani": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistSona": {
             "PermaShowValue": false,
             "value": true
           }
@@ -115401,11 +116450,23 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListKassadin": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListKogMaw": {
           "PermaShowValue": false,
           "value": true
         },
         "champListLeeSin": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListLulu": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListNasus": {
           "PermaShowValue": false,
           "value": true
         },
@@ -115421,7 +116482,15 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListVarus": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListVayne": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListZaahen": {
           "PermaShowValue": false,
           "value": true
         },
@@ -115449,6 +116518,18 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListPathKassadin": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathLulu": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathNasus": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListPathPracticeTool_TargetDummy": {
           "PermaShowValue": false,
           "value": true
@@ -115458,6 +116539,14 @@
           "value": true
         },
         "champListPathTaric": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathVarus": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathZaahen": {
           "PermaShowValue": false,
           "value": true
         },
@@ -115830,7 +116919,35 @@
         "IsOpen": {
           "value": false
         },
+        "allyChampListKogMaw": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "allyChampListLissandra": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "allyChampListSejuani": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "allyChampListSona": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "enemyChampListGaren": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListKassadin": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListLulu": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListNasus": {
           "PermaShowValue": false,
           "value": false
         },
@@ -115843,6 +116960,14 @@
           "value": false
         },
         "enemyChampListTaric": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListVarus": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListZaahen": {
           "PermaShowValue": false,
           "value": false
         },
@@ -116314,11 +117439,19 @@
           "PermaShowValue": false,
           "value": true
         },
+        "Kassadin": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "LeeSin": {
           "PermaShowValue": false,
           "value": true
         },
         "Lissandra": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Lulu": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116335,6 +117468,10 @@
           "value": true
         },
         "Nami": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Nasus": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116390,6 +117527,10 @@
           "PermaShowValue": false,
           "value": true
         },
+        "Varus": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "Vayne": {
           "PermaShowValue": false,
           "value": true
@@ -116411,6 +117552,10 @@
           "value": true
         },
         "Yunara": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "Zaahen": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116492,6 +117637,14 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "allySkin_KogMaw": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "allySkin_Lissandra": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "allySkin_Lulu": {
         "PermaShowValue": false,
         "value": 0
@@ -116529,6 +117682,10 @@
         "value": 0
       },
       "allySkin_Sivir": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "allySkin_Sona": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -116697,6 +117854,10 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "enemySkin_Lulu": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "enemySkin_Lux": {
         "PermaShowValue": false,
         "value": 0
@@ -116809,6 +117970,10 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "enemySkin_Varus": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "enemySkin_Vayne": {
         "PermaShowValue": false,
         "value": 0
@@ -116863,7 +118028,7 @@
     },
     "skinList": {
       "PermaShowValue": false,
-      "value": 19
+      "value": 0
     },
     "switchDown": {
       "IsToggle": true,

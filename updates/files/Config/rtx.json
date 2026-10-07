@@ -841,6 +841,63 @@
                     }
                 }
             },
+            "Ashe": {
+                "IsOpen": {
+                    "value": false
+                },
+                "R EnchantedCrystalArrow": {
+                    "DangerLevel": {
+                        "value": 5
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W Volley": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": false
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
             "Blitzcrank": {
                 "q_rocketgrab": {
                     "Draw": {
@@ -1000,6 +1057,37 @@
                     }
                 }
             },
+            "DrMundo": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q DrMundoQ": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
             "Gragas": {
                 "E GragasE": {
                     "DangerLevel": {
@@ -1086,6 +1174,229 @@
             "IsOpen": {
                 "value": false
             },
+            "Khazix": {
+                "E KhazixE": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "W KhazixW": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W KhazixWLong": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Lux": {
+                "E LuxLightStrikeKugel": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "Q LuxLightBinding": {
+                    "DangerLevel": {
+                        "value": 4
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R LuxRMis": {
+                    "DangerLevel": {
+                        "value": 5
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Morgana": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q MorganaQ": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W Morgana_W": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": false
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
             "Nautilus": {
                 "IsOpen": {
                     "value": false
@@ -1137,6 +1448,172 @@
                     },
                     "is_danger": {
                         "value": true
+                    }
+                }
+            },
+            "Poppy": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q PoppyQSpell": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R PoppyRSpell": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R PoppyRSpellInstant": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Sion": {
+                "E SionE": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "Q SionQ": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R SionR": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
                     }
                 }
             },
@@ -1278,6 +1755,63 @@
                 },
                 "IsOpen": {
                     "value": false
+                }
+            },
+            "Yunara": {
+                "IsOpen": {
+                    "value": false
+                },
+                "W yunaraw": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W yunaraw2": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
                 }
             },
             "Zaahen": {
@@ -1457,6 +1991,9 @@
                 "spellBlockerECaitlyn": {
                     "value": false
                 },
+                "spellBlockerEJhin": {
+                    "value": true
+                },
                 "spellBlockerEKSante": {
                     "value": false
                 },
@@ -1464,6 +2001,9 @@
                     "value": false
                 },
                 "spellBlockerQCaitlyn": {
+                    "value": true
+                },
+                "spellBlockerQJhin": {
                     "value": true
                 },
                 "spellBlockerQKSante": {
@@ -1475,6 +2015,9 @@
                 "spellBlockerRCaitlyn": {
                     "value": true
                 },
+                "spellBlockerRJhin": {
+                    "value": true
+                },
                 "spellBlockerRKSante": {
                     "value": false
                 },
@@ -1482,6 +2025,9 @@
                     "value": false
                 },
                 "spellBlockerWCaitlyn": {
+                    "value": true
+                },
+                "spellBlockerWJhin": {
                     "value": true
                 },
                 "spellBlockerWKSante": {
@@ -1912,7 +2458,7 @@
                 "value": true
             },
             "MenuStyleRTX": {
-                "value": 2
+                "value": 0
             },
             "PermaShowSettings": {
                 "BackgroundAlpha": {
@@ -27719,7 +28265,7 @@
                 }
             },
             "enabled": {
-                "value": false
+                "value": true
             },
             "offensive": {
                 "IsOpen": {
@@ -28035,6 +28581,21 @@
             "IsOpen": {
                 "value": false
             },
+            "Jhinleveler.enabled": {
+                "value": true
+            },
+            "Jhinleveler.lvl1": {
+                "value": 1
+            },
+            "Jhinleveler.lvl2": {
+                "value": 1
+            },
+            "Jhinleveler.lvl3": {
+                "value": 1
+            },
+            "Jhinleveler.start_lvl": {
+                "value": 2
+            },
             "KSanteleveler.enabled": {
                 "value": true
             },
@@ -28349,7 +28910,7 @@
                         "color": 4278229503
                     },
                     "enabled": {
-                        "value": false
+                        "value": true
                     }
                 },
                 "en_range": {
@@ -28426,16 +28987,16 @@
                         "value": false
                     },
                     "hud_style": {
-                        "value": 2
+                        "value": 0
                     },
                     "hud_tracker_enabled": {
-                        "value": false
+                        "value": true
                     },
                     "hud_x": {
-                        "value": 216
+                        "value": 0
                     },
                     "hud_y": {
-                        "value": 448
+                        "value": 142
                     },
                     "scale_hud": {
                         "value": 12
@@ -28592,7 +29153,7 @@
                         "value": false
                     },
                     "sp_enemy": {
-                        "value": false
+                        "value": true
                     },
                     "sp_exp": {
                         "value": true
@@ -28612,7 +29173,7 @@
                         "value": false
                     },
                     "draw_enemy": {
-                        "value": false
+                        "value": true
                     },
                     "enabled": {
                         "value": 1
@@ -28678,7 +29239,7 @@
                     "value": false
                 },
                 "enabled": {
-                    "value": false
+                    "value": true
                 }
             },
             "structures": {
@@ -28686,13 +29247,13 @@
                     "value": false
                 },
                 "bt_active": {
-                    "value": false
+                    "value": true
                 },
                 "bt_inhib": {
-                    "value": false
+                    "value": true
                 },
                 "bt_turr": {
-                    "value": false
+                    "value": true
                 }
             }
         },
@@ -37056,6 +37617,9 @@
                 "disable_aa_comboCaitlyn": {
                     "value": 0
                 },
+                "disable_aa_comboJhin": {
+                    "value": 0
+                },
                 "disable_aa_comboKSante": {
                     "value": 0
                 },
@@ -37069,6 +37633,9 @@
                     "value": 2
                 },
                 "disable_aa_combo_aa_cntCaitlyn": {
+                    "value": 2
+                },
+                "disable_aa_combo_aa_cntJhin": {
                     "value": 2
                 },
                 "disable_aa_combo_aa_cntKSante": {
@@ -37085,6 +37652,9 @@
                 "value": false
             },
             "support.support_mode.Caitlyn": {
+                "value": false
+            },
+            "support.support_mode.Jhin": {
                 "value": false
             },
             "support.support_mode.KSante": {
@@ -37575,8 +38145,19 @@
                     "value": false
                 }
             },
+            "plugin##bgx/L9AIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/L9AIO.dll##Jhin": {
+                    "value": false
+                }
+            },
             "plugin##bgx/LunaAIO.dll": {
                 "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/LunaAIO.dll##Jhin": {
                     "value": false
                 },
                 "plugin##bgx/LunaAIO.dll##Zeri": {
@@ -37591,6 +38172,9 @@
                     "value": false
                 },
                 "plugin##bgx/RTXPOWER.dll##Caitlyn": {
+                    "value": false
+                },
+                "plugin##bgx/RTXPOWER.dll##Jhin": {
                     "value": false
                 },
                 "plugin##bgx/RTXPOWER.dll##Zeri": {
@@ -37621,6 +38205,22 @@
                     "value": false
                 }
             },
+            "plugin##rtx/ElliesAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/ElliesAIO.dll##Jhin": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/KleeAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/KleeAIO.dll##Jhin": {
+                    "value": false
+                }
+            },
             "plugin##rtx/LeaguesharpAIO.dll": {
                 "IsOpen": {
                     "value": false
@@ -37629,6 +38229,9 @@
                     "value": false
                 },
                 "plugin##rtx/LeaguesharpAIO.dll##Caitlyn": {
+                    "value": false
+                },
+                "plugin##rtx/LeaguesharpAIO.dll##Jhin": {
                     "value": false
                 },
                 "plugin##rtx/LeaguesharpAIO.dll##Zeri": {
@@ -37654,6 +38257,9 @@
                     "value": false
                 },
                 "plugin##rtx/Marksman.dll##Caitlyn": {
+                    "value": false
+                },
+                "plugin##rtx/Marksman.dll##Jhin": {
                     "value": false
                 },
                 "plugin##rtx/Marksman.dll##Zeri": {
@@ -38340,6 +38946,135 @@
                 "value": false
             },
             "interrupter": {
+                "value": true
+            }
+        }
+    },
+    "rtx_power_Jhin": {
+        "IsOpen": {
+            "value": false
+        },
+        "combo": {
+            "IsOpen": {
+                "value": false
+            },
+            "comboUseE": {
+                "value": true
+            },
+            "comboUseQ": {
+                "value": true
+            },
+            "comboUseR": {
+                "value": true
+            },
+            "comboUseW": {
+                "value": true
+            }
+        },
+        "drawings": {
+            "IsOpen": {
+                "value": false
+            },
+            "Jhin.draw.E": {
+                "value": true
+            },
+            "Jhin.draw.Q": {
+                "value": true
+            },
+            "Jhin.draw.R": {
+                "value": true
+            },
+            "Jhin.draw.W": {
+                "value": true
+            },
+            "drawings.only_ready": {
+                "value": false
+            }
+        },
+        "global": {
+            "IsOpen": {
+                "value": false
+            },
+            "spell_farm": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 4,
+                "value": true
+            }
+        },
+        "harass": {
+            "IsOpen": {
+                "value": false
+            },
+            "harassMana": {
+                "value": 40
+            },
+            "harassUseQ": {
+                "value": true
+            },
+            "harassUseW": {
+                "value": true
+            }
+        },
+        "hitchances": {
+            "IsOpen": {
+                "value": false
+            },
+            "Jhinhitchance.E": {
+                "value": 2
+            },
+            "Jhinhitchance.R": {
+                "value": 2
+            },
+            "Jhinhitchance.W": {
+                "value": 2
+            }
+        },
+        "jungleclear": {
+            "IsOpen": {
+                "value": false
+            },
+            "jungleclearMana": {
+                "value": 20
+            },
+            "jungleclearUseQ": {
+                "value": true
+            },
+            "jungleclearUseW": {
+                "value": true
+            }
+        },
+        "laneclear": {
+            "IsOpen": {
+                "value": false
+            },
+            "laneclearMana": {
+                "value": 40
+            },
+            "laneclearUseQ": {
+                "value": true
+            },
+            "laneclearUseW": {
+                "value": true
+            }
+        },
+        "misc": {
+            "IsOpen": {
+                "value": false
+            },
+            "misc.antigapcloser": {
+                "value": true
+            },
+            "misc.auto_e": {
+                "value": true
+            },
+            "misc.auto_w": {
+                "value": true
+            },
+            "misc.blue_trinket": {
+                "value": true
+            },
+            "misc.haras_q": {
                 "value": true
             }
         }
@@ -41723,6 +42458,20 @@
                     "value": 0
                 }
             },
+            "hero_Corki": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Corki": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Corki": {
+                    "value": 0
+                }
+            },
             "hero_Fiora": {
                 "IsOpen": {
                     "value": false
@@ -41734,6 +42483,48 @@
                     "value": 0
                 },
                 "skins.Fiora": {
+                    "value": 0
+                }
+            },
+            "hero_Fizz": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Fizz": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Fizz": {
+                    "value": 0
+                }
+            },
+            "hero_Nami": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Nami": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Nami": {
+                    "value": 0
+                }
+            },
+            "hero_XinZhao": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.XinZhao": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.XinZhao": {
                     "value": 0
                 }
             },
@@ -41773,6 +42564,20 @@
             "IsOpen": {
                 "value": false
             },
+            "hero_Ashe": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Ashe": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Ashe": {
+                    "value": 0
+                }
+            },
             "hero_Corki": {
                 "IsOpen": {
                     "value": false
@@ -41801,6 +42606,20 @@
                     "value": 0
                 }
             },
+            "hero_DrMundo": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.DrMundo": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.DrMundo": {
+                    "value": 0
+                }
+            },
             "hero_Gragas": {
                 "IsOpen": {
                     "value": false
@@ -41815,6 +42634,48 @@
                     "value": 0
                 }
             },
+            "hero_Khazix": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Khazix": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Khazix": {
+                    "value": 0
+                }
+            },
+            "hero_Lux": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Lux": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Lux": {
+                    "value": 0
+                }
+            },
+            "hero_Morgana": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Morgana": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Morgana": {
+                    "value": 0
+                }
+            },
             "hero_Nautilus": {
                 "IsOpen": {
                     "value": false
@@ -41826,6 +42687,20 @@
                     "value": 0
                 },
                 "skins.Nautilus": {
+                    "value": 0
+                }
+            },
+            "hero_Poppy": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Poppy": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Poppy": {
                     "value": 0
                 }
             },
@@ -41854,6 +42729,20 @@
                     "value": 0
                 },
                 "skins.PracticeTool_TargetDummy": {
+                    "value": 0
+                }
+            },
+            "hero_Sion": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Sion": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Sion": {
                     "value": 0
                 }
             },
@@ -41927,6 +42816,20 @@
                     "value": 0
                 }
             },
+            "hero_Vayne": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Vayne": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Vayne": {
+                    "value": 0
+                }
+            },
             "hero_XinZhao": {
                 "IsOpen": {
                     "value": false
@@ -41938,6 +42841,20 @@
                     "value": 0
                 },
                 "skins.XinZhao": {
+                    "value": 0
+                }
+            },
+            "hero_Yunara": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Yunara": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Yunara": {
                     "value": 0
                 }
             },
@@ -41985,6 +42902,20 @@
                     "value": 0
                 },
                 "skins.Caitlyn": {
+                    "value": 0
+                }
+            },
+            "hero_Jhin": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Jhin": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Jhin": {
                     "value": 0
                 }
             },

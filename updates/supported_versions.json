@@ -4,13 +4,13 @@
   "match": "exact",
   "artifacts": {
     "myapp.rtx.dll": {
-      "sha256": "bd685332e5954beca21e2d1c11dc957dc9924d9f0e9f91ea2b1bfcdec4a095d1",
+      "sha256": "2a859c641b47f2a8b4291b84c4f72de1c854ede7bfe87dcb38c2ec09e90e00f3",
       "versions": [
         "16.20.824.8524"
       ]
     },
     "myapp.legendsense.dll": {
-      "sha256": "a15965d3eeac7378d9428aaadfc0b7c20a2274dd0689a820a84a04b207fecd70",
+      "sha256": "5f4e50ad0f9fe16c4914cfecf9d5e26289442bbb13b6d93247dceb47b9ccda9d",
       "versions": [
         "16.20.824.8524"
       ]
