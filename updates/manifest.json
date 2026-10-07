@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "aio-20261007-100917",
-  "key_id": "aio-20261007-100917",
-  "generated_at": "2026-10-07T03:09:25.7739378Z",
+  "version": "aio-20261007-102739",
+  "key_id": "aio-20261007-102739",
+  "generated_at": "2026-10-07T03:27:47.2814158Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "files": [
     {
@@ -91,10 +91,14 @@
     {
       "path": "loader.exe",
       "url": "loader.exe",
-      "sha256": "6f7f4d6cc93b19414348619e5038569e0b72efe6378a3cb3f68d22f5686e284e",
-      "size": 4798976,
-      "component_version": "16.20.824.8524.00",
+      "sha256": "cfa6a82982b5f9647efd4df679bbbe3c4f28b72b2ffab0aa782b855de397d0df",
+      "size": 4795904,
+      "component_version": "16.20.824.8524.01",
       "version_history": [
+        {
+          "version": "16.20.824.8524.01",
+          "sha256": "cfa6a82982b5f9647efd4df679bbbe3c4f28b72b2ffab0aa782b855de397d0df"
+        },
         {
           "version": "16.20.824.8524.00",
           "sha256": "6f7f4d6cc93b19414348619e5038569e0b72efe6378a3cb3f68d22f5686e284e"
