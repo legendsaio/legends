@@ -1,14 +1,19 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "riot-auth-v2-20261008",
-  "key_id": "riot-auth-v2-20261008",
+  "version": "riot-security-20261008",
+  "key_id": "riot-security-20261008",
   "auth_protocol": 2,
-  "release_sequence": 1791437015,
-  "issued_at": 1791437015,
-  "expires_at": 1794029015,
-  "generated_at": "2026-10-08T05:23:35.5750152Z",
+  "release_sequence": 1791442450,
+  "issued_at": 1791442450,
+  "expires_at": 1794034450,
+  "generated_at": "2026-10-08T06:54:11.2934567Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
+  "runtime_files": {
+    "url": "files/hashes.json",
+    "size": 53759,
+    "sha256": "dba44e61fb6cd791a85eea292b0e8348f0b5c67cde23e8a77ccf1bf17c7b79e2"
+  },
   "files": [
     {
       "path": "myapp.rtx.dll",
@@ -119,10 +124,14 @@
     {
       "path": "loader.exe",
       "url": "loader.exe",
-      "sha256": "3f3061b6e72e8b1526d57aebe5527254c6cd00ef15c8fd7248fba214d21fa304",
-      "size": 5279232,
-      "component_version": "16.20.824.8524.02",
+      "sha256": "6c0c8907aae91323b33ee144c614dcbe4a365da78541f6a7e927262352d56e3e",
+      "size": 5308928,
+      "component_version": "16.20.824.8524.03",
       "version_history": [
+        {
+          "version": "16.20.824.8524.03",
+          "sha256": "6c0c8907aae91323b33ee144c614dcbe4a365da78541f6a7e927262352d56e3e"
+        },
         {
           "version": "16.20.824.8524.02",
           "sha256": "3f3061b6e72e8b1526d57aebe5527254c6cd00ef15c8fd7248fba214d21fa304"
