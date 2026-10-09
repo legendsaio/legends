@@ -1,29 +1,37 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "riot-security-20261008",
-  "key_id": "riot-security-20261008",
+  "version": "aio-20261009-204746",
+  "key_id": "aio-20261009-204746",
   "auth_protocol": 2,
-  "release_sequence": 1791442450,
-  "issued_at": 1791442450,
-  "expires_at": 1794034450,
-  "generated_at": "2026-10-08T06:54:11.2934567Z",
+  "release_sequence": 1791553698,
+  "issued_at": 1791553698,
+  "expires_at": 1794145698,
+  "generated_at": "2026-10-09T13:48:18.3602832Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "runtime_files": {
     "url": "files/hashes.json",
-    "size": 53759,
-    "sha256": "dba44e61fb6cd791a85eea292b0e8348f0b5c67cde23e8a77ccf1bf17c7b79e2"
+    "size": 54125,
+    "sha256": "53b2650cd5d58cc901b459e24a4c02e791508494eaba20e5f999d6fbe82c2314"
   },
   "files": [
     {
       "path": "myapp.rtx.dll",
       "url": "myapp.rtx.dll.laioenc",
       "encryption": "LAIOENC1",
-      "size": 6974504,
-      "sha256": "1c568092a93574aa50538e6688b223d7b1417d5fba0807546eb0da38f6806428",
-      "plain_sha256": "9308f27e609ace5c4aa4cff17f85a1544c0aea0d18291cd8744621c06d56fd24",
-      "component_version": "16.20.824.8524.04",
+      "size": 6992424,
+      "sha256": "7cd85a798f38337bb64b1c5e57a87a60da17bad4f1fcfe1330883ec8a3408abf",
+      "plain_sha256": "db82dc977fbcbbe5019619401a13d295cafbfb8aaa5c65f0968ac5afa5b1d237",
+      "component_version": "16.20.824.8524.06",
       "version_history": [
+        {
+          "version": "16.20.824.8524.06",
+          "sha256": "7cd85a798f38337bb64b1c5e57a87a60da17bad4f1fcfe1330883ec8a3408abf"
+        },
+        {
+          "version": "16.20.824.8524.05",
+          "sha256": "40e8429151765e3d6f5a22c68a95ba4c4c52f847c065dc714dc64249dd582f9c"
+        },
         {
           "version": "16.20.824.8524.04",
           "sha256": "1c568092a93574aa50538e6688b223d7b1417d5fba0807546eb0da38f6806428"
@@ -74,11 +82,19 @@
       "path": "myapp.legendsense.dll",
       "url": "myapp.legendsense.dll.laioenc",
       "encryption": "LAIOENC1",
-      "size": 23940648,
-      "sha256": "6fb45fa7444248bfede5b504d9a8cf99b56478d396fffefe7d08834d9076256d",
-      "plain_sha256": "a016cef22057e07905580c7590f370a13080a527078f82d08942f1188a18c243",
-      "component_version": "16.20.824.8524.04",
+      "size": 23933992,
+      "sha256": "75b50fca3cef346857852160d8f7fe4e5babceb03d70963e819c95c838577fb3",
+      "plain_sha256": "667f649d029ac09e1650262b0f57a8b25efc5c0f361e56a3117609c4924158c3",
+      "component_version": "16.20.824.8524.06",
       "version_history": [
+        {
+          "version": "16.20.824.8524.06",
+          "sha256": "75b50fca3cef346857852160d8f7fe4e5babceb03d70963e819c95c838577fb3"
+        },
+        {
+          "version": "16.20.824.8524.05",
+          "sha256": "83c1f6e6e8d4307d8fe05bead5c6bcbcf3b4047d75e47c9cf86522d38d2bba78"
+        },
         {
           "version": "16.20.824.8524.04",
           "sha256": "6fb45fa7444248bfede5b504d9a8cf99b56478d396fffefe7d08834d9076256d"
@@ -124,10 +140,14 @@
     {
       "path": "loader.exe",
       "url": "loader.exe",
-      "sha256": "6c0c8907aae91323b33ee144c614dcbe4a365da78541f6a7e927262352d56e3e",
-      "size": 5308928,
-      "component_version": "16.20.824.8524.03",
+      "sha256": "53f3d31bfa452d14f88974930e19d28b88a129d02c41b24def262d98b645e995",
+      "size": 5298176,
+      "component_version": "16.20.824.8524.04",
       "version_history": [
+        {
+          "version": "16.20.824.8524.04",
+          "sha256": "53f3d31bfa452d14f88974930e19d28b88a129d02c41b24def262d98b645e995"
+        },
         {
           "version": "16.20.824.8524.03",
           "sha256": "6c0c8907aae91323b33ee144c614dcbe4a365da78541f6a7e927262352d56e3e"
@@ -186,6 +206,6 @@
   "game_support": {
     "url": "supported_versions.json",
     "size": 442,
-    "sha256": "641C1650542A707D255804BAE58B1A4E5FAE8D9E93CE54861AFF387868B0E0B8"
+    "sha256": "E232298769ED6B42D22EAFE1585F22F6EDE26C3B66D49AF5821665254AE79A86"
   }
 }

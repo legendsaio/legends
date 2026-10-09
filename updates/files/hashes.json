@@ -23,9 +23,19 @@
       "sha256": "dea33a3e5f1a6ae6cfe7fbe687ebdc3f0295b9acd273e421967a00965b744fad"
     },
     {
+      "path": "Config/commonex/MenuConfigCommon/SharedConfig.bin",
+      "size": 920,
+      "sha256": "eacb0c731b6ba731a7d4167b823b01955cedd69bcc2e156f0c9f3d5305558c89"
+    },
+    {
+      "path": "Config/commonex/MenuConfigCommon/myapp.pv.CommonEx.bin",
+      "size": 1135,
+      "sha256": "fd6919891cf85319b05bf0f57ad6b298cd9667ddf1c3c8f2b08f4cdd9e24b5a6"
+    },
+    {
       "path": "Config/rtx.json",
-      "size": 1488080,
-      "sha256": "cd17a39d007fa8b8357ff600284aed663a2c47cfda95eb8d41f3696e6a6ac513"
+      "size": 154,
+      "sha256": "0b7a397712a05a957e0b95aa2cf85bad7749bb89d407bad44ae7127a0095a978"
     },
     {
       "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/Ijwhost.dll",
