@@ -34157,6 +34157,12 @@
     "NS": {
       "load": false
     },
+    "Notasy AIO": {
+      "load": false
+    },
+    "NovaChamps": {
+      "load": false
+    },
     "NovaUtils": {
       "load": false
     },
@@ -34167,6 +34173,9 @@
       "load": false
     },
     "R-AIO": {
+      "load": false
+    },
+    "RU(SA)_AIO": {
       "load": false
     },
     "Ragnarok": {
@@ -34227,6 +34236,9 @@
       "load": false
     },
     "tripp tech": {
+      "load": false
+    },
+    "小海-AI合集": {
       "load": false
     }
   },
@@ -74881,6 +74893,22 @@
         "IsOpen": {
           "value": false
         },
+        "champListCassiopeia": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListGaren": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListGragas": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListKarthus": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListLux": {
           "PermaShowValue": false,
           "value": true
@@ -74975,6 +75003,37 @@
       "targetedList": {
         "IsOpen": {
           "value": false
+        },
+        "champListCassiopeia": {
+          "IsOpen": {
+            "value": false
+          },
+          "cassiopeiae": {
+            "PermaShowValue": false,
+            "value": false
+          }
+        },
+        "champListGaren": {
+          "IsOpen": {
+            "value": false
+          },
+          "garenqattack": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "garenr": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "champListKarthus": {
+          "IsOpen": {
+            "value": false
+          },
+          "karthusfallenone": {
+            "PermaShowValue": false,
+            "value": true
+          }
         },
         "champListLeeSin": {
           "IsOpen": {
@@ -78155,11 +78214,27 @@
       "value": 0
     },
     "Priorities": {
+      "Cassiopeia": {
+        "PermaShowValue": false,
+        "value": 4
+      },
+      "Garen": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "Gragas": {
+        "PermaShowValue": false,
+        "value": 2
+      },
       "Info": {
         "PermaShowValue": false
       },
       "IsOpen": {
         "value": false
+      },
+      "Karthus": {
+        "PermaShowValue": false,
+        "value": 4
       },
       "LeeSin": {
         "PermaShowValue": false,
@@ -96713,6 +96788,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Galio": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Gangplank": {
             "PermaShowValue": false,
             "value": true
@@ -104872,7 +104951,7 @@
       "GarenSpellMenu": {
         "GarenGarenE": {
           "IsOpen": {
-            "value": false
+            "value": true
           },
           "dangerLevel": {
             "PermaShowValue": false,
@@ -104884,7 +104963,7 @@
           },
           "isEnabled": {
             "PermaShowValue": false,
-            "value": true
+            "value": false
           },
           "isFoWEnabled": {
             "PermaShowValue": false,
@@ -104892,7 +104971,7 @@
           }
         },
         "IsOpen": {
-          "value": false
+          "value": true
         }
       },
       "GnarSpellMenu": {
@@ -110343,7 +110422,7 @@
     },
     "generalSettingsMenu": {
       "IsOpen": {
-        "value": false
+        "value": true
       },
       "ignoreSpellsControl": {
         "PermaShowValue": false,
@@ -116209,6 +116288,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistGalio": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistJhin": {
             "PermaShowValue": false,
             "value": true
@@ -116221,11 +116304,23 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistLulu": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistRiven": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistSejuani": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistSona": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistXayah": {
             "PermaShowValue": false,
             "value": true
           }
@@ -116275,6 +116370,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistGalio": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistJhin": {
             "PermaShowValue": false,
             "value": true
@@ -116287,11 +116386,23 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistLulu": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistRiven": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistSejuani": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistSona": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistXayah": {
             "PermaShowValue": false,
             "value": true
           }
@@ -116333,6 +116444,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistGalio": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistJhin": {
             "PermaShowValue": false,
             "value": true
@@ -116345,11 +116460,23 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistLulu": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistRiven": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistSejuani": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistSona": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistXayah": {
             "PermaShowValue": false,
             "value": true
           }
@@ -116434,7 +116561,15 @@
         "IsOpen": {
           "value": false
         },
+        "champListCassiopeia": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListGaren": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListGragas": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116463,6 +116598,10 @@
           "value": true
         },
         "champListLulu": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListLux": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116514,7 +116653,19 @@
         "IsOpen": {
           "value": false
         },
+        "champListPathCassiopeia": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListPathGaren": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathGragas": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathKarthus": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116523,6 +116674,10 @@
           "value": true
         },
         "champListPathLulu": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathLux": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116828,6 +116983,10 @@
         "PermaShowValue": false,
         "value": false
       },
+      "masteryKillRiven": {
+        "PermaShowValue": false,
+        "value": false
+      },
       "masteryWinCaitlyn": {
         "PermaShowValue": false,
         "value": false
@@ -116837,6 +116996,10 @@
         "value": false
       },
       "masteryWinJhin": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "masteryWinRiven": {
         "PermaShowValue": false,
         "value": false
       },
@@ -116919,11 +117082,19 @@
         "IsOpen": {
           "value": false
         },
+        "allyChampListGalio": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "allyChampListKogMaw": {
           "PermaShowValue": false,
           "value": false
         },
         "allyChampListLissandra": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "allyChampListLulu": {
           "PermaShowValue": false,
           "value": false
         },
@@ -116935,7 +117106,23 @@
           "PermaShowValue": false,
           "value": false
         },
+        "allyChampListXayah": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListCassiopeia": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "enemyChampListGaren": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListGragas": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListKarthus": {
           "PermaShowValue": false,
           "value": false
         },
@@ -116944,6 +117131,10 @@
           "value": false
         },
         "enemyChampListLulu": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListLux": {
           "PermaShowValue": false,
           "value": false
         },
@@ -117621,6 +117812,10 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "allySkin_Galio": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "allySkin_Garen": {
         "PermaShowValue": false,
         "value": 0
@@ -117710,6 +117905,10 @@
         "value": 0
       },
       "allySkin_Warwick": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "allySkin_Xayah": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -118028,7 +118227,7 @@
     },
     "skinList": {
       "PermaShowValue": false,
-      "value": 0
+      "value": 21
     },
     "switchDown": {
       "IsToggle": true,

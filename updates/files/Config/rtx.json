@@ -1,9 +1,4484 @@
 {
+    "Evade": {
+        "IsOpen": {
+            "value": false
+        },
+        "Spells": {
+            "Aatrox": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q AatroxQ": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "Q AatroxQ Crit": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "Q AatroxQ2": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "Q AatroxQ3": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "Q AatroxQ3 Crit": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W AatroxW": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Akshan": {
+                "IsOpen": {
+                    "value": false
+                },
+                "W AkshanQ": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "AllChampions": {
+                "6656Cast": {
+                    "DangerLevel": {
+                        "value": 4
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "ArcaneComet": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "SummonerSnowball": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Fiora": {
+                "IsOpen": {
+                    "value": false
+                },
+                "W FioraW": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "XinZhao": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q XinZhaoR": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W XinZhaoW": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Yasuo": {
+                "E YasuoEQ3": {
+                    "DangerLevel": {
+                        "value": 4
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "Q YasuoQ1": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "Q YasuoQ2": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "Q YasuoQ3": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "advanced_tab": {
+            ".evade_mode": {
+                "value": 0
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "collision_tab": {
+                "EnableCollisionEx": {
+                    "value": false
+                },
+                "HeroCollision": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MinionCollision": {
+                    "value": true
+                },
+                "YasuoCollision": {
+                    "value": true
+                }
+            },
+            "evade_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "enemy_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "evade_tab.DodgeAwayFromEnemiesBuffAF": {
+                        "value": 100
+                    },
+                    "evade_tab.dodge_away": {
+                        "value": false
+                    }
+                },
+                "evade_tab.allow_path_change": {
+                    "value": true
+                },
+                "underturret_tab": {
+                    "DisableUnderTurret": {
+                        "value": false
+                    },
+                    "DisableUnderTurretMaxLvl": {
+                        "value": 3
+                    },
+                    "DisableUnderTurretPathfinder": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                }
+            },
+            "misc_tab": {
+                "AllowAaKillableEnemy": {
+                    "value": true
+                },
+                "DangerLevel": {
+                    "value": 1
+                },
+                "DoubleClickToRemove": {
+                    "value": true
+                },
+                "Evade.DisableRecall": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "spell_blocker_tab": {
+                ".BlockSpells": {
+                    "value": 2
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "spellBlockerEMasterYi": {
+                    "value": false
+                },
+                "spellBlockerQMasterYi": {
+                    "value": false
+                },
+                "spellBlockerRMasterYi": {
+                    "value": false
+                },
+                "spellBlockerWMasterYi": {
+                    "value": true
+                }
+            }
+        },
+        "drawings_tab": {
+            "DrawEvadePoint": {
+                "value": true
+            },
+            "DrawEvadeStatus": {
+                "value": true
+            },
+            "DrawMode": {
+                "value": 0
+            },
+            "EnableDrawings": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            }
+        },
+        "evade_spells_tab": {
+            "Flash": {
+                "BlockDangerLevelMenu": {
+                    "value": 1
+                },
+                "BlockMenu": {
+                    "value": true
+                },
+                "DangerLevel": {
+                    "value": 5
+                },
+                "Enable": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "Galeforce": {
+                "BlockDangerLevelMenu": {
+                    "value": 1
+                },
+                "BlockMenu": {
+                    "value": true
+                },
+                "DangerLevel": {
+                    "value": 3
+                },
+                "Enable": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "Heal": {
+                "DangerLevel": {
+                    "value": 5
+                },
+                "Enable": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "MasterYi Q": {
+                "DangerLevel": {
+                    "value": 3
+                },
+                "Enable": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "Zhonyas": {
+                "DangerLevel": {
+                    "value": 5
+                },
+                "Enable": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            }
+        },
+        "hotkeys_tab": {
+            "Evade.DodgeCircular": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 72,
+                "value": true
+            },
+            "Evade.Enabled": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 76,
+                "value": true
+            },
+            "IgnoreOnlyDangerous": {
+                "value": 40
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "OnlyDangerous": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 32,
+                "value": false
+            }
+        },
+        "humanizer_tab": {
+            "IsOpen": {
+                "value": false
+            },
+            "dglvl1": {
+                "DisableFow": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MaxAngleDodge": {
+                    "value": 180
+                },
+                "MinHP": {
+                    "value": 100
+                },
+                "MinReactionTime": {
+                    "value": 0
+                },
+                "MinReactionTimeSpell": {
+                    "value": 0
+                },
+                "spell_detection_delay": {
+                    "value": 0
+                }
+            },
+            "dglvl2": {
+                "DisableFow": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MaxAngleDodge": {
+                    "value": 180
+                },
+                "MinHP": {
+                    "value": 100
+                },
+                "MinReactionTime": {
+                    "value": 0
+                },
+                "MinReactionTimeSpell": {
+                    "value": 0
+                },
+                "spell_detection_delay": {
+                    "value": 0
+                }
+            },
+            "dglvl3": {
+                "DisableFow": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MaxAngleDodge": {
+                    "value": 180
+                },
+                "MinHP": {
+                    "value": 100
+                },
+                "MinReactionTime": {
+                    "value": 0
+                },
+                "MinReactionTimeSpell": {
+                    "value": 0
+                },
+                "spell_detection_delay": {
+                    "value": 0
+                }
+            },
+            "dglvl4": {
+                "DisableFow": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MaxAngleDodge": {
+                    "value": 180
+                },
+                "MinHP": {
+                    "value": 100
+                },
+                "MinReactionTime": {
+                    "value": 0
+                },
+                "MinReactionTimeSpell": {
+                    "value": 0
+                },
+                "spell_detection_delay": {
+                    "value": 0
+                }
+            },
+            "dglvl5": {
+                "DisableFow": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MaxAngleDodge": {
+                    "value": 180
+                },
+                "MinHP": {
+                    "value": 100
+                },
+                "MinReactionTime": {
+                    "value": 0
+                },
+                "MinReactionTimeSpell": {
+                    "value": 0
+                },
+                "spell_detection_delay": {
+                    "value": 0
+                }
+            },
+            "rest": {
+                "IsOpen": {
+                    "value": false
+                }
+            }
+        },
+        "restore_tab": {
+            "IsOpen": {
+                "value": false
+            }
+        }
+    },
+    "Evolve": {
+        "Core": {
+            "AllowIgnoreLimit": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "TickRate": {
+                "value": 50
+            }
+        },
+        "Hacks": {
+            "AntiAFK": {
+                "value": true
+            },
+            "DisableDraw": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 122,
+                "value": false
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "ShowClick": {
+                "value": true
+            },
+            "TurretRange": {
+                "value": true
+            },
+            "zoomEditor": {
+                "CameraControllerType": {
+                    "value": 0
+                },
+                "FieldOfView2Map11": {
+                    "value": 40.0
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "Pitch2": {
+                    "value": 180.0
+                },
+                "Roll": {
+                    "value": 56.0
+                },
+                "UnlockZoomLimit": {
+                    "value": false
+                },
+                "Yaw2": {
+                    "value": 180.0
+                },
+                "ZoomValue": {
+                    "value": 2250.0
+                }
+            }
+        },
+        "IsOpen": {
+            "value": false
+        },
+        "MenuSettings": {
+            "CustomColor": {
+                "BackgroundColorV5": {
+                    "color": 1862270976
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "ScrollbarBgColorV5": {
+                    "color": 2265253125
+                },
+                "ScrollbarGrabActiveColorV5": {
+                    "color": 4293281371
+                },
+                "ScrollbarGrabColorV5": {
+                    "color": 3622192731
+                },
+                "ScrollbarGrabHoveredColorV5": {
+                    "color": 4293281371
+                },
+                "TitleColorAV5": {
+                    "color": 4293281371
+                },
+                "TitleColorCV5": {
+                    "color": 4294967295
+                },
+                "TitleColorV5": {
+                    "color": 4294967295
+                },
+                "TooltipIconColorV5": {
+                    "color": 4293281371
+                },
+                "TreeComponentColorV5": {
+                    "color": 3188921107
+                },
+                "TreeFocusColorV5": {
+                    "color": 3023188530
+                },
+                "WindowComponentMainActiveColorV5": {
+                    "color": 4285756275
+                },
+                "WindowComponentMainColorV5": {
+                    "color": 4293281371
+                },
+                "WindowComponentMainHoveredColorV5": {
+                    "color": 4294967295
+                },
+                "WindowTextColorV5": {
+                    "color": 4294967295
+                }
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "MenuKey": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 16,
+                "value": true
+            },
+            "MenuStyleRTX": {
+                "value": 0
+            },
+            "PermaShowSettings": {
+                "BackgroundAlpha": {
+                    "value": 255
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "PermaShowEnabled": {
+                    "value": true
+                }
+            },
+            "menuSkin": {
+                "IsOpen": {
+                    "value": false
+                }
+            }
+        },
+        "graphics_setting": {
+            "IsOpen": {
+                "value": false
+            },
+            "KillEffect": {
+                "value": 1
+            }
+        },
+        "languageSettings": {
+            "value": 0
+        }
+    },
     "RTX": {
         "MenuSettings": {
             "BasePosition": {
                 "X": 0.0,
                 "Y": 93.0
+            }
+        }
+    },
+    "core_plugins": {
+        "IsOpen": {
+            "value": false
+        }
+    },
+    "ellie_MasterYi_basemenu": {
+        "IsOpen": {
+            "value": false
+        },
+        "ellie_MasterYi_draw_menu": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellie_MasterYi_draw_damage": {
+                "value": true
+            },
+            "ellie_MasterYi_draw_lefttime": {
+                "value": true
+            },
+            "ellie_MasterYi_draw_q_range": {
+                "value": false
+            },
+            "ellie_MasterYi_draw_q_range_clr": {
+                "color": 4281504768
+            },
+            "ellie_MasterYi_draw_ranges_always": {
+                "value": true
+            },
+            "ellie_MasterYi_q2_position": {
+                "value": false
+            },
+            "ellie_MasterYi_q2_position_color": {
+                "color": 4292847613
+            }
+        },
+        "ellie_MasterYi_e_menu": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellie_MasterYi_combo_e": {
+                "value": true
+            },
+            "ellie_MasterYi_combo_eq": {
+                "value": true
+            },
+            "ellie_MasterYi_e_whitelist_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "ellie_MasterYi_e_whitelist_Aatrox": {
+                    "value": true
+                },
+                "ellie_MasterYi_e_whitelist_Akshan": {
+                    "value": true
+                },
+                "ellie_MasterYi_e_whitelist_Fiora": {
+                    "value": true
+                },
+                "ellie_MasterYi_e_whitelist_XinZhao": {
+                    "value": true
+                },
+                "ellie_MasterYi_e_whitelist_Yasuo": {
+                    "value": true
+                }
+            },
+            "ellie_MasterYi_farm_e": {
+                "value": false
+            },
+            "ellie_MasterYi_jungle_e": {
+                "value": true
+            },
+            "ellie_MasterYi_jungle_eqfarm": {
+                "value": true
+            }
+        },
+        "ellie_MasterYi_evade_menu": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellie_MasterYi_enable_q_evade_skillshots": {
+                "IsToggle": true,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "ellie_MasterYi_enable_w_evade_skillshots": {
+                "IsToggle": true,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "ellie_MasterYi_enable_wq_evade_mode_sk": {
+                "value": 0
+            },
+            "ellie_MasterYi_enable_wq_evade_mode_targeted": {
+                "value": 0
+            },
+            "ellie_MasterYi_evade_114_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "_q_evade_atk_114_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_evade_atk_prio_114": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_114_FioraQ_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_114_FioraQ": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_114_FioraW_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_114_FioraW": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "ellie_MasterYi_evade_11_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "_q_evade_atk_11_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_evade_atk_prio_11": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_11_AlphaStrike_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_11_AlphaStrike": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "ellie_MasterYi_evade_147_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "_q_evade_atk_147_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_evade_atk_prio_147": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_147_SeraphineE_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_147_SeraphineE": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_147_SeraphineQ_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_147_SeraphineQ": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_147_SeraphineR_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_147_SeraphineR": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": true,
+                                "key": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "ellie_MasterYi_evade_157_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "_q_evade_atk_157_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_evade_atk_prio_157": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_157_YasuoQ3_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_157_YasuoQ3": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": true,
+                                "key": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "ellie_MasterYi_evade_166_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "_q_evade_atk_166_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_evade_atk_prio_166": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_166_AkshanE_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_166_AkshanE": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_166_AkshanQ_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_166_AkshanQ": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_166_AkshanR_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_166_AkshanR": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": true,
+                                "key": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "ellie_MasterYi_evade_17_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "_q_evade_atk_17_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_evade_atk_prio_17": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_17_BlindingDart_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_17_BlindingDart": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "ellie_MasterYi_evade_266_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "_q_evade_atk_266_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_evade_atk_prio_266": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_266_AatroxQ2_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_266_AatroxQ2": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": true,
+                                "key": 1
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_266_AatroxQ3_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_266_AatroxQ3": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": true,
+                                "key": 1
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_266_AatroxQ_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_266_AatroxQ": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": true,
+                                "key": 1
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_266_AatroxW_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_266_AatroxW": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": true,
+                                "key": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "ellie_MasterYi_evade_51_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "_q_evade_atk_51_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_evade_atk_prio_51": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_51_CaitlynE_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_51_CaitlynE": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_51_CaitlynQ_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_51_CaitlynQ": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_51_CaitlynR_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_51_CaitlynR": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": true,
+                                "key": 1
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_51_CaitlynW_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_51_CaitlynW": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "ellie_MasterYi_evade_5_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "_q_evade_atk_5_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_evade_atk_prio_5": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_5_XinZhaoE_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_5_XinZhaoE": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_5_XinZhaoQThrust3_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_5_XinZhaoQThrust3": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_5_XinZhaoR_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_5_XinZhaoR": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_5_XinZhaoW_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_5_XinZhaoW": {
+                        "items": [
+                            {
+                                "active": true,
+                                "key": 1
+                            },
+                            {
+                                "active": true,
+                                "key": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "ellie_MasterYi_evade_83_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "_q_evade_atk_83_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_evade_atk_prio_83": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_83_YorickE_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_83_YorickE": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": false,
+                                "key": 2
+                            }
+                        ]
+                    }
+                },
+                "ellie_MasterYi_q_evade_83_YorickQAttack_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ellie_MasterYi_q_evade_83_YorickQAttack": {
+                        "items": [
+                            {
+                                "active": false,
+                                "key": 1
+                            },
+                            {
+                                "active": true,
+                                "key": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            "ellie_MasterYi_evade_galeforce_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "ellie_MasterYi_evade_gf_prio": {
+                    "items": [
+                        {
+                            "active": true,
+                            "key": 1
+                        },
+                        {
+                            "active": false,
+                            "key": 2
+                        }
+                    ]
+                }
+            },
+            "ellie_MasterYi_evade_skillshots_prio": {
+                "items": [
+                    {
+                        "active": true,
+                        "key": 1
+                    },
+                    {
+                        "active": true,
+                        "key": 2
+                    }
+                ]
+            },
+            "ellie_MasterYi_evade_towershot_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "ellie_MasterYi_evade_tower_mode": {
+                    "value": 0
+                },
+                "ellie_MasterYi_evade_tower_q": {
+                    "IsToggle": true,
+                    "MouseWheelBind": true,
+                    "key": 0,
+                    "value": false
+                },
+                "ellie_MasterYi_evade_tower_w": {
+                    "IsToggle": true,
+                    "MouseWheelBind": true,
+                    "key": 0,
+                    "value": false
+                },
+                "ellie_MasterYi_evade_towershot_prio": {
+                    "items": [
+                        {
+                            "active": true,
+                            "key": 1
+                        },
+                        {
+                            "active": true,
+                            "key": 2
+                        }
+                    ]
+                },
+                "ellie_MasterYi_q_evade_tower_hp": {
+                    "value": 20
+                },
+                "ellie_MasterYi_w_evade_tower_hp": {
+                    "value": 50
+                }
+            },
+            "ellie_MasterYi_q_evade_dangerous": {
+                "value": true
+            },
+            "ellie_MasterYi_q_evade_sk_danger": {
+                "value": 4
+            },
+            "ellie_MasterYi_q_evade_targeted": {
+                "IsToggle": true,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "ellie_MasterYi_w_evade_dangerous": {
+                "value": true
+            },
+            "ellie_MasterYi_w_evade_sk_danger": {
+                "value": 3
+            },
+            "ellie_MasterYi_w_evade_targeted": {
+                "IsToggle": true,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "evade_interrupt_aa_hp": {
+                "value": 20
+            },
+            "evade_override_hp": {
+                "value": 33
+            },
+            "evade_separate_skillshots": {
+                "value": true
+            },
+            "smart_w_evade": {
+                "value": true
+            },
+            "tevade_buffer": {
+                "value": 2
+            },
+            "wl_show_allies": {
+                "value": false
+            }
+        },
+        "ellie_MasterYi_generalmenu": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellie_MasterYi_spellfarm": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 4,
+                "value": true
+            },
+            "ellie_MasterYi_spellfarm_mana_11": {
+                "value": 40
+            },
+            "ellie_MasterYi_spellfarm_minions_11": {
+                "value": 3
+            }
+        },
+        "ellie_MasterYi_q_menu": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellie_MasterYi_combo_q": {
+                "value": true
+            },
+            "ellie_MasterYi_combo_q_range": {
+                "value": 66
+            },
+            "ellie_MasterYi_flash_q": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 57,
+                "value": false
+            },
+            "ellie_MasterYi_flash_q_aa": {
+                "value": 1
+            },
+            "ellie_MasterYi_flee_q": {
+                "value": true
+            },
+            "ellie_MasterYi_jungle_qfarm": {
+                "value": true
+            },
+            "ellie_MasterYi_lane_qfarm": {
+                "value": false
+            },
+            "ellie_MasterYi_q2_position_mode_": {
+                "value": 1
+            },
+            "ellie_MasterYi_q_cast_assist_key": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 81,
+                "value": false
+            },
+            "ellie_MasterYi_q_cast_assist_wl": {
+                "value": true
+            },
+            "ellie_MasterYi_q_only_dash": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 53,
+                "value": false
+            },
+            "ellie_MasterYi_q_q_dash_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "ellie_MasterYi_q_only_dash_leave_q_range": {
+                    "value": true
+                },
+                "ellie_MasterYi_q_only_dash_mode": {
+                    "value": 1
+                },
+                "ellie_MasterYi_q_only_dash_wall": {
+                    "value": true
+                },
+                "q_only_dash_cone": {
+                    "value": 1
+                },
+                "q_only_dash_flash_key": {
+                    "IsToggle": true,
+                    "MouseWheelBind": true,
+                    "key": 0,
+                    "value": false
+                },
+                "q_only_dash_flash_mode": {
+                    "value": 0
+                },
+                "q_only_dash_hp": {
+                    "value": 0
+                }
+            },
+            "ellie_MasterYi_q_whitelist_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "ellie_MasterYi_q_mode_Aatrox": {
+                    "value": 0
+                },
+                "ellie_MasterYi_q_mode_Akshan": {
+                    "value": 0
+                },
+                "ellie_MasterYi_q_mode_Fiora": {
+                    "value": 0
+                },
+                "ellie_MasterYi_q_mode_XinZhao": {
+                    "value": 0
+                },
+                "ellie_MasterYi_q_mode_Yasuo": {
+                    "value": 0
+                },
+                "q_lethal_aa": {
+                    "value": 0
+                }
+            },
+            "ellie_MasterYi_taric_e_logic": {
+                "IsToggle": true,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "ellie_MasterYi_taric_rq_logic": {
+                "value": false
+            },
+            "ellie_MasterYiswap_q2_mode_key": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 85,
+                "value": false
+            },
+            "harass_q": {
+                "value": false
+            },
+            "harass_q_hp": {
+                "value": 60
+            },
+            "q_cast_assist_aa": {
+                "value": false
+            },
+            "q_cast_ignore_logic_hp": {
+                "value": 20
+            }
+        },
+        "ellie_MasterYi_r_menu": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellie_MasterYi_r_cleanse": {
+                "IsToggle": true,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "ellie_MasterYi_r_cleanse_combo": {
+                "value": false
+            },
+            "ellie_MasterYi_r_cleanse_delay": {
+                "value": 20
+            },
+            "ellie_MasterYi_r_cleanse_exhaust": {
+                "value": true
+            },
+            "ellie_MasterYi_r_cleanse_ghost": {
+                "IsToggle": true,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "ellie_MasterYi_r_cleanse_lt": {
+                "value": 200
+            },
+            "ellie_MasterYi_r_cleanse_nasusw": {
+                "value": true
+            },
+            "ellie_MasterYi_r_cleanse_slow": {
+                "value": true
+            }
+        },
+        "ellie_MasterYi_w_menu": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellie_MasterYi_heroes_w": {
+                "value": 2
+            },
+            "ellie_MasterYi_jungle_w": {
+                "value": 1
+            },
+            "ellie_MasterYi_lasthit_w": {
+                "value": true
+            },
+            "ellie_MasterYi_other_w": {
+                "value": false
+            },
+            "ellie_MasterYi_turret_w": {
+                "value": true
+            },
+            "ellie_MasterYi_w_reset_aa_hero": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 48,
+                "value": true
+            },
+            "ellie_MasterYi_w_reset_aa_hero_count": {
+                "value": 0
+            }
+        },
+        "killsteal": {
+            "IsOpen": {
+                "value": false
+            },
+            "disable_towerdive_hp": {
+                "value": 100
+            },
+            "enable_ks_key": {
+                "IsToggle": true,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": true
+            },
+            "enable_ks_mode": {
+                "value": 0
+            },
+            "include_aa": {
+                "value": 1
+            },
+            "include_aw": {
+                "value": true
+            },
+            "include_p": {
+                "value": true
+            },
+            "only_combo": {
+                "value": true
+            },
+            "whitelist_5": {
+                "IsOpen": {
+                    "value": false
+                },
+                "whitelist_5_114": {
+                    "value": true
+                },
+                "whitelist_5_157": {
+                    "value": true
+                },
+                "whitelist_5_166": {
+                    "value": true
+                },
+                "whitelist_5_266": {
+                    "value": true
+                },
+                "whitelist_5_5": {
+                    "value": true
+                }
+            }
+        }
+    },
+    "iutlity": {
+        "Activator": {
+            "IsOpen": {
+                "value": false
+            },
+            "cl_cc": {
+                "IsOpen": {
+                    "value": false
+                },
+                "buffs": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "cl_berserk": {
+                        "value": true
+                    },
+                    "cl_bl": {
+                        "value": true
+                    },
+                    "cl_ch": {
+                        "value": true
+                    },
+                    "cl_drowsy": {
+                        "value": true
+                    },
+                    "cl_fe": {
+                        "value": true
+                    },
+                    "cl_po": {
+                        "value": true
+                    },
+                    "cl_sleep": {
+                        "value": true
+                    },
+                    "cl_sn": {
+                        "value": true
+                    },
+                    "cl_st": {
+                        "value": true
+                    },
+                    "cl_su": {
+                        "value": true
+                    },
+                    "cl_ta": {
+                        "value": true
+                    },
+                    "cl_yr": {
+                        "value": true
+                    }
+                },
+                "cl_delay": {
+                    "value": 0
+                },
+                "cl_en": {
+                    "value": true
+                },
+                "cl_flash_knockup": {
+                    "IsToggle": false,
+                    "MouseWheelBind": true,
+                    "key": 0,
+                    "value": false
+                },
+                "cl_hp_min": {
+                    "value": 100
+                },
+                "cl_only_combo": {
+                    "value": false
+                },
+                "cl_time_min": {
+                    "value": 500
+                },
+                "summCleanse": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "cl_exhaust": {
+                        "value": true
+                    },
+                    "cl_ignite": {
+                        "value": true
+                    }
+                }
+            },
+            "deffensive": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Redemption": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "Redemption_list": {
+                        "IsOpen": {
+                            "value": false
+                        }
+                    },
+                    "redemption_item_enable": {
+                        "value": true
+                    },
+                    "redemption_item_range": {
+                        "value": 5500
+                    }
+                },
+                "garhoyle_stoneplate_enable": {
+                    "value": true
+                },
+                "locket_of_the_iron_solari_enable": {
+                    "value": true
+                },
+                "randuins_omen_enable": {
+                    "value": true
+                },
+                "zhonyas_hourglass_enable": {
+                    "value": true
+                }
+            },
+            "enabled": {
+                "value": true
+            },
+            "offensive": {
+                "IsOpen": {
+                    "value": false
+                },
+                "everfrost": {
+                    "EverfrostCombo": {
+                        "value": true
+                    },
+                    "EverfrostEnemyHp": {
+                        "value": 100
+                    },
+                    "EverfrostHitchance": {
+                        "value": 2
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "galeforce": {
+                    "GaleforceFromMelee": {
+                        "value": true
+                    },
+                    "GaleforceMeleeHP": {
+                        "value": 80
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "UseGaleforce": {
+                        "value": true
+                    },
+                    "UseGaleforceCombo": {
+                        "value": true
+                    }
+                },
+                "goredrinker": {
+                    "Goredrinkercombo": {
+                        "value": true
+                    },
+                    "Goredrinkerjc": {
+                        "value": true
+                    },
+                    "Goredrinkerlc": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "hextech_rocketbelt": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "RocketbeltAfterAA": {
+                        "value": true
+                    },
+                    "RocketbeltCombo": {
+                        "value": true
+                    },
+                    "RocketbeltEnemyHp": {
+                        "value": 100
+                    }
+                },
+                "ironspike_whip": {
+                    "Ironspike Whipcombo": {
+                        "value": true
+                    },
+                    "Ironspikejc": {
+                        "value": true
+                    },
+                    "Ironspikelc": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "stridebreaker": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "Stridebreakercombo": {
+                        "value": true
+                    },
+                    "Stridebreakerjc": {
+                        "value": true
+                    },
+                    "Stridebreakerlc": {
+                        "value": true
+                    }
+                },
+                "youmuus_ghostblade": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "youmuus_ghostblade_enable": {
+                        "value": true
+                    }
+                }
+            },
+            "potions": {
+                "IsOpen": {
+                    "value": false
+                },
+                "potions_use": {
+                    "value": true
+                }
+            },
+            "summoners": {
+                "IsOpen": {
+                    "value": false
+                },
+                "smite": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "smite_baron": {
+                        "value": true
+                    },
+                    "smite_blue": {
+                        "value": true
+                    },
+                    "smite_crab": {
+                        "value": true
+                    },
+                    "smite_dragon": {
+                        "value": true
+                    },
+                    "smite_draw": {
+                        "value": true
+                    },
+                    "smite_enable_key": {
+                        "IsToggle": true,
+                        "MouseWheelBind": false,
+                        "key": 77,
+                        "value": true
+                    },
+                    "smite_herald": {
+                        "value": true
+                    },
+                    "smite_red": {
+                        "value": true
+                    }
+                },
+                "summoners_config_enable_key": {
+                    "IsToggle": true,
+                    "MouseWheelBind": false,
+                    "key": 78,
+                    "value": true
+                }
+            },
+            "wards": {
+                "IsOpen": {
+                    "value": false
+                },
+                "auto_ward_blue": {
+                    "value": true
+                },
+                "auto_ward_combo": {
+                    "value": false
+                },
+                "auto_wards": {
+                    "value": true
+                }
+            }
+        },
+        "IsOpen": {
+            "value": false
+        },
+        "ayaya": {
+            "IsOpen": {
+                "value": false
+            },
+            "enabled": {
+                "value": true
+            },
+            "graphics": {
+                "value": true
+            },
+            "scale": {
+                "value": 100
+            },
+            "sounds": {
+                "value": true
+            },
+            "volume": {
+                "value": 100
+            }
+        },
+        "gloabl.not": {
+            "IsOpen": {
+                "value": false
+            },
+            "after.use": {
+                "value": true
+            },
+            "enabled": {
+                "value": true
+            },
+            "hide.cd": {
+                "value": 4
+            },
+            "min.cd": {
+                "value": 25
+            },
+            "show.cd": {
+                "value": 5
+            },
+            "sum": {
+                "value": true
+            },
+            "ults": {
+                "value": true
+            },
+            "votes": {
+                "value": true
+            }
+        },
+        "leveler": {
+            "IsOpen": {
+                "value": false
+            },
+            "MasterYileveler.enabled": {
+                "value": true
+            },
+            "MasterYileveler.lvl1": {
+                "value": 1
+            },
+            "MasterYileveler.lvl2": {
+                "value": 1
+            },
+            "MasterYileveler.lvl3": {
+                "value": 1
+            },
+            "MasterYileveler.start_lvl": {
+                "value": 2
+            },
+            "leveler.delay": {
+                "value": 250
+            }
+        },
+        "trackers": {
+            "IsOpen": {
+                "value": false
+            },
+            "champions": {
+                "IsOpen": {
+                    "value": false
+                },
+                "buff_tracker": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "color": {
+                        "color": 4278249727
+                    },
+                    "enabled": {
+                        "value": true
+                    }
+                },
+                "en_range": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "er_enabled": {
+                        "value": true
+                    },
+                    "er_thick": {
+                        "value": 1
+                    }
+                },
+                "esp_options": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "esp_enabled": {
+                        "value": true
+                    },
+                    "esp_enabled.dist": {
+                        "value": 4200
+                    },
+                    "esp_enabled.e.only": {
+                        "value": false
+                    },
+                    "esp_enabled.j.only": {
+                        "value": false
+                    }
+                },
+                "health_tracker": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ht_enabled": {
+                        "value": false
+                    },
+                    "ht_font_size": {
+                        "value": 14
+                    },
+                    "ht_health_percent": {
+                        "value": true
+                    },
+                    "ht_offset_right": {
+                        "value": 170
+                    },
+                    "ht_offset_text": {
+                        "value": 30
+                    },
+                    "ht_offset_top": {
+                        "value": 75
+                    },
+                    "ht_spacing": {
+                        "value": 10
+                    },
+                    "ht_ultimate": {
+                        "value": true
+                    },
+                    "ht_version": {
+                        "value": 0
+                    }
+                },
+                "hud": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "hud_style": {
+                        "value": 0
+                    },
+                    "hud_tracker_enabled": {
+                        "value": true
+                    },
+                    "hud_x": {
+                        "value": 0
+                    },
+                    "hud_y": {
+                        "value": 0
+                    },
+                    "scale_hud": {
+                        "value": 10
+                    }
+                },
+                "position": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "draw_hp_on_minimap": {
+                        "value": true
+                    },
+                    "draw_ss_timer_minimapex": {
+                        "value": false
+                    },
+                    "fog.tracker.draw.portert": {
+                        "value": true
+                    },
+                    "fog.tracker.glow": {
+                        "value": true
+                    },
+                    "fog.tracker.glow.portret_scale": {
+                        "value": 18
+                    },
+                    "fog.tracker.glow.pos_t_fade_out_time": {
+                        "value": 20
+                    },
+                    "fog.tracker.glow.setpos": {
+                        "value": true
+                    },
+                    "fog.tracker.predict": {
+                        "value": true
+                    },
+                    "ground_range": {
+                        "value": true
+                    },
+                    "mini_range": {
+                        "value": true
+                    },
+                    "mini_show": {
+                        "value": true
+                    }
+                },
+                "radar_options": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "radar_options.distance_draw": {
+                        "value": 300
+                    },
+                    "radar_options.draw_distance": {
+                        "value": false
+                    },
+                    "radar_options.enable": {
+                        "value": true
+                    },
+                    "radar_options.max_distance": {
+                        "value": 4500
+                    },
+                    "radar_options.padding": {
+                        "value": 0
+                    },
+                    "radar_options.scale": {
+                        "value": 25
+                    },
+                    "radar_options.style": {
+                        "value": 1
+                    }
+                },
+                "rcall_track": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "rc_delay": {
+                        "value": 20
+                    },
+                    "rc_recalls": {
+                        "value": true
+                    },
+                    "rc_shen": {
+                        "value": true
+                    },
+                    "rc_tel": {
+                        "value": true
+                    },
+                    "rc_tf": {
+                        "value": true
+                    }
+                },
+                "shared_exp": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "b.enabled": {
+                        "value": true
+                    },
+                    "b.mia": {
+                        "value": true
+                    }
+                },
+                "sp_track": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "sp_ me": {
+                        "value": false
+                    },
+                    "sp_ally": {
+                        "value": false
+                    },
+                    "sp_enemy": {
+                        "value": true
+                    },
+                    "sp_exp": {
+                        "value": true
+                    },
+                    "sp_mode": {
+                        "value": 0
+                    }
+                },
+                "waypoint_tracker": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "draw": {
+                        "value": 1
+                    },
+                    "draw_ally": {
+                        "value": false
+                    },
+                    "draw_enemy": {
+                        "value": true
+                    },
+                    "enabled": {
+                        "value": 1
+                    },
+                    "waypoint_scale_portrait": {
+                        "value": 8
+                    }
+                }
+            },
+            "clones": {
+                "IsOpen": {
+                    "value": false
+                },
+                "clone.tracker": {
+                    "value": true
+                }
+            },
+            "hide_ot": {
+                "IsOpen": {
+                    "value": false
+                },
+                "draw_owner": {
+                    "value": true
+                },
+                "enabled": {
+                    "value": true
+                },
+                "glow.ward": {
+                    "value": true
+                },
+                "hide_draw": {
+                    "value": true
+                },
+                "hide_reaming_time": {
+                    "value": true
+                },
+                "ward.reavler": {
+                    "value": false
+                }
+            },
+            "jukerevealer": {
+                "IsOpen": {
+                    "value": false
+                },
+                "enabled": {
+                    "value": true
+                },
+                "only_fow": {
+                    "value": false
+                }
+            },
+            "jungle": {
+                "IsOpen": {
+                    "value": false
+                },
+                "enabled": {
+                    "value": true
+                }
+            },
+            "structures": {
+                "IsOpen": {
+                    "value": false
+                },
+                "bt_active": {
+                    "value": true
+                },
+                "bt_inhib": {
+                    "value": true
+                },
+                "bt_turr": {
+                    "value": true
+                }
+            }
+        }
+    },
+    "l9_utils": {
+        "IsOpen": {
+            "value": false
+        },
+        "champions": {
+            "IsOpen": {
+                "value": false
+            },
+            "lantern": {
+                "IsOpen": {
+                    "value": false
+                },
+                "draw": {
+                    "value": true
+                },
+                "enabled": {
+                    "value": true
+                },
+                "lantern.ally": {
+                    "value": true
+                },
+                "lantern.control": {
+                    "value": false
+                },
+                "use_ward": {
+                    "value": true
+                },
+                "ward_delay": {
+                    "value": 2
+                }
+            }
+        },
+        "communication": {
+            "IsOpen": {
+                "value": false
+            },
+            "fakeping": {
+                "IsOpen": {
+                    "value": false
+                },
+                "delay": {
+                    "value": 3
+                },
+                "enabled": {
+                    "value": true
+                },
+                "enabled2": {
+                    "value": false
+                },
+                "hotkey": {
+                    "IsToggle": false,
+                    "MouseWheelBind": false,
+                    "key": 7,
+                    "value": false
+                },
+                "hotkey2": {
+                    "IsToggle": false,
+                    "MouseWheelBind": false,
+                    "key": 7,
+                    "value": false
+                },
+                "max": {
+                    "value": 300
+                },
+                "mode": {
+                    "value": 0
+                },
+                "value": {
+                    "value": 15
+                }
+            },
+            "pingutility": {
+                "IsOpen": {
+                    "value": false
+                },
+                "pingAllyOnDeath": {
+                    "value": false
+                },
+                "pingHexagonMenu": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "pingHexagon": {
+                        "IsToggle": false,
+                        "MouseWheelBind": false,
+                        "key": 7,
+                        "value": false
+                    },
+                    "pingMode": {
+                        "value": 0
+                    }
+                },
+                "pingMode": {
+                    "value": 4
+                },
+                "ping_blacklist": {
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "pingwardmenu": {
+                    ".pingWard": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "pingWardCustomRange": {
+                        "value": false
+                    },
+                    "pingWardDelay": {
+                        "value": 0
+                    },
+                    "pingWardRange": {
+                        "value": 2200
+                    }
+                }
+            },
+            "spell_chat": {
+                "IsOpen": {
+                    "value": false
+                },
+                "auto_ping": {
+                    "value": false
+                },
+                "cooldown": {
+                    "value": 1
+                },
+                "enabled": {
+                    "value": true
+                },
+                "fake_print": {
+                    "value": false
+                },
+                "flash_only": {
+                    "value": false
+                },
+                "hotkey": {
+                    "IsToggle": true,
+                    "MouseWheelBind": false,
+                    "key": 7,
+                    "value": false
+                },
+                "name_option": {
+                    "value": 2
+                },
+                "ping_spell": {
+                    "value": false
+                }
+            },
+            "toxic": {
+                "IsOpen": {
+                    "value": false
+                },
+                "ahahhahshahshah": {
+                    "value": false
+                },
+                "cooldown": {
+                    "value": 1
+                },
+                "custom_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "comu.tex": {
+                        "value": "L9AIO"
+                    },
+                    "enabled": {
+                        "value": false
+                    }
+                },
+                "enabled": {
+                    "value": false
+                },
+                "kill_message_tab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "kill_message_text": {
+                        "value": 0
+                    }
+                },
+                "modehahshhs": {
+                    "value": 0
+                },
+                "random_message": {
+                    "value": false
+                },
+                "region": {
+                    "value": 0
+                }
+            }
+        },
+        "drawings": {
+            "IsOpen": {
+                "value": false
+            },
+            "asasdas": {
+                ".OnlyReady": {
+                    "value": true
+                },
+                "Aatrox": {
+                    "AatroxE": {
+                        "value": false
+                    },
+                    "AatroxE.Color": {
+                        "color": 3858759935
+                    },
+                    "AatroxQ": {
+                        "value": false
+                    },
+                    "AatroxQ.Color": {
+                        "color": 3858759935
+                    },
+                    "AatroxR": {
+                        "value": false
+                    },
+                    "AatroxR.Color": {
+                        "color": 3858759935
+                    },
+                    "AatroxW": {
+                        "value": false
+                    },
+                    "AatroxW.Color": {
+                        "color": 3858759935
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "Akshan": {
+                    "AkshanE": {
+                        "value": false
+                    },
+                    "AkshanE.Color": {
+                        "color": 3858759935
+                    },
+                    "AkshanQ": {
+                        "value": false
+                    },
+                    "AkshanQ.Color": {
+                        "color": 3858759935
+                    },
+                    "AkshanR": {
+                        "value": false
+                    },
+                    "AkshanR.Color": {
+                        "color": 3858759935
+                    },
+                    "AkshanW": {
+                        "value": false
+                    },
+                    "AkshanW.Color": {
+                        "color": 3858759935
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "Fiora": {
+                    "FioraE": {
+                        "value": false
+                    },
+                    "FioraE.Color": {
+                        "color": 3858759935
+                    },
+                    "FioraQ": {
+                        "value": false
+                    },
+                    "FioraQ.Color": {
+                        "color": 3858759935
+                    },
+                    "FioraR": {
+                        "value": false
+                    },
+                    "FioraR.Color": {
+                        "color": 3858759935
+                    },
+                    "FioraW": {
+                        "value": false
+                    },
+                    "FioraW.Color": {
+                        "color": 3858759935
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "XinZhao": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "XinZhaoE": {
+                        "value": false
+                    },
+                    "XinZhaoE.Color": {
+                        "color": 3858759935
+                    },
+                    "XinZhaoQ": {
+                        "value": false
+                    },
+                    "XinZhaoQ.Color": {
+                        "color": 3858759935
+                    },
+                    "XinZhaoR": {
+                        "value": false
+                    },
+                    "XinZhaoR.Color": {
+                        "color": 3858759935
+                    },
+                    "XinZhaoW": {
+                        "value": false
+                    },
+                    "XinZhaoW.Color": {
+                        "color": 3858759935
+                    }
+                },
+                "Yasuo": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "YasuoE": {
+                        "value": false
+                    },
+                    "YasuoE.Color": {
+                        "color": 3858759935
+                    },
+                    "YasuoQ": {
+                        "value": false
+                    },
+                    "YasuoQ.Color": {
+                        "color": 3858759935
+                    },
+                    "YasuoR": {
+                        "value": false
+                    },
+                    "YasuoR.Color": {
+                        "color": 3858759935
+                    },
+                    "YasuoW": {
+                        "value": false
+                    },
+                    "YasuoW.Color": {
+                        "color": 3858759935
+                    }
+                },
+                "draw_line_thicasdkness": {
+                    "value": 2
+                },
+                "enabled.asdadsad": {
+                    "value": true
+                },
+                "icondraw": {
+                    "value": true
+                }
+            },
+            "draw.enable": {
+                "IsOpen": {
+                    "value": false
+                },
+                "champo.select": {
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "color.range": {
+                    "color": 4278255360
+                },
+                "enabled": {
+                    "value": false
+                },
+                "range.s": {
+                    "value": 1010
+                }
+            },
+            "drawt.enable": {
+                "IsOpen": {
+                    "value": false
+                },
+                "drawt.circle": {
+                    "value": true
+                },
+                "drawt.circle.color": {
+                    "color": 4278519295
+                },
+                "drawt.color": {
+                    "color": 4294967295
+                },
+                "drawt.mode": {
+                    "value": 0
+                },
+                "drawt.rotate": {
+                    "value": false
+                },
+                "drawt.size": {
+                    "value": 100
+                },
+                "drawt.thickness": {
+                    "value": 2
+                },
+                "enabled.drawt": {
+                    "value": false
+                }
+            },
+            "exp": {
+                "IsOpen": {
+                    "value": false
+                },
+                "draw.menu": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "disable.circle": {
+                        "value": false
+                    },
+                    "thick.range": {
+                        "value": 2
+                    },
+                    "trans.circle": {
+                        "value": 125
+                    }
+                },
+                "enabled.exp1": {
+                    "value": true
+                },
+                "sort.by": {
+                    "value": 0
+                }
+            },
+            "logo": {
+                "IsOpen": {
+                    "value": false
+                },
+                "color": {
+                    "color": 4292804403
+                },
+                "custom": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "comu.tex": {
+                        "value": "L9AIO"
+                    },
+                    "enabled": {
+                        "value": false
+                    }
+                },
+                "custom_pos_enabled": {
+                    "value": false
+                },
+                "enabled": {
+                    "value": true
+                },
+                "font_size": {
+                    "value": 20
+                },
+                "rgb": {
+                    "value": false
+                },
+                "text": {
+                    "value": 0
+                },
+                "x1": {
+                    "value": 0
+                },
+                "y1": {
+                    "value": 0
+                }
+            },
+            "ornn": {
+                "IsOpen": {
+                    "value": false
+                },
+                "draw.menu": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "color.range": {
+                        "color": 4278255360
+                    },
+                    "thick.range": {
+                        "value": 2
+                    }
+                },
+                "enabled.s1": {
+                    "value": true
+                }
+            },
+            "ward_spots": {
+                "IsOpen": {
+                    "value": false
+                },
+                "control_hotkey": {
+                    "IsToggle": false,
+                    "MouseWheelBind": false,
+                    "key": 77,
+                    "value": false
+                },
+                "delay": {
+                    "value": 3
+                },
+                "enabled": {
+                    "value": true
+                },
+                "player_color": {
+                    "color": 4281597782
+                },
+                "range": {
+                    "value": 1200
+                },
+                "ward_color": {
+                    "color": 4281592319
+                },
+                "ward_hotkey": {
+                    "IsToggle": false,
+                    "MouseWheelBind": false,
+                    "key": 78,
+                    "value": false
+                }
+            }
+        },
+        "misc": {
+            "IsOpen": {
+                "value": false
+            },
+            "auto_items": {
+                "IsOpen": {
+                    "value": false
+                },
+                "purchase": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "enabled": {
+                        "value": false
+                    },
+                    "no_support": {
+                        "value": true
+                    },
+                    "smite.MasterYi": {
+                        "value": true
+                    },
+                    "support": {
+                        "value": true
+                    }
+                },
+                "use": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "pyke_item": {
+                        "value": true
+                    }
+                }
+            },
+            "follow": {
+                "IsOpen": {
+                    "value": false
+                },
+                "enabled": {
+                    "value": false
+                },
+                "sort_type": {
+                    "value": 0
+                }
+            },
+            "run_settings": {
+                "IsOpen": {
+                    "value": false
+                },
+                "run.base": {
+                    "value": false
+                },
+                "run.chat": {
+                    "value": false
+                },
+                "run.chat.delay": {
+                    "value": 3
+                },
+                "run.click.delay": {
+                    "value": 3
+                }
+            }
+        },
+        "permashow": {
+            "IsOpen": {
+                "value": false
+            },
+            "colors": {
+                "IsOpen": {
+                    "value": false
+                },
+                "background_color": {
+                    "color": 4279703054
+                },
+                "border_color": {
+                    "color": 4283001468
+                },
+                "separator_color": {
+                    "color": 4281415424
+                },
+                "text_color": {
+                    "color": 4284507437
+                },
+                "title_background_color": {
+                    "color": 4280294931
+                },
+                "title_color": {
+                    "color": 4282940047
+                }
+            },
+            "enabled": {
+                "value": false
+            },
+            "font": {
+                "value": 14
+            },
+            "posx": {
+                "value": 1382
+            },
+            "posy": {
+                "value": 1001
+            }
+        },
+        "trackers": {
+            "IsOpen": {
+                "value": false
+            },
+            "aadmgtracker": {
+                "IsOpen": {
+                    "value": false
+                },
+                "aadmgtracker.custom.pos.status": {
+                    "value": false
+                },
+                "aadmgtracker.fontsize": {
+                    "value": 20
+                },
+                "aadmgtracker.pos.settings": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "draw_aadmg.custom.pos.x1": {
+                        "value": 0
+                    },
+                    "draw_aadmg.custom.pos.x2": {
+                        "value": 0
+                    },
+                    "draw_aadmg.custom.pos.y1": {
+                        "value": 0
+                    },
+                    "draw_aadmg.custom.pos.y2": {
+                        "value": 0
+                    }
+                },
+                "aadmgtracker.textcolor": {
+                    "color": 4294967295
+                },
+                "enabled": {
+                    "value": true
+                },
+                "text": {
+                    "value": 2
+                }
+            },
+            "itemtracker": {
+                "IsOpen": {
+                    "value": false
+                },
+                "ally": {
+                    "value": true
+                },
+                "enabled": {
+                    "value": true
+                },
+                "enemy": {
+                    "value": true
+                }
+            },
+            "path_tracker.path_tracker": {
+                "IsOpen": {
+                    "value": false
+                },
+                "ally": {
+                    "value": false
+                },
+                "ally_color": {
+                    "color": 4278255360
+                },
+                "enabled": {
+                    "value": true
+                },
+                "enemy": {
+                    "value": true
+                },
+                "enemy_color": {
+                    "color": 4278255360
+                },
+                "me": {
+                    "value": false
+                },
+                "minimap": {
+                    "value": false
+                },
+                "minimap_only": {
+                    "value": false
+                }
+            },
+            "wardtracker": {
+                "IsOpen": {
+                    "value": false
+                },
+                "ally": {
+                    "value": false
+                },
+                "ally_color": {
+                    "color": 4294926387
+                },
+                "enabled": {
+                    "value": true
+                },
+                "enemy": {
+                    "value": true
+                },
+                "enemy_color": {
+                    "color": 4284036095
+                },
+                "icon": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "enabled": {
+                        "value": false
+                    },
+                    "size": {
+                        "value": 20
+                    },
+                    "x1": {
+                        "value": 0
+                    },
+                    "x2": {
+                        "value": 0
+                    },
+                    "y1": {
+                        "value": 0
+                    },
+                    "y2": {
+                        "value": 0
+                    }
+                },
+                "minimap_enabled": {
+                    "value": true
+                },
+                "minimap_icons": {
+                    "value": true
+                },
+                "minimap_only": {
+                    "value": false
+                },
+                "minimap_range": {
+                    "value": false
+                },
+                "mode_ward": {
+                    "value": 0
+                },
+                "modern_icons": {
+                    "value": true
+                },
+                "owner_color": {
+                    "color": 4283432755
+                },
+                "path_quality": {
+                    "value": 30
+                },
+                "show_icons": {
+                    "value": true
+                },
+                "time_color": {
+                    "color": 4294967295
+                }
+            }
+        }
+    },
+    "luna_ui_basemenu": {
+        "IsOpen": {
+            "value": false
+        },
+        "MasterYi_info": {
+            "IsOpen": {
+                "value": false
+            }
+        },
+        "aio_tips_show": {
+            "value": true
+        },
+        "klee_aio_important_tips": {
+            "value": true
+        },
+        "luna_ui_colors_damage": {
+            "IsOpen": {
+                "value": false
+            },
+            "luna_ui_colors_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "b_draw_aa_damage": {
+                    "value": true
+                },
+                "b_draw_e_damage": {
+                    "value": true
+                },
+                "b_draw_q_damage": {
+                    "value": true
+                },
+                "b_draw_r_damage": {
+                    "value": true
+                },
+                "b_draw_w_damage": {
+                    "value": true
+                },
+                "luna_ui_aa_damage_color_11": {
+                    "color": 3026078004
+                },
+                "luna_ui_damage_color11": {
+                    "color": 2029951906
+                },
+                "luna_ui_e_damage_color11": {
+                    "color": 3027160061
+                },
+                "luna_ui_lethal_damage_color_11": {
+                    "color": 3032805205
+                },
+                "luna_ui_q_damage_color11": {
+                    "color": 3035754732
+                },
+                "luna_ui_r_damage_color11": {
+                    "color": 3036584866
+                },
+                "luna_ui_w_damage_color11": {
+                    "color": 3030170650
+                }
+            },
+            "luna_ui_damage_style": {
+                "value": 2
+            }
+        },
+        "luna_ui_colors_menu": {
+            "IsOpen": {
+                "value": false
+            },
+            "luna_ui_colors_tab_ind": {
+                "IsOpen": {
+                    "value": false
+                },
+                "luna_ui_active_color_indicators": {
+                    "color": 4280229663
+                },
+                "luna_ui_active_text_color_indicators": {
+                    "color": 4292993505
+                },
+                "luna_ui_animate_shadow": {
+                    "value": true
+                },
+                "luna_ui_background_color_indicators": {
+                    "color": 3205632530
+                },
+                "luna_ui_grid_color_indicators": {
+                    "color": 11651276
+                },
+                "luna_ui_header_text_color_indicators": {
+                    "color": 4294967295
+                },
+                "luna_ui_keybind_active_text_color_indicators": {
+                    "color": 4294739643
+                },
+                "luna_ui_keybind_inactive_text_color_indicators": {
+                    "color": 1418431371
+                },
+                "luna_ui_shadow_color_indicators": {
+                    "color": 1081424935
+                }
+            },
+            "luna_ui_draw_indicators": {
+                "value": true
+            },
+            "luna_ui_draw_indicators_hero": {
+                "value": true
+            },
+            "luna_ui_hide_disabled_unbound": {
+                "value": true
+            },
+            "luna_ui_indicators_icon": {
+                "value": true
+            },
+            "luna_ui_indicators_order_11": {
+                "items": [
+                    {
+                        "active": true,
+                        "key": 1556558957
+                    },
+                    {
+                        "active": true,
+                        "key": 864498063
+                    },
+                    {
+                        "active": true,
+                        "key": 646924445
+                    },
+                    {
+                        "active": true,
+                        "key": 75890275
+                    },
+                    {
+                        "active": true,
+                        "key": 646924445
+                    },
+                    {
+                        "active": true,
+                        "key": 75890275
+                    },
+                    {
+                        "active": true,
+                        "key": 2411804924
+                    },
+                    {
+                        "active": true,
+                        "key": 2378249686
+                    },
+                    {
+                        "active": true,
+                        "key": 2152117
+                    },
+                    {
+                        "active": true,
+                        "key": 2009300514
+                    },
+                    {
+                        "active": true,
+                        "key": 3585495666
+                    },
+                    {
+                        "active": true,
+                        "key": 1286433252
+                    },
+                    {
+                        "active": true,
+                        "key": 1562628824
+                    },
+                    {
+                        "active": true,
+                        "key": 1382432072
+                    },
+                    {
+                        "active": true,
+                        "key": 1299620671
+                    },
+                    {
+                        "active": true,
+                        "key": 93912352
+                    }
+                ]
+            },
+            "luna_ui_x_offset_hero": {
+                "value": 100
+            },
+            "luna_ui_y_offset_hero": {
+                "value": 0
+            }
+        },
+        "luna_ui_colors_ranges": {
+            "IsOpen": {
+                "value": false
+            },
+            "luna_ui_active_color_indicators": {
+                "color": 4281214750
+            },
+            "luna_ui_gradient_mode": {
+                "value": 1
+            },
+            "luna_ui_in_depth_ranges": {
+                "value": true
+            },
+            "luna_ui_inside_glow_power": {
+                "value": 0
+            },
+            "luna_ui_inside_glow_size": {
+                "value": 0
+            },
+            "luna_ui_outside_glow_power": {
+                "value": 33
+            },
+            "luna_ui_outside_glow_size": {
+                "value": 100
+            }
+        },
+        "luna_ui_pos_locked": {
+            "value": false
+        },
+        "luna_ui_position_x": {
+            "value": 1602
+        },
+        "luna_ui_position_y": {
+            "value": 525
+        },
+        "luna_ui_progress_menu": {
+            "IsOpen": {
+                "value": false
+            },
+            "luna_ui_progress_background_color": {
+                "color": 2014450194
+            },
+            "luna_ui_progress_size": {
+                "value": 100
+            },
+            "luna_ui_progress_text_color": {
+                "color": 4294967295
+            }
+        },
+        "luna_ui_sizes_menu": {
+            "IsOpen": {
+                "value": false
+            },
+            "luna_ui_dpi_scaling": {
+                "value": 1000
+            },
+            "luna_ui_text_size": {
+                "value": 22
+            }
+        }
+    },
+    "orbwalker": {
+        "IsOpen": {
+            "value": false
+        },
+        "combo_key": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 32,
+            "value": false
+        },
+        "fast_lane_clear_key": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 1,
+            "value": false
+        },
+        "flee_key": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 90,
+            "value": false
+        },
+        "freeze_wave_key": {
+            "IsToggle": true,
+            "MouseWheelBind": false,
+            "key": 112,
+            "value": false
+        },
+        "lane_clear_key": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 86,
+            "value": false
+        },
+        "last_hit_key": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 88,
+            "value": false
+        },
+        "misc": {
+            "IsOpen": {
+                "value": false
+            },
+            "anti_afk": {
+                "value": true
+            },
+            "attack_logic": {
+                "IsOpen": {
+                    "value": false
+                },
+                "farm_delayv2": {
+                    "value": 30
+                },
+                "focus_structures_over_minions": {
+                    "value": true
+                },
+                "prioritize_farm": {
+                    "value": true
+                },
+                "prioritize_plantboxes": {
+                    "value": true
+                },
+                "small_priority": {
+                    "value": false
+                }
+            },
+            "attack_object": {
+                "IsOpen": {
+                    "value": false
+                },
+                "attack_gp_barrels": {
+                    "value": 1
+                },
+                "attack_plants": {
+                    "value": false
+                },
+                "attack_wards": {
+                    "value": 0
+                }
+            },
+            "hold_range_ex": {
+                "value": 50
+            },
+            "laneclear_delay_3": {
+                "value": 1
+            },
+            "other": {
+                "IsOpen": {
+                    "value": false
+                },
+                "block.walk.inwall": {
+                    "value": false
+                },
+                "disable_aa_comboMasterYi": {
+                    "value": 0
+                },
+                "disable_aa_combo_aa_cntMasterYi": {
+                    "value": 2
+                }
+            },
+            "support.support_mode.MasterYi": {
+                "value": false
+            }
+        },
+        "mixed_key": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 67,
+            "value": false
+        },
+        "orb_draws": {
+            "IsOpen": {
+                "value": false
+            },
+            "aa_circle": {
+                "value": true
+            },
+            "aa_color": {
+                "color": 4294606080
+            },
+            "aa_color2": {
+                "color": 4283105120
+            },
+            "aa_colorthicc": {
+                "value": 2
+            },
+            "aa_orbwalker_circle_glow": {
+                "value": 4
+            },
+            "glow": {
+                "IsOpen": {
+                    "value": false
+                },
+                "g_blur": {
+                    "value": 20
+                },
+                "g_color": {
+                    "color": 4287282969
+                },
+                "g_enable": {
+                    "value": true
+                },
+                "g_thick": {
+                    "value": 3
+                }
+            },
+            "orb_draws_ind": {
+                "IsOpen": {
+                    "value": false
+                },
+                "draw_dmg_overlay": {
+                    "value": true
+                },
+                "draw_glow": {
+                    "value": true
+                },
+                "lasthit_indicator": {
+                    "value": true
+                }
+            }
+        },
+        "orbwalk_speed": {
+            "value": 100
+        },
+        "orbwalk_speed_limit2": {
+            "value": 150
+        },
+        "wind_up_time": {
+            "value": 50
+        }
+    },
+    "plugins": {
+        "IsOpen": {
+            "value": false
+        },
+        "championPlugin": {
+            "IsOpen": {
+                "value": false
+            },
+            "plugin##bgx/BGX.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/BGX.dll##MasterYi": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/LunaAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/LunaAIO.dll##MasterYi": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/ShadowAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/ShadowAIO.dll##MasterYi": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/ElliesAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/ElliesAIO.dll##MasterYi": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/KleeAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/KleeAIO.dll##MasterYi": {
+                    "value": false
+                }
+            }
+        },
+        "corePlugin": {
+            "IsOpen": {
+                "value": false
+            },
+            "plugin##bgx/DynastyOrbwalker.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/DynastyOrbwalker.dll": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/Luna-Orb.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/Luna-Orb.dll": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/Luna-TS.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/Luna-TS.dll": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/ShadowTargetSelector.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/ShadowTargetSelector.dll": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/core_plugin.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/core_plugin.dll": {
+                    "value": true
+                }
+            },
+            "plugin##bgx/xSalicePrediction.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/xSalicePrediction.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/AiPredV2.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/AiPredV2.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/AiPrediction.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/AiPrediction.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/AuroraOrbwalker.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/AuroraOrbwalker.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/AuroraPrediction.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/AuroraPrediction.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/ImpulsePrediction.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/ImpulsePrediction.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/Klee-TS.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/Klee-TS.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/LordsPred.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/LordsPred.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/SebasPrediction.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/SebasPrediction.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/solaceOrb.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/solaceOrb.dll": {
+                    "value": false
+                }
+            }
+        },
+        "miscPlugin": {
+            "IsOpen": {
+                "value": false
+            },
+            "plugin##rtx/DynastyOrb.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/DynastyOrb.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/ShadowExploit.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/ShadowExploit.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/SmartPings.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/SmartPings.dll": {
+                    "value": false
+                }
+            }
+        },
+        "utilityPlugin": {
+            "IsOpen": {
+                "value": false
+            },
+            "plugin##bgx/BGXEvade.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/BGXEvade.dll": {
+                    "value": true
+                }
+            },
+            "plugin##bgx/BlackOutActivator.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/BlackOutActivator.dll": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/FerrisUtilities.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/FerrisUtilities.dll": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/LunaUtility.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/LunaUtility.dll": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/OpenUtilities.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/OpenUtilities.dll": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/Utility.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/Utility.dll": {
+                    "value": true
+                }
+            },
+            "plugin##rtx/AuroraEvade.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/AuroraEvade.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/KleeUtility.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/KleeUtility.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/L9Utility.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/L9Utility.dll": {
+                    "value": true
+                }
+            },
+            "plugin##rtx/ZumOkroa.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/ZumOkroa.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/Zumzum.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/Zumzum.dll": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/xDreammsUtility.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/xDreammsUtility.dll": {
+                    "value": false
+                }
+            }
+        }
+    },
+    "pluginsLoadAlways": {
+        "global": {
+            "bgx/BGXEvade.dll": true,
+            "bgx/Utility.dll": true,
+            "bgx/core_plugin.dll": true,
+            "rtx/L9Utility.dll": true
+        }
+    },
+    "skinchanger": {
+        "IsOpen": {
+            "value": false
+        },
+        "allies": {
+            "IsOpen": {
+                "value": false
+            },
+            "hero_Caitlyn": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Caitlyn": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Caitlyn": {
+                    "value": 0
+                }
+            },
+            "hero_Seraphine": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Seraphine": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Seraphine": {
+                    "value": 0
+                }
+            },
+            "hero_Teemo": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Teemo": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Teemo": {
+                    "value": 0
+                }
+            },
+            "hero_Yorick": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Yorick": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Yorick": {
+                    "value": 0
+                }
+            }
+        },
+        "enabled": {
+            "value": true
+        },
+        "enemies": {
+            "IsOpen": {
+                "value": false
+            },
+            "hero_Aatrox": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Aatrox": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Aatrox": {
+                    "value": 0
+                }
+            },
+            "hero_Akshan": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Akshan": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Akshan": {
+                    "value": 0
+                }
+            },
+            "hero_Fiora": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Fiora": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Fiora": {
+                    "value": 0
+                }
+            },
+            "hero_XinZhao": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.XinZhao": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.XinZhao": {
+                    "value": 0
+                }
+            },
+            "hero_Yasuo": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Yasuo": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Yasuo": {
+                    "value": 0
+                }
+            }
+        },
+        "local": {
+            "IsOpen": {
+                "value": false
+            },
+            "hero_MasterYi": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.MasterYi": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.MasterYi": {
+                    "value": 0
+                }
+            }
+        },
+        "wardskin": {
+            "value": 0
+        }
+    },
+    "target_selector_core": {
+        "IsOpen": {
+            "value": false
+        },
+        "core": {
+            "IsOpen": {
+                "value": false
+            },
+            "alw_selected": {
+                "value": false
+            },
+            "draw_selected_target": {
+                "value": true
+            },
+            "mode": {
+                "value": 0
+            },
+            "selected_2": {
+                "value": true
+            },
+            "selector_delta": {
+                "value": 200
+            },
+            "selector_f_b_2": {
+                "value": false
+            },
+            "target.glow": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blur": {
+                    "value": 10
+                },
+                "color": {
+                    "color": 4278242559
+                },
+                "enable": {
+                    "value": true
+                },
+                "thick": {
+                    "value": 4
+                }
             }
         }
     }
