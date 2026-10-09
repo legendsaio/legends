@@ -4,7 +4,7 @@
   "match": "exact",
   "artifacts": {
     "myapp.rtx.dll": {
-      "sha256": "8ca4fa7825923cc1b630f1b5a0d9daff4763654df8b6dd0aa05a473870ed81ce",
+      "sha256": "a7948c0227743f56563600d389ab256713d3f3c0f1cf53ffcb273d05c49e6b4b",
       "versions": [
         "16.20.824.8524"
       ]
