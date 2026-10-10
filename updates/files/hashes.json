@@ -34,8 +34,8 @@
     },
     {
       "path": "Config/rtx.json",
-      "size": 134266,
-      "sha256": "42de7c6aedde41b715ed0bef25c8156802a90611dd203bcf6b86d551f6b6970a"
+      "size": 186075,
+      "sha256": "b7a27584923d3ffa5d1ff5709f1770dd65061472f61688b4e60cc6feec0cb61f"
     },
     {
       "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/Ijwhost.dll",

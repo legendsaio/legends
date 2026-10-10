@@ -313,6 +313,172 @@
             "IsOpen": {
                 "value": false
             },
+            "Lucian": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q LucianQ": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R LucianRMis": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W LucianW": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Urgot": {
+                "E UrgotE": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "Q UrgotQ": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R UrgotR": {
+                    "DangerLevel": {
+                        "value": 5
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
             "XinZhao": {
                 "IsOpen": {
                     "value": false
@@ -561,13 +727,37 @@
                 "IsOpen": {
                     "value": false
                 },
+                "spellBlockerEAshe": {
+                    "value": true
+                },
+                "spellBlockerELeeSin": {
+                    "value": false
+                },
                 "spellBlockerEMasterYi": {
                     "value": false
+                },
+                "spellBlockerQAshe": {
+                    "value": false
+                },
+                "spellBlockerQLeeSin": {
+                    "value": true
                 },
                 "spellBlockerQMasterYi": {
                     "value": false
                 },
+                "spellBlockerRAshe": {
+                    "value": false
+                },
+                "spellBlockerRLeeSin": {
+                    "value": false
+                },
                 "spellBlockerRMasterYi": {
+                    "value": false
+                },
+                "spellBlockerWAshe": {
+                    "value": true
+                },
+                "spellBlockerWLeeSin": {
                     "value": false
                 },
                 "spellBlockerWMasterYi": {
@@ -640,6 +830,23 @@
             },
             "IsOpen": {
                 "value": false
+            },
+            "LeeSin W": {
+                "BlockDangerLevelMenu": {
+                    "value": 1
+                },
+                "BlockMenu": {
+                    "value": true
+                },
+                "DangerLevel": {
+                    "value": 3
+                },
+                "Enable": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
             },
             "MasterYi Q": {
                 "DangerLevel": {
@@ -974,6 +1181,391 @@
             "value": 0
         }
     },
+    "Klee_menu": {
+        "IsOpen": {
+            "value": false
+        },
+        "LeeSin.combo": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSin.combo.e": {
+                "value": true
+            },
+            "LeeSin.combo.e.config": {
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "LeeSin.combo.e2": {
+                "value": true
+            },
+            "LeeSin.combo.e2.config": {
+                "IsOpen": {
+                    "value": false
+                },
+                "LeeSine2_mana": {
+                    "value": 155
+                },
+                "LeeSine2_range": {
+                    "value": 290
+                },
+                "LeeSinuse_e2_passive": {
+                    "value": true
+                }
+            },
+            "LeeSin.combo.q": {
+                "value": true
+            },
+            "LeeSin.combo.q.config": {
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "LeeSin.combo.q2": {
+                "value": true
+            },
+            "LeeSin.combo.q2.config": {
+                "IsOpen": {
+                    "value": false
+                },
+                "LeeSinuse_q2_end_time": {
+                    "value": true
+                },
+                "LeeSinuse_q2_only_ks": {
+                    "value": false
+                },
+                "LeeSinuse_q2_range": {
+                    "value": 700
+                },
+                "LeeSinuse_q2_save_check": {
+                    "value": true
+                },
+                "LeeSinuse_q2_save_enemy": {
+                    "value": 3
+                },
+                "LeeSinuse_q2_save_range": {
+                    "value": 400
+                }
+            },
+            "LeeSin.combo.w": {
+                "value": false
+            },
+            "LeeSin.combo.w.config": {
+                "IsOpen": {
+                    "value": false
+                },
+                "LeeSinw_hp": {
+                    "value": 10
+                }
+            },
+            "LeeSin.combo.w2": {
+                "value": true
+            },
+            "LeeSin.combo.w2.config": {
+                "IsOpen": {
+                    "value": false
+                },
+                "LeeSinw2_mana": {
+                    "value": 150
+                }
+            },
+            "LeeSinaa_other": {
+                "value": false
+            }
+        },
+        "LeeSin.harass": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSin.harass.e": {
+                "value": true
+            },
+            "LeeSin.harass.q": {
+                "value": true
+            }
+        },
+        "LeeSin.hitchance": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSin.hitchance.e": {
+                "value": 2
+            },
+            "LeeSin.hitchance.q": {
+                "value": 2
+            },
+            "LeeSine_range": {
+                "value": 400
+            },
+            "LeeSinq_range": {
+                "value": 1000
+            }
+        },
+        "LeeSin.laneclear": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSin.jungle_clear.e": {
+                "value": true
+            },
+            "LeeSin.jungle_clear.q": {
+                "value": true
+            },
+            "LeeSin.jungle_clear.w": {
+                "value": true
+            },
+            "LeeSin.laneclear.e": {
+                "value": true
+            },
+            "LeeSin.laneclear.e_target": {
+                "value": 5
+            },
+            "LeeSin.laneclear.q": {
+                "value": true
+            },
+            "LeeSinfast_use_e_minions": {
+                "value": true
+            },
+            "LeeSinfast_use_q_minions": {
+                "value": false
+            },
+            "LeeSinfast_use_w_minions": {
+                "value": false
+            },
+            "LeeSinuse_e_jungle_count": {
+                "value": 3
+            }
+        },
+        "LeeSin_draw": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSindraw_mouse_range": {
+                "value": true
+            },
+            "LeeSininsec_check": {
+                "value": false
+            },
+            "LeeSinrange_ward_f_w": {
+                "value": false
+            },
+            "draw_damage": {
+                "value": true
+            },
+            "draw_e_range": {
+                "value": false
+            },
+            "draw_q_range": {
+                "value": true
+            },
+            "draw_r_range": {
+                "value": false
+            },
+            "draw_ranges_always": {
+                "value": true
+            },
+            "draw_w_range": {
+                "value": false
+            },
+            "e_range_color": {
+                "color": 4288721402
+            },
+            "q_range_color": {
+                "color": 4289194751
+            },
+            "r_range_color": {
+                "color": 4285609141
+            },
+            "w_range_color": {
+                "color": 4294876066
+            }
+        },
+        "LeeSinauto_skill": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSinauto_e_ks": {
+                "value": true
+            },
+            "LeeSinauto_q1_ks": {
+                "value": true
+            },
+            "LeeSinauto_q2_ks": {
+                "value": true
+            },
+            "LeeSinauto_q_cc": {
+                "value": true
+            },
+            "LeeSinauto_r_antiGapclose": {
+                "value": false
+            },
+            "LeeSinauto_r_interrupter": {
+                "value": true
+            },
+            "LeeSinauto_r_ks": {
+                "value": true
+            },
+            "LeeSinr_AntiGapclose_config": {
+                "6": {
+                    "value": true
+                },
+                "994": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "LeeSinr_interrupter_config": {
+                "6": {
+                    "value": true
+                },
+                "994": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "LeeSinr_ks_config": {
+                "6": {
+                    "value": true
+                },
+                "994": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            }
+        },
+        "LeeSindont_q2_turret": {
+            "IsToggle": true,
+            "MouseWheelBind": false,
+            "key": 107,
+            "value": false
+        },
+        "LeeSininsec": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 84,
+            "value": false
+        },
+        "LeeSininsec_check": {
+            "value": false
+        },
+        "LeeSininsec_menu": {
+            "6": {
+                "value": true
+            },
+            "994": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSindis_evade": {
+                "value": true
+            },
+            "LeeSinflash_insec": {
+                "value": true
+            },
+            "LeeSinward_flash_insec": {
+                "value": false
+            },
+            "LeeSinward_insec": {
+                "value": true
+            },
+            "flash_first": {
+                "value": false
+            }
+        },
+        "LeeSininsec_pos": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 1,
+            "value": false
+        },
+        "LeeSinmisc": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSinw_mouse_range": {
+                "value": 300
+            }
+        },
+        "LeeSinsemi_q": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 107,
+            "value": false
+        },
+        "LeeSinsemi_r": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 82,
+            "value": false
+        },
+        "LeeSinsemi_r_many": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 65,
+            "value": false
+        },
+        "LeeSinw_ward": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 90,
+            "value": false
+        },
+        "LeeSinwarning": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSinsemi_r2": {
+                "IsToggle": false,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "LeeSinthree_r_kill": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 107,
+                "value": false
+            },
+            "LeeSinthree_r_kill_2": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 107,
+                "value": false
+            },
+            "LeeSinward_flash_w": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 107,
+                "value": false
+            }
+        },
+        "ellie_LeeSin_generalmenu": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellie_LeeSin_spellfarm": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 4,
+                "value": true
+            },
+            "ellie_LeeSin_spellfarm_mana_64": {
+                "value": 40
+            },
+            "ellie_LeeSin_spellfarm_minions_64": {
+                "value": 3
+            }
+        }
+    },
     "RTX": {
         "MenuSettings": {
             "BasePosition": {
@@ -985,6 +1577,391 @@
     "core_plugins": {
         "IsOpen": {
             "value": false
+        }
+    },
+    "ellie_LeeSin_basemenu": {
+        "IsOpen": {
+            "value": false
+        },
+        "LeeSin.combo": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSin.combo.e": {
+                "value": true
+            },
+            "LeeSin.combo.e.config": {
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "LeeSin.combo.e2": {
+                "value": true
+            },
+            "LeeSin.combo.e2.config": {
+                "IsOpen": {
+                    "value": false
+                },
+                "LeeSine2_mana": {
+                    "value": 155
+                },
+                "LeeSine2_range": {
+                    "value": 290
+                },
+                "LeeSinuse_e2_passive": {
+                    "value": true
+                }
+            },
+            "LeeSin.combo.q": {
+                "value": true
+            },
+            "LeeSin.combo.q.config": {
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "LeeSin.combo.q2": {
+                "value": true
+            },
+            "LeeSin.combo.q2.config": {
+                "IsOpen": {
+                    "value": false
+                },
+                "LeeSinuse_q2_end_time": {
+                    "value": true
+                },
+                "LeeSinuse_q2_only_ks": {
+                    "value": false
+                },
+                "LeeSinuse_q2_range": {
+                    "value": 700
+                },
+                "LeeSinuse_q2_save_check": {
+                    "value": true
+                },
+                "LeeSinuse_q2_save_enemy": {
+                    "value": 3
+                },
+                "LeeSinuse_q2_save_range": {
+                    "value": 400
+                }
+            },
+            "LeeSin.combo.w": {
+                "value": false
+            },
+            "LeeSin.combo.w.config": {
+                "IsOpen": {
+                    "value": false
+                },
+                "LeeSinw_hp": {
+                    "value": 10
+                }
+            },
+            "LeeSin.combo.w2": {
+                "value": true
+            },
+            "LeeSin.combo.w2.config": {
+                "IsOpen": {
+                    "value": false
+                },
+                "LeeSinw2_mana": {
+                    "value": 150
+                }
+            },
+            "LeeSinaa_other": {
+                "value": false
+            }
+        },
+        "LeeSin.harass": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSin.harass.e": {
+                "value": true
+            },
+            "LeeSin.harass.q": {
+                "value": true
+            }
+        },
+        "LeeSin.hitchance": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSin.hitchance.e": {
+                "value": 2
+            },
+            "LeeSin.hitchance.q": {
+                "value": 2
+            },
+            "LeeSine_range": {
+                "value": 400
+            },
+            "LeeSinq_range": {
+                "value": 1000
+            }
+        },
+        "LeeSin.laneclear": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSin.jungle_clear.e": {
+                "value": true
+            },
+            "LeeSin.jungle_clear.q": {
+                "value": true
+            },
+            "LeeSin.jungle_clear.w": {
+                "value": true
+            },
+            "LeeSin.laneclear.e": {
+                "value": true
+            },
+            "LeeSin.laneclear.e_target": {
+                "value": 5
+            },
+            "LeeSin.laneclear.q": {
+                "value": true
+            },
+            "LeeSinfast_use_e_minions": {
+                "value": true
+            },
+            "LeeSinfast_use_q_minions": {
+                "value": false
+            },
+            "LeeSinfast_use_w_minions": {
+                "value": false
+            },
+            "LeeSinuse_e_jungle_count": {
+                "value": 3
+            }
+        },
+        "LeeSin_draw": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSindraw_mouse_range": {
+                "value": true
+            },
+            "LeeSininsec_check": {
+                "value": false
+            },
+            "LeeSinrange_ward_f_w": {
+                "value": false
+            },
+            "draw_damage": {
+                "value": true
+            },
+            "draw_e_range": {
+                "value": false
+            },
+            "draw_q_range": {
+                "value": true
+            },
+            "draw_r_range": {
+                "value": false
+            },
+            "draw_ranges_always": {
+                "value": true
+            },
+            "draw_w_range": {
+                "value": false
+            },
+            "e_range_color": {
+                "color": 4288721402
+            },
+            "q_range_color": {
+                "color": 4289194751
+            },
+            "r_range_color": {
+                "color": 4285609141
+            },
+            "w_range_color": {
+                "color": 4294876066
+            }
+        },
+        "LeeSinauto_skill": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSinauto_e_ks": {
+                "value": true
+            },
+            "LeeSinauto_q1_ks": {
+                "value": true
+            },
+            "LeeSinauto_q2_ks": {
+                "value": true
+            },
+            "LeeSinauto_q_cc": {
+                "value": true
+            },
+            "LeeSinauto_r_antiGapclose": {
+                "value": false
+            },
+            "LeeSinauto_r_interrupter": {
+                "value": true
+            },
+            "LeeSinauto_r_ks": {
+                "value": true
+            },
+            "LeeSinr_AntiGapclose_config": {
+                "6": {
+                    "value": true
+                },
+                "994": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "LeeSinr_interrupter_config": {
+                "6": {
+                    "value": true
+                },
+                "994": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "LeeSinr_ks_config": {
+                "6": {
+                    "value": true
+                },
+                "994": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            }
+        },
+        "LeeSindont_q2_turret": {
+            "IsToggle": true,
+            "MouseWheelBind": false,
+            "key": 107,
+            "value": false
+        },
+        "LeeSininsec": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 84,
+            "value": false
+        },
+        "LeeSininsec_check": {
+            "value": false
+        },
+        "LeeSininsec_menu": {
+            "6": {
+                "value": true
+            },
+            "994": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSindis_evade": {
+                "value": true
+            },
+            "LeeSinflash_insec": {
+                "value": true
+            },
+            "LeeSinward_flash_insec": {
+                "value": false
+            },
+            "LeeSinward_insec": {
+                "value": true
+            },
+            "flash_first": {
+                "value": false
+            }
+        },
+        "LeeSininsec_pos": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 1,
+            "value": false
+        },
+        "LeeSinmisc": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSinw_mouse_range": {
+                "value": 300
+            }
+        },
+        "LeeSinsemi_q": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 107,
+            "value": false
+        },
+        "LeeSinsemi_r": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 82,
+            "value": false
+        },
+        "LeeSinsemi_r_many": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 65,
+            "value": false
+        },
+        "LeeSinw_ward": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 90,
+            "value": false
+        },
+        "LeeSinwarning": {
+            "IsOpen": {
+                "value": false
+            },
+            "LeeSinsemi_r2": {
+                "IsToggle": false,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "LeeSinthree_r_kill": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 107,
+                "value": false
+            },
+            "LeeSinthree_r_kill_2": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 107,
+                "value": false
+            },
+            "LeeSinward_flash_w": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 107,
+                "value": false
+            }
+        },
+        "ellie_LeeSin_generalmenu": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellie_LeeSin_spellfarm": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 4,
+                "value": true
+            },
+            "ellie_LeeSin_spellfarm_mana_64": {
+                "value": 40
+            },
+            "ellie_LeeSin_spellfarm_minions_64": {
+                "value": 3
+            }
         }
     },
     "ellie_MasterYi_basemenu": {
@@ -2091,6 +3068,215 @@
             }
         }
     },
+    "ellieui_basemenu": {
+        "IsOpen": {
+            "value": false
+        },
+        "LeeSin_info": {
+            "IsOpen": {
+                "value": false
+            }
+        },
+        "ellieui_colors_damage": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellieui_colors_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "b_draw_aa_damage": {
+                    "value": true
+                },
+                "b_draw_e_damage": {
+                    "value": true
+                },
+                "b_draw_q_damage": {
+                    "value": true
+                },
+                "b_draw_r_damage": {
+                    "value": true
+                },
+                "b_draw_w_damage": {
+                    "value": true
+                },
+                "ellieui_aa_damage_color_64": {
+                    "color": 3026078004
+                },
+                "ellieui_damage_color64": {
+                    "color": 2029951906
+                },
+                "ellieui_e_damage_color64": {
+                    "color": 3027160061
+                },
+                "ellieui_lethal_damage_color_64": {
+                    "color": 3032805205
+                },
+                "ellieui_q_damage_color64": {
+                    "color": 3035754732
+                },
+                "ellieui_r_damage_color64": {
+                    "color": 3036584866
+                },
+                "ellieui_w_damage_color64": {
+                    "color": 3030170650
+                }
+            },
+            "ellieui_damage_style": {
+                "value": 2
+            }
+        },
+        "ellieui_colors_menu": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellieui_colors_tab_ind": {
+                "IsOpen": {
+                    "value": false
+                },
+                "ellieui_active_color_indicators": {
+                    "color": 4284369204
+                },
+                "ellieui_active_text_color_indicators": {
+                    "color": 4294637301
+                },
+                "ellieui_animate_shadow": {
+                    "value": true
+                },
+                "ellieui_background_color_indicators": {
+                    "color": 2018524716
+                },
+                "ellieui_grid_color_indicators": {
+                    "color": 11651276
+                },
+                "ellieui_header_text_color_indicators": {
+                    "color": 4294967295
+                },
+                "ellieui_keybind_active_text_color_indicators": {
+                    "color": 4288794909
+                },
+                "ellieui_keybind_inactive_text_color_indicators": {
+                    "color": 4289172867
+                },
+                "ellieui_shadow_color_indicators": {
+                    "color": 1081424935
+                }
+            },
+            "ellieui_draw_indicators": {
+                "value": true
+            },
+            "ellieui_draw_indicators_hero": {
+                "value": true
+            },
+            "ellieui_hide_disabled_unbound": {
+                "value": true
+            },
+            "ellieui_indicators_order_64": {
+                "items": [
+                    {
+                        "active": true,
+                        "key": 0
+                    },
+                    {
+                        "active": true,
+                        "key": 1
+                    },
+                    {
+                        "active": true,
+                        "key": 2
+                    },
+                    {
+                        "active": true,
+                        "key": 3
+                    },
+                    {
+                        "active": true,
+                        "key": 4
+                    },
+                    {
+                        "active": true,
+                        "key": 5
+                    },
+                    {
+                        "active": true,
+                        "key": 6
+                    },
+                    {
+                        "active": true,
+                        "key": 7
+                    },
+                    {
+                        "active": true,
+                        "key": 8
+                    },
+                    {
+                        "active": true,
+                        "key": 9
+                    },
+                    {
+                        "active": true,
+                        "key": 10
+                    },
+                    {
+                        "active": true,
+                        "key": 11
+                    }
+                ]
+            },
+            "ellieui_x_offset_hero": {
+                "value": 100
+            },
+            "ellieui_y_offset_hero": {
+                "value": 0
+            }
+        },
+        "ellieui_colors_ranges": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellieui_active_color_indicators": {
+                "color": 4281214750
+            },
+            "ellieui_gradient_mode": {
+                "value": 1
+            },
+            "ellieui_in_depth_ranges": {
+                "value": true
+            },
+            "ellieui_inside_glow_power": {
+                "value": 0
+            },
+            "ellieui_inside_glow_size": {
+                "value": 0
+            },
+            "ellieui_outside_glow_power": {
+                "value": 33
+            },
+            "ellieui_outside_glow_size": {
+                "value": 100
+            }
+        },
+        "ellieui_position_x": {
+            "value": 143
+        },
+        "ellieui_position_y": {
+            "value": 734
+        },
+        "ellieui_sizes_menu": {
+            "IsOpen": {
+                "value": false
+            },
+            "ellieui_dpi_scaling": {
+                "value": 1000
+            },
+            "ellieui_text_size": {
+                "value": 22
+            }
+        },
+        "klee_aio_important_tips": {
+            "value": true
+        }
+    },
     "iutlity": {
         "Activator": {
             "IsOpen": {
@@ -2322,6 +3508,17 @@
                 "IsOpen": {
                     "value": false
                 },
+                "heal": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "ally_heal": {
+                        "value": true
+                    },
+                    "heal_enable": {
+                        "value": true
+                    }
+                },
                 "smite": {
                     "IsOpen": {
                         "value": false
@@ -2399,6 +3596,25 @@
                 "value": 100
             }
         },
+        "base_ult": {
+            "IsOpen": {
+                "value": false
+            },
+            "b.enabled": {
+                "value": true
+            },
+            "combo.disable": {
+                "value": true
+            },
+            "combo.dmg": {
+                "value": 100
+            },
+            "g_c": {
+                "IsOpen": {
+                    "value": false
+                }
+            }
+        },
         "gloabl.not": {
             "IsOpen": {
                 "value": false
@@ -2429,8 +3645,38 @@
             }
         },
         "leveler": {
+            "Asheleveler.enabled": {
+                "value": true
+            },
+            "Asheleveler.lvl1": {
+                "value": 1
+            },
+            "Asheleveler.lvl2": {
+                "value": 1
+            },
+            "Asheleveler.lvl3": {
+                "value": 1
+            },
+            "Asheleveler.start_lvl": {
+                "value": 2
+            },
             "IsOpen": {
                 "value": false
+            },
+            "LeeSinleveler.enabled": {
+                "value": true
+            },
+            "LeeSinleveler.lvl1": {
+                "value": 1
+            },
+            "LeeSinleveler.lvl2": {
+                "value": 1
+            },
+            "LeeSinleveler.lvl3": {
+                "value": 1
+            },
+            "LeeSinleveler.start_lvl": {
+                "value": 2
             },
             "MasterYileveler.enabled": {
                 "value": true
@@ -3043,6 +4289,93 @@
                 "IsOpen": {
                     "value": false
                 },
+                "Lucian": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "LucianE": {
+                        "value": false
+                    },
+                    "LucianE.Color": {
+                        "color": 3858759935
+                    },
+                    "LucianQ": {
+                        "value": false
+                    },
+                    "LucianQ.Color": {
+                        "color": 3858759935
+                    },
+                    "LucianR": {
+                        "value": false
+                    },
+                    "LucianR.Color": {
+                        "color": 3858759935
+                    },
+                    "LucianW": {
+                        "value": false
+                    },
+                    "LucianW.Color": {
+                        "color": 3858759935
+                    }
+                },
+                "PracticeTool_TargetDummy": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "PracticeTool_TargetDummyE": {
+                        "value": false
+                    },
+                    "PracticeTool_TargetDummyE.Color": {
+                        "color": 3858759935
+                    },
+                    "PracticeTool_TargetDummyQ": {
+                        "value": false
+                    },
+                    "PracticeTool_TargetDummyQ.Color": {
+                        "color": 3858759935
+                    },
+                    "PracticeTool_TargetDummyR": {
+                        "value": false
+                    },
+                    "PracticeTool_TargetDummyR.Color": {
+                        "color": 3858759935
+                    },
+                    "PracticeTool_TargetDummyW": {
+                        "value": false
+                    },
+                    "PracticeTool_TargetDummyW.Color": {
+                        "color": 3858759935
+                    }
+                },
+                "Urgot": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "UrgotE": {
+                        "value": false
+                    },
+                    "UrgotE.Color": {
+                        "color": 3858759935
+                    },
+                    "UrgotQ": {
+                        "value": false
+                    },
+                    "UrgotQ.Color": {
+                        "color": 3858759935
+                    },
+                    "UrgotR": {
+                        "value": false
+                    },
+                    "UrgotR.Color": {
+                        "color": 3858759935
+                    },
+                    "UrgotW": {
+                        "value": false
+                    },
+                    "UrgotW.Color": {
+                        "color": 3858759935
+                    }
+                },
                 "XinZhao": {
                     "IsOpen": {
                         "value": false
@@ -3294,6 +4627,12 @@
                     "no_support": {
                         "value": true
                     },
+                    "smite.Ashe": {
+                        "value": true
+                    },
+                    "smite.LeeSin": {
+                        "value": true
+                    },
                     "smite.MasterYi": {
                         "value": true
                     },
@@ -3318,6 +4657,29 @@
                     "value": false
                 },
                 "sort_type": {
+                    "value": 0
+                }
+            },
+            "l9.autoleveler.tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "delay": {
+                    "value": 250
+                },
+                "enable": {
+                    "value": false
+                },
+                "min_level": {
+                    "value": 1
+                },
+                "min_time": {
+                    "value": 90
+                },
+                "usage": {
+                    "value": 0
+                },
+                "work_mode": {
                     "value": 0
                 }
             },
@@ -3542,6 +4904,11 @@
         "IsOpen": {
             "value": false
         },
+        "LeeSin_info": {
+            "IsOpen": {
+                "value": false
+            }
+        },
         "MasterYi_info": {
             "IsOpen": {
                 "value": false
@@ -3579,22 +4946,43 @@
                 "luna_ui_aa_damage_color_11": {
                     "color": 3026078004
                 },
+                "luna_ui_aa_damage_color_64": {
+                    "color": 3026078004
+                },
                 "luna_ui_damage_color11": {
+                    "color": 2029951906
+                },
+                "luna_ui_damage_color64": {
                     "color": 2029951906
                 },
                 "luna_ui_e_damage_color11": {
                     "color": 3027160061
                 },
+                "luna_ui_e_damage_color64": {
+                    "color": 3027160061
+                },
                 "luna_ui_lethal_damage_color_11": {
+                    "color": 3032805205
+                },
+                "luna_ui_lethal_damage_color_64": {
                     "color": 3032805205
                 },
                 "luna_ui_q_damage_color11": {
                     "color": 3035754732
                 },
+                "luna_ui_q_damage_color64": {
+                    "color": 3035754732
+                },
                 "luna_ui_r_damage_color11": {
                     "color": 3036584866
                 },
+                "luna_ui_r_damage_color64": {
+                    "color": 3036584866
+                },
                 "luna_ui_w_damage_color11": {
+                    "color": 3030170650
+                },
+                "luna_ui_w_damage_color64": {
                     "color": 3030170650
                 }
             },
@@ -3718,6 +5106,58 @@
                     }
                 ]
             },
+            "luna_ui_indicators_order_64": {
+                "items": [
+                    {
+                        "active": true,
+                        "key": 1556558957
+                    },
+                    {
+                        "active": true,
+                        "key": 1174759768
+                    },
+                    {
+                        "active": true,
+                        "key": 729328780
+                    },
+                    {
+                        "active": true,
+                        "key": 1225092625
+                    },
+                    {
+                        "active": true,
+                        "key": 2222275012
+                    },
+                    {
+                        "active": true,
+                        "key": 1423156121
+                    },
+                    {
+                        "active": true,
+                        "key": 3658048626
+                    },
+                    {
+                        "active": true,
+                        "key": 1643107658
+                    },
+                    {
+                        "active": true,
+                        "key": 3819537164
+                    },
+                    {
+                        "active": true,
+                        "key": 3703326668
+                    },
+                    {
+                        "active": true,
+                        "key": 953810232
+                    },
+                    {
+                        "active": true,
+                        "key": 378298649
+                    }
+                ]
+            },
             "luna_ui_x_offset_hero": {
                 "value": 100
             },
@@ -3755,7 +5195,7 @@
             "value": false
         },
         "luna_ui_position_x": {
-            "value": 1602
+            "value": 1592
         },
         "luna_ui_position_y": {
             "value": 525
@@ -3880,12 +5320,30 @@
                 "block.walk.inwall": {
                     "value": false
                 },
+                "disable_aa_comboAshe": {
+                    "value": 0
+                },
+                "disable_aa_comboLeeSin": {
+                    "value": 0
+                },
                 "disable_aa_comboMasterYi": {
                     "value": 0
+                },
+                "disable_aa_combo_aa_cntAshe": {
+                    "value": 2
+                },
+                "disable_aa_combo_aa_cntLeeSin": {
+                    "value": 2
                 },
                 "disable_aa_combo_aa_cntMasterYi": {
                     "value": 2
                 }
+            },
+            "support.support_mode.Ashe": {
+                "value": false
+            },
+            "support.support_mode.LeeSin": {
+                "value": false
             },
             "support.support_mode.MasterYi": {
                 "value": false
@@ -3970,7 +5428,18 @@
                 "IsOpen": {
                     "value": false
                 },
+                "plugin##bgx/BGX.dll##Ashe": {
+                    "value": false
+                },
                 "plugin##bgx/BGX.dll##MasterYi": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/CSXAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/CSXAIO.dll##Ashe": {
                     "value": false
                 }
             },
@@ -3978,7 +5447,21 @@
                 "IsOpen": {
                     "value": false
                 },
+                "plugin##bgx/LunaAIO.dll##LeeSin": {
+                    "value": false
+                },
                 "plugin##bgx/LunaAIO.dll##MasterYi": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/RTXPOWER.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/RTXPOWER.dll##Ashe": {
+                    "value": false
+                },
+                "plugin##bgx/RTXPOWER.dll##LeeSin": {
                     "value": false
                 }
             },
@@ -3994,6 +5477,9 @@
                 "IsOpen": {
                     "value": false
                 },
+                "plugin##rtx/ElliesAIO.dll##LeeSin": {
+                    "value": false
+                },
                 "plugin##rtx/ElliesAIO.dll##MasterYi": {
                     "value": false
                 }
@@ -4002,7 +5488,45 @@
                 "IsOpen": {
                     "value": false
                 },
+                "plugin##rtx/KleeAIO.dll##LeeSin": {
+                    "value": false
+                },
                 "plugin##rtx/KleeAIO.dll##MasterYi": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/LeaguesharpAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/LeaguesharpAIO.dll##Ashe": {
+                    "value": false
+                },
+                "plugin##rtx/LeaguesharpAIO.dll##LeeSin": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/LotusAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/LotusAIO.dll##Ashe": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/Marksman.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/Marksman.dll##Ashe": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/xDreammsAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/xDreammsAIO.dll##Ashe": {
                     "value": false
                 }
             }
@@ -4271,6 +5795,252 @@
             "rtx/L9Utility.dll": true
         }
     },
+    "rtx_power_LeeSin": {
+        "Clear": {
+            "ElLeeSin.Jungle.E": {
+                "value": true
+            },
+            "ElLeeSin.Jungle.Q": {
+                "value": true
+            },
+            "ElLeeSin.Jungle.W": {
+                "value": true
+            },
+            "ElLeeSin.Lane.E": {
+                "value": true
+            },
+            "ElLeeSin.Lane.Q": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            }
+        },
+        "Combo": {
+            "ElLeeSin.Combo.AAStacks": {
+                "value": false
+            },
+            "ElLeeSin.Combo.E": {
+                "value": true
+            },
+            "ElLeeSin.Combo.KS.R": {
+                "value": true
+            },
+            "ElLeeSin.Combo.PassiveStacks": {
+                "value": 1
+            },
+            "ElLeeSin.Combo.Q": {
+                "value": true
+            },
+            "ElLeeSin.Combo.Q2": {
+                "value": true
+            },
+            "ElLeeSin.Combo.R": {
+                "value": true
+            },
+            "ElLeeSin.Combo.StarKill1": {
+                "value": false
+            },
+            "ElLeeSin.Combo.W2": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "Wardjump": {
+                "ElLeeSin.Combo.Mode.WW": {
+                    "value": false
+                },
+                "ElLeeSin.Combo.W": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "starCombo": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 72,
+                "value": false
+            }
+        },
+        "Harass": {
+            "ElLeeSin.Harass.E1": {
+                "value": false
+            },
+            "ElLeeSin.Harass.PassiveStacks": {
+                "value": 1
+            },
+            "ElLeeSin.Harass.Q1": {
+                "value": true
+            },
+            "ElLeeSin.Harass.Wardjump": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            }
+        },
+        "Insec": {
+            "ElLeeSin.Flash.Insec": {
+                "value": false
+            },
+            "Insec Modes": {
+                "ElLeeSin.Insec.Ally": {
+                    "value": true
+                },
+                "ElLeeSin.Insec.Original.Pos": {
+                    "value": true
+                },
+                "ElLeeSin.Insec.Tower": {
+                    "value": false
+                },
+                "ElLeeSin.Insec.UseInstaFlash": {
+                    "IsToggle": false,
+                    "MouseWheelBind": false,
+                    "key": 71,
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "InsecEnabled": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 84,
+                "value": false
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "bonusRangeA": {
+                "value": 0
+            },
+            "bonusRangeT": {
+                "value": 0
+            },
+            "checkOthers1": {
+                "value": true
+            },
+            "clickInsec": {
+                "value": true
+            },
+            "insecMode": {
+                "value": true
+            },
+            "insecOrbwalk": {
+                "value": true
+            },
+            "waitForQBuff": {
+                "value": false
+            }
+        },
+        "IsOpen": {
+            "value": false
+        },
+        "Kick": {
+            "ElLeeSin.Combo.New": {
+                "value": true
+            },
+            "ElLeeSin.Combo.New.R.Kill": {
+                "value": false
+            },
+            "ElLeeSin.Combo.R.Count": {
+                "value": 3
+            },
+            "IsOpen": {
+                "value": false
+            }
+        },
+        "Misc": {
+            "ElLeeSin.Smite.Q": {
+                "value": false
+            },
+            "IsOpen": {
+                "value": false
+            }
+        },
+        "Wardjump": {
+            "ElLeeSin.Wardjump": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 89,
+                "value": false
+            },
+            "ElLeeSin.Wardjump.Champions": {
+                "value": true
+            },
+            "ElLeeSin.Wardjump.MaxRange": {
+                "value": false
+            },
+            "ElLeeSin.Wardjump.Minions": {
+                "value": true
+            },
+            "ElLeeSin.Wardjump.Mouse": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "escapeMode": {
+                "value": true
+            }
+        },
+        "drawings": {
+            "Draw.Insec.Lines": {
+                "value": false
+            },
+            "DrawEnabled": {
+                "value": true
+            },
+            "ElLeeSin.Draw.E": {
+                "value": false
+            },
+            "ElLeeSin.Draw.Escape": {
+                "value": false
+            },
+            "ElLeeSin.Draw.Insec": {
+                "value": false
+            },
+            "ElLeeSin.Draw.Insec.Text": {
+                "value": false
+            },
+            "ElLeeSin.Draw.Q": {
+                "value": false
+            },
+            "ElLeeSin.Draw.Q.Width": {
+                "value": false
+            },
+            "ElLeeSin.Draw.R": {
+                "value": false
+            },
+            "ElLeeSin.Draw.W": {
+                "value": false
+            },
+            "ElLeeSin.Draw.WJDraw": {
+                "value": false
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "drawOutLineST": {
+                "value": false
+            }
+        },
+        "global": {
+            "IsOpen": {
+                "value": false
+            },
+            "spell_farm": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 4,
+                "value": true
+            }
+        }
+    },
     "skinchanger": {
         "IsOpen": {
             "value": false
@@ -4385,6 +6155,48 @@
                     "value": 0
                 }
             },
+            "hero_Lucian": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Lucian": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Lucian": {
+                    "value": 0
+                }
+            },
+            "hero_PracticeTool_TargetDummy": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.PracticeTool_TargetDummy": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.PracticeTool_TargetDummy": {
+                    "value": 0
+                }
+            },
+            "hero_Urgot": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Urgot": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Urgot": {
+                    "value": 0
+                }
+            },
             "hero_XinZhao": {
                 "IsOpen": {
                     "value": false
@@ -4417,6 +6229,34 @@
         "local": {
             "IsOpen": {
                 "value": false
+            },
+            "hero_Ashe": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Ashe": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Ashe": {
+                    "value": 0
+                }
+            },
+            "hero_LeeSin": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.LeeSin": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.LeeSin": {
+                    "value": 0
+                }
             },
             "hero_MasterYi": {
                 "IsOpen": {
