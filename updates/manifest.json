@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "aio-20261010-213703",
-  "key_id": "aio-20261010-213703",
+  "version": "aio-20261010-222731",
+  "key_id": "aio-20261010-222731",
   "auth_protocol": 2,
-  "release_sequence": 1791643055,
-  "issued_at": 1791643055,
-  "expires_at": 1794235055,
-  "generated_at": "2026-10-10T14:37:35.9371426Z",
+  "release_sequence": 1791646086,
+  "issued_at": 1791646086,
+  "expires_at": 1794238086,
+  "generated_at": "2026-10-10T15:28:06.7871690Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "runtime_files": {
     "url": "files/hashes.json",
     "size": 54128,
-    "sha256": "61e11fec574008867c8af5be61aee50f9d1a506ca6e42b5760f7d9bef61e3cb3"
+    "sha256": "c2e2c1d1102a65a64e5e2aea8414ba03e6332e306cf656caa66c98aedd47db12"
   },
   "files": [
     {
@@ -94,11 +94,15 @@
       "path": "myapp.legendsense.dll",
       "url": "myapp.legendsense.dll.laioenc",
       "encryption": "LAIOENC1",
-      "size": 23937576,
-      "sha256": "6136bf04dc271a81b37535cac71e3795cf8f9220e22a446eb112c76ef980ed94",
-      "plain_sha256": "ae1f245896ef8b945e43cd456264a8bc6a2cec1606aee122b2d4e2dc31ec6e9b",
-      "component_version": "16.20.824.8524.07",
+      "size": 23936040,
+      "sha256": "0897b805c86032c32ad2818ce11669647848979d94b2154df4973fa346665f48",
+      "plain_sha256": "87e26f8bd9f5c7bdf62265075328d5ff6cecf49aef56875581e3906d8d984640",
+      "component_version": "16.20.824.8524.08",
       "version_history": [
+        {
+          "version": "16.20.824.8524.08",
+          "sha256": "0897b805c86032c32ad2818ce11669647848979d94b2154df4973fa346665f48"
+        },
         {
           "version": "16.20.824.8524.07",
           "sha256": "6136bf04dc271a81b37535cac71e3795cf8f9220e22a446eb112c76ef980ed94"
@@ -226,6 +230,6 @@
   "game_support": {
     "url": "supported_versions.json",
     "size": 442,
-    "sha256": "0E6302DDC2789F6FB763FBE56A190349F8533E331F4699EB460A1B5DCF407999"
+    "sha256": "F86163162DF260FE95CDD543198F242C249986AA2CE919C93DE47C76148D41B6"
   }
 }

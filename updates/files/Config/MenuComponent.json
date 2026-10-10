@@ -21578,6 +21578,10 @@
           "IsOpen": {
             "value": false
           },
+          "KogMaw": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Leona": {
             "PermaShowValue": false,
             "value": true
@@ -21612,6 +21616,10 @@
           "IsOpen": {
             "value": false
           },
+          "KogMaw": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Leona": {
             "PermaShowValue": false,
             "value": true
@@ -21643,6 +21651,10 @@
         "eWhitelistMenu": {
           "IsOpen": {
             "value": false
+          },
+          "KogMaw": {
+            "PermaShowValue": false,
+            "value": true
           },
           "Leona": {
             "PermaShowValue": false,
@@ -34136,9 +34148,6 @@
     "FH Utility": {
       "load": true
     },
-    "FrostAIO": {
-      "load": false
-    },
     "Kernel Utility": {
       "load": false
     },
@@ -34151,9 +34160,6 @@
     "M S Standard": {
       "load": false
     },
-    "Momo AIO": {
-      "load": false
-    },
     "NS": {
       "load": false
     },
@@ -34164,9 +34170,6 @@
       "load": false
     },
     "NovaUtils": {
-      "load": false
-    },
-    "Potato AIO": {
       "load": false
     },
     "Python - AIO": {
@@ -34184,16 +34187,7 @@
     "RushPack": {
       "load": false
     },
-    "T0-AIO": {
-      "load": false
-    },
     "Victory - 工具箱": {
-      "load": false
-    },
-    "X''": {
-      "load": false
-    },
-    "Xueli AIO": {
       "load": false
     },
     "[HGAIO]": {
@@ -34233,9 +34227,6 @@
       "load": false
     },
     "cache 887197611": {
-      "load": false
-    },
-    "tripp tech": {
       "load": false
     },
     "小海-AI合集": {
@@ -40677,6 +40668,43 @@
         "IsOpen": {
           "value": false
         },
+        "KogMaw": {
+          "E": {
+            "PermaShowValue": false,
+            "value": false
+          },
+          "EHP": {
+            "PermaShowValue": false,
+            "value": 100
+          },
+          "IsOpen": {
+            "value": false
+          },
+          "Q": {
+            "PermaShowValue": false,
+            "value": false
+          },
+          "QHP": {
+            "PermaShowValue": false,
+            "value": 100
+          },
+          "R": {
+            "PermaShowValue": false,
+            "value": false
+          },
+          "RHP": {
+            "PermaShowValue": false,
+            "value": 100
+          },
+          "W": {
+            "PermaShowValue": false,
+            "value": false
+          },
+          "WHP": {
+            "PermaShowValue": false,
+            "value": 100
+          }
+        },
         "Leona": {
           "E": {
             "PermaShowValue": false,
@@ -40888,6 +40916,10 @@
         "IsOpen": {
           "value": false
         },
+        "KogMaw": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "Leona": {
           "PermaShowValue": false,
           "value": false
@@ -40976,6 +41008,10 @@
         "IsOpen": {
           "value": false
         },
+        "KogMaw": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "Leona": {
           "PermaShowValue": false,
           "value": false
@@ -40999,6 +41035,10 @@
       },
       "gapblacklistq": {
         "IsOpen": {
+          "value": false
+        },
+        "KogMaw": {
+          "PermaShowValue": false,
           "value": false
         },
         "Leona": {
@@ -51529,6 +51569,10 @@
           "PermaShowValue": false,
           "value": false
         },
+        "KogMaw": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "Leona": {
           "PermaShowValue": false,
           "value": false
@@ -51582,6 +51626,10 @@
           "PermaShowValue": false,
           "value": false
         },
+        "KogMaw": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "Leona": {
           "PermaShowValue": false,
           "value": false
@@ -51624,6 +51672,10 @@
           "value": false
         },
         "Jinx": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "KogMaw": {
           "PermaShowValue": false,
           "value": false
         },
@@ -78413,6 +78465,10 @@
         "PermaShowValue": false,
         "value": 5
       },
+      "KogMaw": {
+        "PermaShowValue": false,
+        "value": 5
+      },
       "Leona": {
         "PermaShowValue": false,
         "value": 1
@@ -80436,6 +80492,10 @@
         "IsOpen": {
           "value": false
         },
+        "KogMaw": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "Leona": {
           "PermaShowValue": false,
           "value": true
@@ -80460,6 +80520,10 @@
       "EWhiteListAGC": {
         "IsOpen": {
           "value": false
+        },
+        "KogMaw": {
+          "PermaShowValue": false,
+          "value": true
         },
         "Leona": {
           "PermaShowValue": false,
@@ -105813,7 +105877,7 @@
         }
       },
       "IsOpen": {
-        "value": true
+        "value": false
       },
       "JannaSpellMenu": {
         "IsOpen": {
@@ -110422,7 +110486,7 @@
     },
     "generalSettingsMenu": {
       "IsOpen": {
-        "value": true
+        "value": false
       },
       "ignoreSpellsControl": {
         "PermaShowValue": false,
@@ -116320,6 +116384,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistVayne": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistXayah": {
             "PermaShowValue": false,
             "value": true
@@ -116402,6 +116470,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistVayne": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistXayah": {
             "PermaShowValue": false,
             "value": true
@@ -116473,6 +116545,10 @@
             "value": true
           },
           "wWhitelistSona": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistVayne": {
             "PermaShowValue": false,
             "value": true
           },
@@ -116670,6 +116746,10 @@
           "value": true
         },
         "champListPathKassadin": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathKogMaw": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116987,6 +117067,10 @@
         "PermaShowValue": false,
         "value": false
       },
+      "masteryKillVayne": {
+        "PermaShowValue": false,
+        "value": false
+      },
       "masteryWinCaitlyn": {
         "PermaShowValue": false,
         "value": false
@@ -117000,6 +117084,10 @@
         "value": false
       },
       "masteryWinRiven": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "masteryWinVayne": {
         "PermaShowValue": false,
         "value": false
       },
@@ -117127,6 +117215,10 @@
           "value": false
         },
         "enemyChampListKassadin": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListKogMaw": {
           "PermaShowValue": false,
           "value": false
         },
@@ -118227,7 +118319,7 @@
     },
     "skinList": {
       "PermaShowValue": false,
-      "value": 21
+      "value": 0
     },
     "switchDown": {
       "IsToggle": true,
@@ -118480,6 +118572,31 @@
             "value": true
           },
           "trippewhitelist2012538505spacing": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "trippewhitelist2790622688": {
+          "IsOpen": {
+            "value": false
+          },
+          "trippewhitelist2790622688antigap": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "trippewhitelist2790622688condemn": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "trippewhitelist2790622688execute": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "trippewhitelist2790622688interrupt": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "trippewhitelist2790622688spacing": {
             "PermaShowValue": false,
             "value": true
           }
