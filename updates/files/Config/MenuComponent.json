@@ -2399,7 +2399,15 @@
           "PermaShowValue": false,
           "value": true
         },
+        "KSWhitelistJinx": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "KSWhitelistLeeSin": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "KSWhitelistNeeko": {
           "PermaShowValue": false,
           "value": true
         },
@@ -2407,7 +2415,19 @@
           "PermaShowValue": false,
           "value": true
         },
+        "KSWhitelistSylas": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "KSWhitelistVayne": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "KSWhitelistVladimir": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "KSWhitelistYasuo": {
           "PermaShowValue": false,
           "value": true
         }
@@ -2658,6 +2678,22 @@
       "rInstaList": {
         "IsOpen": {
           "value": false
+        },
+        "rInstaListEkko": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "rInstaListLeeSin": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "rInstaListYasuo": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "rInstaListZed": {
+          "PermaShowValue": false,
+          "value": true
         }
       },
       "rInstaWhen": {
@@ -2684,7 +2720,15 @@
           "PermaShowValue": false,
           "value": true
         },
+        "rWhitelistJinx": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "rWhitelistLeeSin": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "rWhitelistNeeko": {
           "PermaShowValue": false,
           "value": true
         },
@@ -2692,7 +2736,19 @@
           "PermaShowValue": false,
           "value": true
         },
+        "rWhitelistSylas": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "rWhitelistVayne": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "rWhitelistVladimir": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "rWhitelistYasuo": {
           "PermaShowValue": false,
           "value": true
         }
@@ -2811,7 +2867,15 @@
           "PermaShowValue": false,
           "value": true
         },
+        "wAntiGapWhitelistJinx": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "wAntiGapWhitelistLeeSin": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "wAntiGapWhitelistNeeko": {
           "PermaShowValue": false,
           "value": true
         },
@@ -2819,7 +2883,19 @@
           "PermaShowValue": false,
           "value": true
         },
+        "wAntiGapWhitelistSylas": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "wAntiGapWhitelistVayne": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "wAntiGapWhitelistVladimir": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "wAntiGapWhitelistYasuo": {
           "PermaShowValue": false,
           "value": true
         }
@@ -2953,7 +3029,15 @@
           "PermaShowValue": false,
           "value": true
         },
+        "rWhitelistJinx": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "rWhitelistLeeSin": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "rWhitelistNeeko": {
           "PermaShowValue": false,
           "value": true
         },
@@ -2961,7 +3045,19 @@
           "PermaShowValue": false,
           "value": true
         },
+        "rWhitelistSylas": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "rWhitelistVayne": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "rWhitelistVladimir": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "rWhitelistYasuo": {
           "PermaShowValue": false,
           "value": true
         }
@@ -17225,6 +17321,23 @@
     }
   },
   "ChampionLuaLists": {
+    "Ambessa": {
+      "Avada AIO": {
+        "load": false
+      },
+      "FH Official": {
+        "load": true
+      },
+      "Momo AIO": {
+        "load": false
+      },
+      "Potato AIO": {
+        "load": false
+      },
+      "RU(SA)_AIO": {
+        "load": false
+      }
+    },
     "Ashe": {
       "CC - AIO": {
         "load": false
@@ -17823,6 +17936,7 @@
     "Akali": 2,
     "Akshan": 2,
     "Alistar": 2,
+    "Ambessa": 2,
     "Ashe": 2,
     "Blitzcrank": 0,
     "Brand": 2,
@@ -25223,8 +25337,8 @@
         "Y": 0.0
       },
       "PermaShowBasePosition": {
-        "X": 1157.4476318359375,
-        "Y": 930.0
+        "X": 1096.4476318359375,
+        "Y": 903.0
       }
     }
   },
@@ -34133,9 +34247,6 @@
     "Aorus AIO": {
       "load": false
     },
-    "Avada AIO": {
-      "load": false
-    },
     "CC - AIO": {
       "load": false
     },
@@ -34147,6 +34258,9 @@
     },
     "FH Utility": {
       "load": true
+    },
+    "FrostAIO": {
+      "load": false
     },
     "Kernel Utility": {
       "load": false
@@ -34178,16 +34292,22 @@
     "R-AIO": {
       "load": false
     },
-    "RU(SA)_AIO": {
-      "load": false
-    },
     "Ragnarok": {
       "load": false
     },
     "RushPack": {
       "load": false
     },
+    "T0-AIO": {
+      "load": false
+    },
     "Victory - 工具箱": {
+      "load": false
+    },
+    "X''": {
+      "load": false
+    },
+    "Xueli AIO": {
       "load": false
     },
     "[HGAIO]": {
@@ -34227,6 +34347,9 @@
       "load": false
     },
     "cache 887197611": {
+      "load": false
+    },
+    "tripp tech": {
       "load": false
     },
     "小海-AI合集": {
@@ -74945,7 +75068,15 @@
         "IsOpen": {
           "value": false
         },
+        "champListAshe": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListCassiopeia": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListCorki": {
           "PermaShowValue": false,
           "value": true
         },
@@ -74957,7 +75088,15 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListHecarim": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListKarthus": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListLeeSin": {
           "PermaShowValue": false,
           "value": true
         },
@@ -74965,11 +75104,31 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListMasterYi": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListPracticeTool_TargetDummy": {
           "PermaShowValue": false,
           "value": true
         },
+        "champListSett": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListTrundle": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListTryndamere": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListUrgot": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListYone": {
           "PermaShowValue": false,
           "value": true
         }
@@ -75078,6 +75237,15 @@
             "value": true
           }
         },
+        "champListHecarim": {
+          "IsOpen": {
+            "value": false
+          },
+          "hecarimrampattack": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
         "champListKarthus": {
           "IsOpen": {
             "value": false
@@ -75094,6 +75262,33 @@
           "leesinr": {
             "PermaShowValue": false,
             "value": true
+          }
+        },
+        "champListMasterYi": {
+          "IsOpen": {
+            "value": false
+          },
+          "alphastrike": {
+            "PermaShowValue": false,
+            "value": false
+          }
+        },
+        "champListSett": {
+          "IsOpen": {
+            "value": false
+          },
+          "settr": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "champListTrundle": {
+          "IsOpen": {
+            "value": false
+          },
+          "trundlepain": {
+            "PermaShowValue": false,
+            "value": false
           }
         }
       }
@@ -76116,9 +76311,17 @@
         "PermaShowValue": false,
         "value": 2
       },
+      "Jinx": {
+        "PermaShowValue": false,
+        "value": 5
+      },
       "LeeSin": {
         "PermaShowValue": false,
         "value": 2
+      },
+      "Neeko": {
+        "PermaShowValue": false,
+        "value": 4
       },
       "PracticeTool_TargetDummy": {
         "PermaShowValue": false,
@@ -76128,9 +76331,21 @@
         "PermaShowValue": false,
         "value": false
       },
+      "Sylas": {
+        "PermaShowValue": false,
+        "value": 4
+      },
       "Vayne": {
         "PermaShowValue": false,
         "value": 5
+      },
+      "Vladimir": {
+        "PermaShowValue": false,
+        "value": 3
+      },
+      "Yasuo": {
+        "PermaShowValue": false,
+        "value": 4
       }
     }
   },
@@ -78266,9 +78481,17 @@
       "value": 0
     },
     "Priorities": {
+      "Ashe": {
+        "PermaShowValue": false,
+        "value": 5
+      },
       "Cassiopeia": {
         "PermaShowValue": false,
         "value": 4
+      },
+      "Corki": {
+        "PermaShowValue": false,
+        "value": 5
       },
       "Garen": {
         "PermaShowValue": false,
@@ -78277,6 +78500,10 @@
       "Gragas": {
         "PermaShowValue": false,
         "value": 2
+      },
+      "Hecarim": {
+        "PermaShowValue": false,
+        "value": 1
       },
       "Info": {
         "PermaShowValue": false
@@ -78296,6 +78523,10 @@
         "PermaShowValue": false,
         "value": 4
       },
+      "MasterYi": {
+        "PermaShowValue": false,
+        "value": 4
+      },
       "PracticeTool_TargetDummy": {
         "PermaShowValue": false,
         "value": 1
@@ -78304,9 +78535,25 @@
         "PermaShowValue": false,
         "value": false
       },
+      "Sett": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Trundle": {
+        "PermaShowValue": false,
+        "value": 2
+      },
       "Tryndamere": {
         "PermaShowValue": false,
         "value": 2
+      },
+      "Urgot": {
+        "PermaShowValue": false,
+        "value": 2
+      },
+      "Yone": {
+        "PermaShowValue": false,
+        "value": 4
       }
     }
   },
@@ -96963,6 +97210,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "MasterYi": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "MissFortune": {
             "PermaShowValue": false,
             "value": true
@@ -96971,11 +97222,19 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Nasus": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Nidalee": {
             "PermaShowValue": false,
             "value": true
           },
           "Ornn": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Pyke": {
             "PermaShowValue": false,
             "value": true
           },
@@ -97438,6 +97697,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Corki": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Darius": {
             "PermaShowValue": false,
             "value": true
@@ -97553,6 +97816,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "MasterYi": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "MissFortune": {
             "PermaShowValue": false,
             "value": true
@@ -97578,6 +97845,10 @@
             "value": true
           },
           "Nautilus": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Neeko": {
             "PermaShowValue": false,
             "value": true
           },
@@ -97609,6 +97880,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Sett": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Shen": {
             "PermaShowValue": false,
             "value": true
@@ -97633,6 +97908,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Sylas": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Taric": {
             "PermaShowValue": false,
             "value": true
@@ -97645,6 +97924,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Trundle": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Tryndamere": {
             "PermaShowValue": false,
             "value": true
@@ -97654,6 +97937,10 @@
             "value": true
           },
           "Twitch": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Urgot": {
             "PermaShowValue": false,
             "value": true
           },
@@ -97673,6 +97960,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Vladimir": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Volibear": {
             "PermaShowValue": false,
             "value": true
@@ -97686,6 +97977,14 @@
             "value": true
           },
           "XinZhao": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Yasuo": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Yone": {
             "PermaShowValue": false,
             "value": true
           },
@@ -103519,7 +103818,7 @@
           }
         },
         "IsOpen": {
-          "value": false
+          "value": true
         }
       },
       "AurelionSolSpellMenu": {
@@ -107677,6 +107976,95 @@
           }
         }
       },
+      "NeekoSpellMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "NeekoNeekoE": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "NeekoNeekoQ": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "NeekoNeekoQStay": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "NeekoNeekoRDummySpell": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 4
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        }
+      },
       "NidaleeSpellMenu": {
         "IsOpen": {
           "value": false
@@ -108065,6 +108453,116 @@
           "dangerLevel": {
             "PermaShowValue": false,
             "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        }
+      },
+      "PykeSpellMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "PykePykeE": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "PykePykeEDynamic": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "PykePykeQMelee": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "PykePykeQRange": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "PykePykeR": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 4
           },
           "isDrawingEnabled": {
             "PermaShowValue": false,
@@ -108943,6 +109441,74 @@
           }
         }
       },
+      "SylasSpellMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "SylasSylasE2": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "SylasSylasQ": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "SylasSylasQIntersectionExplosion": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        }
+      },
       "TaricSpellMenu": {
         "IsOpen": {
           "value": false
@@ -109027,6 +109593,32 @@
           "dangerLevel": {
             "PermaShowValue": false,
             "value": 1
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        }
+      },
+      "TrundleSpellMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "TrundleTrundleCircle": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
           },
           "isDrawingEnabled": {
             "PermaShowValue": false,
@@ -109147,6 +109739,74 @@
           "dangerLevel": {
             "PermaShowValue": false,
             "value": 1
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        }
+      },
+      "UrgotSpellMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "UrgotUrgotE": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "UrgotUrgotQ": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "UrgotUrgotR": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 4
           },
           "isDrawingEnabled": {
             "PermaShowValue": false,
@@ -109895,6 +110555,116 @@
           "dangerLevel": {
             "PermaShowValue": false,
             "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        }
+      },
+      "YoneSpellMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "YoneYoneQ": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "YoneYoneQ3": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "YoneYoneQ3DashPart": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "YoneYoneR": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 4
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "YoneYoneW": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 2
           },
           "isDrawingEnabled": {
             "PermaShowValue": false,
@@ -116344,6 +117114,14 @@
           "IsOpen": {
             "value": false
           },
+          "wWhitelistAmbessa": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistBrand": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistCaitlyn": {
             "PermaShowValue": false,
             "value": true
@@ -116352,7 +117130,15 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistEkko": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistGalio": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistGraves": {
             "PermaShowValue": false,
             "value": true
           },
@@ -116364,11 +117150,27 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistLeeSin": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistLissandra": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistLulu": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistMasterYi": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistNasus": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistPyke": {
             "PermaShowValue": false,
             "value": true
           },
@@ -116384,11 +117186,23 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistTwitch": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistVayne": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistXayah": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistYasuo": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistZed": {
             "PermaShowValue": false,
             "value": true
           }
@@ -116430,6 +117244,14 @@
           "IsOpen": {
             "value": false
           },
+          "wWhitelistAmbessa": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistBrand": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistCaitlyn": {
             "PermaShowValue": false,
             "value": true
@@ -116438,7 +117260,15 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistEkko": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistGalio": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistGraves": {
             "PermaShowValue": false,
             "value": true
           },
@@ -116450,11 +117280,27 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistLeeSin": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistLissandra": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistLulu": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistMasterYi": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistNasus": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistPyke": {
             "PermaShowValue": false,
             "value": true
           },
@@ -116470,11 +117316,23 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistTwitch": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistVayne": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistXayah": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistYasuo": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistZed": {
             "PermaShowValue": false,
             "value": true
           }
@@ -116508,6 +117366,14 @@
           "IsOpen": {
             "value": false
           },
+          "wWhitelistAmbessa": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistBrand": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistCaitlyn": {
             "PermaShowValue": false,
             "value": true
@@ -116516,7 +117382,15 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistEkko": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistGalio": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistGraves": {
             "PermaShowValue": false,
             "value": true
           },
@@ -116528,11 +117402,27 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistLeeSin": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistLissandra": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistLulu": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistMasterYi": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistNasus": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistPyke": {
             "PermaShowValue": false,
             "value": true
           },
@@ -116548,11 +117438,23 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistTwitch": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistVayne": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistXayah": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistYasuo": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistZed": {
             "PermaShowValue": false,
             "value": true
           }
@@ -116637,7 +117539,15 @@
         "IsOpen": {
           "value": false
         },
+        "champListAshe": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListCassiopeia": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListCorki": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116646,6 +117556,10 @@
           "value": true
         },
         "champListGragas": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListHecarim": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116681,7 +117595,15 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListMasterYi": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListNasus": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListNeeko": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116689,11 +117611,27 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListSett": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListSmolder": {
           "PermaShowValue": false,
           "value": true
         },
+        "champListSylas": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListTaric": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListTrundle": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListUrgot": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116702,6 +117640,18 @@
           "value": true
         },
         "champListVayne": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListVladimir": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListYasuo": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListYone": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116729,7 +117679,15 @@
         "IsOpen": {
           "value": false
         },
+        "champListPathAshe": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListPathCassiopeia": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathCorki": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116738,6 +117696,14 @@
           "value": true
         },
         "champListPathGragas": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathHecarim": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathJinx": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116753,6 +117719,10 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListPathLeeSin": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListPathLulu": {
           "PermaShowValue": false,
           "value": true
@@ -116761,7 +117731,15 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListPathMasterYi": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListPathNasus": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathNeeko": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116769,7 +117747,15 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListPathSett": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListPathSmolder": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathSylas": {
           "PermaShowValue": false,
           "value": true
         },
@@ -116777,7 +117763,27 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListPathTrundle": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathUrgot": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListPathVarus": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathVladimir": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathYasuo": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathYone": {
           "PermaShowValue": false,
           "value": true
         },
@@ -117051,6 +118057,10 @@
         "PermaShowValue": false,
         "value": 10
       },
+      "masteryKillAmbessa": {
+        "PermaShowValue": false,
+        "value": false
+      },
       "masteryKillCaitlyn": {
         "PermaShowValue": false,
         "value": false
@@ -117068,6 +118078,10 @@
         "value": false
       },
       "masteryKillVayne": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "masteryWinAmbessa": {
         "PermaShowValue": false,
         "value": false
       },
@@ -117170,11 +118184,27 @@
         "IsOpen": {
           "value": false
         },
+        "allyChampListBrand": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "allyChampListEkko": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "allyChampListGalio": {
           "PermaShowValue": false,
           "value": false
         },
+        "allyChampListGraves": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "allyChampListKogMaw": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "allyChampListLeeSin": {
           "PermaShowValue": false,
           "value": false
         },
@@ -117186,6 +118216,18 @@
           "PermaShowValue": false,
           "value": false
         },
+        "allyChampListMasterYi": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "allyChampListNasus": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "allyChampListPyke": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "allyChampListSejuani": {
           "PermaShowValue": false,
           "value": false
@@ -117194,11 +118236,31 @@
           "PermaShowValue": false,
           "value": false
         },
+        "allyChampListTwitch": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "allyChampListXayah": {
           "PermaShowValue": false,
           "value": false
         },
+        "allyChampListYasuo": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "allyChampListZed": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListAshe": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "enemyChampListCassiopeia": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListCorki": {
           "PermaShowValue": false,
           "value": false
         },
@@ -117207,6 +118269,14 @@
           "value": false
         },
         "enemyChampListGragas": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListHecarim": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListJinx": {
           "PermaShowValue": false,
           "value": false
         },
@@ -117222,6 +118292,10 @@
           "PermaShowValue": false,
           "value": false
         },
+        "enemyChampListLeeSin": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "enemyChampListLulu": {
           "PermaShowValue": false,
           "value": false
@@ -117230,7 +118304,15 @@
           "PermaShowValue": false,
           "value": false
         },
+        "enemyChampListMasterYi": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "enemyChampListNasus": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListNeeko": {
           "PermaShowValue": false,
           "value": false
         },
@@ -117238,7 +118320,15 @@
           "PermaShowValue": false,
           "value": false
         },
+        "enemyChampListSett": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "enemyChampListSmolder": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListSylas": {
           "PermaShowValue": false,
           "value": false
         },
@@ -117246,7 +118336,27 @@
           "PermaShowValue": false,
           "value": false
         },
+        "enemyChampListTrundle": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListUrgot": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "enemyChampListVarus": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListVladimir": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListYasuo": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListYone": {
           "PermaShowValue": false,
           "value": false
         },
@@ -117912,6 +119022,10 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "allySkin_Graves": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "allySkin_Kaisa": {
         "PermaShowValue": false,
         "value": 0
@@ -117925,6 +119039,10 @@
         "value": 0
       },
       "allySkin_KogMaw": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "allySkin_LeeSin": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -117944,11 +119062,23 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "allySkin_MasterYi": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "allySkin_MissFortune": {
         "PermaShowValue": false,
         "value": 0
       },
       "allySkin_MonkeyKing": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "allySkin_Nasus": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "allySkin_Pyke": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -118004,6 +119134,14 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "allySkin_Yasuo": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "allySkin_Zed": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "allySkin_Ziggs": {
         "PermaShowValue": false,
         "value": 0
@@ -118046,6 +119184,10 @@
         "value": 0
       },
       "enemySkin_Cassiopeia": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "enemySkin_Corki": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -118161,6 +119303,10 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "enemySkin_MasterYi": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "enemySkin_MissFortune": {
         "PermaShowValue": false,
         "value": 0
@@ -118189,6 +119335,10 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "enemySkin_Neeko": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "enemySkin_Nocturne": {
         "PermaShowValue": false,
         "value": 0
@@ -118210,6 +119360,10 @@
         "value": 0
       },
       "enemySkin_Seraphine": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "enemySkin_Sett": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -118237,6 +119391,10 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "enemySkin_Sylas": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "enemySkin_Taric": {
         "PermaShowValue": false,
         "value": 0
@@ -118249,6 +119407,10 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "enemySkin_Trundle": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "enemySkin_Tryndamere": {
         "PermaShowValue": false,
         "value": 0
@@ -118258,6 +119420,10 @@
         "value": 0
       },
       "enemySkin_Twitch": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "enemySkin_Urgot": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -118277,6 +119443,10 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "enemySkin_Vladimir": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "enemySkin_Volibear": {
         "PermaShowValue": false,
         "value": 0
@@ -118290,6 +119460,14 @@
         "value": 0
       },
       "enemySkin_XinZhao": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "enemySkin_Yasuo": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "enemySkin_Yone": {
         "PermaShowValue": false,
         "value": 0
       },
