@@ -58,6 +58,21 @@
       "sha256": "50b22e441c02208a3130c59203312e0f1497403b42a071db2acbbf0c7abc013e"
     },
     {
+      "path": "Mods/PowerAIO.dll",
+      "size": 15707136,
+      "sha256": "5f87eb27dad36e366684de23bbb25c08ae3212d8b7ae3568f54589038781e702"
+    },
+    {
+      "path": "Mods/a3_pred.dll",
+      "size": 7332352,
+      "sha256": "27da281faa2d3618034a1afd1ba7e4380c082168106f605afee0e2b7c8a31e7e"
+    },
+    {
+      "path": "Mods/mayhem_choices_wr.dll",
+      "size": 3104256,
+      "sha256": "e813c1d2b7c7e0e93c31a28b33a3e985bd61100201da898f95c37b61dba75ce8"
+    },
+    {
       "path": "Resource/fonts/AstroSpace.ttf.h",
       "size": 61757,
       "sha256": "cfdd74cbe2e1b12d40587e5f10021f9484df6c4898df70be77608fb9d61dc519"
@@ -94,13 +109,13 @@
     },
     {
       "path": "cached/1022257066",
-      "size": 5578429,
-      "sha256": "f4d212642c1ffdd8f592b600a0b898ec1944392ac26e8ed4fce8c621fa748b01"
+      "size": 5577232,
+      "sha256": "b8ac62d1bc9323e236d4d8901c19757bdafd2c85673a3ae62c581165044879a5"
     },
     {
       "path": "cached/1148074481",
-      "size": 5869410,
-      "sha256": "65a6e54ea24e98d8137d7da1f94d47ba69341c8e2489f846f585fea2f1dd8ae3"
+      "size": 5991252,
+      "sha256": "a953df96151d02610a84b519a5a2c7f681c7b55b6d146d04d9877d9d9f1d3c73"
     },
     {
       "path": "cached/1182399069",
@@ -114,8 +129,8 @@
     },
     {
       "path": "cached/120824829",
-      "size": 2428990,
-      "sha256": "c3f63f98a563b4f3cb1fc59d14412a69efb075d59624cc4c6e56a99a52f86fcd"
+      "size": 2429015,
+      "sha256": "490d818f2b260a0aacaf288ff4ada6b741294f1a61c908ccf5398c058a2b8295"
     },
     {
       "path": "cached/1253580414",
@@ -159,8 +174,8 @@
     },
     {
       "path": "cached/1797517459",
-      "size": 8102398,
-      "sha256": "0da7156dc70f2ebfd32246b215dcf3ec931bae0c9be8c6f65b5beb261699a17d"
+      "size": 8102463,
+      "sha256": "8a3d73fd7890182d50c75e9c6e42d19fdf36a02748e7a20a100ff0782ea0b603"
     },
     {
       "path": "cached/1979114038",
@@ -194,8 +209,8 @@
     },
     {
       "path": "cached/2381355443",
-      "size": 427050,
-      "sha256": "1e28d8a229821be1d0fce0cb09c9d09ecf5a0e9e5ce6d0ada8d236b42fb9f672"
+      "size": 186,
+      "sha256": "469260502b005e93f393329e6f1877c5df0473108cfef5891e75749e6ee48601"
     },
     {
       "path": "cached/2382837506",
@@ -214,8 +229,8 @@
     },
     {
       "path": "cached/2732775736",
-      "size": 9934023,
-      "sha256": "e7aef5d833bfaa1c48b58a52b1c9f5130b5d428667fd08c30665b153eac1f0da"
+      "size": 9934982,
+      "sha256": "8eef7dea83544882afd0a8334ad92e89cb72ced27238a3178a780c41c3ee9a6a"
     },
     {
       "path": "cached/2749628049",
@@ -229,8 +244,8 @@
     },
     {
       "path": "cached/2765895613",
-      "size": 9234360,
-      "sha256": "03b1ef901a659a2c7554e5e845bb73c3d1cad3ac365a972c5aab1684ef691fc6"
+      "size": 9231430,
+      "sha256": "7496fad260414d8809fec8a7f6c6ce6e2d967247ac7e72c23c97a482e5d2a9c6"
     },
     {
       "path": "cached/2894375484",
@@ -314,8 +329,8 @@
     },
     {
       "path": "cached/970841100",
-      "size": 2252338,
-      "sha256": "2eb065eaf368a53a3d119ff9ba438dc5374526ef0929a340e816c6ac0a8ab812"
+      "size": 2249344,
+      "sha256": "fd1a8463c08de7fba8af2edb447109651339cb2928b41d322c0a05f1577797d4"
     },
     {
       "path": "plugins/bgx/plugins/x64/ADCSeries.dll",
