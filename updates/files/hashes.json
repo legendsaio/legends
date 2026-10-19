@@ -19,8 +19,8 @@
     },
     {
       "path": "Config/MenuComponent.json",
-      "size": 2612560,
-      "sha256": "16216e225f339aa5ede18ac0f90ef790ad7ef8ca7edbed1b5f0c08535e71e72f"
+      "size": 2666393,
+      "sha256": "adb5438fe6c0e676e19b20b0eafe39948a8e8a4a0f3a66bd589430b23275892e"
     },
     {
       "path": "Config/commonex/MenuConfigCommon/SharedConfig.bin",
@@ -34,8 +34,8 @@
     },
     {
       "path": "Config/rtx.json",
-      "size": 186075,
-      "sha256": "b7a27584923d3ffa5d1ff5709f1770dd65061472f61688b4e60cc6feec0cb61f"
+      "size": 311340,
+      "sha256": "97f3d08da3e02906aa14897bb6fd7fc5490ab573efd8df0f0983ff032879c740"
     },
     {
       "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/Ijwhost.dll",
@@ -871,6 +871,741 @@
       "path": "plugins/checksums.json",
       "size": 4926,
       "sha256": "7bae5a25fab7aae973d0230ea3e2f8d94445058f7fcac26cdf98dbea50a0b58f"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source.zip",
+      "size": 162011,
+      "sha256": "a50b81fc92b21612550fef36f17347052e6b26bab5c818021b45db6a416aaa11"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/Akali.lua",
+      "size": 37122,
+      "sha256": "0f9778fea6d60f04bbfb997c32978b1d2afcb1350d8378953f270eb698b1fa98"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/Leblanc.lua",
+      "size": 38267,
+      "sha256": "c10b3b13faffbb4882c8c9dda21fbf23793186022021717170317f06d3c7e586"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/Qiyana.lua",
+      "size": 12184,
+      "sha256": "349f0b215013b50a1c650d645c9e9778582d26bf34e42b1450c2921b7989ea16"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/Rengar.lua",
+      "size": 25132,
+      "sha256": "c0e82ba981529f010cbcede0e10328aff80f16e09ab6102ae61205f7d43ffd08"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/Talon.lua",
+      "size": 8156,
+      "sha256": "b3eabaa6405e8af493f72bb66241d243d13fac669b0635dec6c770dcac00e2fd"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/common.lua",
+      "size": 6390,
+      "sha256": "d2873fe9a0e7b13a1f14464738665acabce5a1ca71eaa167d51b7298a8e4186b"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/header.lua",
+      "size": 425,
+      "sha256": "194e317e42722b7b87ff9ed40f406a443f4544a9630702b8b5674937d99140d5"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/main.lua",
+      "size": 1332,
+      "sha256": "b96106b9f1042c25d22d3f9e0ca10e749016d6b42a895eb46610f69a08750e52"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/menu.lua",
+      "size": 17976,
+      "sha256": "082704122abe673bb6923a3d1462c49e68d7f9f5fd9f5f81fbfe703fd59f2985"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/MD5SUM",
+      "size": 867,
+      "sha256": "a9e4e9d38d27cc743d5e1d9e82ab38438410367ee66626a18ecdaf0516f2449b"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/b64.lua",
+      "size": 1088,
+      "sha256": "8fa533cbc80203af55a6e22cc888239baf06c7fa46baa0db7dcb3546052d91b9"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/bigint.lua",
+      "size": 4890,
+      "sha256": "1437512a143fcdd3518f8a93797ac82766f4ecc409d0623d375d588e4a622b3e"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/box.lua",
+      "size": 4599,
+      "sha256": "e3575faefb40c8497d5894a313bfd948a903b034f2bb6e29c36835c14c9960f7"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/bugsplat.lua",
+      "size": 1497,
+      "sha256": "db9f2536f8fc82636f1f2a456b2f53f18e5041505d83314bf4a04ea49da08197"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/header.lua",
+      "size": 544,
+      "sha256": "baded4a1667830efd69b3d697e831622eddad5ae51535e5eb1e3825cf9b7e134"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/item.lua",
+      "size": 2406,
+      "sha256": "fd4122889174cef56123e96c48ea9bf7147edad7998d06aec96a01101c935030"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/itemData.lua",
+      "size": 246801,
+      "sha256": "356b16041cc2648fcb38016893273dee51e644cb6a4a076077916dd039c55cd1"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/json.lua",
+      "size": 7158,
+      "sha256": "fb26c023b024ab3d868bde9f35b627b1bd0e3f1b9567c67e3b458215be47dbaf"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/main.lua",
+      "size": 546,
+      "sha256": "26a6dd7403bf821ba2b689835570afda454d5a84d4663c8e06d90de9e0174de0"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/md5.lua",
+      "size": 10435,
+      "sha256": "7696b12e763a7967be92d97b8d212826dfafbd5b6788afeccd4442c73d0b94dd"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/net.lua",
+      "size": 7941,
+      "sha256": "7e9576e5aa133727c03fe49084f4d47626a7a10c417849b527d4189c71036ce9"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/notify.lua",
+      "size": 2969,
+      "sha256": "da284b41463355fdabd1855c9bc1559e2dc57780b6fee121832317f3e915b156"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/orb.lua",
+      "size": 71025,
+      "sha256": "872ec3c9dcb48231436462b01fa6826ab11270d2c548d40621f7deec6f0e8c97"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/rsa.lua",
+      "size": 1155,
+      "sha256": "58103e713d92c687dc225581438edde5b878ad967b45de45179199bb8cd8fc74"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/salsa20.lua",
+      "size": 3070,
+      "sha256": "c339669946bf6b28f69de588e4424a15492bd520621b8689a19b6edfb3719156"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/struct.lua",
+      "size": 6481,
+      "sha256": "b2896ff856563f16299e9ac959389cc6d395c79c0f431df413ec4936c360868d"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/table.lua",
+      "size": 1156,
+      "sha256": "759261e46263fc150dc07ea98df5f3c9fdfaaa1aa08e77986d26bc7e38d594a5"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/util.lua",
+      "size": 32870,
+      "sha256": "50dd6a0a1d2b7a50cb4073f24279d81a05ca40a7487b862e4edaa4c592fa4602"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/auto_e.lua",
+      "size": 1666,
+      "sha256": "24eb8eb6fd31482b40ff9e5d6b58afc7778b92129445006e4b5cc30ef04d6b44"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/core.lua",
+      "size": 3524,
+      "sha256": "5c2cd2c53315f414b5967960d003a99b0633c947232ef75256fad30736cbe01a"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/dmg.lua",
+      "size": 1248,
+      "sha256": "92e62616e7f713338cdd153f0a1ee8407be3b7c875c0e15d9aecc12f0664c7cb"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/e_on_q.lua",
+      "size": 1635,
+      "sha256": "2f8a549e45a678038ea6aa11818e69c13f1635a987fd22b26f06f7de1c7f1e1e"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/e_on_tar.lua",
+      "size": 4538,
+      "sha256": "ab58e37a1705e2b32538658006f85a275c77641186e7ff45cedc1a1ced871715"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/main.lua",
+      "size": 778,
+      "sha256": "eda8f2c363b2b51c168a2559019bacbe6ee2409a6db266d3f5d6c4c063b5f73d"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/menu.lua",
+      "size": 2149,
+      "sha256": "5a5f7ee50341f0e82643b69b5015e64454fce29ef3ec938ac44e3e3654dbfc04"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/q.lua",
+      "size": 2075,
+      "sha256": "6f37e315053e043cd000588c43bff9e07b32dc89e29d950fe82d03247446030b"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/q_e.lua",
+      "size": 1323,
+      "sha256": "86352bc6a913f46a58a143e5d3e7ee0fd34d94f322ab8159bf5734684647deb6"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/r.lua",
+      "size": 2291,
+      "sha256": "0ad341c7abbd505658d4921fff853f8abe49589b4f6fde5c8b7bff9922e7a1ee"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/spells.lua",
+      "size": 1637,
+      "sha256": "772b1b1b803e578d804fc5d9029ae3aad7af250d2faee1a94e1f3cf06a9d63c6"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/sphere_manager.lua",
+      "size": 6325,
+      "sha256": "8eaca553c88e55f502273bf12fee7070e8c26758fe793b03c5bdf995f8b0992c"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/w.lua",
+      "size": 1195,
+      "sha256": "9d559fe8c9a8de2995150d1dcbfbd6ef13533a6d2c59add7167f8a91db3ee405"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/w_cast.lua",
+      "size": 1610,
+      "sha256": "444e37c0d1bd0f99bae5e549abcb3663cf0939ad6f54dd067c02b5e232f57a30"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/chat.lua",
+      "size": 171,
+      "sha256": "e0b332eafda3e130649512ff30721283017451d0f7c6c29b0b3dafeb473625c6"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/circle.lua",
+      "size": 1562,
+      "sha256": "944283240fc2510ee14a60660771721475c51ae5d8aef8ed1a255b0cad6bd6e8"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/color.lua",
+      "size": 245,
+      "sha256": "fc44541f2252570a05a4639c5665d4c58958a473fddbbb28b33d06ae615911a1"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/info.lua",
+      "size": 629,
+      "sha256": "4b849590c5894b963b18602ef8607f7ab610256bd872cd0daf3eaa85cb9ba821"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/stacks.lua",
+      "size": 6238,
+      "sha256": "ac25c1c2b7a661d0b4fdfde0e87769438828f018cd1c0a36944f4b80bac317e0"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/text.lua",
+      "size": 522,
+      "sha256": "8cd8b2c8113c7f81482801f408c69f20dcc5d71104a349a56de512307048a113"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/timer.lua",
+      "size": 6050,
+      "sha256": "a1e1d9800f846b98688d22def3890308b3fcb72f066edcb536039e296c41f0d0"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/header.lua",
+      "size": 1826,
+      "sha256": "e3f7f8c6cc897de2f23f6a1e24975a5c660e112f76319ce199f890e712be3fcc"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/main.lua",
+      "size": 1153,
+      "sha256": "dca9c84a2838a029bfaf433072e0ee243733a86dac55c34656293b89b46b2161"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/coding tips/spell timing.jpg",
+      "size": 19116,
+      "sha256": "b64059496d837b5e992a6c43ee95d20df03962d166fa2b3d7197041ce3a4063c"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/coding tips/spell timing.lua",
+      "size": 1338,
+      "sha256": "e77df99bb49e7ff3781902be155c361bda826c8ccb56fc50c125bd37e6414a3f"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/coding tips/spell timing.txt",
+      "size": 729,
+      "sha256": "1f78e54f3fa44c34769ff96501f95fe4f822e003d0a92590f851bffff1d9e5cb"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/events.lua",
+      "size": 1640,
+      "sha256": "6d0881ad03b8eb72c1f5515ce3698ca230a704d8bc444b87462dddcbd2c4f13e"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/core/ai.lua",
+      "size": 26478,
+      "sha256": "b6d06d8e635ef802bdc8e8720d8ec24d756522cddf729141c91713287bd75079"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/core/draw.lua",
+      "size": 10198,
+      "sha256": "701b9edebf10de47c6a9c3248a4615492245fc184993c438fa2a5a5ae7bd7883"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/core/main.lua",
+      "size": 101,
+      "sha256": "7d0b2fec84c4eaefbdc07ba0b74fddf5c50d3ba14cb098ee7184c77c071ae959"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/header.lua",
+      "size": 151,
+      "sha256": "5f00a86b0d97257190963d69a8c9ecacd3e7d649c38828970b7d3492b23ca5dd"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/item/crescent_wrapper.lua",
+      "size": 1538,
+      "sha256": "17c17d14161a743e1c7032034a118b014fb8b8765ea972bd76e404b309752a5c"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/main.lua",
+      "size": 1036,
+      "sha256": "1d22199a00a5bcf5bb6519c09bf0008c8b437a7fe298d792f93d37128a7c3fb9"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/menu.lua",
+      "size": 1692,
+      "sha256": "b5a92d1a01c3948404748cbac895a8b4927595601679fc4936ae5d32d25ec2cb"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/aa.lua",
+      "size": 1197,
+      "sha256": "15c1c3cbbf180c7c54fd3c6601742f7d2f6870aebb881295c21f1b75ad4d5416"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/e.lua",
+      "size": 1848,
+      "sha256": "bf8b4bdb6f0300f36041695db797c225f917bb11538e381f162b904673e75a6e"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/e_flash_q.lua",
+      "size": 1810,
+      "sha256": "74689701b1d083cd0d1c05fe9b1d40521c95b303a187467fee7ee3529be0e329"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/e_flash_w.lua",
+      "size": 1701,
+      "sha256": "a68bd13dac65d9f6d7d9ee9a18f7d57245b90ec4262aebb8a8a1603d2cf564f8"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/e_q.lua",
+      "size": 2129,
+      "sha256": "3722a763e89a1d54d3427c01232f9a2dfd3c673aaf3ee3aff44ed52065353c5f"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/e_w.lua",
+      "size": 2020,
+      "sha256": "96ad813d5e6a33f124b077b6a2f6824e655681274f42885bb889170a865b897d"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/flash_q.lua",
+      "size": 1825,
+      "sha256": "c833901e9305f2eb7c49d20e0ea8559e21924e0c719e92312985ddbfa952bf11"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/flash_w.lua",
+      "size": 1725,
+      "sha256": "c2ff6f5a5b834501953453004bd92f72738cdf9e2196724fcc9ae1410e472fa6"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/main.lua",
+      "size": 624,
+      "sha256": "3b912a747f9b6096670372d382ef3ccd4fa2cd2965dff786f3af9239a72a43d6"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/push.lua",
+      "size": 1356,
+      "sha256": "0e9518761e25f38e080d80f7cf78cd075003e7c845f751fed8b42a7d9e507e9d"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/q.lua",
+      "size": 1891,
+      "sha256": "79f3c950a9615a1afe5a79bd25325b10b9e6c9d1f8007eedc054567734ff5851"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/r1.lua",
+      "size": 485,
+      "sha256": "f40a7004df4b7695e2020a24b5d1e06237bb04459ee1494cd31e37796d80aeb1"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/r2.lua",
+      "size": 1282,
+      "sha256": "6201d11f3dd809599e91f9a9529fc01ae91c13874c6f8938220078fc0747113e"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/r2_dmg.lua",
+      "size": 2065,
+      "sha256": "190adf09cdcdd6116bd025562dcdc80fd52525cf26d68e4ff150fabf3dc7dfdd"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/w.lua",
+      "size": 1637,
+      "sha256": "1c16e65b2f37c2deb1528fb461053ae1b6e7e4b6913fdad7526bbe57451488e9"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/e.lua",
+      "size": 527,
+      "sha256": "b009ae1ee003fd0baa56f812938e85d4adbb77cb61f2487e9bd259bdaa923bbd"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/flash.lua",
+      "size": 788,
+      "sha256": "819ddeae24c65f118114b8fe7eb774e5d3a09c4fe22b9aac3b91649a588a382a"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/main.lua",
+      "size": 275,
+      "sha256": "959a02b027f74aeccd53b373891583b808ff70f6863a12d9759ad8e510b72da8"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/q.lua",
+      "size": 575,
+      "sha256": "8001a974442d0c95bfef53afaa0cefd4312a81bbb6debc8f66370c5c1c4cf3ca"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/r1.lua",
+      "size": 1058,
+      "sha256": "bfe202d1bc6b58f710d362e45d5b5bc6b158101066eb9ec1e0a9ac6956efaca8"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/r2.lua",
+      "size": 1503,
+      "sha256": "8fcbcaa3ecaaa473eca8c9984e75cc060c8d1ed5883ae0fbfa525391a050d62a"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/w.lua",
+      "size": 425,
+      "sha256": "1a9b77dabfb74d864992594790c6e21402c4dcad63f504d8ec141e5b5ec99cbd"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/hello world/header.lua",
+      "size": 105,
+      "sha256": "df0f5bc766188d5a5e39bffc7db78d39fbadc07dff2ff75998492eba4415b809"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/hello world/main.lua",
+      "size": 20,
+      "sha256": "939338e3b6ab652043d93dff9c1e8eaa69a0a969a4a0de50870a6cbad7f3c117"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/menu example/header.lua",
+      "size": 107,
+      "sha256": "8077b73591cb719fc71c3627b7169cdb33eaad66e7dddde147ea0151acfa4221"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/menu example/main.lua",
+      "size": 491,
+      "sha256": "172d940268c812c6a68c5db92069c0e763d8311fcdd36d2577905a1d9d29a94a"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/menu example/menu.lua",
+      "size": 409,
+      "sha256": "db662339f49b1672328a26aef6408933b4464c7da7bd81f9e56542ecc28e0ed8"
+    },
+    {
+      "path": "plugins/hanbot/developer/Hanbot Open Source/shadereffect_dx11.lua",
+      "size": 2360,
+      "sha256": "16cd85c724d9d8af37ff4116102c9cb9e885fde7e935495cd9ae7c08b4d6df7f"
+    },
+    {
+      "path": "plugins/hanbot/developer/api docs.url",
+      "size": 133,
+      "sha256": "a94b3ba0a6912ee833093d7d4a2c879942d824ddcb8b0ca624d45a4932c7b4e2"
+    },
+    {
+      "path": "plugins/hanbot/developer/loader_example.cpp",
+      "size": 4811,
+      "sha256": "fa54df3bfeb0af83872baa5316d91dbeb0522c11cd40e08c0434911d65b682a3"
+    },
+    {
+      "path": "plugins/hanbot/shards.json",
+      "size": 416045,
+      "sha256": "5fbc1e4b0e7557837cf014a27421d7a1e17208b814bd16ab62562dc9ba64cc9c"
+    },
+    {
+      "path": "plugins/hanbot/shards/AXAIO.shard",
+      "size": 572728,
+      "sha256": "c395bacebff004b3412cd57f31ec380ab2555d350473fb6ca441acc4959f9fb8"
+    },
+    {
+      "path": "plugins/hanbot/shards/Alexis AIO .shard",
+      "size": 5243088,
+      "sha256": "aeb4e006128dda225e82da92ce69ddab499362e587e435615920b729a3eeaa2f"
+    },
+    {
+      "path": "plugins/hanbot/shards/Alexis Auth.shard",
+      "size": 17,
+      "sha256": "0e4521745872ffda447c4fe5a51bd3f5f01060b99ab62cd3e82b0ed25e68916f"
+    },
+    {
+      "path": "plugins/hanbot/shards/ArcherAIO.shard",
+      "size": 2625984,
+      "sha256": "ba395d828d8606242a5aa6e2c83c871326c0376b005b335fd378a74497570050"
+    },
+    {
+      "path": "plugins/hanbot/shards/Bow.shard",
+      "size": 3954520,
+      "sha256": "8b55c0c0f8e5ff6000c641599c6ff8731c3da38ad8c6e47637c5e8a0ec936afb"
+    },
+    {
+      "path": "plugins/hanbot/shards/CNo1AIO.shard",
+      "size": 7784120,
+      "sha256": "2496580abdf87c36871d8e6a4f8f0d22f0afe36103708daa805dfa4db16fbb75"
+    },
+    {
+      "path": "plugins/hanbot/shards/CNo1Smite.shard",
+      "size": 148392,
+      "sha256": "4ac6bf80139b81d55e898e6223ed2b1a384897f6099c5651922692eee5ac2870"
+    },
+    {
+      "path": "plugins/hanbot/shards/CNo1Utility.shard",
+      "size": 2408520,
+      "sha256": "b8ce5e90c78c0002fcb438040db46662fa7744abd6ed65d2d734a57040f26f30"
+    },
+    {
+      "path": "plugins/hanbot/shards/CSX AIO.shard",
+      "size": 9203664,
+      "sha256": "807321e5c46f7536267c13baa90241811c6b727e5762e4e540139c1ac0756110"
+    },
+    {
+      "path": "plugins/hanbot/shards/CSXAIO_Utility.shard",
+      "size": 10536656,
+      "sha256": "6ddf2d7ef6811ce9489e178402a9870b8e7cf0bf76800dbc0562e271fb4ada6f"
+    },
+    {
+      "path": "plugins/hanbot/shards/CXJ AIO.shard",
+      "size": 10165112,
+      "sha256": "c8195903bbb6c60cabb8835abdae2805825480854bfe3740424b9a9e344a009d"
+    },
+    {
+      "path": "plugins/hanbot/shards/Custom Permashow.shard",
+      "size": 53768,
+      "sha256": "fcfa151432360a4994509418d91528ea4bfcc1872153efda99d7bf9ac68b2b2b"
+    },
+    {
+      "path": "plugins/hanbot/shards/DanZAIO.shard",
+      "size": 2845672,
+      "sha256": "c5d3166dcd4fd0aae5b696b614db2726ad6bd4d161902922dfed16b0827f9037"
+    },
+    {
+      "path": "plugins/hanbot/shards/DemonAIO.shard",
+      "size": 2920680,
+      "sha256": "e998b323521f2e5de5dc5e9d00a6b972ffe8f2f7d32c3bb4733e7a2212deedaf"
+    },
+    {
+      "path": "plugins/hanbot/shards/EzAIO.shard",
+      "size": 1631160,
+      "sha256": "d6e04cc49a17d5bda9596f2e551787dc550d36edd055ea7405ca50be3002db84"
+    },
+    {
+      "path": "plugins/hanbot/shards/Fatality.shard",
+      "size": 2019304,
+      "sha256": "73f27cbfc5f068162200b03fcc7ed177a06385a99919c968b14c8821f5e0deaa"
+    },
+    {
+      "path": "plugins/hanbot/shards/Fx.shard",
+      "size": 15693816,
+      "sha256": "8d3ed95bdc2f768f8b38cfdf0b7d2a4744ebe529bb6386e71a086717bbb38e75"
+    },
+    {
+      "path": "plugins/hanbot/shards/FxActivator.shard",
+      "size": 3727568,
+      "sha256": "4a5152993a06b84c6becad19c35e9218921be2826a72d11c1eb05fa2b6214ab8"
+    },
+    {
+      "path": "plugins/hanbot/shards/FxLib.shard",
+      "size": 9235096,
+      "sha256": "619379d3c839b91393042da731f0680f69af8aa39294f190daa17e9bc0aef2c9"
+    },
+    {
+      "path": "plugins/hanbot/shards/FxTools.shard",
+      "size": 1153056,
+      "sha256": "4bc39df8de11b345e466725f9f616db6882dd6058ed49abd03553777e007dbec"
+    },
+    {
+      "path": "plugins/hanbot/shards/GG AIO.shard",
+      "size": 1025480,
+      "sha256": "6890141b5868e286e2699d1e988d7b8eb145b8759ee12762a646969943bf1a72"
+    },
+    {
+      "path": "plugins/hanbot/shards/Hanbot Beasty .shard",
+      "size": 826288,
+      "sha256": "fe7815ac1ec5d13695d9f01c46d781acb92a7b58003612f5c7b4f07d28f296eb"
+    },
+    {
+      "path": "plugins/hanbot/shards/Healer AIO.shard",
+      "size": 2661200,
+      "sha256": "a510c69112fdb559192f0df8e85137821b89904f9436cd098a9a17a1e22c6ed3"
+    },
+    {
+      "path": "plugins/hanbot/shards/IntAIO.shard",
+      "size": 5584000,
+      "sha256": "8093a6d4049c15fbb18821490f1516168f247d760bb67666827406407faa5f10"
+    },
+    {
+      "path": "plugins/hanbot/shards/JUST - AIO.shard",
+      "size": 7879880,
+      "sha256": "72f2ececdf29dc40c65dcca90e33a495cc3baae69411ee65b3af0ee86e98087f"
+    },
+    {
+      "path": "plugins/hanbot/shards/Kiri AIO.shard",
+      "size": 4062272,
+      "sha256": "3c530a24c3a951793ce91b4f118bd21610f7bd5efc89fa364d22a32ca7b4c370"
+    },
+    {
+      "path": "plugins/hanbot/shards/Kisrs_AIO.shard",
+      "size": 4589400,
+      "sha256": "a0269d577f4833a9a5efb196fc9fa7e2278f2842415e6540aea8e004b0b9cc52"
+    },
+    {
+      "path": "plugins/hanbot/shards/KleeAIO.shard",
+      "size": 5108552,
+      "sha256": "dde51ee1294967e159b24a87ca9d47194fb7f9de4d4022dc547358d87c68fac6"
+    },
+    {
+      "path": "plugins/hanbot/shards/KleeUtils.shard",
+      "size": 1075552,
+      "sha256": "8ddfc2efd06b5398bcc63a91361a67615fb430657705692ae24abcf90c50be7a"
+    },
+    {
+      "path": "plugins/hanbot/shards/Kornis AIO.shard",
+      "size": 6108624,
+      "sha256": "b33bb51f7b3d983175720db251b2e7236a170bbe481a4a2fff7d9368289593b6"
+    },
+    {
+      "path": "plugins/hanbot/shards/Mage AIO.shard",
+      "size": 2620128,
+      "sha256": "0407d6f75cd65488e68efadddc2e9839f85a3f12ce6811f8df943253c9eff92d"
+    },
+    {
+      "path": "plugins/hanbot/shards/MasterActivator.shard",
+      "size": 2079792,
+      "sha256": "184d263e3cae6307c76d532d7e93a67f128a9746f0bb229ffb31e36d30d19ead"
+    },
+    {
+      "path": "plugins/hanbot/shards/MasterAio.shard",
+      "size": 8252464,
+      "sha256": "5880b8cf45873a818b507d8458913d30912b76e318e6f2d2edaf451d24215b67"
+    },
+    {
+      "path": "plugins/hanbot/shards/MasterCore.shard",
+      "size": 276056,
+      "sha256": "00a4848d3a20954fc3c39a902d436ed9824e82a642a8cc95b0555324eb6301b2"
+    },
+    {
+      "path": "plugins/hanbot/shards/NG-AIO.shard",
+      "size": 4236760,
+      "sha256": "b39c4775c34d51b462c01cca3db9d1e9855d18a6f34ba32bce14e7ba34aa44d2"
+    },
+    {
+      "path": "plugins/hanbot/shards/NG-Utility.shard",
+      "size": 685744,
+      "sha256": "58bef4ac898ce6e629e5468ad4f37545493858f02eefef2a90da5a0653a75ff1"
+    },
+    {
+      "path": "plugins/hanbot/shards/Pixel-AIO.shard",
+      "size": 11965064,
+      "sha256": "e09d3072469f2f2ce32f8150a337f223dab9224b38e3e5b9409d9c03be38452c"
+    },
+    {
+      "path": "plugins/hanbot/shards/Q-Aio.shard",
+      "size": 5265464,
+      "sha256": "c0a63fcdb891617940dd531c1a29d8f6ab6871db921cf4f98366594deebfb2b4"
+    },
+    {
+      "path": "plugins/hanbot/shards/Q-Utils.shard",
+      "size": 1394592,
+      "sha256": "a704ecfe3d92342aa5c9e03b95ae2fbc81d3f1dfff21df2c1563acbf07a71b77"
+    },
+    {
+      "path": "plugins/hanbot/shards/RXing.shard",
+      "size": 1551104,
+      "sha256": "6989fb592fb01c1f1836dc5070bdfbf635df0a4a4d84c37e0e72d2e48336c2a8"
+    },
+    {
+      "path": "plugins/hanbot/shards/Reborn.shard",
+      "size": 1999232,
+      "sha256": "a66c61c9574af1db0b9dfdf77168d59331846ffef208d3745dbe680c5337327d"
+    },
+    {
+      "path": "plugins/hanbot/shards/SA_AIO.shard",
+      "size": 8169376,
+      "sha256": "b1e4211c3e206bf871177d53afcdae175114e152e58a5771864e28b83a83e3d4"
+    },
+    {
+      "path": "plugins/hanbot/shards/SP-AIO.shard",
+      "size": 9756624,
+      "sha256": "d00da88f9e6951c4ba23e93076c1f363154b2e31483173b9ac953bf49d7a5374"
+    },
+    {
+      "path": "plugins/hanbot/shards/Void3.shard",
+      "size": 1148104,
+      "sha256": "1d8d9e634807844c8c94e1612b4dd53fd782afa69e3b980c6f9949a9213b5dfc"
+    },
+    {
+      "path": "plugins/hanbot/shards/[BrianSharp] Activator.shard",
+      "size": 916784,
+      "sha256": "6d018a7be3eb1c9750abff9aa63e1d135ae0e3c4fd8cb2e07ff2d8c5ef1d0a05"
+    },
+    {
+      "path": "plugins/hanbot/shards/[BrianSharp] Successfull.shard",
+      "size": 17839368,
+      "sha256": "79728a7a0d7513490e44dc80a9138700c4ad48b47d3913fcf7fc22d85d9699da"
+    },
+    {
+      "path": "plugins/hanbot/shards/[HGPro]AIO.shard",
+      "size": 1831784,
+      "sha256": "be0bc8381f5f09634c8a33ba2a3b4fa73e5534332d8ca88d9ea960e5b25f7751"
+    },
+    {
+      "path": "plugins/hanbot/shards/[HGVip]AIO.shard",
+      "size": 3849464,
+      "sha256": "de062d1febb458414f5c6342e30303c9895384940abff9ad30cb3b8be1a698d7"
+    },
+    {
+      "path": "plugins/hanbot/shards/[Viktor]AIO.shard",
+      "size": 4098104,
+      "sha256": "5e7d49fde60dac4991f2558d9304c35cabc9e978ad1ed07131185662f3c78cea"
+    },
+    {
+      "path": "plugins/hanbot/shards/[Viktor]Evade.shard",
+      "size": 707816,
+      "sha256": "e15ddf382d0372143cd91e5dd6b03b73155fac0df4621cc6195f41a362109333"
+    },
+    {
+      "path": "plugins/hanbot/shards/[Viktor]Utility.shard",
+      "size": 170440,
+      "sha256": "eec63791ad2024b52f67df679f76c9f307d8b99b3668a2ffa8e37cf66582ba12"
+    },
+    {
+      "path": "plugins/hanbot/shards/luna-aio.shard",
+      "size": 10121920,
+      "sha256": "01ab7187ed9fcaae4b7796cda42420d5acde5432d03cde471a4d812f29cbb3ff"
+    },
+    {
+      "path": "plugins/hanbot/shards/ws.shard",
+      "size": 1728568,
+      "sha256": "017ccb36d8b9801b1ef496c0d320defbd412ffec819a832bccdf6194420bbe2d"
     },
     {
       "path": "plugins/plugins.json",

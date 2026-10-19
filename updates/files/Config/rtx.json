@@ -279,6 +279,94 @@
                     }
                 }
             },
+            "Brand": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q BrandQ": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W BrandW": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "FiddleSticks": {
+                "E FiddleSticksE": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
             "Fiora": {
                 "IsOpen": {
                     "value": false
@@ -286,6 +374,89 @@
                 "W FioraW": {
                     "DangerLevel": {
                         "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Gragas": {
+                "E GragasE": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "Q GragasQ": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R GragasR": {
+                    "DangerLevel": {
+                        "value": 5
                     },
                     "Draw": {
                         "value": true
@@ -384,6 +555,151 @@
                     },
                     "Is Danger": {
                         "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "MonkeyKing": {
+                "IsOpen": {
+                    "value": false
+                },
+                "R monkeykingspintowin": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Sett": {
+                "E SettE": {
+                    "DangerLevel": {
+                        "value": 4
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "W SettW": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Sivir": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q SivirQ": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "Q SivirQReturn": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
                     },
                     "IsOpen": {
                         "value": false
@@ -730,6 +1046,9 @@
                 "spellBlockerEAshe": {
                     "value": true
                 },
+                "spellBlockerEBrand": {
+                    "value": false
+                },
                 "spellBlockerELeeSin": {
                     "value": false
                 },
@@ -738,6 +1057,9 @@
                 },
                 "spellBlockerQAshe": {
                     "value": false
+                },
+                "spellBlockerQBrand": {
+                    "value": true
                 },
                 "spellBlockerQLeeSin": {
                     "value": true
@@ -748,6 +1070,9 @@
                 "spellBlockerRAshe": {
                     "value": false
                 },
+                "spellBlockerRBrand": {
+                    "value": false
+                },
                 "spellBlockerRLeeSin": {
                     "value": false
                 },
@@ -755,6 +1080,9 @@
                     "value": false
                 },
                 "spellBlockerWAshe": {
+                    "value": true
+                },
+                "spellBlockerWBrand": {
                     "value": true
                 },
                 "spellBlockerWLeeSin": {
@@ -1181,6 +1509,292 @@
             "value": 0
         }
     },
+    "KiriAIOBrand": {
+        "IsOpen": {
+            "value": false
+        },
+        "automatic": {
+            "IsOpen": {
+                "value": false
+            },
+            "aalevel": {
+                "value": 19
+            },
+            "anti_gap_qe": {
+                "GapIgnore": {
+                    "value": false
+                },
+                "GapMeRange": {
+                    "value": 300
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "delay": {
+                    "value": 0
+                },
+                "enable": {
+                    "value": true
+                },
+                "gapclosers": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "enabled.FiddleSticksR": {
+                        "value": true
+                    }
+                }
+            },
+            "autoekill": {
+                "value": true
+            },
+            "autoqkill": {
+                "value": true
+            },
+            "autoqspecial": {
+                "value": true
+            },
+            "autowcc": {
+                "value": true
+            },
+            "autowkill": {
+                "value": true
+            },
+            "autowspecial": {
+                "value": true
+            },
+            "interruptE": {
+                "IsOpen": {
+                    "value": false
+                },
+                "enable": {
+                    "value": true
+                },
+                "interrupt": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "enabled.FiddleSticksR": {
+                        "value": true
+                    },
+                    "enabled.FiddleSticksW": {
+                        "value": true
+                    }
+                }
+            }
+        },
+        "combo": {
+            "IsOpen": {
+                "value": false
+            },
+            "combomode": {
+                "value": 1
+            },
+            "ecombo": {
+                "value": true
+            },
+            "espread": {
+                "value": true
+            },
+            "forcer": {
+                "value": 3
+            },
+            "hpr": {
+                "value": 60
+            },
+            "qaoe": {
+                "value": true
+            },
+            "qcombo": {
+                "value": true
+            },
+            "qprio": {
+                "value": true
+            },
+            "rusage": {
+                "value": 1
+            },
+            "trytotimewq": {
+                "value": true
+            },
+            "waster": {
+                "value": 20
+            },
+            "wcombo": {
+                "value": true
+            }
+        },
+        "draw": {
+            "IsOpen": {
+                "value": false
+            },
+            "damage": {
+                "IsOpen": {
+                    "value": false
+                },
+                "drawdamage": {
+                    "value": true
+                },
+                "drawe": {
+                    "value": true
+                },
+                "drawq": {
+                    "value": true
+                },
+                "drawr": {
+                    "value": true
+                },
+                "draww": {
+                    "value": true
+                }
+            },
+            "drawe": {
+                "value": false
+            },
+            "drawq": {
+                "value": true
+            },
+            "drawr": {
+                "value": false
+            },
+            "draww": {
+                "value": true
+            },
+            "drawwarn": {
+                "value": true
+            }
+        },
+        "farming": {
+            "IsOpen": {
+                "value": false
+            },
+            "jungleclear": {
+                "IsOpen": {
+                    "value": false
+                },
+                "farmq": {
+                    "value": true
+                },
+                "farmw": {
+                    "value": true
+                }
+            },
+            "laneclear": {
+                "IsOpen": {
+                    "value": false
+                },
+                "farme": {
+                    "value": true
+                },
+                "farmw": {
+                    "value": true
+                },
+                "hitse": {
+                    "value": 3
+                },
+                "hitsw": {
+                    "value": 3
+                }
+            },
+            "toggle": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 65,
+                "value": true
+            }
+        },
+        "harass": {
+            "IsOpen": {
+                "value": false
+            },
+            "combomode": {
+                "value": 1
+            },
+            "ecombo": {
+                "value": true
+            },
+            "espread": {
+                "value": true
+            },
+            "qaoe": {
+                "value": true
+            },
+            "qcombo": {
+                "value": true
+            },
+            "qprio": {
+                "value": true
+            },
+            "trytotimewq": {
+                "value": true
+            },
+            "wcombo": {
+                "value": true
+            }
+        },
+        "list": {
+            "IsOpen": {
+                "value": false
+            },
+            "enabled.FiddleSticksR": {
+                "value": false
+            }
+        },
+        "predictions": {
+            "IsOpen": {
+                "value": false
+            },
+            "e_predictions": {
+                "IsOpen": {
+                    "value": false
+                },
+                "hc": {
+                    "value": 2
+                },
+                "range_slider": {
+                    "value": 95
+                },
+                "semirwhc": {
+                    "value": 0
+                }
+            },
+            "w_predictions": {
+                "IsOpen": {
+                    "value": false
+                },
+                "hitchance": {
+                    "value": 1
+                },
+                "range_slider": {
+                    "value": 95
+                }
+            }
+        },
+        "qflashe": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 90,
+            "value": false
+        },
+        "saveq": {
+            "IsToggle": true,
+            "MouseWheelBind": false,
+            "key": 71,
+            "value": false
+        },
+        "semir": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 84,
+            "value": false
+        },
+        "semiw": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 78,
+            "value": false
+        }
+    },
     "Klee_menu": {
         "IsOpen": {
             "value": false
@@ -1572,6 +2186,1831 @@
                 "X": 0.0,
                 "Y": 93.0
             }
+        }
+    },
+    "blackoutActivatorMainMenuTab": {
+        "IsOpen": {
+            "value": false
+        },
+        "blackoutActivatorblackOutActivatorDrawingsSettings": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorcoreLoadMessage": {
+                "value": true
+            },
+            "blackoutActivatorthreshLanternDrawingsTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatordrawAutoLanternCheckbox": {
+                    "value": true
+                },
+                "blackoutActivatordrawRangeThreshLantern": {
+                    "color": 4289827583
+                }
+            }
+        },
+        "blackoutActivatordefensiveItems": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorlocketMenu": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorlocketOfTheIronSolariAlliesWhitelist": {
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "blackoutActivatoruseLocket": {
+                    "value": true
+                },
+                "blackoutActivatoruseLocketCombo": {
+                    "value": false
+                },
+                "blackoutActivatoruseLocketIfAllyCount": {
+                    "value": 2
+                },
+                "blackoutActivatoruseLocketIncomingDamage": {
+                    "value": true
+                },
+                "blackoutActivatoruseLocketIncomingDamageSlider": {
+                    "value": 20
+                },
+                "blackoutActivatoruseLocketOnlyIfAlly": {
+                    "value": false
+                },
+                "blackoutActivatoruseLocketSaveAlly": {
+                    "value": true
+                },
+                "blackoutActivatoruseOnlyIfEnemies": {
+                    "value": true
+                },
+                "blackoutActivatoruseOnlyIfEnemiesRangeSlider": {
+                    "value": 1000
+                }
+            },
+            "blackoutActivatorqssMikaelsMenuTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatormikaelsBuffTypesDangerousSystem": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatormikaelsAsleepDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsAsleepDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsAsleepDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsAsleepDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsBerserkDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsBerserkDangerousBelowHP": {
+                            "value": 100
+                        },
+                        "blackoutActivatormikaelsBerserkDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsBerserkDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsBlindDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsBlindDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatormikaelsBlindDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatormikaelsBlindDangerousEnemiesRangeSlider": {
+                            "value": 650
+                        }
+                    },
+                    "blackoutActivatormikaelsCharmDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsCharmDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsCharmDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsCharmDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsDisarmDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsDisarmDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatormikaelsDisarmDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatormikaelsDisarmDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatormikaelsDrowsyDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsDrowsyDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsDrowsyDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsDrowsyDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsFearDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsFearDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsFearDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsFearDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsFleeDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsFleeDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatormikaelsFleeDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatormikaelsFleeDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatormikaelsPoisonDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsPoisonDangerousBelowHP": {
+                            "value": 70
+                        },
+                        "blackoutActivatormikaelsPoisonDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatormikaelsPoisonDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatormikaelsPolymorphDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsPolymorphDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsPolymorphDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsPolymorphDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsSnareDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsSnareDangerousBelowHP": {
+                            "value": 70
+                        },
+                        "blackoutActivatormikaelsSnareDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatormikaelsSnareDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatormikaelsStunDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsStunDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsStunDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsStunDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatormikaelsTauntDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatormikaelsTauntDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatormikaelsTauntDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatormikaelsTauntDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    }
+                },
+                "blackoutActivatormikaelsMenuTab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatormikaelsMenuWhitelistTab": {
+                        "IsOpen": {
+                            "value": false
+                        }
+                    },
+                    "blackoutActivatoroperationalModeMikaelsCCDB": {
+                        "value": 0
+                    },
+                    "blackoutActivatoruseMikaels": {
+                        "value": false
+                    },
+                    "blackoutActivatoruseMikaelsAllies": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseMikaelsCombo": {
+                        "value": false
+                    }
+                },
+                "blackoutActivatormikaelsQssBuffTypes": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatorasleepQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorberserkQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorblindQss": {
+                        "value": false
+                    },
+                    "blackoutActivatorcharmQss": {
+                        "value": true
+                    },
+                    "blackoutActivatordisarmQss": {
+                        "value": true
+                    },
+                    "blackoutActivatordrowsyQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorfearQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorfleeQss": {
+                        "value": false
+                    },
+                    "blackoutActivatorpoisonQss": {
+                        "value": false
+                    },
+                    "blackoutActivatorpolymorphQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorsnareQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorstunQss": {
+                        "value": true
+                    },
+                    "blackoutActivatorsupressionQss": {
+                        "value": true
+                    },
+                    "blackoutActivatortauntQss": {
+                        "value": true
+                    }
+                },
+                "blackoutActivatormikaelsSpellDatabaseWhitelist": {
+                    "BrandCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPBrandQ Stun": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesBrandQ Stun": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.BrandQ Stun": {
+                            "value": true
+                        }
+                    },
+                    "FiddleSticksCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPFiddleSticksE (Silence)": {
+                            "value": 40
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPFiddleSticksQ Flee": {
+                            "value": 35
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPFiddleSticksR (Silence)": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesFiddleSticksE (Silence)": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesFiddleSticksQ Flee": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesFiddleSticksR (Silence)": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.FiddleSticksE (Silence)": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssEnabled.FiddleSticksQ Flee": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssEnabled.FiddleSticksR (Silence)": {
+                            "value": true
+                        }
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "SettCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPSettE": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesSettE": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.SettE": {
+                            "value": true
+                        }
+                    }
+                },
+                "blackoutActivatorqssBuffTypesDangerousSystem": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatorqssAsleepDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssAsleepDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssAsleepDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssAsleepDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssBerserkDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssBerserkDangerousBelowHP": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssBerserkDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssBerserkDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssBlindDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssBlindDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatorqssBlindDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssBlindDangerousEnemiesRangeSlider": {
+                            "value": 650
+                        }
+                    },
+                    "blackoutActivatorqssCharmDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssCharmDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssCharmDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssCharmDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssDisarmDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDisarmDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatorqssDisarmDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssDisarmDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatorqssDrowsyDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDrowsyDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssDrowsyDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssDrowsyDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssFearDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssFearDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssFearDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssFearDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssFleeDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssFleeDangerousBelowHP": {
+                            "value": 40
+                        },
+                        "blackoutActivatorqssFleeDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssFleeDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatorqssPoisonDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssPoisonDangerousBelowHP": {
+                            "value": 70
+                        },
+                        "blackoutActivatorqssPoisonDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssPoisonDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatorqssPolymorphDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssPolymorphDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssPolymorphDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssPolymorphDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssSnareDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssSnareDangerousBelowHP": {
+                            "value": 70
+                        },
+                        "blackoutActivatorqssSnareDangerousEnemies": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssSnareDangerousEnemiesRangeSlider": {
+                            "value": 700
+                        }
+                    },
+                    "blackoutActivatorqssStunDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssStunDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssStunDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssStunDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    },
+                    "blackoutActivatorqssTauntDangerousSystemTabCfg": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssTauntDangerousBelowHP": {
+                            "value": 90
+                        },
+                        "blackoutActivatorqssTauntDangerousEnemies": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssTauntDangerousEnemiesRangeSlider": {
+                            "value": 1000
+                        }
+                    }
+                },
+                "blackoutActivatorqssMenuTab": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatorblackListQSSTab": {
+                        "IsOpen": {
+                            "value": false
+                        }
+                    },
+                    "blackoutActivatorminHpQss": {
+                        "value": 15
+                    },
+                    "blackoutActivatoroperationalModeQssCCDB": {
+                        "value": 0
+                    },
+                    "blackoutActivatorqssDelay": {
+                        "value": 0
+                    },
+                    "blackoutActivatorqssHumanizerX": {
+                        "value": 100
+                    },
+                    "blackoutActivatorqssHumanizerY": {
+                        "value": 200
+                    },
+                    "blackoutActivatorqssMinimumDuration": {
+                        "value": 500
+                    },
+                    "blackoutActivatorqss_delay_mode_combo": {
+                        "value": 1
+                    },
+                    "blackoutActivatorslowDebuffsMenu": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssSlowDebuffMovementSpeed": {
+                            "value": 230
+                        },
+                        "blackoutActivatorqssSlowDebuffNew": {
+                            "value": false
+                        }
+                    },
+                    "blackoutActivatorspellDatabaseCheckEnemiesRangeQSS": {
+                        "value": 1000
+                    },
+                    "blackoutActivatoruseQSSEnabled": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseQssAlwaysMode": {
+                        "value": false
+                    },
+                    "blackoutActivatoruseQssCombo": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseQssHarass": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseQssOtherMode": {
+                        "value": false
+                    }
+                },
+                "blackoutActivatorqssSpellDatabaseWhitelist": {
+                    "BrandCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPBrandQ Stun": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayBrandQ Stun": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesBrandQ Stun": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.BrandQ Stun": {
+                            "value": true
+                        }
+                    },
+                    "FiddleSticksCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPFiddleSticksE (Silence)": {
+                            "value": 40
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPFiddleSticksQ Flee": {
+                            "value": 35
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPFiddleSticksR (Silence)": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayFiddleSticksE (Silence)": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayFiddleSticksQ Flee": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayFiddleSticksR (Silence)": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesFiddleSticksE (Silence)": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesFiddleSticksQ Flee": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesFiddleSticksR (Silence)": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.FiddleSticksE (Silence)": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssEnabled.FiddleSticksQ Flee": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssEnabled.FiddleSticksR (Silence)": {
+                            "value": true
+                        }
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "SettCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPSettE": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelaySettE": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesSettE": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.SettE": {
+                            "value": true
+                        }
+                    }
+                }
+            },
+            "blackoutActivatorranduinsOmenMenu": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatoruseRanduins": {
+                    "value": true
+                },
+                "blackoutActivatoruseRanduinsFlee": {
+                    "value": true
+                },
+                "blackoutActivatoruseRanduinsWhenBelowXHP": {
+                    "value": 50
+                },
+                "blackoutActivatoruseRanduinsWhenCrit": {
+                    "value": 40
+                },
+                "blackoutActivatoruseRanduinsWhenEnemyBelowXHP": {
+                    "value": 35
+                },
+                "blackoutActivatoruseRanduinsWhenXEnemies": {
+                    "value": true
+                },
+                "blackoutActivatoruseRanduinsWhenXEnemiesSlider": {
+                    "value": 3
+                }
+            },
+            "blackoutActivatorredemption_menu_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorredemption_ally_blacklist": {
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "blackoutActivatorredemption_ally_count_teamfight": {
+                    "value": 3
+                },
+                "blackoutActivatorredemption_enemy_blacklist": {
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "blackoutActivatorredemption_enemy_count_teamfight": {
+                    "value": 3
+                },
+                "blackoutActivatorredemption_save_allies": {
+                    "value": true
+                },
+                "blackoutActivatoruse_redemption": {
+                    "value": true
+                },
+                "blackoutActivatoruse_redemption_ally_below_x_health_percent": {
+                    "value": true
+                },
+                "blackoutActivatoruse_redemption_ally_below_x_health_percent_slider": {
+                    "value": 35
+                },
+                "blackoutActivatoruse_redemption_combo_only": {
+                    "value": false
+                },
+                "blackoutActivatoruse_redemption_killsteal": {
+                    "value": true
+                },
+                "blackoutActivatoruse_redemption_teamfight": {
+                    "value": false
+                }
+            },
+            "blackoutActivatorshurelyasBattleSongTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatoruseShurelyaBattle": {
+                    "value": true
+                },
+                "blackoutActivatoruseShurelyaFleeEnmies": {
+                    "value": true
+                },
+                "blackoutActivatoruseShurelyasCombo": {
+                    "value": true
+                },
+                "blackoutActivatoruseShurelyasEnemyCountSlider": {
+                    "value": 2
+                },
+                "blackoutActivatoruseShurelyasEnemyRangeSlider": {
+                    "value": 1000
+                },
+                "blackoutActivatoruseShurelyasFleeMode": {
+                    "value": true
+                },
+                "blackoutActivatoruseShurelyasMinimumAllies": {
+                    "value": 2
+                }
+            },
+            "blackoutActivatorzhonyaMenu": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorstopwatch_evade": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatoruseStopwatchEvadeDangerousLevel": {
+                        "value": 4
+                    },
+                    "blackoutActivatoruseStopwatchEvadeIfBelowHP": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseStopwatchEvadeIfBelowHPSlider": {
+                        "value": 40
+                    },
+                    "blackoutActivatoruseStopwatchEvadeSpeedBuffer": {
+                        "value": 7
+                    },
+                    "blackoutActivatoruseStopwatchIfEvadeCantDodge": {
+                        "value": true
+                    }
+                },
+                "blackoutActivatoruseZhonyaStopWatch": {
+                    "value": true
+                },
+                "blackoutActivatoruseZhonyasCombo": {
+                    "value": false
+                },
+                "blackoutActivatoruse_stopwatch_hard_cc": {
+                    "value": false
+                },
+                "blackoutActivatoruse_stopwatch_incoming_damage": {
+                    "value": true
+                },
+                "blackoutActivatoruse_stopwatch_incoming_damage_skillshots": {
+                    "value": true
+                },
+                "blackoutActivatoruse_stopwatch_incoming_damage_slider": {
+                    "value": 45
+                },
+                "blackoutActivatoruse_stopwatch_spell_database_stuns": {
+                    "BrandCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPBrandQ Stun": {
+                            "value": 100
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesBrandQ Stun": {
+                            "value": 1
+                        },
+                        "blackoutActivatorstopwatchEnabled.BrandQ Stun": {
+                            "value": true
+                        }
+                    },
+                    "FiddleSticksCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPFiddleSticksE (Silence)": {
+                            "value": 40
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPFiddleSticksQ Flee": {
+                            "value": 35
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPFiddleSticksR (Silence)": {
+                            "value": 100
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesFiddleSticksE (Silence)": {
+                            "value": 2
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesFiddleSticksQ Flee": {
+                            "value": 2
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesFiddleSticksR (Silence)": {
+                            "value": 1
+                        },
+                        "blackoutActivatorstopwatchEnabled.FiddleSticksE (Silence)": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchEnabled.FiddleSticksQ Flee": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchEnabled.FiddleSticksR (Silence)": {
+                            "value": true
+                        }
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "SettCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPSettE": {
+                            "value": 100
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesSettE": {
+                            "value": 1
+                        },
+                        "blackoutActivatorstopwatchEnabled.SettE": {
+                            "value": true
+                        }
+                    }
+                },
+                "blackoutActivatoruse_zhonya_hard_cc": {
+                    "value": false
+                },
+                "blackoutActivatoruse_zhonya_incoming_damage": {
+                    "value": true
+                },
+                "blackoutActivatoruse_zhonya_incoming_damage_skillshots": {
+                    "value": true
+                },
+                "blackoutActivatoruse_zhonya_incoming_damage_slider": {
+                    "value": 45
+                },
+                "blackoutActivatoruse_zhonya_spell_database_stuns": {
+                    "BrandCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPBrandQ Stun": {
+                            "value": 100
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesBrandQ Stun": {
+                            "value": 1
+                        },
+                        "blackoutActivatorzhonyaEnabled.BrandQ Stun": {
+                            "value": true
+                        }
+                    },
+                    "FiddleSticksCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPFiddleSticksE (Silence)": {
+                            "value": 40
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPFiddleSticksQ Flee": {
+                            "value": 35
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPFiddleSticksR (Silence)": {
+                            "value": 100
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesFiddleSticksE (Silence)": {
+                            "value": 2
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesFiddleSticksQ Flee": {
+                            "value": 2
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesFiddleSticksR (Silence)": {
+                            "value": 1
+                        },
+                        "blackoutActivatorzhonyaEnabled.FiddleSticksE (Silence)": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaEnabled.FiddleSticksQ Flee": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaEnabled.FiddleSticksR (Silence)": {
+                            "value": true
+                        }
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "SettCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPSettE": {
+                            "value": 100
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesSettE": {
+                            "value": 1
+                        },
+                        "blackoutActivatorzhonyaEnabled.SettE": {
+                            "value": true
+                        }
+                    }
+                },
+                "blackoutActivatorzhonyaWatchesOurHeroIgnited": {
+                    "value": 0
+                },
+                "blackoutActivatorzhonyaWatchesOurHeroIgnitedDuration": {
+                    "value": 4
+                },
+                "blackoutActivatorzhonyaWatchesOurHeroIgnitedHP": {
+                    "value": 300
+                },
+                "blackoutActivatorzhonyaWatchesOurHeroIgnitedMaxEnemies": {
+                    "value": 1
+                },
+                "blackoutActivatorzhonya_watches_evade": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "blackoutActivatoruseZhonyaEvadeDangerousLevel": {
+                        "value": 4
+                    },
+                    "blackoutActivatoruseZhonyaEvadeIfBelowHP": {
+                        "value": true
+                    },
+                    "blackoutActivatoruseZhonyaEvadeIfBelowHPSlider": {
+                        "value": 40
+                    },
+                    "blackoutActivatoruseZhonyaEvadeSpeedBuffer": {
+                        "value": 7
+                    },
+                    "blackoutActivatoruseZhonyaIfEvadeCantDodge": {
+                        "value": true
+                    }
+                }
+            }
+        },
+        "blackoutActivatorhealthPotions": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatordontUseLvlOne": {
+                "value": true
+            },
+            "blackoutActivatordontUseLvlOneIgnoreCombo": {
+                "value": true
+            },
+            "blackoutActivatoruseBiscsuitsUnderManaEnabled": {
+                "value": true
+            },
+            "blackoutActivatoruseBiscuits": {
+                "value": true
+            },
+            "blackoutActivatoruseBiscuitsUnderHp": {
+                "value": 30
+            },
+            "blackoutActivatoruseBiscuitsUnderManaSlider": {
+                "value": 35
+            },
+            "blackoutActivatoruseCorruptingPotion": {
+                "value": true
+            },
+            "blackoutActivatoruseHealthPotion": {
+                "value": true
+            },
+            "blackoutActivatoruseHealthPotionsIfIgnited": {
+                "value": true
+            },
+            "blackoutActivatorusePotionsCombo": {
+                "value": false
+            },
+            "blackoutActivatorusePotionsIfEnemiesInXRange": {
+                "value": 900
+            },
+            "blackoutActivatorusePotionsIfMyheroHP": {
+                "value": true
+            },
+            "blackoutActivatorusePotionsIfMyheroHpSlider": {
+                "value": 65
+            },
+            "blackoutActivatorusePotionsOnlyIfXEnemies": {
+                "value": true
+            },
+            "blackoutActivatorusePotionsXEnemiesRange": {
+                "value": 1
+            },
+            "blackoutActivatoruseRefillablePotion": {
+                "value": true
+            }
+        },
+        "blackoutActivatoroffensiveItems": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorhextechProtobeltTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorhextechMaximumDistanceToEnemy": {
+                    "value": 275
+                },
+                "blackoutActivatoruseHextechCursor": {
+                    "value": false
+                },
+                "blackoutActivatoruseHextechCursorRange": {
+                    "value": 260
+                },
+                "blackoutActivatoruseHextechFleeMode": {
+                    "value": false
+                },
+                "blackoutActivatoruseHextechKillable": {
+                    "value": true
+                },
+                "blackoutActivatoruseHextechKillableAA": {
+                    "value": 2
+                },
+                "blackoutActivatoruseHextechMaxEnemies": {
+                    "value": 2
+                },
+                "blackoutActivatoruseHextechMaxEnemiesRange": {
+                    "value": 500
+                },
+                "blackoutActivatoruseHextechProtobelt": {
+                    "value": true
+                }
+            },
+            "blackoutActivatorprofaneHydraTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorprofane_aa_reset": {
+                    "value": true
+                },
+                "blackoutActivatorprofane_if_dmg": {
+                    "value": true
+                },
+                "blackoutActivatoruseProfaneHydra": {
+                    "value": true
+                },
+                "blackoutActivatoruse_profane_killsteal": {
+                    "value": true
+                },
+                "blackoutActivatoruse_profane_under_x_hp": {
+                    "value": false
+                },
+                "blackoutActivatoruse_profane_under_x_hp_slider": {
+                    "value": 45
+                }
+            },
+            "blackoutActivatorravenous_hydra_tab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorrav_fiora_aa_reset_after_e": {
+                    "value": true
+                },
+                "blackoutActivatorrav_yi_aa_reset_after_w": {
+                    "value": true
+                },
+                "blackoutActivatorravenous_aa_reset": {
+                    "value": true
+                },
+                "blackoutActivatorravenous_aa_reset_jungle": {
+                    "value": true
+                },
+                "blackoutActivatorravenous_aa_reset_lane_minions": {
+                    "value": false
+                },
+                "blackoutActivatorravenous_dont_use_if_enemies": {
+                    "value": 800
+                },
+                "blackoutActivatorravenous_dont_wait_aa": {
+                    "value": 40
+                },
+                "blackoutActivatorravenous_if_dmg": {
+                    "value": true
+                },
+                "blackoutActivatorravenous_killsteal": {
+                    "value": true
+                },
+                "blackoutActivatorravenous_no_aa_reset": {
+                    "value": 3
+                },
+                "blackoutActivatoruse_ravenous_hydra": {
+                    "value": true
+                }
+            },
+            "blackoutActivatorstrideBreakerMenu": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorstideBreakerAALane": {
+                    "value": true
+                },
+                "blackoutActivatorstideBreakerAAResetJungle": {
+                    "value": true
+                },
+                "blackoutActivatorstrideBreakerAAReset": {
+                    "value": true
+                },
+                "blackoutActivatorstrideBreakerDontUseIfEnemies": {
+                    "value": 800
+                },
+                "blackoutActivatorstrideBreakerFleeModeUsage": {
+                    "value": true
+                },
+                "blackoutActivatoruseStrideBreaker": {
+                    "value": true
+                }
+            },
+            "blackoutActivatortiamatHydraTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorfiora_aa_reset_after_e": {
+                    "value": true
+                },
+                "blackoutActivatoruseTiamat": {
+                    "value": true
+                },
+                "blackoutActivatoryi_aa_reset_after_w": {
+                    "value": true
+                }
+            },
+            "blackoutActivatortitanicHydraTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatoruseTitanicHydra": {
+                    "value": true
+                },
+                "blackoutActivatoruse_titanic_aa_reset": {
+                    "value": true
+                }
+            },
+            "blackoutActivatoryoumuuGhostBladeTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatoruseYoumuuCursorDistanceCheck": {
+                    "value": true
+                },
+                "blackoutActivatoruseYoumuuCursorDistanceSlider": {
+                    "value": 165
+                },
+                "blackoutActivatoruseYoumuusDistanceEnemySlider": {
+                    "value": 500
+                },
+                "blackoutActivatoruseYoumuusGhostBladeChaseSliderHP": {
+                    "value": 35
+                },
+                "blackoutActivatoruseYoumuusGhostbladeChase": {
+                    "value": true
+                },
+                "blackoutActivatoruseYoumuusGhostbladeFleeModeCheckbox": {
+                    "value": true
+                },
+                "blackoutActivatoryoumuusItemState": {
+                    "value": true
+                }
+            }
+        },
+        "blackoutActivatorsummonerHeal": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatordontUseHealLevelOne": {
+                "value": true
+            },
+            "blackoutActivatorhealCheckForEnemiesInRangeSlider": {
+                "value": 850
+            },
+            "blackoutActivatorsummonerHealAlliesSettingsTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorhealAllyIncDmgIncludeSkillshot": {
+                    "value": true
+                },
+                "blackoutActivatorsummonerHealAlliesIgnited": {
+                    "value": 1
+                },
+                "blackoutActivatorsummonerHealAlliesIgnitedDuration": {
+                    "value": 4
+                },
+                "blackoutActivatorsummonerHealAlliesIgnitedHP": {
+                    "value": 200
+                },
+                "blackoutActivatorsummonerHealAlliesIgnitedMaxEnemies": {
+                    "value": 4
+                },
+                "blackoutActivatoruseHealIncDmgAllies": {
+                    "value": false
+                },
+                "blackoutActivatoruseHealIncDmgIfAllyBelowHP": {
+                    "value": 15
+                },
+                "blackoutActivatoruseHealIncDmgIfAllyWillBeBelowHP": {
+                    "value": false
+                },
+                "blackoutActivatoruseHealIncDmgSliderAllies": {
+                    "value": 15
+                },
+                "blackoutActivatorusehealifAllyWillDie": {
+                    "value": true
+                },
+                "blackoutActivatorwhitelistHealTabMenu": {
+                    "IsOpen": {
+                        "value": false
+                    }
+                }
+            },
+            "blackoutActivatorsummonerHealOurHeroSettingsTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorsummonerHealOurHeroIgnited": {
+                    "value": 0
+                },
+                "blackoutActivatorsummonerHealOurHeroIgnitedDuration": {
+                    "value": 4
+                },
+                "blackoutActivatorsummonerHealOurHeroIgnitedHP": {
+                    "value": 350
+                },
+                "blackoutActivatorsummonerHealOurHeroIgnitedMaxEnemies": {
+                    "value": 4
+                },
+                "blackoutActivatoruseHealHardCC": {
+                    "value": false
+                },
+                "blackoutActivatoruseHealIfMyheroDies": {
+                    "value": true
+                },
+                "blackoutActivatoruseHealIncomingDamageIncludeSkillshots": {
+                    "value": true
+                },
+                "blackoutActivatoruseHealIncomingDamageMechanic": {
+                    "value": true
+                },
+                "blackoutActivatoruseHealIncomingDamageSlider": {
+                    "value": 30
+                },
+                "blackoutActivatoruseIncDmgMakeOurHeroBelowHP": {
+                    "value": 15
+                }
+            },
+            "blackoutActivatoruseHeal": {
+                "value": true
+            },
+            "blackoutActivatoruseHealOnlyInCombo": {
+                "value": true
+            }
+        },
+        "blackoutActivatorsummoner_flash": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorsummoner_flash_semi": {
+                "IsToggle": false,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "blackoutActivatorsummoner_flash_semi_mode": {
+                "value": 0
+            }
+        },
+        "blackoutActivatorusageOfElixirs": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatoruseElixirIron": {
+                "value": true
+            },
+            "blackoutActivatoruseElixirSorcery": {
+                "value": true
+            },
+            "blackoutActivatoruseElixirWrath": {
+                "value": true
+            },
+            "blackoutActivatoruseElixirs": {
+                "value": true
+            },
+            "blackoutActivatoruseElixirsIfEnemies": {
+                "value": 700
+            },
+            "blackoutActivatoruseElixirsIfEnemiesCount": {
+                "value": 1
+            },
+            "blackoutActivatoruseElixirsIfOurHeroHp": {
+                "value": 100
+            }
+        },
+        "blackoutActivatorusePykeYourCut": {
+            "value": true
+        },
+        "summonersToggleHotkey": {
+            "IsToggle": true,
+            "MouseWheelBind": true,
+            "key": 0,
+            "value": true
+        },
+        "toggleItemUsageSS": {
+            "IsToggle": true,
+            "MouseWheelBind": true,
+            "key": 0,
+            "value": true
+        }
+    },
+    "blackoutActivatorUtilityTab": {
+        "IsOpen": {
+            "value": false
+        },
+        "blackoutActivatorantiNexusOrbTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorantiNexusOnlyOrbMode": {
+                "value": false
+            },
+            "blackoutActivatorantiNexusTurretOrbPrevent": {
+                "value": false
+            }
+        },
+        "blackoutActivatorattackRangeDrawingsTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorattackRangeColorPick": {
+                "color": 3957891584
+            },
+            "blackoutActivatorattackRangeEnabled": {
+                "value": false
+            },
+            "blackoutActivatorattackRangeInsideGlowPower": {
+                "value": 30
+            },
+            "blackoutActivatorattackRangeInsideGlowSize": {
+                "value": 100
+            },
+            "blackoutActivatorattackRangeOutsideGlowSize": {
+                "value": 0
+            },
+            "blackoutActivatorattackRangeThickness": {
+                "value": 2
+            }
+        },
+        "blackoutActivatorautoWardUpgradeTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorautoWardUpgradeModeSelection": {
+                "value": 0
+            },
+            "blackoutActivatorautoWardUpgradeOnlyIfLevel": {
+                "value": 6
+            },
+            "blackoutActivatorautoWardUpgradeToggle": {
+                "value": false
+            }
+        },
+        "blackoutActivatorcustomMapsTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorcustoMapsComboBox": {
+                "value": 0
+            },
+            "blackoutActivatorcustomMapColorPick": {
+                "color": 1273537024
+            },
+            "blackoutActivatorcustomMapsCircleQuality": {
+                "value": 350
+            }
+        },
+        "blackoutActivatordashTrackerTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatordashTrackerChampionIconSize": {
+                "value": 40
+            },
+            "blackoutActivatordashTrackerChampionLineWidth": {
+                "value": 2
+            },
+            "blackoutActivatordashTrackerColorPick": {
+                "color": 3872970261
+            },
+            "blackoutActivatordashTrackerPointingArrowWidth": {
+                "value": 2
+            },
+            "blackoutActivatordashTrackerSelectMode": {
+                "value": 0
+            },
+            "blackoutActivatorenableDashTracker": {
+                "value": true
+            },
+            "blackoutActivatorenableDashTrackerEnemies": {
+                "value": true
+            },
+            "blackoutActivatorenableDashTrackerOurHero": {
+                "value": false
+            }
+        },
+        "blackoutActivatordevelopers_tab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorcustom_range_colorpick": {
+                "color": 4281529057
+            },
+            "blackoutActivatordefine_custom_range_slider": {
+                "value": 550
+            },
+            "blackoutActivatorshow_custom_range": {
+                "value": false
+            }
+        },
+        "blackoutActivatoremoteSpammerTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatoremoteSpammerAfterKill": {
+                "value": false
+            },
+            "blackoutActivatoremoteSpammerOnProcessSpellcast": {
+                "value": false
+            },
+            "blackoutActivatoremoteSpammerSelection": {
+                "value": 0
+            }
+        },
+        "blackoutActivatorhotkey_hold_to_stop_evade": {
+            "IsToggle": false,
+            "MouseWheelBind": true,
+            "key": 0,
+            "value": false
+        },
+        "blackoutActivatorigniteTrackerTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorenableIgniteTracker": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerAlliesCheckbox": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerDrawDead": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerDrawDeadGlow": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerDrawDeadText": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerEnemies": {
+                "value": true
+            },
+            "blackoutActivatorigniteTrackerGlowSettingsTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatorigniteTrackerGlowBlurnessSlider": {
+                    "value": 10
+                },
+                "blackoutActivatorigniteTrackerGlowSettingsColorpick": {
+                    "color": 4294306053
+                },
+                "blackoutActivatorigniteTrackerGlowThicknessSlider": {
+                    "value": 1
+                }
+            },
+            "blackoutActivatorigniteTrackerIconFontSize": {
+                "value": 20
+            },
+            "blackoutActivatorigniteTrackerIconSize": {
+                "value": 35
+            },
+            "blackoutActivatorigniteTrackerOurHero": {
+                "value": true
+            }
+        },
+        "blackoutActivatormasteryBadgeSpammerTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatoruseMasteryBadgeAfterKill": {
+                "value": false
+            },
+            "blackoutActivatoruseMasteryBadgeOnProcessSpellcast": {
+                "value": false
+            }
+        },
+        "blackoutActivatorpingSpellsTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatordontPingEnemySpellsInAARange": {
+                "value": true
+            },
+            "blackoutActivatorpingEnemySummonersBlacklistTab": {
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "blackoutActivatorpingEnemyUltimateBlacklistTab": {
+                "Brand": {
+                    "value": false
+                },
+                "FiddleSticks": {
+                    "value": false
+                },
+                "Gragas": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "MonkeyKing": {
+                    "value": false
+                },
+                "PracticeTool_TargetDummy": {
+                    "value": false
+                },
+                "Sett": {
+                    "value": false
+                },
+                "Sivir": {
+                    "value": false
+                }
+            },
+            "blackoutActivatorpingHumanizerDistanceCheckSlidesr": {
+                "value": 1500
+            },
+            "blackoutActivatorpingHumanizerDistanceChecks": {
+                "value": false
+            },
+            "blackoutActivatorpingHumanizerRangeX": {
+                "value": 50
+            },
+            "blackoutActivatorpingHumanizerRangeY": {
+                "value": 100
+            },
+            "blackoutActivatorpingStaticDelaySlider": {
+                "value": 50
+            },
+            "blackoutActivatorpingSummonerSpellUsage": {
+                "value": false
+            },
+            "blackoutActivatorpingUltimateUsage": {
+                "value": false
+            },
+            "blackoutActivatorpingUtilityEnemyWards": {
+                "value": false
+            },
+            "blackoutActivatorpingUtilityEnemyWardsPingType": {
+                "value": 0
+            },
+            "blackoutActivatorpingUtilityHumanizer": {
+                "value": 2
+            }
+        },
+        "blackoutActivatorthreshAutoLanternTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "autoLanternForceKey": {
+                "IsToggle": false,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "autoLanternSemiCursorRange": {
+                "value": 1150
+            },
+            "blackoutActivatorautoLanternDelay": {
+                "value": 0
+            },
+            "blackoutActivatorautoLanternDelayModeComboN": {
+                "value": 1
+            },
+            "blackoutActivatorautoLanternEnableToggle": {
+                "value": true
+            },
+            "blackoutActivatorautoLanternEnemiesRangeSlider": {
+                "value": 600
+            },
+            "blackoutActivatorautoLanternEnemiesSlider": {
+                "value": 1
+            },
+            "blackoutActivatorautoLanternHumanizerX": {
+                "value": 100
+            },
+            "blackoutActivatorautoLanternHumanizerY": {
+                "value": 200
+            },
+            "blackoutActivatorautoLanternIfOurHeroBelowHP": {
+                "value": 15
+            },
+            "blackoutActivatorautoLanternOnlyCombo": {
+                "value": true
+            },
+            "blackoutActivatorthreshAutoWard": {
+                "value": true
+            },
+            "blackoutActivatorthreshAutoWardCombo": {
+                "value": true
+            },
+            "blackoutActivatorthreshAutoWardControl": {
+                "value": false
+            },
+            "blackoutActivatorthreshAutoWardFarsight": {
+                "value": true
+            },
+            "blackoutActivatorthreshAutoWardSupportItem": {
+                "value": true
+            }
+        },
+        "blackoutActivatorturnAroundTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorautoTurnAroundC": {
+                "value": true
+            },
+            "blackoutActivatorturnAroundCombo": {
+                "value": false
+            },
+            "blackoutActivatorturnAroundEvade": {
+                "value": true
+            },
+            "blackoutActivatorturnAround_Cass": {
+                "value": true
+            },
+            "blackoutActivatorturnAround_Trynda": {
+                "value": true
+            }
+        },
+        "blackoutActivatorturretRangeTracker": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorally_turretRangeBonus": {
+                "value": 50
+            },
+            "blackoutActivatorally_turretRangeColorPick": {
+                "color": 4278248703
+            },
+            "blackoutActivatorally_turretRangeDistanceCheck": {
+                "value": 1800
+            },
+            "blackoutActivatorally_turretRangeEnabled": {
+                "value": false
+            },
+            "blackoutActivatorally_turretRangeInsideGlowPower": {
+                "value": 0
+            },
+            "blackoutActivatorally_turretRangeInsideGlowSize": {
+                "value": 0
+            },
+            "blackoutActivatorally_turretRangeOutsideGlowPower": {
+                "value": 82
+            },
+            "blackoutActivatorally_turretRangeOutsideGlowSize": {
+                "value": 100
+            },
+            "blackoutActivatorally_turretRangeThickness": {
+                "value": 2
+            },
+            "blackoutActivatorturretRangeBonus": {
+                "value": 50
+            },
+            "blackoutActivatorturretRangeColorPick": {
+                "color": 4278248703
+            },
+            "blackoutActivatorturretRangeColorPickAggro": {
+                "color": 4278196223
+            },
+            "blackoutActivatorturretRangeDistanceCheck": {
+                "value": 1800
+            },
+            "blackoutActivatorturretRangeEnabled": {
+                "value": false
+            },
+            "blackoutActivatorturretRangeInsideGlowPower": {
+                "value": 0
+            },
+            "blackoutActivatorturretRangeInsideGlowSize": {
+                "value": 0
+            },
+            "blackoutActivatorturretRangeOutsideGlowPower": {
+                "value": 82
+            },
+            "blackoutActivatorturretRangeOutsideGlowSize": {
+                "value": 100
+            },
+            "blackoutActivatorturretRangeThickness": {
+                "value": 2
+            }
+        }
+    },
+    "blackoutActivatorblackoutActivatorPermashowTab": {
+        "IsOpen": {
+            "value": false
+        },
+        "blackoutActivatordrawPermashow": {
+            "value": false
+        },
+        "blackoutActivatorpermashowBackgroundColor": {
+            "color": 1677721600
+        },
+        "blackoutActivatorpermashowDragKey": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 1,
+            "value": false
+        },
+        "blackoutActivatorpermashowTextColor": {
+            "color": 4289722171
+        },
+        "blackoutActivatorpermashowWidth": {
+            "value": 300
+        },
+        "blackoutActivatorpermashowX": {
+            "value": 1215
+        },
+        "blackoutActivatorpermashowY": {
+            "value": 900
         }
     },
     "core_plugins": {
@@ -3660,6 +6099,21 @@
             "Asheleveler.start_lvl": {
                 "value": 2
             },
+            "Brandleveler.enabled": {
+                "value": true
+            },
+            "Brandleveler.lvl1": {
+                "value": 1
+            },
+            "Brandleveler.lvl2": {
+                "value": 1
+            },
+            "Brandleveler.lvl3": {
+                "value": 1
+            },
+            "Brandleveler.start_lvl": {
+                "value": 2
+            },
             "IsOpen": {
                 "value": false
             },
@@ -4257,6 +6711,35 @@
                         "value": false
                     }
                 },
+                "Brand": {
+                    "BrandE": {
+                        "value": false
+                    },
+                    "BrandE.Color": {
+                        "color": 3858759935
+                    },
+                    "BrandQ": {
+                        "value": false
+                    },
+                    "BrandQ.Color": {
+                        "color": 3858759935
+                    },
+                    "BrandR": {
+                        "value": false
+                    },
+                    "BrandR.Color": {
+                        "color": 3858759935
+                    },
+                    "BrandW": {
+                        "value": false
+                    },
+                    "BrandW.Color": {
+                        "color": 3858759935
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
                 "Fiora": {
                     "FioraE": {
                         "value": false
@@ -4280,6 +6763,35 @@
                         "value": false
                     },
                     "FioraW.Color": {
+                        "color": 3858759935
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "Gragas": {
+                    "GragasE": {
+                        "value": false
+                    },
+                    "GragasE.Color": {
+                        "color": 3858759935
+                    },
+                    "GragasQ": {
+                        "value": false
+                    },
+                    "GragasQ.Color": {
+                        "color": 3858759935
+                    },
+                    "GragasR": {
+                        "value": false
+                    },
+                    "GragasR.Color": {
+                        "color": 3858759935
+                    },
+                    "GragasW": {
+                        "value": false
+                    },
+                    "GragasW.Color": {
                         "color": 3858759935
                     },
                     "IsOpen": {
@@ -4318,6 +6830,35 @@
                         "color": 3858759935
                     }
                 },
+                "MonkeyKing": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MonkeyKingE": {
+                        "value": false
+                    },
+                    "MonkeyKingE.Color": {
+                        "color": 3858759935
+                    },
+                    "MonkeyKingQ": {
+                        "value": false
+                    },
+                    "MonkeyKingQ.Color": {
+                        "color": 3858759935
+                    },
+                    "MonkeyKingR": {
+                        "value": false
+                    },
+                    "MonkeyKingR.Color": {
+                        "color": 3858759935
+                    },
+                    "MonkeyKingW": {
+                        "value": false
+                    },
+                    "MonkeyKingW.Color": {
+                        "color": 3858759935
+                    }
+                },
                 "PracticeTool_TargetDummy": {
                     "IsOpen": {
                         "value": false
@@ -4344,6 +6885,64 @@
                         "value": false
                     },
                     "PracticeTool_TargetDummyW.Color": {
+                        "color": 3858759935
+                    }
+                },
+                "Sett": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "SettE": {
+                        "value": false
+                    },
+                    "SettE.Color": {
+                        "color": 3858759935
+                    },
+                    "SettQ": {
+                        "value": false
+                    },
+                    "SettQ.Color": {
+                        "color": 3858759935
+                    },
+                    "SettR": {
+                        "value": false
+                    },
+                    "SettR.Color": {
+                        "color": 3858759935
+                    },
+                    "SettW": {
+                        "value": false
+                    },
+                    "SettW.Color": {
+                        "color": 3858759935
+                    }
+                },
+                "Sivir": {
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "SivirE": {
+                        "value": false
+                    },
+                    "SivirE.Color": {
+                        "color": 3858759935
+                    },
+                    "SivirQ": {
+                        "value": false
+                    },
+                    "SivirQ.Color": {
+                        "color": 3858759935
+                    },
+                    "SivirR": {
+                        "value": false
+                    },
+                    "SivirR.Color": {
+                        "color": 3858759935
+                    },
+                    "SivirW": {
+                        "value": false
+                    },
+                    "SivirW.Color": {
                         "color": 3858759935
                     }
                 },
@@ -5323,6 +7922,9 @@
                 "disable_aa_comboAshe": {
                     "value": 0
                 },
+                "disable_aa_comboBrand": {
+                    "value": 0
+                },
                 "disable_aa_comboLeeSin": {
                     "value": 0
                 },
@@ -5330,6 +7932,9 @@
                     "value": 0
                 },
                 "disable_aa_combo_aa_cntAshe": {
+                    "value": 2
+                },
+                "disable_aa_combo_aa_cntBrand": {
                     "value": 2
                 },
                 "disable_aa_combo_aa_cntLeeSin": {
@@ -5340,6 +7945,9 @@
                 }
             },
             "support.support_mode.Ashe": {
+                "value": false
+            },
+            "support.support_mode.Brand": {
                 "value": false
             },
             "support.support_mode.LeeSin": {
@@ -5416,6 +8024,106 @@
             "value": 50
         }
     },
+    "others": {
+        "IsOpen": {
+            "value": false
+        },
+        "colors": {
+            "IsOpen": {
+                "value": false
+            },
+            "color_damage_k": {
+                "color": 2147548928
+            },
+            "color_damage_unk": {
+                "color": 2160574463
+            },
+            "colore": {
+                "color": 3433153131
+            },
+            "colore2": {
+                "color": 3433153131
+            },
+            "colorq": {
+                "color": 3434151930
+            },
+            "colorq2": {
+                "color": 3434151930
+            },
+            "colorr": {
+                "color": 3433802751
+            },
+            "colorr2": {
+                "color": 3433802751
+            },
+            "colorw": {
+                "color": 3434649172
+            },
+            "colorw2": {
+                "color": 3434649172
+            },
+            "enable_gradient": {
+                "value": false
+            },
+            "inside_glow_power": {
+                "value": 0
+            },
+            "inside_glow_size": {
+                "value": 0
+            },
+            "outisde_glow_power": {
+                "value": 0
+            },
+            "outside_glow_size": {
+                "value": 0
+            },
+            "thickness": {
+                "value": 1
+            }
+        },
+        "permashow": {
+            "IsOpen": {
+                "value": false
+            },
+            "colors": {
+                "IsOpen": {
+                    "value": false
+                },
+                "background_color": {
+                    "color": 3356956174
+                },
+                "border_color": {
+                    "color": 3360254588
+                },
+                "text_color": {
+                    "color": 3364063803
+                },
+                "title_background_color": {
+                    "color": 3357548051
+                },
+                "title_color": {
+                    "color": 3360193167
+                }
+            },
+            "elements": {
+                "": {
+                    "value": true
+                },
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "font": {
+                "value": 14
+            },
+            "posx": {
+                "value": 1382
+            },
+            "posy": {
+                "value": 1001
+            }
+        }
+    },
     "plugins": {
         "IsOpen": {
             "value": false
@@ -5431,6 +8139,9 @@
                 "plugin##bgx/BGX.dll##Ashe": {
                     "value": false
                 },
+                "plugin##bgx/BGX.dll##Brand": {
+                    "value": false
+                },
                 "plugin##bgx/BGX.dll##MasterYi": {
                     "value": false
                 }
@@ -5440,6 +8151,14 @@
                     "value": false
                 },
                 "plugin##bgx/CSXAIO.dll##Ashe": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/KiriAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/KiriAIO.dll##Brand": {
                     "value": false
                 }
             },
@@ -5454,12 +8173,20 @@
                     "value": false
                 }
             },
+            "plugin##bgx/OpenSeries.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/OpenSeries.dll##Brand": {
+                    "value": false
+                }
+            },
             "plugin##bgx/RTXPOWER.dll": {
                 "IsOpen": {
                     "value": false
                 },
                 "plugin##bgx/RTXPOWER.dll##Ashe": {
-                    "value": false
+                    "value": true
                 },
                 "plugin##bgx/RTXPOWER.dll##LeeSin": {
                     "value": false
@@ -5702,7 +8429,7 @@
                     "value": false
                 },
                 "plugin##bgx/BlackOutActivator.dll": {
-                    "value": false
+                    "value": true
                 }
             },
             "plugin##bgx/FerrisUtilities.dll": {
@@ -5758,7 +8485,7 @@
                     "value": false
                 },
                 "plugin##rtx/L9Utility.dll": {
-                    "value": true
+                    "value": false
                 }
             },
             "plugin##rtx/ZumOkroa.dll": {
@@ -5788,11 +8515,149 @@
         }
     },
     "pluginsLoadAlways": {
+        "champions": {
+            "Ashe": {
+                "bgx/RTXPOWER.dll": true
+            }
+        },
         "global": {
             "bgx/BGXEvade.dll": true,
+            "bgx/BlackOutActivator.dll": true,
             "bgx/Utility.dll": true,
             "bgx/core_plugin.dll": true,
-            "rtx/L9Utility.dll": true
+            "rtx/L9Utility.dll": false
+        }
+    },
+    "rtx_power_Ashe": {
+        "IsOpen": {
+            "value": false
+        },
+        "combo": {
+            "IsOpen": {
+                "value": false
+            },
+            "comboUseE": {
+                "value": true
+            },
+            "comboUseQ": {
+                "value": true
+            },
+            "comboUseR": {
+                "value": true
+            },
+            "comboUseRAoe": {
+                "value": true
+            },
+            "comboUseRMelee": {
+                "value": true
+            }
+        },
+        "drawings": {
+            "Ashe.draw.R": {
+                "value": true
+            },
+            "Ashe.draw.W": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "drawings.only_ready": {
+                "value": false
+            }
+        },
+        "global": {
+            "IsOpen": {
+                "value": false
+            },
+            "spell_farm": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 4,
+                "value": true
+            }
+        },
+        "harass": {
+            "IsOpen": {
+                "value": false
+            },
+            "harassMana": {
+                "value": 50
+            },
+            "harassUseQ": {
+                "value": true
+            },
+            "harassUseW": {
+                "value": true
+            }
+        },
+        "hitchances": {
+            "Ashehitchance.R": {
+                "value": 2
+            },
+            "Ashehitchance.W": {
+                "value": 2
+            },
+            "IsOpen": {
+                "value": false
+            }
+        },
+        "jungleclear": {
+            "IsOpen": {
+                "value": false
+            },
+            "jungleclearMana": {
+                "value": 20
+            },
+            "jungleclearUseE": {
+                "value": true
+            },
+            "jungleclearUseQ": {
+                "value": true
+            }
+        },
+        "laneclear": {
+            "IsOpen": {
+                "value": false
+            },
+            "laneclearEMinion": {
+                "value": 2
+            },
+            "laneclearMana": {
+                "value": 60
+            },
+            "laneclearUseQ": {
+                "value": true
+            },
+            "laneclearUseW": {
+                "value": true
+            },
+            "q_push": {
+                "value": true
+            }
+        },
+        "misc": {
+            "IsOpen": {
+                "value": false
+            },
+            "antigapcloser": {
+                "value": true
+            },
+            "interrupter": {
+                "value": true
+            },
+            "r_semi_auto": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 71,
+                "value": false
+            },
+            "reveal_targets": {
+                "value": true
+            },
+            "wcone": {
+                "value": true
+            }
         }
     },
     "rtx_power_LeeSin": {
@@ -6049,6 +8914,20 @@
             "IsOpen": {
                 "value": false
             },
+            "hero_Anivia": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Anivia": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Anivia": {
+                    "value": 0
+                }
+            },
             "hero_Caitlyn": {
                 "IsOpen": {
                     "value": false
@@ -6060,6 +8939,34 @@
                     "value": 0
                 },
                 "skins.Caitlyn": {
+                    "value": 0
+                }
+            },
+            "hero_Fizz": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Fizz": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Fizz": {
+                    "value": 0
+                }
+            },
+            "hero_Mordekaiser": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Mordekaiser": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Mordekaiser": {
                     "value": 0
                 }
             },
@@ -6088,6 +8995,20 @@
                     "value": 0
                 },
                 "skins.Teemo": {
+                    "value": 0
+                }
+            },
+            "hero_Vayne": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Vayne": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Vayne": {
                     "value": 0
                 }
             },
@@ -6141,6 +9062,34 @@
                     "value": 0
                 }
             },
+            "hero_Brand": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Brand": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Brand": {
+                    "value": 0
+                }
+            },
+            "hero_FiddleSticks": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.FiddleSticks": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.FiddleSticks": {
+                    "value": 0
+                }
+            },
             "hero_Fiora": {
                 "IsOpen": {
                     "value": false
@@ -6152,6 +9101,20 @@
                     "value": 0
                 },
                 "skins.Fiora": {
+                    "value": 0
+                }
+            },
+            "hero_Gragas": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Gragas": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Gragas": {
                     "value": 0
                 }
             },
@@ -6169,6 +9132,20 @@
                     "value": 0
                 }
             },
+            "hero_MonkeyKing": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.MonkeyKing": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.MonkeyKing": {
+                    "value": 0
+                }
+            },
             "hero_PracticeTool_TargetDummy": {
                 "IsOpen": {
                     "value": false
@@ -6180,6 +9157,34 @@
                     "value": 0
                 },
                 "skins.PracticeTool_TargetDummy": {
+                    "value": 0
+                }
+            },
+            "hero_Sett": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Sett": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Sett": {
+                    "value": 0
+                }
+            },
+            "hero_Sivir": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Sivir": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Sivir": {
                     "value": 0
                 }
             },
@@ -6241,6 +9246,20 @@
                     "value": 0
                 },
                 "skins.Ashe": {
+                    "value": 0
+                }
+            },
+            "hero_Brand": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Brand": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Brand": {
                     "value": 0
                 }
             },
@@ -6319,6 +9338,691 @@
                 "thick": {
                     "value": 4
                 }
+            }
+        }
+    },
+    "xSaliceDebugger": {
+        "IsOpen": {
+            "value": false
+        },
+        "Spell Measure": {
+            "Cast Spell": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 57,
+                "value": false
+            },
+            "Delay": {
+                "value": "0"
+            },
+            "End Particle Name": {
+                "value": ""
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "Length": {
+                "value": "0"
+            },
+            "Move to Length": {
+                "IsToggle": false,
+                "MouseWheelBind": false,
+                "key": 56,
+                "value": false
+            },
+            "Radius": {
+                "value": "0"
+            },
+            "Spell Slot": {
+                "value": 0
+            },
+            "Spell Type": {
+                "value": 1
+            },
+            "Use Bounding Radius": {
+                "value": true
+            }
+        },
+        "debugOnBuffGain": {
+            "value": false
+        },
+        "debugOnCreateClientEffect": {
+            "value": false
+        },
+        "debugOnCreateObject": {
+            "value": false
+        },
+        "debugOnNewPath": {
+            "value": false
+        },
+        "debugOnProcessSpellCast": {
+            "value": false
+        },
+        "enableDebugging": {
+            "value": false
+        },
+        "enableEnvDraw": {
+            "IsToggle": true,
+            "MouseWheelBind": false,
+            "key": 9,
+            "value": true
+        }
+    },
+    "xSalicePredictionv11": {
+        "IsOpen": {
+            "value": false
+        },
+        "UseOldPath": {
+            "value": false
+        },
+        "champMenu": {
+            "BrandoverShootTolerance": {
+                "value": 50
+            },
+            "BrandrangeReducer": {
+                "value": 95
+            },
+            "BrandstopDelay": {
+                "value": 1000
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "edgeCastBuffer": {
+                "FiddleSticksExtraBuffer": {
+                    "value": 0
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "PracticeTool_TargetDummyExtraBuffer": {
+                    "value": 0
+                }
+            },
+            "spellDataMenu": {
+                "BrandSpell 0": {
+                    "BrandSpell 0delay": {
+                        "value": "0"
+                    },
+                    "BrandSpell 0doNotOverrideSpeed": {
+                        "value": false
+                    },
+                    "BrandSpell 0dynamicDelayUpdate": {
+                        "value": false
+                    },
+                    "BrandSpell 0key": {
+                        "value": ""
+                    },
+                    "BrandSpell 0radius": {
+                        "value": "0"
+                    },
+                    "BrandSpell 0range": {
+                        "value": "0"
+                    },
+                    "BrandSpell 0save": {
+                        "value": false
+                    },
+                    "BrandSpell 0speed": {
+                        "value": "0"
+                    },
+                    "BrandSpell 0speed_flt_max": {
+                        "value": false
+                    },
+                    "BrandSpell 0spellSlot": {
+                        "value": -1
+                    },
+                    "BrandSpell 0spellType": {
+                        "value": 0
+                    },
+                    "BrandSpell 0usePredictionSpellData": {
+                        "value": false
+                    },
+                    "BrandSpell 0use_bounding_radius": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "BrandSpell 1": {
+                    "BrandSpell 1delay": {
+                        "value": "0"
+                    },
+                    "BrandSpell 1doNotOverrideSpeed": {
+                        "value": false
+                    },
+                    "BrandSpell 1dynamicDelayUpdate": {
+                        "value": false
+                    },
+                    "BrandSpell 1key": {
+                        "value": ""
+                    },
+                    "BrandSpell 1radius": {
+                        "value": "0"
+                    },
+                    "BrandSpell 1range": {
+                        "value": "0"
+                    },
+                    "BrandSpell 1save": {
+                        "value": false
+                    },
+                    "BrandSpell 1speed": {
+                        "value": "0"
+                    },
+                    "BrandSpell 1speed_flt_max": {
+                        "value": false
+                    },
+                    "BrandSpell 1spellSlot": {
+                        "value": -1
+                    },
+                    "BrandSpell 1spellType": {
+                        "value": 0
+                    },
+                    "BrandSpell 1usePredictionSpellData": {
+                        "value": false
+                    },
+                    "BrandSpell 1use_bounding_radius": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "BrandSpell 2": {
+                    "BrandSpell 2delay": {
+                        "value": "0"
+                    },
+                    "BrandSpell 2doNotOverrideSpeed": {
+                        "value": false
+                    },
+                    "BrandSpell 2dynamicDelayUpdate": {
+                        "value": false
+                    },
+                    "BrandSpell 2key": {
+                        "value": ""
+                    },
+                    "BrandSpell 2radius": {
+                        "value": "0"
+                    },
+                    "BrandSpell 2range": {
+                        "value": "0"
+                    },
+                    "BrandSpell 2save": {
+                        "value": false
+                    },
+                    "BrandSpell 2speed": {
+                        "value": "0"
+                    },
+                    "BrandSpell 2speed_flt_max": {
+                        "value": false
+                    },
+                    "BrandSpell 2spellSlot": {
+                        "value": -1
+                    },
+                    "BrandSpell 2spellType": {
+                        "value": 0
+                    },
+                    "BrandSpell 2usePredictionSpellData": {
+                        "value": false
+                    },
+                    "BrandSpell 2use_bounding_radius": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "BrandSpell 3": {
+                    "BrandSpell 3delay": {
+                        "value": "0"
+                    },
+                    "BrandSpell 3doNotOverrideSpeed": {
+                        "value": false
+                    },
+                    "BrandSpell 3dynamicDelayUpdate": {
+                        "value": false
+                    },
+                    "BrandSpell 3key": {
+                        "value": ""
+                    },
+                    "BrandSpell 3radius": {
+                        "value": "0"
+                    },
+                    "BrandSpell 3range": {
+                        "value": "0"
+                    },
+                    "BrandSpell 3save": {
+                        "value": false
+                    },
+                    "BrandSpell 3speed": {
+                        "value": "0"
+                    },
+                    "BrandSpell 3speed_flt_max": {
+                        "value": false
+                    },
+                    "BrandSpell 3spellSlot": {
+                        "value": -1
+                    },
+                    "BrandSpell 3spellType": {
+                        "value": 0
+                    },
+                    "BrandSpell 3usePredictionSpellData": {
+                        "value": false
+                    },
+                    "BrandSpell 3use_bounding_radius": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "BrandSpell 4": {
+                    "BrandSpell 4delay": {
+                        "value": "0"
+                    },
+                    "BrandSpell 4doNotOverrideSpeed": {
+                        "value": false
+                    },
+                    "BrandSpell 4dynamicDelayUpdate": {
+                        "value": false
+                    },
+                    "BrandSpell 4key": {
+                        "value": ""
+                    },
+                    "BrandSpell 4radius": {
+                        "value": "0"
+                    },
+                    "BrandSpell 4range": {
+                        "value": "0"
+                    },
+                    "BrandSpell 4save": {
+                        "value": false
+                    },
+                    "BrandSpell 4speed": {
+                        "value": "0"
+                    },
+                    "BrandSpell 4speed_flt_max": {
+                        "value": false
+                    },
+                    "BrandSpell 4spellSlot": {
+                        "value": -1
+                    },
+                    "BrandSpell 4spellType": {
+                        "value": 0
+                    },
+                    "BrandSpell 4usePredictionSpellData": {
+                        "value": false
+                    },
+                    "BrandSpell 4use_bounding_radius": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "BrandSpell 5": {
+                    "BrandSpell 5delay": {
+                        "value": "0"
+                    },
+                    "BrandSpell 5doNotOverrideSpeed": {
+                        "value": false
+                    },
+                    "BrandSpell 5dynamicDelayUpdate": {
+                        "value": false
+                    },
+                    "BrandSpell 5key": {
+                        "value": ""
+                    },
+                    "BrandSpell 5radius": {
+                        "value": "0"
+                    },
+                    "BrandSpell 5range": {
+                        "value": "0"
+                    },
+                    "BrandSpell 5save": {
+                        "value": false
+                    },
+                    "BrandSpell 5speed": {
+                        "value": "0"
+                    },
+                    "BrandSpell 5speed_flt_max": {
+                        "value": false
+                    },
+                    "BrandSpell 5spellSlot": {
+                        "value": -1
+                    },
+                    "BrandSpell 5spellType": {
+                        "value": 0
+                    },
+                    "BrandSpell 5usePredictionSpellData": {
+                        "value": false
+                    },
+                    "BrandSpell 5use_bounding_radius": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "BrandSpell 6": {
+                    "BrandSpell 6delay": {
+                        "value": "0"
+                    },
+                    "BrandSpell 6doNotOverrideSpeed": {
+                        "value": false
+                    },
+                    "BrandSpell 6dynamicDelayUpdate": {
+                        "value": false
+                    },
+                    "BrandSpell 6key": {
+                        "value": ""
+                    },
+                    "BrandSpell 6radius": {
+                        "value": "0"
+                    },
+                    "BrandSpell 6range": {
+                        "value": "0"
+                    },
+                    "BrandSpell 6save": {
+                        "value": false
+                    },
+                    "BrandSpell 6speed": {
+                        "value": "0"
+                    },
+                    "BrandSpell 6speed_flt_max": {
+                        "value": false
+                    },
+                    "BrandSpell 6spellSlot": {
+                        "value": -1
+                    },
+                    "BrandSpell 6spellType": {
+                        "value": 0
+                    },
+                    "BrandSpell 6usePredictionSpellData": {
+                        "value": false
+                    },
+                    "BrandSpell 6use_bounding_radius": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "BrandSpell 7": {
+                    "BrandSpell 7delay": {
+                        "value": "0"
+                    },
+                    "BrandSpell 7doNotOverrideSpeed": {
+                        "value": false
+                    },
+                    "BrandSpell 7dynamicDelayUpdate": {
+                        "value": false
+                    },
+                    "BrandSpell 7key": {
+                        "value": ""
+                    },
+                    "BrandSpell 7radius": {
+                        "value": "0"
+                    },
+                    "BrandSpell 7range": {
+                        "value": "0"
+                    },
+                    "BrandSpell 7save": {
+                        "value": false
+                    },
+                    "BrandSpell 7speed": {
+                        "value": "0"
+                    },
+                    "BrandSpell 7speed_flt_max": {
+                        "value": false
+                    },
+                    "BrandSpell 7spellSlot": {
+                        "value": -1
+                    },
+                    "BrandSpell 7spellType": {
+                        "value": 0
+                    },
+                    "BrandSpell 7usePredictionSpellData": {
+                        "value": false
+                    },
+                    "BrandSpell 7use_bounding_radius": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "BrandSpell 8": {
+                    "BrandSpell 8delay": {
+                        "value": "0"
+                    },
+                    "BrandSpell 8doNotOverrideSpeed": {
+                        "value": false
+                    },
+                    "BrandSpell 8dynamicDelayUpdate": {
+                        "value": false
+                    },
+                    "BrandSpell 8key": {
+                        "value": ""
+                    },
+                    "BrandSpell 8radius": {
+                        "value": "0"
+                    },
+                    "BrandSpell 8range": {
+                        "value": "0"
+                    },
+                    "BrandSpell 8save": {
+                        "value": false
+                    },
+                    "BrandSpell 8speed": {
+                        "value": "0"
+                    },
+                    "BrandSpell 8speed_flt_max": {
+                        "value": false
+                    },
+                    "BrandSpell 8spellSlot": {
+                        "value": -1
+                    },
+                    "BrandSpell 8spellType": {
+                        "value": 0
+                    },
+                    "BrandSpell 8usePredictionSpellData": {
+                        "value": false
+                    },
+                    "BrandSpell 8use_bounding_radius": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "BrandSpell 9": {
+                    "BrandSpell 9delay": {
+                        "value": "0"
+                    },
+                    "BrandSpell 9doNotOverrideSpeed": {
+                        "value": false
+                    },
+                    "BrandSpell 9dynamicDelayUpdate": {
+                        "value": false
+                    },
+                    "BrandSpell 9key": {
+                        "value": ""
+                    },
+                    "BrandSpell 9radius": {
+                        "value": "0"
+                    },
+                    "BrandSpell 9range": {
+                        "value": "0"
+                    },
+                    "BrandSpell 9save": {
+                        "value": false
+                    },
+                    "BrandSpell 9speed": {
+                        "value": "0"
+                    },
+                    "BrandSpell 9speed_flt_max": {
+                        "value": false
+                    },
+                    "BrandSpell 9spellSlot": {
+                        "value": -1
+                    },
+                    "BrandSpell 9spellType": {
+                        "value": 0
+                    },
+                    "BrandSpell 9usePredictionSpellData": {
+                        "value": false
+                    },
+                    "BrandSpell 9use_bounding_radius": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                },
+                "Brandenable": {
+                    "value": false
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "spellKeys": {
+                    "Brandkey_delay": {
+                        "value": true
+                    },
+                    "Brandkey_radius": {
+                        "value": true
+                    },
+                    "Brandkey_slot": {
+                        "value": true
+                    },
+                    "Brandkey_speed": {
+                        "value": true
+                    },
+                    "Brandkey_type": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "debugMenu": {
+            "IsOpen": {
+                "value": false
+            },
+            "colors": {
+                "IsOpen": {
+                    "value": false
+                },
+                "backgroundColor": {
+                    "color": 1073741824
+                },
+                "borderColor": {
+                    "color": 4294967295
+                },
+                "fontColor": {
+                    "color": 4294967295
+                },
+                "titleColor": {
+                    "color": 4294967295
+                }
+            },
+            "enableAdvanceDebug": {
+                "value": false
+            },
+            "enableDebug": {
+                "value": true
+            },
+            "xAxis": {
+                "value": 600
+            },
+            "yAxis": {
+                "value": 100
+            }
+        },
+        "misc": {
+            "IsOpen": {
+                "value": false
+            },
+            "newPath": {
+                "value": true
+            },
+            "pathSpamHeuristic": {
+                "value": false
+            },
+            "sideToSide": {
+                "value": true
+            },
+            "wallCheckLength": {
+                "value": 225
+            },
+            "wallChecks3": {
+                "value": true
+            }
+        },
+        "predictionChecks": {
+            "AOEChecks": {
+                "value": true
+            },
+            "IsOpen": {
+                "value": false
+            },
+            "blinkPrediction": {
+                "value": true
+            },
+            "checkCC": {
+                "value": true
+            },
+            "checkOnDash": {
+                "value": true
+            },
+            "collisionBuffer": {
+                "value": 15
+            },
+            "onSpellCast": {
+                "IsOpen": {
+                    "value": false
+                },
+                "enabled": {
+                    "value": true
+                },
+                "reactionTime": {
+                    "value": 0
+                }
+            },
+            "pathAnalyzer": {
+                "value": true
+            },
+            "useLastPath": {
+                "value": false
+            }
+        },
+        "testSpellMenu": {
+            "IsOpen": {
+                "value": false
+            },
+            "delay": {
+                "value": 0
+            },
+            "hitchanceSelector": {
+                "value": 5
+            },
+            "radius": {
+                "value": 0
+            },
+            "range": {
+                "value": 0
+            },
+            "shotDelay": {
+                "value": 1000
+            },
+            "speed": {
+                "value": 0
+            },
+            "spellType": {
+                "value": 0
             }
         }
     }
