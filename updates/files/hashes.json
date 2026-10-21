@@ -1608,6 +1608,11 @@
       "sha256": "017ccb36d8b9801b1ef496c0d320defbd412ffec819a832bccdf6194420bbe2d"
     },
     {
+      "path": "plugins/local/SurrenderAtFifteen.dll",
+      "size": 1233920,
+      "sha256": "3b47204974d70647a91206b062b86f2aa2e3b7871c3d3701b1dd58776cdf1e80"
+    },
+    {
       "path": "plugins/plugins.json",
       "size": 43525,
       "sha256": "531878acb61b6d4552247827664ba224fff43cd913b7c0fd72180d88e08debe1"
