@@ -21755,7 +21755,7 @@
         "MouseWheelBind": false,
         "PermaShowValue": false,
         "key": 16,
-        "value": true
+        "value": false
       },
       "MenuStyle": {
         "PermaShowValue": false,
@@ -35022,6 +35022,9 @@
     "M S Standard": {
       "load": false
     },
+    "Momo AIO": {
+      "load": false
+    },
     "NS": {
       "load": false
     },
@@ -35041,6 +35044,9 @@
       "load": false
     },
     "R-AIO": {
+      "load": false
+    },
+    "RU(SA)_AIO": {
       "load": false
     },
     "Ragnarok": {
@@ -77351,11 +77357,19 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListMilio": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListPracticeTool_TargetDummy": {
           "PermaShowValue": false,
           "value": true
         },
         "champListSett": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListSmolder": {
           "PermaShowValue": false,
           "value": true
         },
@@ -77779,7 +77793,7 @@
       "blockR1ComboKS": {
         "IsToggle": true,
         "MouseWheelBind": false,
-        "PermaShowValue": false,
+        "PermaShowValue": true,
         "key": 56,
         "value": false
       },
@@ -77793,7 +77807,7 @@
       "burstCombo2": {
         "IsToggle": false,
         "MouseWheelBind": false,
-        "PermaShowValue": false,
+        "PermaShowValue": true,
         "key": 84,
         "value": false
       }
@@ -80837,6 +80851,10 @@
         "PermaShowValue": false,
         "value": 4
       },
+      "Milio": {
+        "PermaShowValue": false,
+        "value": 1
+      },
       "PracticeTool_TargetDummy": {
         "PermaShowValue": false,
         "value": 1
@@ -80848,6 +80866,10 @@
       "Sett": {
         "PermaShowValue": false,
         "value": 2
+      },
+      "Smolder": {
+        "PermaShowValue": false,
+        "value": 1
       },
       "Trundle": {
         "PermaShowValue": false,
@@ -99405,6 +99427,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "FiddleSticks": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "Fiora": {
             "PermaShowValue": false,
             "value": true
@@ -99481,6 +99507,10 @@
             "value": true
           },
           "Karma": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "Karthus": {
             "PermaShowValue": false,
             "value": true
           },
@@ -100134,6 +100164,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Milio": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "MissFortune": {
             "PermaShowValue": false,
             "value": true
@@ -100351,7 +100385,7 @@
         "enabled": {
           "IsToggle": true,
           "MouseWheelBind": false,
-          "PermaShowValue": true,
+          "PermaShowValue": false,
           "key": 78,
           "value": true
         },
@@ -109856,6 +109890,53 @@
           "dangerLevel": {
             "PermaShowValue": false,
             "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        }
+      },
+      "MilioSpellMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "MilioMilioQ": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "isDrawingEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isFoWEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "MilioMilioQExplosion": {
+          "IsOpen": {
+            "value": false
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 1
           },
           "isDrawingEnabled": {
             "PermaShowValue": false,
@@ -119561,6 +119642,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistFiddleSticks": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistGalio": {
             "PermaShowValue": false,
             "value": true
@@ -119578,6 +119663,10 @@
             "value": true
           },
           "wWhitelistJhin": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistKarthus": {
             "PermaShowValue": false,
             "value": true
           },
@@ -119621,11 +119710,19 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistSett": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistSona": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistTwitch": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistVarus": {
             "PermaShowValue": false,
             "value": true
           },
@@ -119707,6 +119804,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistFiddleSticks": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistGalio": {
             "PermaShowValue": false,
             "value": true
@@ -119724,6 +119825,10 @@
             "value": true
           },
           "wWhitelistJhin": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistKarthus": {
             "PermaShowValue": false,
             "value": true
           },
@@ -119767,11 +119872,19 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistSett": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistSona": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistTwitch": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistVarus": {
             "PermaShowValue": false,
             "value": true
           },
@@ -119845,6 +119958,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistFiddleSticks": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistGalio": {
             "PermaShowValue": false,
             "value": true
@@ -119862,6 +119979,10 @@
             "value": true
           },
           "wWhitelistJhin": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistKarthus": {
             "PermaShowValue": false,
             "value": true
           },
@@ -119905,11 +120026,19 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistSett": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistSona": {
             "PermaShowValue": false,
             "value": true
           },
           "wWhitelistTwitch": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistVarus": {
             "PermaShowValue": false,
             "value": true
           },
@@ -120078,6 +120207,10 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListMilio": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListNasus": {
           "PermaShowValue": false,
           "value": true
@@ -120107,6 +120240,10 @@
           "value": true
         },
         "champListTrundle": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListTryndamere": {
           "PermaShowValue": false,
           "value": true
         },
@@ -120226,6 +120363,10 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListPathMilio": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListPathNasus": {
           "PermaShowValue": false,
           "value": true
@@ -120255,6 +120396,10 @@
           "value": true
         },
         "champListPathTrundle": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathTryndamere": {
           "PermaShowValue": false,
           "value": true
         },
@@ -120727,11 +120872,19 @@
           "PermaShowValue": false,
           "value": false
         },
+        "allyChampListFiddleSticks": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "allyChampListGalio": {
           "PermaShowValue": false,
           "value": false
         },
         "allyChampListGraves": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "allyChampListKarthus": {
           "PermaShowValue": false,
           "value": false
         },
@@ -120767,11 +120920,19 @@
           "PermaShowValue": false,
           "value": false
         },
+        "allyChampListSett": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "allyChampListSona": {
           "PermaShowValue": false,
           "value": false
         },
         "allyChampListTwitch": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "allyChampListVarus": {
           "PermaShowValue": false,
           "value": false
         },
@@ -120851,6 +121012,10 @@
           "PermaShowValue": false,
           "value": false
         },
+        "enemyChampListMilio": {
+          "PermaShowValue": false,
+          "value": false
+        },
         "enemyChampListNasus": {
           "PermaShowValue": false,
           "value": false
@@ -120880,6 +121045,10 @@
           "value": false
         },
         "enemyChampListTrundle": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListTryndamere": {
           "PermaShowValue": false,
           "value": false
         },
@@ -121561,6 +121730,10 @@
         "PermaShowValue": false,
         "value": 0
       },
+      "allySkin_FiddleSticks": {
+        "PermaShowValue": false,
+        "value": 0
+      },
       "allySkin_Fiora": {
         "PermaShowValue": false,
         "value": 0
@@ -121578,6 +121751,10 @@
         "value": 0
       },
       "allySkin_Kaisa": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "allySkin_Karthus": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -121670,6 +121847,10 @@
         "value": 0
       },
       "allySkin_Twitch": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "allySkin_Varus": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -121855,6 +122036,10 @@
         "value": 0
       },
       "enemySkin_MasterYi": {
+        "PermaShowValue": false,
+        "value": 0
+      },
+      "enemySkin_Milio": {
         "PermaShowValue": false,
         "value": 0
       },
@@ -122048,7 +122233,7 @@
     },
     "skinList": {
       "PermaShowValue": false,
-      "value": 0
+      "value": 26
     },
     "switchDown": {
       "IsToggle": true,

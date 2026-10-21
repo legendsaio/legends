@@ -279,6 +279,89 @@
                     }
                 }
             },
+            "Anivia": {
+                "E AniviaR": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "E AniviaR2": {
+                    "DangerLevel": {
+                        "value": 1
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "Q FlashFrostSpell": {
+                    "DangerLevel": {
+                        "value": 4
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
             "Brand": {
                 "IsOpen": {
                     "value": false
@@ -324,6 +407,172 @@
                     },
                     "Is Danger": {
                         "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Cassiopeia": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q CassiopeiaQ": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R CassiopeiaR": {
+                    "DangerLevel": {
+                        "value": 5
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Ekko": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q EkkoQ": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "Q EkkoQReturn": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R Ekko_R": {
+                    "DangerLevel": {
+                        "value": 4
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W EkkoW": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
                     },
                     "IsOpen": {
                         "value": false
@@ -567,6 +816,63 @@
                     }
                 }
             },
+            "Lulu": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q LuluQ": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "Q LuluQPix": {
+                    "DangerLevel": {
+                        "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
             "MonkeyKing": {
                 "IsOpen": {
                     "value": false
@@ -688,6 +994,115 @@
                 "Q SivirQReturn": {
                     "DangerLevel": {
                         "value": 2
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": false
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
+            "Swain": {
+                "E SwainE": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "E SwainEReturn": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "IsOpen": {
+                    "value": false
+                },
+                "Q SwainQ": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "W SwasinW": {
+                    "DangerLevel": {
+                        "value": 1
                     },
                     "Draw": {
                         "value": true
@@ -1475,7 +1890,7 @@
                 "IsToggle": true,
                 "MouseWheelBind": false,
                 "key": 16,
-                "value": true
+                "value": false
             },
             "MenuStyleRTX": {
                 "value": 0
@@ -2199,6 +2614,29 @@
             "blackoutActivatorcoreLoadMessage": {
                 "value": true
             },
+            "blackoutActivatorghostIndicatorTab": {
+                "IsOpen": {
+                    "value": false
+                },
+                "blackoutActivatordrawGhostColorPickerDisabled": {
+                    "color": 3860398335
+                },
+                "blackoutActivatordrawGhostColorPickerEnabled": {
+                    "color": 3875536895
+                },
+                "blackoutActivatordrawGhostFontPickSize": {
+                    "value": 18
+                },
+                "blackoutActivatordrawGhostIndicatorCheckBox": {
+                    "value": true
+                },
+                "blackoutActivatordrawGhostStatusX": {
+                    "value": 5
+                },
+                "blackoutActivatordrawGhostStatusY": {
+                    "value": 65
+                }
+            },
             "blackoutActivatorthreshLanternDrawingsTab": {
                 "IsOpen": {
                     "value": false
@@ -2513,6 +2951,20 @@
                     }
                 },
                 "blackoutActivatormikaelsSpellDatabaseWhitelist": {
+                    "AniviaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPAniviaQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesAniviaQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.AniviaQ": {
+                            "value": true
+                        }
+                    },
                     "BrandCC_DB": {
                         "IsOpen": {
                             "value": false
@@ -2524,6 +2976,34 @@
                             "value": 1
                         },
                         "blackoutActivatorqssEnabled.BrandQ Stun": {
+                            "value": true
+                        }
+                    },
+                    "CassiopeiaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPCassiopeiaR": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesCassiopeiaR": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.CassiopeiaR": {
+                            "value": true
+                        }
+                    },
+                    "EkkoCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPEkkoW": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesEkkoW": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.EkkoW": {
                             "value": true
                         }
                     },
@@ -2562,6 +3042,20 @@
                     "IsOpen": {
                         "value": false
                     },
+                    "LuluCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPLuluW (Polymorph)": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesLuluW (Polymorph)": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssEnabled.LuluW (Polymorph)": {
+                            "value": true
+                        }
+                    },
                     "SettCC_DB": {
                         "IsOpen": {
                             "value": false
@@ -2573,6 +3067,20 @@
                             "value": 1
                         },
                         "blackoutActivatorqssEnabled.SettE": {
+                            "value": true
+                        }
+                    },
+                    "SwainCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPSwainE Root": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesSwainE Root": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.SwainE Root": {
                             "value": true
                         }
                     }
@@ -2825,6 +3333,23 @@
                     }
                 },
                 "blackoutActivatorqssSpellDatabaseWhitelist": {
+                    "AniviaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPAniviaQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayAniviaQ": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesAniviaQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.AniviaQ": {
+                            "value": true
+                        }
+                    },
                     "BrandCC_DB": {
                         "IsOpen": {
                             "value": false
@@ -2839,6 +3364,40 @@
                             "value": 1
                         },
                         "blackoutActivatorqssEnabled.BrandQ Stun": {
+                            "value": true
+                        }
+                    },
+                    "CassiopeiaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPCassiopeiaR": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayCassiopeiaR": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesCassiopeiaR": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.CassiopeiaR": {
+                            "value": true
+                        }
+                    },
+                    "EkkoCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPEkkoW": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayEkkoW": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesEkkoW": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.EkkoW": {
                             "value": true
                         }
                     },
@@ -2886,6 +3445,23 @@
                     "IsOpen": {
                         "value": false
                     },
+                    "LuluCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPLuluW (Polymorph)": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelayLuluW (Polymorph)": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesLuluW (Polymorph)": {
+                            "value": 2
+                        },
+                        "blackoutActivatorqssEnabled.LuluW (Polymorph)": {
+                            "value": true
+                        }
+                    },
                     "SettCC_DB": {
                         "IsOpen": {
                             "value": false
@@ -2900,6 +3476,23 @@
                             "value": 1
                         },
                         "blackoutActivatorqssEnabled.SettE": {
+                            "value": true
+                        }
+                    },
+                    "SwainCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemBelowXHPSwainE Root": {
+                            "value": 100
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemTurnOffDelaySwainE Root": {
+                            "value": false
+                        },
+                        "blackoutActivatorqssDangerousLevelSystemXEnemiesSwainE Root": {
+                            "value": 1
+                        },
+                        "blackoutActivatorqssEnabled.SwainE Root": {
                             "value": true
                         }
                     }
@@ -3042,6 +3635,20 @@
                     "value": 45
                 },
                 "blackoutActivatoruse_stopwatch_spell_database_stuns": {
+                    "AniviaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPAniviaQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesAniviaQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorstopwatchEnabled.AniviaQ": {
+                            "value": true
+                        }
+                    },
                     "BrandCC_DB": {
                         "IsOpen": {
                             "value": false
@@ -3053,6 +3660,34 @@
                             "value": 1
                         },
                         "blackoutActivatorstopwatchEnabled.BrandQ Stun": {
+                            "value": true
+                        }
+                    },
+                    "CassiopeiaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPCassiopeiaR": {
+                            "value": 100
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesCassiopeiaR": {
+                            "value": 1
+                        },
+                        "blackoutActivatorstopwatchEnabled.CassiopeiaR": {
+                            "value": true
+                        }
+                    },
+                    "EkkoCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPEkkoW": {
+                            "value": 100
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesEkkoW": {
+                            "value": 1
+                        },
+                        "blackoutActivatorstopwatchEnabled.EkkoW": {
                             "value": true
                         }
                     },
@@ -3091,6 +3726,20 @@
                     "IsOpen": {
                         "value": false
                     },
+                    "LuluCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPLuluW (Polymorph)": {
+                            "value": 100
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesLuluW (Polymorph)": {
+                            "value": 2
+                        },
+                        "blackoutActivatorstopwatchEnabled.LuluW (Polymorph)": {
+                            "value": true
+                        }
+                    },
                     "SettCC_DB": {
                         "IsOpen": {
                             "value": false
@@ -3102,6 +3751,20 @@
                             "value": 1
                         },
                         "blackoutActivatorstopwatchEnabled.SettE": {
+                            "value": true
+                        }
+                    },
+                    "SwainCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemBelowXHPSwainE Root": {
+                            "value": 100
+                        },
+                        "blackoutActivatorstopwatchDangerousLevelSystemXEnemiesSwainE Root": {
+                            "value": 1
+                        },
+                        "blackoutActivatorstopwatchEnabled.SwainE Root": {
                             "value": true
                         }
                     }
@@ -3119,6 +3782,20 @@
                     "value": 45
                 },
                 "blackoutActivatoruse_zhonya_spell_database_stuns": {
+                    "AniviaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPAniviaQ": {
+                            "value": 100
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesAniviaQ": {
+                            "value": 1
+                        },
+                        "blackoutActivatorzhonyaEnabled.AniviaQ": {
+                            "value": true
+                        }
+                    },
                     "BrandCC_DB": {
                         "IsOpen": {
                             "value": false
@@ -3130,6 +3807,34 @@
                             "value": 1
                         },
                         "blackoutActivatorzhonyaEnabled.BrandQ Stun": {
+                            "value": true
+                        }
+                    },
+                    "CassiopeiaCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPCassiopeiaR": {
+                            "value": 100
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesCassiopeiaR": {
+                            "value": 1
+                        },
+                        "blackoutActivatorzhonyaEnabled.CassiopeiaR": {
+                            "value": true
+                        }
+                    },
+                    "EkkoCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPEkkoW": {
+                            "value": 100
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesEkkoW": {
+                            "value": 1
+                        },
+                        "blackoutActivatorzhonyaEnabled.EkkoW": {
                             "value": true
                         }
                     },
@@ -3168,6 +3873,20 @@
                     "IsOpen": {
                         "value": false
                     },
+                    "LuluCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPLuluW (Polymorph)": {
+                            "value": 100
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesLuluW (Polymorph)": {
+                            "value": 2
+                        },
+                        "blackoutActivatorzhonyaEnabled.LuluW (Polymorph)": {
+                            "value": true
+                        }
+                    },
                     "SettCC_DB": {
                         "IsOpen": {
                             "value": false
@@ -3179,6 +3898,20 @@
                             "value": 1
                         },
                         "blackoutActivatorzhonyaEnabled.SettE": {
+                            "value": true
+                        }
+                    },
+                    "SwainCC_DB": {
+                        "IsOpen": {
+                            "value": false
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemBelowXHPSwainE Root": {
+                            "value": 100
+                        },
+                        "blackoutActivatorzhonyaDangerousLevelSystemXEnemiesSwainE Root": {
+                            "value": 1
+                        },
+                        "blackoutActivatorzhonyaEnabled.SwainE Root": {
                             "value": true
                         }
                     }
@@ -3440,6 +4173,43 @@
                 "blackoutActivatoryoumuusItemState": {
                     "value": true
                 }
+            }
+        },
+        "blackoutActivatorsummonerGhost": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatorsummonerGhostChaseUsage": {
+                "value": true
+            },
+            "blackoutActivatorsummonerGhostChaseUsageCursorDistance": {
+                "value": 200
+            },
+            "blackoutActivatorsummonerGhostChaseUsageDistanceToEnemy": {
+                "value": 600
+            },
+            "blackoutActivatorsummonerGhostChaseUsageHPSlider": {
+                "value": 40
+            },
+            "blackoutActivatorsummonerGhostCheckbox": {
+                "value": true
+            },
+            "blackoutActivatorsummonerGhostFleeModeUsage": {
+                "value": false
+            },
+            "blackoutActivatorsummonerGhostFleeUsageHPSlider": {
+                "value": 35
+            },
+            "blackoutActivatorsummonerGhostWhitelistTab": {
+                "IsOpen": {
+                    "value": false
+                }
+            },
+            "summonerGhostUnderTowerHotkey": {
+                "IsToggle": true,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": true
             }
         },
         "blackoutActivatorsummonerHeal": {
@@ -3789,7 +4559,16 @@
                 }
             },
             "blackoutActivatorpingEnemyUltimateBlacklistTab": {
+                "Anivia": {
+                    "value": false
+                },
                 "Brand": {
+                    "value": false
+                },
+                "Cassiopeia": {
+                    "value": false
+                },
+                "Ekko": {
                     "value": false
                 },
                 "FiddleSticks": {
@@ -3799,6 +4578,9 @@
                     "value": false
                 },
                 "IsOpen": {
+                    "value": false
+                },
+                "Lulu": {
                     "value": false
                 },
                 "MonkeyKing": {
@@ -3811,6 +4593,9 @@
                     "value": false
                 },
                 "Sivir": {
+                    "value": false
+                },
+                "Swain": {
                     "value": false
                 }
             },
@@ -8956,6 +9741,48 @@
                     "value": 0
                 }
             },
+            "hero_Garen": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Garen": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Garen": {
+                    "value": 0
+                }
+            },
+            "hero_Kennen": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Kennen": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Kennen": {
+                    "value": 0
+                }
+            },
+            "hero_Lux": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Lux": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Lux": {
+                    "value": 0
+                }
+            },
             "hero_Mordekaiser": {
                 "IsOpen": {
                     "value": false
@@ -8967,6 +9794,20 @@
                     "value": 0
                 },
                 "skins.Mordekaiser": {
+                    "value": 0
+                }
+            },
+            "hero_Poppy": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Poppy": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Poppy": {
                     "value": 0
                 }
             },
@@ -9062,6 +9903,20 @@
                     "value": 0
                 }
             },
+            "hero_Anivia": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Anivia": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Anivia": {
+                    "value": 0
+                }
+            },
             "hero_Brand": {
                 "IsOpen": {
                     "value": false
@@ -9073,6 +9928,34 @@
                     "value": 0
                 },
                 "skins.Brand": {
+                    "value": 0
+                }
+            },
+            "hero_Cassiopeia": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Cassiopeia": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Cassiopeia": {
+                    "value": 0
+                }
+            },
+            "hero_Ekko": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Ekko": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Ekko": {
                     "value": 0
                 }
             },
@@ -9132,6 +10015,20 @@
                     "value": 0
                 }
             },
+            "hero_Lulu": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Lulu": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Lulu": {
+                    "value": 0
+                }
+            },
             "hero_MonkeyKing": {
                 "IsOpen": {
                     "value": false
@@ -9185,6 +10082,20 @@
                     "value": 0
                 },
                 "skins.Sivir": {
+                    "value": 0
+                }
+            },
+            "hero_Swain": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Swain": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Swain": {
                     "value": 0
                 }
             },
