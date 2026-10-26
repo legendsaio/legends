@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "riot-load-auth-20261027",
-  "key_id": "riot-load-auth-20261027",
+  "version": "loader-config-preserve-20261027",
+  "key_id": "loader-config-preserve-20261027",
   "auth_protocol": 2,
-  "release_sequence": 1793043353,
-  "issued_at": 1793043353,
-  "expires_at": 1795635353,
-  "generated_at": "2026-10-26T19:35:53.6775850Z",
+  "release_sequence": 1793044386,
+  "issued_at": 1793044386,
+  "expires_at": 1795636386,
+  "generated_at": "2026-10-26T19:53:06.6024442Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "runtime_files": {
     "url": "files/hashes.json",
@@ -252,10 +252,14 @@
     {
       "path": "loader.exe",
       "url": "loader.exe",
-      "sha256": "afdfee78ef21b6e1fe27c138cc48563a32d434ddc1d1d9a10dc93e0f543cb67b",
-      "size": 5325312,
-      "component_version": "16.21.829.8620.02",
+      "sha256": "51181a81459c64b25ca60c33128f45b2ee7835cadc7f47fd93a6a7e87e04a0a1",
+      "size": 5330432,
+      "component_version": "16.21.829.8620.03",
       "version_history": [
+        {
+          "version": "16.21.829.8620.03",
+          "sha256": "51181a81459c64b25ca60c33128f45b2ee7835cadc7f47fd93a6a7e87e04a0a1"
+        },
         {
           "version": "16.21.829.8620.02",
           "sha256": "afdfee78ef21b6e1fe27c138cc48563a32d434ddc1d1d9a10dc93e0f543cb67b"
