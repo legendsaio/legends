@@ -15,5 +15,13 @@
         "16.21.829.8620"
       ]
     }
+  },
+  "upcoming_artifacts": {
+    "myapp.hanbot.dll": {
+      "status": "coming_soon",
+      "versions": [
+        "16.21.829.8620"
+      ]
+    }
   }
 }

@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "loader-config-preserve-20261027",
-  "key_id": "loader-config-preserve-20261027",
+  "version": "loader-hanbot-preview-20261027",
+  "key_id": "loader-hanbot-preview-20261027",
   "auth_protocol": 2,
-  "release_sequence": 1793044386,
-  "issued_at": 1793044386,
-  "expires_at": 1795636386,
-  "generated_at": "2026-10-26T19:53:06.6024442Z",
+  "release_sequence": 1793047460,
+  "issued_at": 1793047460,
+  "expires_at": 1795639460,
+  "generated_at": "2026-10-26T20:44:20.8205213Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "runtime_files": {
     "url": "files/hashes.json",
@@ -252,10 +252,14 @@
     {
       "path": "loader.exe",
       "url": "loader.exe",
-      "sha256": "51181a81459c64b25ca60c33128f45b2ee7835cadc7f47fd93a6a7e87e04a0a1",
-      "size": 5330432,
-      "component_version": "16.21.829.8620.03",
+      "sha256": "d5a0bd4e17b2ac9c25b07bba3eddef53136ef9a2223d31b08ca1c1c28abdbb33",
+      "size": 5336576,
+      "component_version": "16.21.829.8620.04",
       "version_history": [
+        {
+          "version": "16.21.829.8620.04",
+          "sha256": "d5a0bd4e17b2ac9c25b07bba3eddef53136ef9a2223d31b08ca1c1c28abdbb33"
+        },
         {
           "version": "16.21.829.8620.03",
           "sha256": "51181a81459c64b25ca60c33128f45b2ee7835cadc7f47fd93a6a7e87e04a0a1"
@@ -353,7 +357,7 @@
   ],
   "game_support": {
     "url": "supported_versions.json",
-    "size": 442,
-    "sha256": "1940494ECC2115B2C7A841C99236927F016C675C9C0A154D36E322D89633C8B4"
+    "size": 589,
+    "sha256": "D38FF534CAD6824660EEA9414844B0F264532403CF58A83C87910C18EE146CC5"
   }
 }
