@@ -3,111 +3,6 @@
   "product": "legendsaio-runtime-files",
   "files": [
     {
-      "path": "Config/LSClientIdentity.ini",
-      "size": 131,
-      "sha256": "c1d1db4fcb0d4377d24284a2051cec990160f0a2037635f2e175fb6422e8f480"
-    },
-    {
-      "path": "Config/Language.json",
-      "size": 341788,
-      "sha256": "6d8c4477c6047975436690b474e7b8dd66bc030dab57cdacd4a64e252a32584f"
-    },
-    {
-      "path": "Config/Language.json.h",
-      "size": 1854459,
-      "sha256": "9e9487197c5ea930261aa7456c51e682913836b9deb35f4c0355974f5ecebc6c"
-    },
-    {
-      "path": "Config/MenuComponent.json",
-      "size": 2670970,
-      "sha256": "88d6af8f38f4287bbcebb7c97d036a7d78f7e6fa7d9fc3cfe25cb5be8fed1080"
-    },
-    {
-      "path": "Config/commonex/MenuConfigCommon/SharedConfig.bin",
-      "size": 920,
-      "sha256": "eacb0c731b6ba731a7d4167b823b01955cedd69bcc2e156f0c9f3d5305558c89"
-    },
-    {
-      "path": "Config/commonex/MenuConfigCommon/myapp.pv.CommonEx.bin",
-      "size": 1135,
-      "sha256": "fd6919891cf85319b05bf0f57ad6b298cd9667ddf1c3c8f2b08f4cdd9e24b5a6"
-    },
-    {
-      "path": "Config/rtx.json",
-      "size": 343187,
-      "sha256": "e7694b284877c1b8f278810ff296aa3cdd51decd022eec94f07c57316454e825"
-    },
-    {
-      "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/Ijwhost.dll",
-      "size": 129800,
-      "sha256": "595a01cf6f215f88235b4ae3430c6054bb348baf1d2348340f80e992e56a55f4"
-    },
-    {
-      "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/LeaguePatchCollectionCore.deps.json",
-      "size": 447,
-      "sha256": "b6120cbb291cd8b7e911f91205f59adc42ff1339f11b86c3ef1f57f7cb340406"
-    },
-    {
-      "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/LeaguePatchCollectionCore.dll",
-      "size": 148992,
-      "sha256": "780fc3316761a843f2bf9d4b450a3b4995b9933c7a39e72d169f2dc792a67221"
-    },
-    {
-      "path": "LeaguePatchCollectionCpp/NativeHost/x64/Release/LeaguePatchCollectionCpp.runtimeconfig.json",
-      "size": 497,
-      "sha256": "50b22e441c02208a3130c59203312e0f1497403b42a071db2acbbf0c7abc013e"
-    },
-    {
-      "path": "Mods/PowerAIO.dll",
-      "size": 15707136,
-      "sha256": "5f87eb27dad36e366684de23bbb25c08ae3212d8b7ae3568f54589038781e702"
-    },
-    {
-      "path": "Mods/a3_pred.dll",
-      "size": 7332352,
-      "sha256": "27da281faa2d3618034a1afd1ba7e4380c082168106f605afee0e2b7c8a31e7e"
-    },
-    {
-      "path": "Mods/mayhem_choices_wr.dll",
-      "size": 3104256,
-      "sha256": "e813c1d2b7c7e0e93c31a28b33a3e985bd61100201da898f95c37b61dba75ce8"
-    },
-    {
-      "path": "Resource/fonts/AstroSpace.ttf.h",
-      "size": 61757,
-      "sha256": "cfdd74cbe2e1b12d40587e5f10021f9484df6c4898df70be77608fb9d61dc519"
-    },
-    {
-      "path": "Resource/fonts/fa-regular-400.ttf",
-      "size": 34052,
-      "sha256": "1769572028dc4d8fbc422414ca44947b4a156321f814eedefe4ec8d39173fb24"
-    },
-    {
-      "path": "Resource/fonts/notosans-bold.vfont",
-      "size": 310579,
-      "sha256": "c867271479eff7b88e403976002c1b3e2aa0c6edb3be45189965b3bacc3008ce"
-    },
-    {
-      "path": "Resource/fonts/notosanskr-bold.vfont",
-      "size": 4723075,
-      "sha256": "f211093777f90eca07390935d25c4ef173a9fae84d849b7cef1c3d37f0864ff7"
-    },
-    {
-      "path": "Resource/fonts/notosanskr-regular.vfont",
-      "size": 4559547,
-      "sha256": "2ebcd4114620a71da0a69025ba100d7f3b01682d25d01eeaa203eabde727d573"
-    },
-    {
-      "path": "Resource/fonts/notosanssc-bold.vfont",
-      "size": 8617967,
-      "sha256": "51f30309292265ccf52ce48bfbd8b32f27d7545364c9fc56eebe6b57f68955c7"
-    },
-    {
-      "path": "Resource/fonts/notosanssc-regular.vfont",
-      "size": 8368851,
-      "sha256": "35f0fe0925252cba01b7f32f7ed6d812c582cb452af8f3606108048266a6162f"
-    },
-    {
       "path": "cached/1022257066",
       "size": 5577232,
       "sha256": "b8ac62d1bc9323e236d4d8901c19757bdafd2c85673a3ae62c581165044879a5"
@@ -333,1989 +228,349 @@
       "sha256": "fd1a8463c08de7fba8af2edb447109651339cb2928b41d322c0a05f1577797d4"
     },
     {
-      "path": "plugins/bgx/plugins/x64/ADCSeries.dll",
-      "size": 1330236,
-      "sha256": "304a6c55b38dfdc27bed91b8a30ee1321e75df9fccf1b2f758b9e02495950cd0"
+      "path": "config/LSClientIdentity.ini",
+      "size": 131,
+      "sha256": "c1d1db4fcb0d4377d24284a2051cec990160f0a2037635f2e175fb6422e8f480"
     },
     {
-      "path": "plugins/bgx/plugins/x64/BGX.dll",
-      "size": 2986556,
-      "sha256": "ec281bd4f5509c42689eec4d73abfea35336e9fbdc94bccbcdec548651e595e7"
+      "path": "config/Language.json",
+      "size": 341788,
+      "sha256": "6d8c4477c6047975436690b474e7b8dd66bc030dab57cdacd4a64e252a32584f"
     },
     {
-      "path": "plugins/bgx/plugins/x64/BGXEvade.dll",
-      "size": 1196604,
-      "sha256": "e22ddfcc412bc7ef3e69dc2b8eb5de368417dcd21ecfb41a61cc25a9d2bc0fc0"
+      "path": "config/Language.json.h",
+      "size": 1854459,
+      "sha256": "9e9487197c5ea930261aa7456c51e682913836b9deb35f4c0355974f5ecebc6c"
     },
     {
-      "path": "plugins/bgx/plugins/x64/BlackOutAIO.dll",
-      "size": 6446140,
-      "sha256": "e5889e57471f2247c9a87f2983396e5d3ac5addf264113f25c87d6622106b8a7"
+      "path": "config/MenuComponent.json",
+      "size": 2672399,
+      "sha256": "7561459dcc2c1d6a6f7b464fd592781fa033f024776b11c5b03967f5359e8f94"
     },
     {
-      "path": "plugins/bgx/plugins/x64/BlackOutActivator.dll",
-      "size": 2153020,
-      "sha256": "694dbb1dab2020bcaf1c0bb7da8222bd1fd3c52f5d6c7cf185d96d581fea83f3"
+      "path": "config/commonex/MenuConfigCommon/SharedConfig.bin",
+      "size": 920,
+      "sha256": "eacb0c731b6ba731a7d4167b823b01955cedd69bcc2e156f0c9f3d5305558c89"
     },
     {
-      "path": "plugins/bgx/plugins/x64/CSXAIO.dll",
-      "size": 4729404,
-      "sha256": "fcee9f0d568d01b1760fc14db6536989efb2ad70689a93aa33f434265ad5ddf9"
+      "path": "config/commonex/MenuConfigCommon/myapp.leaguesharp.CommonEx.bin",
+      "size": 100,
+      "sha256": "b5ba17da42245abbc6492b42973eeab7e22c5af112f4b628816322dd15ead8e3"
     },
     {
-      "path": "plugins/bgx/plugins/x64/DynastyOrbwalker.dll",
-      "size": 740924,
-      "sha256": "b38b94c391a143b2b3f418275e7bb6357f72f8650991004aaab828a5805435c2"
+      "path": "config/commonex/MenuConfigCommon/myapp.pv.CommonEx.bin",
+      "size": 1135,
+      "sha256": "fd6919891cf85319b05bf0f57ad6b298cd9667ddf1c3c8f2b08f4cdd9e24b5a6"
     },
     {
-      "path": "plugins/bgx/plugins/x64/FerrisUtilities.dll",
-      "size": 6198844,
-      "sha256": "15d837fa447522379ae7c6aff8517cabbb3a02f42ea53e41382a9c54c3077304"
+      "path": "config/rtx.json",
+      "size": 154,
+      "sha256": "0b7a397712a05a957e0b95aa2cf85bad7749bb89d407bad44ae7127a0095a978"
     },
     {
-      "path": "plugins/bgx/plugins/x64/KiriAIO.dll",
-      "size": 5252668,
-      "sha256": "a190222975402f6ec07a6f3f6b750d30f7d4816378126a7fdcc3cdcb73eebad7"
+      "path": "resource/fonts/AstroSpace.ttf.h",
+      "size": 61757,
+      "sha256": "cfdd74cbe2e1b12d40587e5f10021f9484df6c4898df70be77608fb9d61dc519"
     },
     {
-      "path": "plugins/bgx/plugins/x64/L9AIO.dll",
-      "size": 4730940,
-      "sha256": "3c36d4b91b8e636aaec959f462759316cb1b5ba689b30c9c8b73a26f2bea1b36"
+      "path": "resource/fonts/fa-regular-400.ttf",
+      "size": 34052,
+      "sha256": "1769572028dc4d8fbc422414ca44947b4a156321f814eedefe4ec8d39173fb24"
     },
     {
-      "path": "plugins/bgx/plugins/x64/Luna-Orb.dll",
-      "size": 1038396,
-      "sha256": "aecbee0c02276a1eb5f1f323d824c53b9fb2f16c64e2d50289f801b20b053046"
+      "path": "resource/fonts/notosans-bold.vfont",
+      "size": 310579,
+      "sha256": "c867271479eff7b88e403976002c1b3e2aa0c6edb3be45189965b3bacc3008ce"
     },
     {
-      "path": "plugins/bgx/plugins/x64/Luna-TS.dll",
-      "size": 617020,
-      "sha256": "76856e89ac60cd29ddb446660984b5de20d2f5abd51daa3be5bf5dc31bd2888e"
+      "path": "resource/fonts/notosanskr-bold.vfont",
+      "size": 4723075,
+      "sha256": "f211093777f90eca07390935d25c4ef173a9fae84d849b7cef1c3d37f0864ff7"
     },
     {
-      "path": "plugins/bgx/plugins/x64/LunaAIO.dll",
-      "size": 10813500,
-      "sha256": "2f377992040c9084e858a5bcb89293fa8f96566af909dde22bd7588aab68b5c7"
+      "path": "resource/fonts/notosanskr-regular.vfont",
+      "size": 4559547,
+      "sha256": "2ebcd4114620a71da0a69025ba100d7f3b01682d25d01eeaa203eabde727d573"
     },
     {
-      "path": "plugins/bgx/plugins/x64/LunaUtility.dll",
-      "size": 4277820,
-      "sha256": "0ce86f1f2e74f5f90592eaeeec486d8259b02646c3c734374d6c02030db15004"
+      "path": "resource/fonts/notosanssc-bold.vfont",
+      "size": 8617967,
+      "sha256": "51f30309292265ccf52ce48bfbd8b32f27d7545364c9fc56eebe6b57f68955c7"
     },
     {
-      "path": "plugins/bgx/plugins/x64/OpenSeries.dll",
-      "size": 595004,
-      "sha256": "675bef6f9501d4b6b617c3e7ff2bd972587fddf89e051254cf3900a185d1f40e"
+      "path": "resource/fonts/notosanssc-regular.vfont",
+      "size": 8368851,
+      "sha256": "35f0fe0925252cba01b7f32f7ed6d812c582cb452af8f3606108048266a6162f"
     },
     {
-      "path": "plugins/bgx/plugins/x64/OpenUtilities.dll",
-      "size": 383036,
-      "sha256": "daa0764fc136416c4e4ded7269fadf584825b3ec0bae1920d6489c122a667602"
-    },
-    {
-      "path": "plugins/bgx/plugins/x64/RTXPOWER.dll",
-      "size": 3581500,
-      "sha256": "9f6ce345a3cfdca3f8ebc58fd531ad8775b1951a787d419913b233b3bc60148e"
-    },
-    {
-      "path": "plugins/bgx/plugins/x64/ShadowAIO.dll",
-      "size": 4085308,
-      "sha256": "a7fb0b24bfa78835b906282955195fa23be5c6980e1b5330cce81fa076a75a69"
-    },
-    {
-      "path": "plugins/bgx/plugins/x64/ShadowTargetSelector.dll",
-      "size": 276028,
-      "sha256": "e9d749abda00593a93f961b2d760903acabfdef853d0173eca0f50c2e77b4296"
-    },
-    {
-      "path": "plugins/bgx/plugins/x64/Utility.dll",
-      "size": 943676,
-      "sha256": "30e923338c7fc62cf32a128db25e1660f52efc2832ae63ea555638be5a0d6088"
-    },
-    {
-      "path": "plugins/bgx/plugins/x64/YuumiBot.dll",
-      "size": 662588,
-      "sha256": "44e315f60ebd8b7d657e768c4495d82f4a6de8f0d7ed1a997feae9df7be916eb"
-    },
-    {
-      "path": "plugins/bgx/plugins/x64/ZiraPack.dll",
-      "size": 2899516,
-      "sha256": "79b72ec6fe7b8fc188d577cc7873ccbe4da4e0344cd6a59594c3bb4bd4a2019e"
-    },
-    {
-      "path": "plugins/bgx/plugins/x64/core_plugin.dll",
-      "size": 682044,
-      "sha256": "289b67730e6cef3581d85f3d7fdb7777986d175486a52af3f816a4df9a642831"
-    },
-    {
-      "path": "plugins/bgx/plugins/x64/xSaliceAIO.dll",
-      "size": 1014332,
-      "sha256": "e43526bcd8010fe39ea8bc51d2c7073308fce173d18a2a3c02009df5e56dcd8b"
-    },
-    {
-      "path": "plugins/bgx/plugins/x64/xSalicePrediction.dll",
-      "size": 526396,
-      "sha256": "171b40897b51d82982af2be410608d9c4c5a0161bd2fb8030982c2d0367df255"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/Bullseye.png",
-      "size": 16705,
-      "sha256": "765f19d908b32671b871aa04dbced982b4d43884e49b4068fe0983743f6b9655"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/Combo.png",
-      "size": 15099,
-      "sha256": "a5ddaf563eabbb48d732f1aa996b39452f8f480f7f89be5d8ff8a6ffec69b91b"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/Drawing.png",
-      "size": 13647,
-      "sha256": "bca11b1519938d7c332d9a42fd032a49dd221b10eff2422c3240ec45f4db6452"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/Flee.png",
-      "size": 10830,
-      "sha256": "aebbd1400060abcedf4df184013d43269c7b01d761425aa12c9a4504435782d0"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/Harass.png",
-      "size": 12946,
-      "sha256": "ebf2cbb4d37d6e92e390bf18f3b62838b12b82c83222603dbc21536ee3c33986"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/JungleClear.png",
-      "size": 8688,
-      "sha256": "e610e0578aedc400383c3e6c462835408085b7c15d9b16ea61f879028c16425f"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/KillSteal.png",
-      "size": 17884,
-      "sha256": "e89e196540b6dce4ebeee876f18933cef487c71a1b6c5e056974ebc834ffe2ea"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/LaneClear.png",
-      "size": 15971,
-      "sha256": "1b25c00b377c93b448fe9441b972a266d5e0c7697b2061e15f7fed0535160e04"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/Lantern.png",
-      "size": 17967,
-      "sha256": "4540f771b270b4b5372240d1139c8631a151a3b2182c3b26b3c6787a3c4a81a3"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/LastHit.png",
-      "size": 12334,
-      "sha256": "55cfb545aed41430163a407ae48bcac3788b8ffebf7eb3291fa137d1c5461903"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/ahri_menu.png",
-      "size": 19604,
-      "sha256": "770590dad5116d09c71eabbc64d0f6c42cc1a887b56e65b53b39be4c5ec77c64"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/belveth_circle.png",
-      "size": 19917,
-      "sha256": "89170777d54d0a556a80de7eee57561fc39a70f58c7489edacb5931e88b44145"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/belveth_passive.png",
-      "size": 6912,
-      "sha256": "f99d4b5a23667cdc773f9e888c0b6193c31e6a58317432aeb58c7e04d48e127a"
-    },
-    {
-      "path": "plugins/bgx/resources/BlackOutAIO/blackout_activator.png",
-      "size": 1492,
-      "sha256": "79e0f7c3ab7b1427d1feaa23f101b019611474503f736457aac68ef9425058e8"
-    },
-    {
-      "path": "plugins/bgx/resources/CSXAIO/CSXAIO.png",
-      "size": 8213,
-      "sha256": "ff5b670ff428e5e454b50ef29db910cdb47a67a6c6a2630dd1312dfb113a55d5"
-    },
-    {
-      "path": "plugins/bgx/resources/Dynasty/dynasty.png",
-      "size": 8781,
-      "sha256": "fec909b485937cc86841b3ed9d59bbeac53c8672337ebd3a778bf4eb49565725"
-    },
-    {
-      "path": "plugins/bgx/resources/EllieAIO/indicators_menu.png",
-      "size": 9205,
-      "sha256": "ec363c162f67ac1eadd6603cbf86dde3fa13603bc7e924a8f483a6ab516fa89b"
-    },
-    {
-      "path": "plugins/bgx/resources/EllieAIO/indicators_sizes.png",
-      "size": 2459,
-      "sha256": "5694d7620529214b7640b2232c00962ee3c597ea2413c56045c3bfff835d826c"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Hud.png",
-      "size": 390282,
-      "sha256": "3e924f0a157b94688b805f77f80810538f14c0bb1f3e53340cfbf8fd7b7b336d"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Icons/ArenaRank.png",
-      "size": 40263,
-      "sha256": "875c2d100f0f77c729a83e0a06802240107e5ee3dff663ce31b831d53ef48a16"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Icons/Augments.png",
-      "size": 602279,
-      "sha256": "9c4fbc824e074a8536a3c57f06bb5d8701a8bbc358653578e1653a6093224fcd"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Icons/CleanItem.png",
-      "size": 478524,
-      "sha256": "96189e9ea05f1c071734327671e74db27540c74bdd1c8b9c053290f0edd26cd2"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Icons/Generic.png",
-      "size": 56610,
-      "sha256": "6492941e9132816ba495241d26a91b6c216a03a174a13dab72f1976b743cdbfc"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Icons/Items.png",
-      "size": 869794,
-      "sha256": "57d7dc49f257907fe0b6d8bd0a20d7fbfe8e5942769ce6d0980b6e7980d8b994"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Icons/Menu.png",
-      "size": 10895,
-      "sha256": "284d9c1b0628a96c0c36c1d6fc33239a9d1b5b4edb2b93f057bd49465230c923"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Icons/Misc.png",
-      "size": 74455,
-      "sha256": "357b7bc7fb26388fc2b8f22a55759da95b71c785559a89283a44a567b8411a20"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Icons/Monsters.png",
-      "size": 414204,
-      "sha256": "ff163ea9b60ced037a8f30fb87395c3e8e726bf439a5fbf9e3fa126c16a60ddc"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Icons/RankIcons.png",
-      "size": 54977,
-      "sha256": "924862f0d7d19383e78f6afe94b73e4789d23ce210fd1bbbadabc26bc59fdf6d"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Icons/TFTAugments.png",
-      "size": 726737,
-      "sha256": "c74c9a1f87f10f89a8ecbd812dbc4b5c75987d27f1d1c3e86864975e4418058a"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Lang/Utilities/Chinese.lang",
-      "size": 182864,
-      "sha256": "4077f4ea05e43d56fa87308cf5e9d79335b1cf0dcd9cb988a6e3d51f5ff9f9fb"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Lang/Utilities/German.lang",
-      "size": 185759,
-      "sha256": "c26e029f0fd118b810b9a49cdbc9ca29e08561753fb52dc991a71889d12db7aa"
-    },
-    {
-      "path": "plugins/bgx/resources/Ferris/Lang/Utilities/Portuguese.lang",
-      "size": 192379,
-      "sha256": "20aa4ce314d1ef9558d9a355302eefd99c005f3edf71b0bf5a636b8fe6614eee"
-    },
-    {
-      "path": "plugins/bgx/resources/LotusAIO.png",
-      "size": 26036,
-      "sha256": "5cdc1008acaa55f5a19eb4afba800ca1da03c5565176a693a99ab25b0fb10a63"
-    },
-    {
-      "path": "plugins/bgx/resources/bgx_banner.dds",
-      "size": 1398256,
-      "sha256": "924d892cfe9e09cf263b412f91393b8e2f09b3385613abb178df4d84fa0143ed"
-    },
-    {
-      "path": "plugins/bgx/resources/bgx_banner2.dds",
-      "size": 1398256,
-      "sha256": "0ddd0152dbdb6579e76e7db307cc98996802c0b9f1377eb775d901d03e44af5f"
-    },
-    {
-      "path": "plugins/bgx/resources/bgx_banner3.dds",
-      "size": 1398256,
-      "sha256": "879f7684cbf83a4acb40c25f59341b7ce84d47ae5067abc1c93505037191b7dc"
-    },
-    {
-      "path": "plugins/bgx/resources/dead/im_sad.wav",
-      "size": 218800,
-      "sha256": "fc3661b4e13fbe72922206d6f2d1c447216d7a84202ae1503ed1fe0248807d86"
-    },
-    {
-      "path": "plugins/bgx/resources/dead/need_more_pratice.wav",
-      "size": 228228,
-      "sha256": "28a5dfbba84a08df7fc1f7e57bc8745e64e851661b8d1ffa59e01ec713079621"
-    },
-    {
-      "path": "plugins/bgx/resources/dead/never_giveup.wav",
-      "size": 155624,
-      "sha256": "3464c07e0fdaf836f560bbd3c391577a9ac05c4880e7af1e3ed9cf050907849c"
-    },
-    {
-      "path": "plugins/bgx/resources/dead/next_time.wav",
-      "size": 232000,
-      "sha256": "cdcf26646a21906840435cb50c2321c71a1585f01a5936448a3271cc39e4b338"
-    },
-    {
-      "path": "plugins/bgx/resources/dead/not_this_time.wav",
-      "size": 197112,
-      "sha256": "3d4e9326bd60e11416a9a7e92d1451fa7f6cec6a00effaabe9c50d6b0e8896ee"
-    },
-    {
-      "path": "plugins/bgx/resources/dead/only_game_mad.wav",
-      "size": 544108,
-      "sha256": "a5c7c8a5f75d7a1e899e70f88b9c77b58ac5fea44467edbb2bc60eeac0933cde"
-    },
-    {
-      "path": "plugins/bgx/resources/dead/you_almost.wav",
-      "size": 192396,
-      "sha256": "3b6806a39efccf3e2329fbd47f9f67f50524436097a45292d18bfdfd151141bb"
-    },
-    {
-      "path": "plugins/bgx/resources/dead/you_can_more.wav",
-      "size": 172596,
-      "sha256": "063ab9b651193cac9d2a481389baea12d763ded58d968f1218584209f5da8bb0"
-    },
-    {
-      "path": "plugins/bgx/resources/dead/you_disappointed.wav",
-      "size": 202768,
-      "sha256": "e796d315aa3a5ad52cd78bb55d4df23ec58602a04c92cb4ca547ed5366525eb9"
-    },
-    {
-      "path": "plugins/bgx/resources/die.dds",
-      "size": 291728,
-      "sha256": "9f2c14fd0a3e573847445a25fed7492e6e8c8b7d1baeee6d47cf8382c85b5408"
-    },
-    {
-      "path": "plugins/bgx/resources/double/amazing.wav",
-      "size": 167884,
-      "sha256": "7ef2d7329cc98154c5ca8e1f1add8f170395263b721fbd27fe5ca99189de8930"
-    },
-    {
-      "path": "plugins/bgx/resources/double/dont_stop.wav",
-      "size": 296116,
-      "sha256": "e5080c6d2c40fa429a163e576376775a05818e7283f2677382c0588c932007ee"
-    },
-    {
-      "path": "plugins/bgx/resources/double/good_job.wav",
-      "size": 152792,
-      "sha256": "f1ee27965f0b03b86a9acdd4b28336724540b38c224ed82f45dafa968824eb81"
-    },
-    {
-      "path": "plugins/bgx/resources/double/show_more.wav",
-      "size": 144312,
-      "sha256": "9a8770d8758b12d3e62cc1c3dff8193963786c00f0997454b529083dd0379f27"
-    },
-    {
-      "path": "plugins/bgx/resources/double/very_nice.wav",
-      "size": 218796,
-      "sha256": "a0549ffdd37326f713990d1e73a5c3c57a8cd668bd0dc00f710ff6ec5133d6ab"
-    },
-    {
-      "path": "plugins/bgx/resources/double_kill.dds",
-      "size": 291728,
-      "sha256": "3da48daa48c3c5c6063de577525b49e49a48ab6d48c66625901a061dbb8c687c"
-    },
-    {
-      "path": "plugins/bgx/resources/l9.dds",
-      "size": 262272,
-      "sha256": "be175eb04eeb88f04fd4fa8e1157e31cd0d05c0680f9a8d084717264c2921044"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_aio/colors.png",
-      "size": 2162,
-      "sha256": "4114f56d083cc03fbdb94f5cd74f090b100343f7c1f379598c4f8a73e5fe67d5"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_aio/main_icon.png",
-      "size": 1625,
-      "sha256": "6dbfad1562e80aead9180b32cab6b69747aaec893353042acb8562dc9b992d11"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_aio/sizes.png",
-      "size": 1986,
-      "sha256": "37bd2718528893671320a199fa203f316d1bdb37168836f9dd629bee116cc64d"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_aio/zeri_menu_icons.dds",
-      "size": 80128,
-      "sha256": "8bc022936293a4ba013d11ace36e65e34f9be08f45372ce2a56ccf91b90cf13f"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_orb/colors.png",
-      "size": 2162,
-      "sha256": "4114f56d083cc03fbdb94f5cd74f090b100343f7c1f379598c4f8a73e5fe67d5"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_orb/main_icon.png",
-      "size": 1625,
-      "sha256": "6dbfad1562e80aead9180b32cab6b69747aaec893353042acb8562dc9b992d11"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_orb/menu_icons.dds",
-      "size": 80128,
-      "sha256": "8bc022936293a4ba013d11ace36e65e34f9be08f45372ce2a56ccf91b90cf13f"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_orb/sizes.png",
-      "size": 1986,
-      "sha256": "37bd2718528893671320a199fa203f316d1bdb37168836f9dd629bee116cc64d"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_ts/colors.png",
-      "size": 2162,
-      "sha256": "4114f56d083cc03fbdb94f5cd74f090b100343f7c1f379598c4f8a73e5fe67d5"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_ts/main_icon.png",
-      "size": 1625,
-      "sha256": "6dbfad1562e80aead9180b32cab6b69747aaec893353042acb8562dc9b992d11"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_utils/colors.png",
-      "size": 2162,
-      "sha256": "4114f56d083cc03fbdb94f5cd74f090b100343f7c1f379598c4f8a73e5fe67d5"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_utils/main_icon.png",
-      "size": 1625,
-      "sha256": "6dbfad1562e80aead9180b32cab6b69747aaec893353042acb8562dc9b992d11"
-    },
-    {
-      "path": "plugins/bgx/resources/luna_utils/ward.png",
-      "size": 913,
-      "sha256": "ba1cbb886465cd586af7c526964c50f3261156693d2546371bcb0cef496b2fd7"
-    },
-    {
-      "path": "plugins/bgx/resources/penta/good_job_hero.wav",
-      "size": 441324,
-      "sha256": "c4bffa2e4bb591a756aa8231609949fbe32264feed3d1768cc80dd3b301fc714"
-    },
-    {
-      "path": "plugins/bgx/resources/penta/master_wet.wav",
-      "size": 460812,
-      "sha256": "0a17fbba7e2ed9dd1b0e3f9e16635ab03fb27a63ff10849f90541293ab0cd0f0"
-    },
-    {
-      "path": "plugins/bgx/resources/penta/wanna_waifu.wav",
-      "size": 275372,
-      "sha256": "6598708904f44408fad79080da435f2cd6409ca3e83261a3644ae6a0408153ae"
-    },
-    {
-      "path": "plugins/bgx/resources/penta_kill.dds",
-      "size": 705728,
-      "sha256": "a807bb0b0ab17e1baef718b7757a2c404711ab0f35d3556c0185ef0c19596291"
-    },
-    {
-      "path": "plugins/bgx/resources/quadra/charming.wav",
-      "size": 266888,
-      "sha256": "0351fed3f70f9a2c4d6abe4c66ae782211ac0ba4905f7e15ae699f743fdfb646"
-    },
-    {
-      "path": "plugins/bgx/resources/quadra/one_left.wav",
-      "size": 154680,
-      "sha256": "265036cc1bea9c015580955c6cb406a59aa3b830fe9e212219da697a0e116c43"
-    },
-    {
-      "path": "plugins/bgx/resources/quadra/you_god.wav",
-      "size": 226340,
-      "sha256": "939608a57c430c80eda5cee0d59b1c310888433f87080a98dc05bd04c24502c5"
-    },
-    {
-      "path": "plugins/bgx/resources/quadra/you_me_so_good.wav",
-      "size": 317804,
-      "sha256": "89f09ebb5197739c9e210ba0ca8a07ec9c845d7fb91648ec8c352df09eae9f20"
-    },
-    {
-      "path": "plugins/bgx/resources/quadra_kill.dds",
-      "size": 291728,
-      "sha256": "8772ce4073c59747363607b7e7f75c0a1703cc98a400451848d7f912fc8116b9"
-    },
-    {
-      "path": "plugins/bgx/resources/shadow/box.png",
-      "size": 1870,
-      "sha256": "42ef35c731ec2f2b16e9e7b19d376ca7870d3a182f793368decda29c7f5fd4e1"
-    },
-    {
-      "path": "plugins/bgx/resources/triple/half_down.wav",
-      "size": 298004,
-      "sha256": "3226c79d6f802f90cf213d11060b9c0038e6ea29f9145ff347fb7284fcc8dab4"
-    },
-    {
-      "path": "plugins/bgx/resources/triple/it_was_clean.wav",
-      "size": 215968,
-      "sha256": "cbd125ec200a706482d2b37a39f3380223594680381af33321e4132525b18947"
-    },
-    {
-      "path": "plugins/bgx/resources/triple/more_more.wav",
-      "size": 197112,
-      "sha256": "f402641b2b87c41719085728e955e1bb9c44384f48ced25695ed99ba75766146"
-    },
-    {
-      "path": "plugins/bgx/resources/triple/more_please.wav",
-      "size": 171652,
-      "sha256": "0b3e68af12c11b8315af364f30d840c071539abdc3ecb1d6165eaff4ace4efde"
-    },
-    {
-      "path": "plugins/bgx/resources/triple/you_best.wav",
-      "size": 168824,
-      "sha256": "320d4b412f1219b25007f9f2af016758a0c5461a38f537a9c23458f0128098ac"
-    },
-    {
-      "path": "plugins/bgx/resources/triple_kill.dds",
-      "size": 291728,
-      "sha256": "5ae21a93835eb75698625b05a1c567e854570e444f06d0c1aa38e25b6142a8dd"
-    },
-    {
-      "path": "plugins/checksums.json",
-      "size": 4926,
-      "sha256": "7bae5a25fab7aae973d0230ea3e2f8d94445058f7fcac26cdf98dbea50a0b58f"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source.zip",
-      "size": 162011,
-      "sha256": "a50b81fc92b21612550fef36f17347052e6b26bab5c818021b45db6a416aaa11"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/Akali.lua",
-      "size": 37122,
-      "sha256": "0f9778fea6d60f04bbfb997c32978b1d2afcb1350d8378953f270eb698b1fa98"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/Leblanc.lua",
-      "size": 38267,
-      "sha256": "c10b3b13faffbb4882c8c9dda21fbf23793186022021717170317f06d3c7e586"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/Qiyana.lua",
-      "size": 12184,
-      "sha256": "349f0b215013b50a1c650d645c9e9778582d26bf34e42b1450c2921b7989ea16"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/Rengar.lua",
-      "size": 25132,
-      "sha256": "c0e82ba981529f010cbcede0e10328aff80f16e09ab6102ae61205f7d43ffd08"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/Talon.lua",
-      "size": 8156,
-      "sha256": "b3eabaa6405e8af493f72bb66241d243d13fac669b0635dec6c770dcac00e2fd"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/common.lua",
-      "size": 6390,
-      "sha256": "d2873fe9a0e7b13a1f14464738665acabce5a1ca71eaa167d51b7298a8e4186b"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/header.lua",
-      "size": 425,
-      "sha256": "194e317e42722b7b87ff9ed40f406a443f4544a9630702b8b5674937d99140d5"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/main.lua",
-      "size": 1332,
-      "sha256": "b96106b9f1042c25d22d3f9e0ca10e749016d6b42a895eb46610f69a08750e52"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/Assassin'sAIO/menu.lua",
-      "size": 17976,
-      "sha256": "082704122abe673bb6923a3d1462c49e68d7f9f5fd9f5f81fbfe703fd59f2985"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/MD5SUM",
-      "size": 867,
-      "sha256": "a9e4e9d38d27cc743d5e1d9e82ab38438410367ee66626a18ecdaf0516f2449b"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/b64.lua",
-      "size": 1088,
-      "sha256": "8fa533cbc80203af55a6e22cc888239baf06c7fa46baa0db7dcb3546052d91b9"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/bigint.lua",
-      "size": 4890,
-      "sha256": "1437512a143fcdd3518f8a93797ac82766f4ecc409d0623d375d588e4a622b3e"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/box.lua",
-      "size": 4599,
-      "sha256": "e3575faefb40c8497d5894a313bfd948a903b034f2bb6e29c36835c14c9960f7"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/bugsplat.lua",
-      "size": 1497,
-      "sha256": "db9f2536f8fc82636f1f2a456b2f53f18e5041505d83314bf4a04ea49da08197"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/header.lua",
-      "size": 544,
-      "sha256": "baded4a1667830efd69b3d697e831622eddad5ae51535e5eb1e3825cf9b7e134"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/item.lua",
-      "size": 2406,
-      "sha256": "fd4122889174cef56123e96c48ea9bf7147edad7998d06aec96a01101c935030"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/itemData.lua",
-      "size": 246801,
-      "sha256": "356b16041cc2648fcb38016893273dee51e644cb6a4a076077916dd039c55cd1"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/json.lua",
-      "size": 7158,
-      "sha256": "fb26c023b024ab3d868bde9f35b627b1bd0e3f1b9567c67e3b458215be47dbaf"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/main.lua",
-      "size": 546,
-      "sha256": "26a6dd7403bf821ba2b689835570afda454d5a84d4663c8e06d90de9e0174de0"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/md5.lua",
-      "size": 10435,
-      "sha256": "7696b12e763a7967be92d97b8d212826dfafbd5b6788afeccd4442c73d0b94dd"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/net.lua",
-      "size": 7941,
-      "sha256": "7e9576e5aa133727c03fe49084f4d47626a7a10c417849b527d4189c71036ce9"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/notify.lua",
-      "size": 2969,
-      "sha256": "da284b41463355fdabd1855c9bc1559e2dc57780b6fee121832317f3e915b156"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/orb.lua",
-      "size": 71025,
-      "sha256": "872ec3c9dcb48231436462b01fa6826ab11270d2c548d40621f7deec6f0e8c97"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/rsa.lua",
-      "size": 1155,
-      "sha256": "58103e713d92c687dc225581438edde5b878ad967b45de45179199bb8cd8fc74"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/salsa20.lua",
-      "size": 3070,
-      "sha256": "c339669946bf6b28f69de588e4424a15492bd520621b8689a19b6edfb3719156"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/struct.lua",
-      "size": 6481,
-      "sha256": "b2896ff856563f16299e9ac959389cc6d395c79c0f431df413ec4936c360868d"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/table.lua",
-      "size": 1156,
-      "sha256": "759261e46263fc150dc07ea98df5f3c9fdfaaa1aa08e77986d26bc7e38d594a5"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/DivineLib/util.lua",
-      "size": 32870,
-      "sha256": "50dd6a0a1d2b7a50cb4073f24279d81a05ca40a7487b862e4edaa4c592fa4602"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/auto_e.lua",
-      "size": 1666,
-      "sha256": "24eb8eb6fd31482b40ff9e5d6b58afc7778b92129445006e4b5cc30ef04d6b44"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/core.lua",
-      "size": 3524,
-      "sha256": "5c2cd2c53315f414b5967960d003a99b0633c947232ef75256fad30736cbe01a"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/dmg.lua",
-      "size": 1248,
-      "sha256": "92e62616e7f713338cdd153f0a1ee8407be3b7c875c0e15d9aecc12f0664c7cb"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/e_on_q.lua",
-      "size": 1635,
-      "sha256": "2f8a549e45a678038ea6aa11818e69c13f1635a987fd22b26f06f7de1c7f1e1e"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/e_on_tar.lua",
-      "size": 4538,
-      "sha256": "ab58e37a1705e2b32538658006f85a275c77641186e7ff45cedc1a1ced871715"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/main.lua",
-      "size": 778,
-      "sha256": "eda8f2c363b2b51c168a2559019bacbe6ee2409a6db266d3f5d6c4c063b5f73d"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/menu.lua",
-      "size": 2149,
-      "sha256": "5a5f7ee50341f0e82643b69b5015e64454fce29ef3ec938ac44e3e3654dbfc04"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/q.lua",
-      "size": 2075,
-      "sha256": "6f37e315053e043cd000588c43bff9e07b32dc89e29d950fe82d03247446030b"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/q_e.lua",
-      "size": 1323,
-      "sha256": "86352bc6a913f46a58a143e5d3e7ee0fd34d94f322ab8159bf5734684647deb6"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/r.lua",
-      "size": 2291,
-      "sha256": "0ad341c7abbd505658d4921fff853f8abe49589b4f6fde5c8b7bff9922e7a1ee"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/spells.lua",
-      "size": 1637,
-      "sha256": "772b1b1b803e578d804fc5d9029ae3aad7af250d2faee1a94e1f3cf06a9d63c6"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/sphere_manager.lua",
-      "size": 6325,
-      "sha256": "8eaca553c88e55f502273bf12fee7070e8c26758fe793b03c5bdf995f8b0992c"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/w.lua",
-      "size": 1195,
-      "sha256": "9d559fe8c9a8de2995150d1dcbfbd6ef13533a6d2c59add7167f8a91db3ee405"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/Syndra/w_cast.lua",
-      "size": 1610,
-      "sha256": "444e37c0d1bd0f99bae5e549abcb3663cf0939ad6f54dd067c02b5e232f57a30"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/chat.lua",
-      "size": 171,
-      "sha256": "e0b332eafda3e130649512ff30721283017451d0f7c6c29b0b3dafeb473625c6"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/circle.lua",
-      "size": 1562,
-      "sha256": "944283240fc2510ee14a60660771721475c51ae5d8aef8ed1a255b0cad6bd6e8"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/color.lua",
-      "size": 245,
-      "sha256": "fc44541f2252570a05a4639c5665d4c58958a473fddbbb28b33d06ae615911a1"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/info.lua",
-      "size": 629,
-      "sha256": "4b849590c5894b963b18602ef8607f7ab610256bd872cd0daf3eaa85cb9ba821"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/stacks.lua",
-      "size": 6238,
-      "sha256": "ac25c1c2b7a661d0b4fdfde0e87769438828f018cd1c0a36944f4b80bac317e0"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/text.lua",
-      "size": 522,
-      "sha256": "8cd8b2c8113c7f81482801f408c69f20dcc5d71104a349a56de512307048a113"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/draw/timer.lua",
-      "size": 6050,
-      "sha256": "a1e1d9800f846b98688d22def3890308b3fcb72f066edcb536039e296c41f0d0"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/header.lua",
-      "size": 1826,
-      "sha256": "e3f7f8c6cc897de2f23f6a1e24975a5c660e112f76319ce199f890e712be3fcc"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/beasty syndra/main.lua",
-      "size": 1153,
-      "sha256": "dca9c84a2838a029bfaf433072e0ee243733a86dac55c34656293b89b46b2161"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/coding tips/spell timing.jpg",
-      "size": 19116,
-      "sha256": "b64059496d837b5e992a6c43ee95d20df03962d166fa2b3d7197041ce3a4063c"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/coding tips/spell timing.lua",
-      "size": 1338,
-      "sha256": "e77df99bb49e7ff3781902be155c361bda826c8ccb56fc50c125bd37e6414a3f"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/coding tips/spell timing.txt",
-      "size": 729,
-      "sha256": "1f78e54f3fa44c34769ff96501f95fe4f822e003d0a92590f851bffff1d9e5cb"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/events.lua",
-      "size": 1640,
-      "sha256": "6d0881ad03b8eb72c1f5515ce3698ca230a704d8bc444b87462dddcbd2c4f13e"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/core/ai.lua",
-      "size": 26478,
-      "sha256": "b6d06d8e635ef802bdc8e8720d8ec24d756522cddf729141c91713287bd75079"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/core/draw.lua",
-      "size": 10198,
-      "sha256": "701b9edebf10de47c6a9c3248a4615492245fc184993c438fa2a5a5ae7bd7883"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/core/main.lua",
-      "size": 101,
-      "sha256": "7d0b2fec84c4eaefbdc07ba0b74fddf5c50d3ba14cb098ee7184c77c071ae959"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/header.lua",
-      "size": 151,
-      "sha256": "5f00a86b0d97257190963d69a8c9ecacd3e7d649c38828970b7d3492b23ca5dd"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/item/crescent_wrapper.lua",
-      "size": 1538,
-      "sha256": "17c17d14161a743e1c7032034a118b014fb8b8765ea972bd76e404b309752a5c"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/main.lua",
-      "size": 1036,
-      "sha256": "1d22199a00a5bcf5bb6519c09bf0008c8b437a7fe298d792f93d37128a7c3fb9"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/menu.lua",
-      "size": 1692,
-      "sha256": "b5a92d1a01c3948404748cbac895a8b4927595601679fc4936ae5d32d25ec2cb"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/aa.lua",
-      "size": 1197,
-      "sha256": "15c1c3cbbf180c7c54fd3c6601742f7d2f6870aebb881295c21f1b75ad4d5416"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/e.lua",
-      "size": 1848,
-      "sha256": "bf8b4bdb6f0300f36041695db797c225f917bb11538e381f162b904673e75a6e"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/e_flash_q.lua",
-      "size": 1810,
-      "sha256": "74689701b1d083cd0d1c05fe9b1d40521c95b303a187467fee7ee3529be0e329"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/e_flash_w.lua",
-      "size": 1701,
-      "sha256": "a68bd13dac65d9f6d7d9ee9a18f7d57245b90ec4262aebb8a8a1603d2cf564f8"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/e_q.lua",
-      "size": 2129,
-      "sha256": "3722a763e89a1d54d3427c01232f9a2dfd3c673aaf3ee3aff44ed52065353c5f"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/e_w.lua",
-      "size": 2020,
-      "sha256": "96ad813d5e6a33f124b077b6a2f6824e655681274f42885bb889170a865b897d"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/flash_q.lua",
-      "size": 1825,
-      "sha256": "c833901e9305f2eb7c49d20e0ea8559e21924e0c719e92312985ddbfa952bf11"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/flash_w.lua",
-      "size": 1725,
-      "sha256": "c2ff6f5a5b834501953453004bd92f72738cdf9e2196724fcc9ae1410e472fa6"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/main.lua",
-      "size": 624,
-      "sha256": "3b912a747f9b6096670372d382ef3ccd4fa2cd2965dff786f3af9239a72a43d6"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/push.lua",
-      "size": 1356,
-      "sha256": "0e9518761e25f38e080d80f7cf78cd075003e7c845f751fed8b42a7d9e507e9d"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/q.lua",
-      "size": 1891,
-      "sha256": "79f3c950a9615a1afe5a79bd25325b10b9e6c9d1f8007eedc054567734ff5851"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/r1.lua",
-      "size": 485,
-      "sha256": "f40a7004df4b7695e2020a24b5d1e06237bb04459ee1494cd31e37796d80aeb1"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/r2.lua",
-      "size": 1282,
-      "sha256": "6201d11f3dd809599e91f9a9529fc01ae91c13874c6f8938220078fc0747113e"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/r2_dmg.lua",
-      "size": 2065,
-      "sha256": "190adf09cdcdd6116bd025562dcdc80fd52525cf26d68e4ff150fabf3dc7dfdd"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/pred/w.lua",
-      "size": 1637,
-      "sha256": "1c16e65b2f37c2deb1528fb461053ae1b6e7e4b6913fdad7526bbe57451488e9"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/e.lua",
-      "size": 527,
-      "sha256": "b009ae1ee003fd0baa56f812938e85d4adbb77cb61f2487e9bd259bdaa923bbd"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/flash.lua",
-      "size": 788,
-      "sha256": "819ddeae24c65f118114b8fe7eb774e5d3a09c4fe22b9aac3b91649a588a382a"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/main.lua",
-      "size": 275,
-      "sha256": "959a02b027f74aeccd53b373891583b808ff70f6863a12d9759ad8e510b72da8"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/q.lua",
-      "size": 575,
-      "sha256": "8001a974442d0c95bfef53afaa0cefd4312a81bbb6debc8f66370c5c1c4cf3ca"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/r1.lua",
-      "size": 1058,
-      "sha256": "bfe202d1bc6b58f710d362e45d5b5bc6b158101066eb9ec1e0a9ac6956efaca8"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/r2.lua",
-      "size": 1503,
-      "sha256": "8fcbcaa3ecaaa473eca8c9984e75cc060c8d1ed5883ae0fbfa525391a050d62a"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/gagong riven/spell/w.lua",
-      "size": 425,
-      "sha256": "1a9b77dabfb74d864992594790c6e21402c4dcad63f504d8ec141e5b5ec99cbd"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/hello world/header.lua",
-      "size": 105,
-      "sha256": "df0f5bc766188d5a5e39bffc7db78d39fbadc07dff2ff75998492eba4415b809"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/hello world/main.lua",
-      "size": 20,
-      "sha256": "939338e3b6ab652043d93dff9c1e8eaa69a0a969a4a0de50870a6cbad7f3c117"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/menu example/header.lua",
-      "size": 107,
-      "sha256": "8077b73591cb719fc71c3627b7169cdb33eaad66e7dddde147ea0151acfa4221"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/menu example/main.lua",
-      "size": 491,
-      "sha256": "172d940268c812c6a68c5db92069c0e763d8311fcdd36d2577905a1d9d29a94a"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/menu example/menu.lua",
-      "size": 409,
-      "sha256": "db662339f49b1672328a26aef6408933b4464c7da7bd81f9e56542ecc28e0ed8"
-    },
-    {
-      "path": "plugins/hanbot/developer/Hanbot Open Source/shadereffect_dx11.lua",
-      "size": 2360,
-      "sha256": "16cd85c724d9d8af37ff4116102c9cb9e885fde7e935495cd9ae7c08b4d6df7f"
-    },
-    {
-      "path": "plugins/hanbot/developer/api docs.url",
-      "size": 133,
-      "sha256": "a94b3ba0a6912ee833093d7d4a2c879942d824ddcb8b0ca624d45a4932c7b4e2"
-    },
-    {
-      "path": "plugins/hanbot/developer/loader_example.cpp",
-      "size": 4811,
-      "sha256": "fa54df3bfeb0af83872baa5316d91dbeb0522c11cd40e08c0434911d65b682a3"
-    },
-    {
-      "path": "plugins/hanbot/shards.json",
-      "size": 416045,
-      "sha256": "5fbc1e4b0e7557837cf014a27421d7a1e17208b814bd16ab62562dc9ba64cc9c"
-    },
-    {
-      "path": "plugins/hanbot/shards/AXAIO.shard",
+      "path": "shards/AXAIO.shard",
       "size": 572728,
       "sha256": "c395bacebff004b3412cd57f31ec380ab2555d350473fb6ca441acc4959f9fb8"
     },
     {
-      "path": "plugins/hanbot/shards/Alexis AIO .shard",
+      "path": "shards/Alexis AIO .shard",
       "size": 5243088,
       "sha256": "aeb4e006128dda225e82da92ce69ddab499362e587e435615920b729a3eeaa2f"
     },
     {
-      "path": "plugins/hanbot/shards/Alexis Auth.shard",
+      "path": "shards/Alexis Auth.shard",
       "size": 17,
       "sha256": "0e4521745872ffda447c4fe5a51bd3f5f01060b99ab62cd3e82b0ed25e68916f"
     },
     {
-      "path": "plugins/hanbot/shards/ArcherAIO.shard",
+      "path": "shards/ArcherAIO.shard",
       "size": 2625984,
       "sha256": "ba395d828d8606242a5aa6e2c83c871326c0376b005b335fd378a74497570050"
     },
     {
-      "path": "plugins/hanbot/shards/Bow.shard",
+      "path": "shards/Bow.shard",
       "size": 3954520,
       "sha256": "8b55c0c0f8e5ff6000c641599c6ff8731c3da38ad8c6e47637c5e8a0ec936afb"
     },
     {
-      "path": "plugins/hanbot/shards/CNo1AIO.shard",
+      "path": "shards/CNo1AIO.shard",
       "size": 7784120,
       "sha256": "2496580abdf87c36871d8e6a4f8f0d22f0afe36103708daa805dfa4db16fbb75"
     },
     {
-      "path": "plugins/hanbot/shards/CNo1Smite.shard",
+      "path": "shards/CNo1Smite.shard",
       "size": 148392,
       "sha256": "4ac6bf80139b81d55e898e6223ed2b1a384897f6099c5651922692eee5ac2870"
     },
     {
-      "path": "plugins/hanbot/shards/CNo1Utility.shard",
+      "path": "shards/CNo1Utility.shard",
       "size": 2408520,
       "sha256": "b8ce5e90c78c0002fcb438040db46662fa7744abd6ed65d2d734a57040f26f30"
     },
     {
-      "path": "plugins/hanbot/shards/CSX AIO.shard",
+      "path": "shards/CSX AIO.shard",
       "size": 9203664,
       "sha256": "807321e5c46f7536267c13baa90241811c6b727e5762e4e540139c1ac0756110"
     },
     {
-      "path": "plugins/hanbot/shards/CSXAIO_Utility.shard",
+      "path": "shards/CSXAIO_Utility.shard",
       "size": 10536656,
       "sha256": "6ddf2d7ef6811ce9489e178402a9870b8e7cf0bf76800dbc0562e271fb4ada6f"
     },
     {
-      "path": "plugins/hanbot/shards/CXJ AIO.shard",
+      "path": "shards/CXJ AIO.shard",
       "size": 10165112,
       "sha256": "c8195903bbb6c60cabb8835abdae2805825480854bfe3740424b9a9e344a009d"
     },
     {
-      "path": "plugins/hanbot/shards/Custom Permashow.shard",
+      "path": "shards/Custom Permashow.shard",
       "size": 53768,
       "sha256": "fcfa151432360a4994509418d91528ea4bfcc1872153efda99d7bf9ac68b2b2b"
     },
     {
-      "path": "plugins/hanbot/shards/DanZAIO.shard",
+      "path": "shards/DanZAIO.shard",
       "size": 2845672,
       "sha256": "c5d3166dcd4fd0aae5b696b614db2726ad6bd4d161902922dfed16b0827f9037"
     },
     {
-      "path": "plugins/hanbot/shards/DemonAIO.shard",
+      "path": "shards/DemonAIO.shard",
       "size": 2920680,
       "sha256": "e998b323521f2e5de5dc5e9d00a6b972ffe8f2f7d32c3bb4733e7a2212deedaf"
     },
     {
-      "path": "plugins/hanbot/shards/EzAIO.shard",
+      "path": "shards/EzAIO.shard",
       "size": 1631160,
       "sha256": "d6e04cc49a17d5bda9596f2e551787dc550d36edd055ea7405ca50be3002db84"
     },
     {
-      "path": "plugins/hanbot/shards/Fatality.shard",
+      "path": "shards/Fatality.shard",
       "size": 2019304,
       "sha256": "73f27cbfc5f068162200b03fcc7ed177a06385a99919c968b14c8821f5e0deaa"
     },
     {
-      "path": "plugins/hanbot/shards/Fx.shard",
+      "path": "shards/Fx.shard",
       "size": 15693816,
       "sha256": "8d3ed95bdc2f768f8b38cfdf0b7d2a4744ebe529bb6386e71a086717bbb38e75"
     },
     {
-      "path": "plugins/hanbot/shards/FxActivator.shard",
+      "path": "shards/FxActivator.shard",
       "size": 3727568,
       "sha256": "4a5152993a06b84c6becad19c35e9218921be2826a72d11c1eb05fa2b6214ab8"
     },
     {
-      "path": "plugins/hanbot/shards/FxLib.shard",
+      "path": "shards/FxLib.shard",
       "size": 9235096,
       "sha256": "619379d3c839b91393042da731f0680f69af8aa39294f190daa17e9bc0aef2c9"
     },
     {
-      "path": "plugins/hanbot/shards/FxTools.shard",
+      "path": "shards/FxTools.shard",
       "size": 1153056,
       "sha256": "4bc39df8de11b345e466725f9f616db6882dd6058ed49abd03553777e007dbec"
     },
     {
-      "path": "plugins/hanbot/shards/GG AIO.shard",
+      "path": "shards/GG AIO.shard",
       "size": 1025480,
       "sha256": "6890141b5868e286e2699d1e988d7b8eb145b8759ee12762a646969943bf1a72"
     },
     {
-      "path": "plugins/hanbot/shards/Hanbot Beasty .shard",
+      "path": "shards/Hanbot Beasty .shard",
       "size": 826288,
       "sha256": "fe7815ac1ec5d13695d9f01c46d781acb92a7b58003612f5c7b4f07d28f296eb"
     },
     {
-      "path": "plugins/hanbot/shards/Healer AIO.shard",
+      "path": "shards/Healer AIO.shard",
       "size": 2661200,
       "sha256": "a510c69112fdb559192f0df8e85137821b89904f9436cd098a9a17a1e22c6ed3"
     },
     {
-      "path": "plugins/hanbot/shards/IntAIO.shard",
+      "path": "shards/IntAIO.shard",
       "size": 5584000,
       "sha256": "8093a6d4049c15fbb18821490f1516168f247d760bb67666827406407faa5f10"
     },
     {
-      "path": "plugins/hanbot/shards/JUST - AIO.shard",
+      "path": "shards/JUST - AIO.shard",
       "size": 7879880,
       "sha256": "72f2ececdf29dc40c65dcca90e33a495cc3baae69411ee65b3af0ee86e98087f"
     },
     {
-      "path": "plugins/hanbot/shards/Kiri AIO.shard",
+      "path": "shards/Kiri AIO.shard",
       "size": 4062272,
       "sha256": "3c530a24c3a951793ce91b4f118bd21610f7bd5efc89fa364d22a32ca7b4c370"
     },
     {
-      "path": "plugins/hanbot/shards/Kisrs_AIO.shard",
+      "path": "shards/Kisrs_AIO.shard",
       "size": 4589400,
       "sha256": "a0269d577f4833a9a5efb196fc9fa7e2278f2842415e6540aea8e004b0b9cc52"
     },
     {
-      "path": "plugins/hanbot/shards/KleeAIO.shard",
+      "path": "shards/KleeAIO.shard",
       "size": 5108552,
       "sha256": "dde51ee1294967e159b24a87ca9d47194fb7f9de4d4022dc547358d87c68fac6"
     },
     {
-      "path": "plugins/hanbot/shards/KleeUtils.shard",
+      "path": "shards/KleeUtils.shard",
       "size": 1075552,
       "sha256": "8ddfc2efd06b5398bcc63a91361a67615fb430657705692ae24abcf90c50be7a"
     },
     {
-      "path": "plugins/hanbot/shards/Kornis AIO.shard",
+      "path": "shards/Kornis AIO.shard",
       "size": 6108624,
       "sha256": "b33bb51f7b3d983175720db251b2e7236a170bbe481a4a2fff7d9368289593b6"
     },
     {
-      "path": "plugins/hanbot/shards/Mage AIO.shard",
+      "path": "shards/Mage AIO.shard",
       "size": 2620128,
       "sha256": "0407d6f75cd65488e68efadddc2e9839f85a3f12ce6811f8df943253c9eff92d"
     },
     {
-      "path": "plugins/hanbot/shards/MasterActivator.shard",
+      "path": "shards/MasterActivator.shard",
       "size": 2079792,
       "sha256": "184d263e3cae6307c76d532d7e93a67f128a9746f0bb229ffb31e36d30d19ead"
     },
     {
-      "path": "plugins/hanbot/shards/MasterAio.shard",
+      "path": "shards/MasterAio.shard",
       "size": 8252464,
       "sha256": "5880b8cf45873a818b507d8458913d30912b76e318e6f2d2edaf451d24215b67"
     },
     {
-      "path": "plugins/hanbot/shards/MasterCore.shard",
+      "path": "shards/MasterCore.shard",
       "size": 276056,
       "sha256": "00a4848d3a20954fc3c39a902d436ed9824e82a642a8cc95b0555324eb6301b2"
     },
     {
-      "path": "plugins/hanbot/shards/NG-AIO.shard",
+      "path": "shards/NG-AIO.shard",
       "size": 4236760,
       "sha256": "b39c4775c34d51b462c01cca3db9d1e9855d18a6f34ba32bce14e7ba34aa44d2"
     },
     {
-      "path": "plugins/hanbot/shards/NG-Utility.shard",
+      "path": "shards/NG-Utility.shard",
       "size": 685744,
       "sha256": "58bef4ac898ce6e629e5468ad4f37545493858f02eefef2a90da5a0653a75ff1"
     },
     {
-      "path": "plugins/hanbot/shards/Pixel-AIO.shard",
+      "path": "shards/Pixel-AIO.shard",
       "size": 11965064,
       "sha256": "e09d3072469f2f2ce32f8150a337f223dab9224b38e3e5b9409d9c03be38452c"
     },
     {
-      "path": "plugins/hanbot/shards/Q-Aio.shard",
+      "path": "shards/Q-Aio.shard",
       "size": 5265464,
       "sha256": "c0a63fcdb891617940dd531c1a29d8f6ab6871db921cf4f98366594deebfb2b4"
     },
     {
-      "path": "plugins/hanbot/shards/Q-Utils.shard",
+      "path": "shards/Q-Utils.shard",
       "size": 1394592,
       "sha256": "a704ecfe3d92342aa5c9e03b95ae2fbc81d3f1dfff21df2c1563acbf07a71b77"
     },
     {
-      "path": "plugins/hanbot/shards/RXing.shard",
+      "path": "shards/RXing.shard",
       "size": 1551104,
       "sha256": "6989fb592fb01c1f1836dc5070bdfbf635df0a4a4d84c37e0e72d2e48336c2a8"
     },
     {
-      "path": "plugins/hanbot/shards/Reborn.shard",
+      "path": "shards/Reborn.shard",
       "size": 1999232,
       "sha256": "a66c61c9574af1db0b9dfdf77168d59331846ffef208d3745dbe680c5337327d"
     },
     {
-      "path": "plugins/hanbot/shards/SA_AIO.shard",
+      "path": "shards/SA_AIO.shard",
       "size": 8169376,
       "sha256": "b1e4211c3e206bf871177d53afcdae175114e152e58a5771864e28b83a83e3d4"
     },
     {
-      "path": "plugins/hanbot/shards/SP-AIO.shard",
+      "path": "shards/SP-AIO.shard",
       "size": 9756624,
       "sha256": "d00da88f9e6951c4ba23e93076c1f363154b2e31483173b9ac953bf49d7a5374"
     },
     {
-      "path": "plugins/hanbot/shards/Void3.shard",
+      "path": "shards/Void3.shard",
       "size": 1148104,
       "sha256": "1d8d9e634807844c8c94e1612b4dd53fd782afa69e3b980c6f9949a9213b5dfc"
     },
     {
-      "path": "plugins/hanbot/shards/[BrianSharp] Activator.shard",
+      "path": "shards/[BrianSharp] Activator.shard",
       "size": 916784,
       "sha256": "6d018a7be3eb1c9750abff9aa63e1d135ae0e3c4fd8cb2e07ff2d8c5ef1d0a05"
     },
     {
-      "path": "plugins/hanbot/shards/[BrianSharp] Successfull.shard",
+      "path": "shards/[BrianSharp] Successfull.shard",
       "size": 17839368,
       "sha256": "79728a7a0d7513490e44dc80a9138700c4ad48b47d3913fcf7fc22d85d9699da"
     },
     {
-      "path": "plugins/hanbot/shards/[HGPro]AIO.shard",
+      "path": "shards/[HGPro]AIO.shard",
       "size": 1831784,
       "sha256": "be0bc8381f5f09634c8a33ba2a3b4fa73e5534332d8ca88d9ea960e5b25f7751"
     },
     {
-      "path": "plugins/hanbot/shards/[HGVip]AIO.shard",
+      "path": "shards/[HGVip]AIO.shard",
       "size": 3849464,
       "sha256": "de062d1febb458414f5c6342e30303c9895384940abff9ad30cb3b8be1a698d7"
     },
     {
-      "path": "plugins/hanbot/shards/[Viktor]AIO.shard",
+      "path": "shards/[Viktor]AIO.shard",
       "size": 4098104,
       "sha256": "5e7d49fde60dac4991f2558d9304c35cabc9e978ad1ed07131185662f3c78cea"
     },
     {
-      "path": "plugins/hanbot/shards/[Viktor]Evade.shard",
+      "path": "shards/[Viktor]Evade.shard",
       "size": 707816,
       "sha256": "e15ddf382d0372143cd91e5dd6b03b73155fac0df4621cc6195f41a362109333"
     },
     {
-      "path": "plugins/hanbot/shards/[Viktor]Utility.shard",
+      "path": "shards/[Viktor]Utility.shard",
       "size": 170440,
       "sha256": "eec63791ad2024b52f67df679f76c9f307d8b99b3668a2ffa8e37cf66582ba12"
     },
     {
-      "path": "plugins/hanbot/shards/luna-aio.shard",
+      "path": "shards/luna-aio.shard",
       "size": 10121920,
       "sha256": "01ab7187ed9fcaae4b7796cda42420d5acde5432d03cde471a4d812f29cbb3ff"
     },
     {
-      "path": "plugins/hanbot/shards/ws.shard",
+      "path": "shards/shards.json",
+      "size": 416045,
+      "sha256": "5fbc1e4b0e7557837cf014a27421d7a1e17208b814bd16ab62562dc9ba64cc9c"
+    },
+    {
+      "path": "shards/ws.shard",
       "size": 1728568,
       "sha256": "017ccb36d8b9801b1ef496c0d320defbd412ffec819a832bccdf6194420bbe2d"
-    },
-    {
-      "path": "plugins/local/SurrenderAtFifteen.dll",
-      "size": 1233920,
-      "sha256": "3b47204974d70647a91206b062b86f2aa2e3b7871c3d3701b1dd58776cdf1e80"
-    },
-    {
-      "path": "plugins/plugins.json",
-      "size": 43525,
-      "sha256": "531878acb61b6d4552247827664ba224fff43cd913b7c0fd72180d88e08debe1"
-    },
-    {
-      "path": "plugins/plugins.sig",
-      "size": 89,
-      "sha256": "6ecf0c4999213c86adfd53852644af15ec52be9d1eafc898c8d90e44129f3775"
-    },
-    {
-      "path": "plugins/rtx/plugins/1v9-AIO.dll",
-      "size": 1281930,
-      "sha256": "0c554d8b30d6241433ba485f49b89c4203d5ea3c30153a399e06cf919a85ee12"
-    },
-    {
-      "path": "plugins/rtx/plugins/AURORAAiO.dll",
-      "size": 695178,
-      "sha256": "64c41e6a5983e290e45218a85b676a230173c73990e06718161fb01fca3d7437"
-    },
-    {
-      "path": "plugins/rtx/plugins/AiPredV2.dll",
-      "size": 8056414,
-      "sha256": "276a72624ee50ec27460e743f46f5453f448a7bd2c9adaff5508253f52f684f3"
-    },
-    {
-      "path": "plugins/rtx/plugins/AiPrediction.dll",
-      "size": 25001521,
-      "sha256": "1b7e7c9da4e4b82f6dde8322b23f6b0175f8b5b0f31a8641b1e4b43c93f1bf86"
-    },
-    {
-      "path": "plugins/rtx/plugins/AuroraEvade.dll",
-      "size": 3481101,
-      "sha256": "4a192d6cb187568eca0050eef623fa38fbb77b50ad2d2ed831b07f96220aef92"
-    },
-    {
-      "path": "plugins/rtx/plugins/AuroraOrbwalker.dll",
-      "size": 380298,
-      "sha256": "8be3216eef83d2483b6db9e2b3812d0fa0dbcc0f4cbc93f5b32646132357362a"
-    },
-    {
-      "path": "plugins/rtx/plugins/AuroraPrediction.dll",
-      "size": 377738,
-      "sha256": "cce897e3ff37fe9c0a4574da8059911b9f7a558da94614e33a52f2df36839805"
-    },
-    {
-      "path": "plugins/rtx/plugins/BanthorsAIO.dll",
-      "size": 688522,
-      "sha256": "3d25cc4b2c226fab60408d74f4af98711358b54ebb737664251f58a8a8120029"
-    },
-    {
-      "path": "plugins/rtx/plugins/BenAIO.dll",
-      "size": 509322,
-      "sha256": "53592d9e82aaf973b281e191cddc1a99e3f5745b4d774c9bbbd635be32bd7cdd"
-    },
-    {
-      "path": "plugins/rtx/plugins/BlahajAIO.dll",
-      "size": 799626,
-      "sha256": "2299296a97c2ec036300493c0d77e1f93a9a5d6be4f0dc74b4739da8113c8d03"
-    },
-    {
-      "path": "plugins/rtx/plugins/DivineSeries.dll",
-      "size": 325514,
-      "sha256": "6d2fb60ebfa0bd610827a9a9403f8329aed877e1aaa4212131411a10e4b2a4e8"
-    },
-    {
-      "path": "plugins/rtx/plugins/DynastyOrb.dll",
-      "size": 480328,
-      "sha256": "00a73137bc5ef9e762c71a27e991f930e4340dce4ff59a6428ca9f1b2a74fddd"
-    },
-    {
-      "path": "plugins/rtx/plugins/ElderAIO.dll",
-      "size": 374797,
-      "sha256": "91ba08de25cd7c44c3b1cd2f63af2d25cd4fda54e2d5eb2c1a2186c748547dcb"
-    },
-    {
-      "path": "plugins/rtx/plugins/ElliesAIO.dll",
-      "size": 9698855,
-      "sha256": "cd642b98d946cfce25e7f0d4b6f9b496a79b90323bb0b1294872c10174dc2be2"
-    },
-    {
-      "path": "plugins/rtx/plugins/EuphoriaAIO.dll",
-      "size": 2430858,
-      "sha256": "9f731d0fdc8378701d28766a74c2cc3058108704fbabcd29681ebb3744a59762"
-    },
-    {
-      "path": "plugins/rtx/plugins/Excalibur.dll",
-      "size": 1203594,
-      "sha256": "f147c68c05871aed026fb3c08b7190cc2a94d4abaedf1c038d9e87779decef08"
-    },
-    {
-      "path": "plugins/rtx/plugins/HabibiAIO.dll",
-      "size": 328224,
-      "sha256": "a73153566142a201aa31e2a20553a70bea4cffe6d2849d75c5ff19646a776b7d"
-    },
-    {
-      "path": "plugins/rtx/plugins/IcarusAIO.dll",
-      "size": 390026,
-      "sha256": "d6fda5f9493c3f75c6b5019d6c7b44dbebc8a6b164b30a94bc7e2abeb786e5d1"
-    },
-    {
-      "path": "plugins/rtx/plugins/ImpulsePrediction.dll",
-      "size": 399807,
-      "sha256": "9a242b1eb50418ed50b129265041270a81a3d3f0b5ae9205ed30ee070c243968"
-    },
-    {
-      "path": "plugins/rtx/plugins/Invisible_Recall.dll",
-      "size": 205840,
-      "sha256": "5fdafcb5706ae3c7f42fb8343f1e0d1d2b3e37ad0785d9dd7b625f7556aa082b"
-    },
-    {
-      "path": "plugins/rtx/plugins/KaparovKindred.dll",
-      "size": 280080,
-      "sha256": "3ed73659d161ffb28df7e7c7432119da2f8dfbd29bfb5256def57b6deabc4e60"
-    },
-    {
-      "path": "plugins/rtx/plugins/KissMyAIO.dll",
-      "size": 461706,
-      "sha256": "6da6e2423b9f16aa28376f1ea9a21aa6414dffe009b7c83a2716a60a1db68682"
-    },
-    {
-      "path": "plugins/rtx/plugins/Klee-TS.dll",
-      "size": 602637,
-      "sha256": "9f4ac8f72bbe424beb74feef2ba3342c30e8cc3a8dacdeec6f16eccf3e31509d"
-    },
-    {
-      "path": "plugins/rtx/plugins/KleeAIO.dll",
-      "size": 9697319,
-      "sha256": "40892c5f34158db5c2117f14bcdc40ca603e1ef5586efcafe000e75caff0f1ac"
-    },
-    {
-      "path": "plugins/rtx/plugins/KleeUtility.dll",
-      "size": 4168743,
-      "sha256": "168315e7f28eb4ef609b89ceaf0bc5a90ebeefe6469a742b138b91681e1395c0"
-    },
-    {
-      "path": "plugins/rtx/plugins/L9Utility.dll",
-      "size": 584074,
-      "sha256": "3331c107fb288512ce9bb5eac519923304697ae1da6e5441dc8ad0825acb02ac"
-    },
-    {
-      "path": "plugins/rtx/plugins/LeaguesharpAIO.dll",
-      "size": 3575900,
-      "sha256": "7e9c32e14daabe32406be268aa4291113946ac2b8e737034b924e3083c53e4e4"
-    },
-    {
-      "path": "plugins/rtx/plugins/LordsPred.dll",
-      "size": 525759,
-      "sha256": "8214ebb5e184e202115a3162b0a87a8cb4225bf7dff57b01c97972323b6a89dc"
-    },
-    {
-      "path": "plugins/rtx/plugins/LotusAIO.dll",
-      "size": 1037899,
-      "sha256": "4c3278523adc3118e1f4668566362273166de195de77a2ed4c635db8bb07e7ca"
-    },
-    {
-      "path": "plugins/rtx/plugins/Marksman.dll",
-      "size": 1750544,
-      "sha256": "55e83e4b4538cfc6ab6a0a2c7a031c32520a6a5cb16a5950a00032fcf256a3f3"
-    },
-    {
-      "path": "plugins/rtx/plugins/MidlaneCarry.dll",
-      "size": 667152,
-      "sha256": "6ae5395203fd10926c9373baf1db8b3cd3fe5d7989444f9ecf330399550f2cb2"
-    },
-    {
-      "path": "plugins/rtx/plugins/OHAIO.dll",
-      "size": 422794,
-      "sha256": "96ae6394e498a5c2e2dad91365cb7116fc38b5e44e688de81b0cc9b8d4596c6b"
-    },
-    {
-      "path": "plugins/rtx/plugins/PentaAIO.dll",
-      "size": 588170,
-      "sha256": "3d6b918f8170d515385294ad1383b63d53a6b365ca6f1a37ff24c0961062682f"
-    },
-    {
-      "path": "plugins/rtx/plugins/RTXMel.dll",
-      "size": 214544,
-      "sha256": "3edf803830649a65251f6b8a219d875a15f1d7838be6df74403f3d3b9b6a8599"
-    },
-    {
-      "path": "plugins/rtx/plugins/RageAIO.dll",
-      "size": 426378,
-      "sha256": "5dd03469280e02786ea111497d6330814a59c239ca779fa0aa3ae1ef7a59b60e"
-    },
-    {
-      "path": "plugins/rtx/plugins/SebasBGX.dll",
-      "size": 1825162,
-      "sha256": "469256c219add51f0d7bad3aca32ca4e36c62e59373cd4df7658c3329041972f"
-    },
-    {
-      "path": "plugins/rtx/plugins/SebasPrediction.dll",
-      "size": 321930,
-      "sha256": "b4455e405a6370d2dc7f2f839a4fd8db499813632607456aa20734129ee77eab"
-    },
-    {
-      "path": "plugins/rtx/plugins/ShadowExploit.dll",
-      "size": 202768,
-      "sha256": "77ca5d72cc419929524965fa6b89bfb9d238226ef52c24a305ef9abe2ad59865"
-    },
-    {
-      "path": "plugins/rtx/plugins/SkinwalkerAIO.dll",
-      "size": 3432464,
-      "sha256": "7293d538b4e7fc8d3e60e35b51efcfc94e5d2ea827a80b9a0c1c819390c9a7e2"
-    },
-    {
-      "path": "plugins/rtx/plugins/SmartPings.dll",
-      "size": 188944,
-      "sha256": "c4de1e4db96d40f0c5fa588e995e9fc5b7a681c721e514d2f032efbfe3638084"
-    },
-    {
-      "path": "plugins/rtx/plugins/TaiwanAIO.dll",
-      "size": 312848,
-      "sha256": "51d0301f4157b3c6fb9de7e6c08523d09e458d078a69a82a2814b3fa3f516994"
-    },
-    {
-      "path": "plugins/rtx/plugins/TrentAIO.dll",
-      "size": 853024,
-      "sha256": "9ab8e75192736600af8e25f6f1993e386a16eadc32e720419e3dbb5fea69e4dd"
-    },
-    {
-      "path": "plugins/rtx/plugins/TrueDamageAIO.dll",
-      "size": 326688,
-      "sha256": "0c2c650cc2a0e8843355d4836e70626ad9b1228d29bcab745b03104cac3895ca"
-    },
-    {
-      "path": "plugins/rtx/plugins/YordleAIO.dll",
-      "size": 358944,
-      "sha256": "94cb69324759db31ab34afa7f14af781b0a7e8874fa333dfb499079c4fd739aa"
-    },
-    {
-      "path": "plugins/rtx/plugins/ZumOkroa.dll",
-      "size": 453136,
-      "sha256": "5a44a84093100ccc3594b8d47ca9a25374f49796f4aba4a522b93cff26beab22"
-    },
-    {
-      "path": "plugins/rtx/plugins/Zumzum.dll",
-      "size": 172048,
-      "sha256": "49c158beb311fe226ef932992c7b590e335780cb5d1ba127564d615ad64b6390"
-    },
-    {
-      "path": "plugins/rtx/plugins/ZzihaoAIO.dll",
-      "size": 1290332,
-      "sha256": "b6dff0cb000756f09e304dee1882286e4ca4ab673f409f9f6a3426162937f3c3"
-    },
-    {
-      "path": "plugins/rtx/plugins/entropy-aio.dll",
-      "size": 534905,
-      "sha256": "beee559d736c3d6cd5dc659b27e219facddf5dd3c95fde7dbe6081c988a3fd55"
-    },
-    {
-      "path": "plugins/rtx/plugins/relaxAIO.dll",
-      "size": 1942410,
-      "sha256": "ac2cea1b6ef7219c1458118771f89fcc308e578deeb5879051dcd2e1b745d6bf"
-    },
-    {
-      "path": "plugins/rtx/plugins/solaceOrb.dll",
-      "size": 254858,
-      "sha256": "35b3cc6a353819fc29b8e91843536307202d6b44acac7e7ca24e68446a321a0d"
-    },
-    {
-      "path": "plugins/rtx/plugins/xDreammsAIO.dll",
-      "size": 2369602,
-      "sha256": "330827dc1319606cd20d3168d058563a624a4d37c7504eef096f97d343d3b1d5"
-    },
-    {
-      "path": "plugins/rtx/plugins/xDreammsUtility.dll",
-      "size": 2279490,
-      "sha256": "8489263e41be5a5841b2d33c72afa40ad4866242b25be01c4d0aa991d71dd6b4"
-    },
-    {
-      "path": "plugins/rtx/plugins/xKittyAIO.dll",
-      "size": 364938,
-      "sha256": "a5d2ac8fe88ad464ea229eb8d7442c061c9cf17de0c6dba932d2de1bf63cc3b6"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/Bullseye.png",
-      "size": 16705,
-      "sha256": "765f19d908b32671b871aa04dbced982b4d43884e49b4068fe0983743f6b9655"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/Combo.png",
-      "size": 15099,
-      "sha256": "a5ddaf563eabbb48d732f1aa996b39452f8f480f7f89be5d8ff8a6ffec69b91b"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/Drawing.png",
-      "size": 13647,
-      "sha256": "bca11b1519938d7c332d9a42fd032a49dd221b10eff2422c3240ec45f4db6452"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/Flee.png",
-      "size": 10830,
-      "sha256": "aebbd1400060abcedf4df184013d43269c7b01d761425aa12c9a4504435782d0"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/Harass.png",
-      "size": 12946,
-      "sha256": "ebf2cbb4d37d6e92e390bf18f3b62838b12b82c83222603dbc21536ee3c33986"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/JungleClear.png",
-      "size": 8688,
-      "sha256": "e610e0578aedc400383c3e6c462835408085b7c15d9b16ea61f879028c16425f"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/KillSteal.png",
-      "size": 17884,
-      "sha256": "e89e196540b6dce4ebeee876f18933cef487c71a1b6c5e056974ebc834ffe2ea"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/LaneClear.png",
-      "size": 15971,
-      "sha256": "1b25c00b377c93b448fe9441b972a266d5e0c7697b2061e15f7fed0535160e04"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/Lantern.png",
-      "size": 17967,
-      "sha256": "4540f771b270b4b5372240d1139c8631a151a3b2182c3b26b3c6787a3c4a81a3"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/LastHit.png",
-      "size": 12334,
-      "sha256": "55cfb545aed41430163a407ae48bcac3788b8ffebf7eb3291fa137d1c5461903"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/ahri_menu.png",
-      "size": 19604,
-      "sha256": "770590dad5116d09c71eabbc64d0f6c42cc1a887b56e65b53b39be4c5ec77c64"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/belveth_circle.png",
-      "size": 19917,
-      "sha256": "89170777d54d0a556a80de7eee57561fc39a70f58c7489edacb5931e88b44145"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/belveth_passive.png",
-      "size": 6912,
-      "sha256": "f99d4b5a23667cdc773f9e888c0b6193c31e6a58317432aeb58c7e04d48e127a"
-    },
-    {
-      "path": "plugins/rtx/resources/BlackOutAIO/blackout_activator.png",
-      "size": 1492,
-      "sha256": "79e0f7c3ab7b1427d1feaa23f101b019611474503f736457aac68ef9425058e8"
-    },
-    {
-      "path": "plugins/rtx/resources/CSXAIO/CSXAIO.png",
-      "size": 8213,
-      "sha256": "ff5b670ff428e5e454b50ef29db910cdb47a67a6c6a2630dd1312dfb113a55d5"
-    },
-    {
-      "path": "plugins/rtx/resources/Dynasty/dynasty.png",
-      "size": 8781,
-      "sha256": "fec909b485937cc86841b3ed9d59bbeac53c8672337ebd3a778bf4eb49565725"
-    },
-    {
-      "path": "plugins/rtx/resources/EllieAIO/indicators_menu.png",
-      "size": 9205,
-      "sha256": "ec363c162f67ac1eadd6603cbf86dde3fa13603bc7e924a8f483a6ab516fa89b"
-    },
-    {
-      "path": "plugins/rtx/resources/EllieAIO/indicators_sizes.png",
-      "size": 2459,
-      "sha256": "5694d7620529214b7640b2232c00962ee3c597ea2413c56045c3bfff835d826c"
-    },
-    {
-      "path": "plugins/rtx/resources/Ferris/Hud.png",
-      "size": 390282,
-      "sha256": "3e924f0a157b94688b805f77f80810538f14c0bb1f3e53340cfbf8fd7b7b336d"
-    },
-    {
-      "path": "plugins/rtx/resources/Ferris/Icons/ArenaRank.png",
-      "size": 40263,
-      "sha256": "875c2d100f0f77c729a83e0a06802240107e5ee3dff663ce31b831d53ef48a16"
-    },
-    {
-      "path": "plugins/rtx/resources/Ferris/Icons/Augments.png",
-      "size": 602279,
-      "sha256": "9c4fbc824e074a8536a3c57f06bb5d8701a8bbc358653578e1653a6093224fcd"
-    },
-    {
-      "path": "plugins/rtx/resources/Ferris/Icons/CleanItem.png",
-      "size": 478524,
-      "sha256": "96189e9ea05f1c071734327671e74db27540c74bdd1c8b9c053290f0edd26cd2"
-    },
-    {
-      "path": "plugins/rtx/resources/Ferris/Icons/Generic.png",
-      "size": 56610,
-      "sha256": "6492941e9132816ba495241d26a91b6c216a03a174a13dab72f1976b743cdbfc"
-    },
-    {
-      "path": "plugins/rtx/resources/Ferris/Icons/Items.png",
-      "size": 869794,
-      "sha256": "57d7dc49f257907fe0b6d8bd0a20d7fbfe8e5942769ce6d0980b6e7980d8b994"
-    },
-    {
-      "path": "plugins/rtx/resources/Ferris/Icons/Menu.png",
-      "size": 10895,
-      "sha256": "284d9c1b0628a96c0c36c1d6fc33239a9d1b5b4edb2b93f057bd49465230c923"
-    },
-    {
-      "path": "plugins/rtx/resources/Ferris/Icons/Misc.png",
-      "size": 74455,
-      "sha256": "357b7bc7fb26388fc2b8f22a55759da95b71c785559a89283a44a567b8411a20"
-    },
-    {
-      "path": "plugins/rtx/resources/Ferris/Icons/Monsters.png",
-      "size": 414204,
-      "sha256": "ff163ea9b60ced037a8f30fb87395c3e8e726bf439a5fbf9e3fa126c16a60ddc"
-    },
-    {
-      "path": "plugins/rtx/resources/Ferris/Icons/RankIcons.png",
-      "size": 54977,
-      "sha256": "924862f0d7d19383e78f6afe94b73e4789d23ce210fd1bbbadabc26bc59fdf6d"
-    },
-    {
-      "path": "plugins/rtx/resources/Ferris/Icons/TFTAugments.png",
-      "size": 726737,
-      "sha256": "c74c9a1f87f10f89a8ecbd812dbc4b5c75987d27f1d1c3e86864975e4418058a"
-    },
-    {
-      "path": "plugins/rtx/resources/Icons/ArenaRank.png",
-      "size": 40263,
-      "sha256": "875c2d100f0f77c729a83e0a06802240107e5ee3dff663ce31b831d53ef48a16"
-    },
-    {
-      "path": "plugins/rtx/resources/Icons/Augments.png",
-      "size": 602279,
-      "sha256": "9c4fbc824e074a8536a3c57f06bb5d8701a8bbc358653578e1653a6093224fcd"
-    },
-    {
-      "path": "plugins/rtx/resources/Icons/CleanItem.png",
-      "size": 478524,
-      "sha256": "96189e9ea05f1c071734327671e74db27540c74bdd1c8b9c053290f0edd26cd2"
-    },
-    {
-      "path": "plugins/rtx/resources/Icons/Generic.png",
-      "size": 56610,
-      "sha256": "6492941e9132816ba495241d26a91b6c216a03a174a13dab72f1976b743cdbfc"
-    },
-    {
-      "path": "plugins/rtx/resources/Icons/Items.png",
-      "size": 869794,
-      "sha256": "57d7dc49f257907fe0b6d8bd0a20d7fbfe8e5942769ce6d0980b6e7980d8b994"
-    },
-    {
-      "path": "plugins/rtx/resources/Icons/Menu.png",
-      "size": 10895,
-      "sha256": "284d9c1b0628a96c0c36c1d6fc33239a9d1b5b4edb2b93f057bd49465230c923"
-    },
-    {
-      "path": "plugins/rtx/resources/Icons/Misc.png",
-      "size": 74455,
-      "sha256": "357b7bc7fb26388fc2b8f22a55759da95b71c785559a89283a44a567b8411a20"
-    },
-    {
-      "path": "plugins/rtx/resources/Icons/Monsters.png",
-      "size": 414204,
-      "sha256": "ff163ea9b60ced037a8f30fb87395c3e8e726bf439a5fbf9e3fa126c16a60ddc"
-    },
-    {
-      "path": "plugins/rtx/resources/Icons/RankIcons.png",
-      "size": 54977,
-      "sha256": "924862f0d7d19383e78f6afe94b73e4789d23ce210fd1bbbadabc26bc59fdf6d"
-    },
-    {
-      "path": "plugins/rtx/resources/Icons/TFTAugments.png",
-      "size": 726737,
-      "sha256": "c74c9a1f87f10f89a8ecbd812dbc4b5c75987d27f1d1c3e86864975e4418058a"
-    },
-    {
-      "path": "plugins/rtx/resources/Klee/Cleanse.png",
-      "size": 8774,
-      "sha256": "a49ada86af72747f23092eb36e5cdad12a69609015c11a727ff5e065a758ab0a"
-    },
-    {
-      "path": "plugins/rtx/resources/Klee/Recall.png",
-      "size": 8774,
-      "sha256": "a49ada86af72747f23092eb36e5cdad12a69609015c11a727ff5e065a758ab0a"
-    },
-    {
-      "path": "plugins/rtx/resources/Klee/gargoyle_stoneplate.png",
-      "size": 9866,
-      "sha256": "a3120040921078d4ee9ba5389bd57da9df25304f9dfa72f7e8e459e68c2e53e4"
-    },
-    {
-      "path": "plugins/rtx/resources/Klee/goredrinker.png",
-      "size": 10214,
-      "sha256": "258cd8a1b4417c18d7f58435240d3b107ebab8e37b9bbe18e90c469c104cb54c"
-    },
-    {
-      "path": "plugins/rtx/resources/Klee/kaisa_e.png",
-      "size": 10605,
-      "sha256": "57b277e669d6f4dc12f76c9cfda116afebc4e5f43597034092329796ffcf362d"
-    },
-    {
-      "path": "plugins/rtx/resources/Klee/kaisa_e_evolved.png",
-      "size": 8987,
-      "sha256": "ca8d727d924be3d2c3c7eb86ab58e27b29e322f246492f602ff4a408ee7b8e4f"
-    },
-    {
-      "path": "plugins/rtx/resources/Klee/klee.png",
-      "size": 19568,
-      "sha256": "0f9917adff76da7b47173963b481689071e57030957c5224ecd322faa9cf3b18"
-    },
-    {
-      "path": "plugins/rtx/resources/Klee/smite.png",
-      "size": 8935,
-      "sha256": "14c2e216f699242adcfb346c7ed5a9e9ad94f717264113d085219b43a78122e3"
-    },
-    {
-      "path": "plugins/rtx/resources/LotusAIO.png",
-      "size": 26036,
-      "sha256": "5cdc1008acaa55f5a19eb4afba800ca1da03c5565176a693a99ab25b0fb10a63"
-    },
-    {
-      "path": "plugins/rtx/resources/NotoSansCJKtc-Bold.ttf",
-      "size": 18052048,
-      "sha256": "b87c1ef7cf0ccaaeec6bc0d279c14d0abbd83619509800cd7f5119b323ec23d6"
-    },
-    {
-      "path": "plugins/rtx/resources/WafendAIO/dropdown_icon_permashow.png",
-      "size": 6619,
-      "sha256": "e1df11a6eb17043b27c8120dbf766ec96a1ddb957c519b8a96ebd5790b9da0d8"
-    },
-    {
-      "path": "plugins/rtx/resources/WafendAIO/dropup_icon_permashow.png",
-      "size": 5832,
-      "sha256": "81bb7188a2e23060c420a94611160e31eb36c2d3e87c464bded6b1144bd09d78"
-    },
-    {
-      "path": "plugins/rtx/resources/aurora.png",
-      "size": 13747,
-      "sha256": "79536f85c68ba4d0f36cc50e2378650ebdb4e9b978d8739c1da8f36193fc954a"
-    },
-    {
-      "path": "plugins/rtx/resources/dead/im_sad.wav",
-      "size": 218800,
-      "sha256": "fc3661b4e13fbe72922206d6f2d1c447216d7a84202ae1503ed1fe0248807d86"
-    },
-    {
-      "path": "plugins/rtx/resources/dead/need_more_pratice.wav",
-      "size": 228228,
-      "sha256": "28a5dfbba84a08df7fc1f7e57bc8745e64e851661b8d1ffa59e01ec713079621"
-    },
-    {
-      "path": "plugins/rtx/resources/dead/never_giveup.wav",
-      "size": 155624,
-      "sha256": "3464c07e0fdaf836f560bbd3c391577a9ac05c4880e7af1e3ed9cf050907849c"
-    },
-    {
-      "path": "plugins/rtx/resources/dead/next_time.wav",
-      "size": 232000,
-      "sha256": "cdcf26646a21906840435cb50c2321c71a1585f01a5936448a3271cc39e4b338"
-    },
-    {
-      "path": "plugins/rtx/resources/dead/not_this_time.wav",
-      "size": 197112,
-      "sha256": "3d4e9326bd60e11416a9a7e92d1451fa7f6cec6a00effaabe9c50d6b0e8896ee"
-    },
-    {
-      "path": "plugins/rtx/resources/dead/only_game_mad.wav",
-      "size": 544108,
-      "sha256": "a5c7c8a5f75d7a1e899e70f88b9c77b58ac5fea44467edbb2bc60eeac0933cde"
-    },
-    {
-      "path": "plugins/rtx/resources/dead/you_almost.wav",
-      "size": 192396,
-      "sha256": "3b6806a39efccf3e2329fbd47f9f67f50524436097a45292d18bfdfd151141bb"
-    },
-    {
-      "path": "plugins/rtx/resources/dead/you_can_more.wav",
-      "size": 172596,
-      "sha256": "063ab9b651193cac9d2a481389baea12d763ded58d968f1218584209f5da8bb0"
-    },
-    {
-      "path": "plugins/rtx/resources/dead/you_disappointed.wav",
-      "size": 202768,
-      "sha256": "e796d315aa3a5ad52cd78bb55d4df23ec58602a04c92cb4ca547ed5366525eb9"
-    },
-    {
-      "path": "plugins/rtx/resources/die.dds",
-      "size": 176099,
-      "sha256": "b14d824d8161f69d5585f192be0591fd5b77b471c3e30802eeeb9da3d8f305b2"
-    },
-    {
-      "path": "plugins/rtx/resources/double/amazing.wav",
-      "size": 167884,
-      "sha256": "7ef2d7329cc98154c5ca8e1f1add8f170395263b721fbd27fe5ca99189de8930"
-    },
-    {
-      "path": "plugins/rtx/resources/double/dont_stop.wav",
-      "size": 296116,
-      "sha256": "e5080c6d2c40fa429a163e576376775a05818e7283f2677382c0588c932007ee"
-    },
-    {
-      "path": "plugins/rtx/resources/double/good_job.wav",
-      "size": 152792,
-      "sha256": "f1ee27965f0b03b86a9acdd4b28336724540b38c224ed82f45dafa968824eb81"
-    },
-    {
-      "path": "plugins/rtx/resources/double/show_more.wav",
-      "size": 144312,
-      "sha256": "9a8770d8758b12d3e62cc1c3dff8193963786c00f0997454b529083dd0379f27"
-    },
-    {
-      "path": "plugins/rtx/resources/double/very_nice.wav",
-      "size": 218796,
-      "sha256": "a0549ffdd37326f713990d1e73a5c3c57a8cd668bd0dc00f710ff6ec5133d6ab"
-    },
-    {
-      "path": "plugins/rtx/resources/double_kill.dds",
-      "size": 224406,
-      "sha256": "23d9498c43ffb8fa4daf59837ff4605d14e8dd3b18c83f00134698e91667f2f3"
-    },
-    {
-      "path": "plugins/rtx/resources/l9.dds",
-      "size": 44167,
-      "sha256": "b03190942de7a6df80ea8627f038d0aa276c0a79b001b7682a523e4c4839e341"
-    },
-    {
-      "path": "plugins/rtx/resources/penta/good_job_hero.wav",
-      "size": 441324,
-      "sha256": "c4bffa2e4bb591a756aa8231609949fbe32264feed3d1768cc80dd3b301fc714"
-    },
-    {
-      "path": "plugins/rtx/resources/penta/master_wet.wav",
-      "size": 460812,
-      "sha256": "0a17fbba7e2ed9dd1b0e3f9e16635ab03fb27a63ff10849f90541293ab0cd0f0"
-    },
-    {
-      "path": "plugins/rtx/resources/penta/wanna_waifu.wav",
-      "size": 275372,
-      "sha256": "6598708904f44408fad79080da435f2cd6409ca3e83261a3644ae6a0408153ae"
-    },
-    {
-      "path": "plugins/rtx/resources/penta_kill.dds",
-      "size": 535855,
-      "sha256": "88b1ef42b3c818af2a03bcdbd184576b02e90a63296b040ee61acaa74140112b"
-    },
-    {
-      "path": "plugins/rtx/resources/quadra/charming.wav",
-      "size": 266888,
-      "sha256": "0351fed3f70f9a2c4d6abe4c66ae782211ac0ba4905f7e15ae699f743fdfb646"
-    },
-    {
-      "path": "plugins/rtx/resources/quadra/one_left.wav",
-      "size": 154680,
-      "sha256": "265036cc1bea9c015580955c6cb406a59aa3b830fe9e212219da697a0e116c43"
-    },
-    {
-      "path": "plugins/rtx/resources/quadra/you_god.wav",
-      "size": 226340,
-      "sha256": "939608a57c430c80eda5cee0d59b1c310888433f87080a98dc05bd04c24502c5"
-    },
-    {
-      "path": "plugins/rtx/resources/quadra/you_me_so_good.wav",
-      "size": 317804,
-      "sha256": "89f09ebb5197739c9e210ba0ca8a07ec9c845d7fb91648ec8c352df09eae9f20"
-    },
-    {
-      "path": "plugins/rtx/resources/quadra_kill.dds",
-      "size": 212071,
-      "sha256": "832584011458ba28ffb2967328840908cfe6cdfb01035afc1d4f3e029058885e"
-    },
-    {
-      "path": "plugins/rtx/resources/resourcelist.json",
-      "size": 7798,
-      "sha256": "44a9828bfdd042a9ac7217a0eee21988641f710037636109734092b750ca7bb0"
-    },
-    {
-      "path": "plugins/rtx/resources/shadow/box.png",
-      "size": 8781,
-      "sha256": "fec909b485937cc86841b3ed9d59bbeac53c8672337ebd3a778bf4eb49565725"
-    },
-    {
-      "path": "plugins/rtx/resources/triple/half_down.wav",
-      "size": 298004,
-      "sha256": "3226c79d6f802f90cf213d11060b9c0038e6ea29f9145ff347fb7284fcc8dab4"
-    },
-    {
-      "path": "plugins/rtx/resources/triple/it_was_clean.wav",
-      "size": 215968,
-      "sha256": "cbd125ec200a706482d2b37a39f3380223594680381af33321e4132525b18947"
-    },
-    {
-      "path": "plugins/rtx/resources/triple/more_more.wav",
-      "size": 197112,
-      "sha256": "f402641b2b87c41719085728e955e1bb9c44384f48ced25695ed99ba75766146"
-    },
-    {
-      "path": "plugins/rtx/resources/triple/more_please.wav",
-      "size": 171652,
-      "sha256": "0b3e68af12c11b8315af364f30d840c071539abdc3ecb1d6165eaff4ace4efde"
-    },
-    {
-      "path": "plugins/rtx/resources/triple/you_best.wav",
-      "size": 168824,
-      "sha256": "320d4b412f1219b25007f9f2af016758a0c5461a38f537a9c23458f0128098ac"
-    },
-    {
-      "path": "plugins/rtx/resources/triple_kill.dds",
-      "size": 180938,
-      "sha256": "ced4bdbd5f53217e3dfa7a69ce9bcf3a6d8ce5a931668cdfdeb67e893b68317a"
     },
     {
       "path": "tier3/.gitkeep",

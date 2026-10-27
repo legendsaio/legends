@@ -17479,7 +17479,7 @@
         "load": false
       },
       "Potato AIO": {
-        "load": false
+        "load": true
       },
       "Python - AIO": {
         "load": false
@@ -17491,6 +17491,9 @@
         "load": false
       },
       "[YL AIO]": {
+        "load": false
+      },
+      "小海-AI合集": {
         "load": false
       }
     },
@@ -34995,9 +34998,6 @@
     "Avada AIO": {
       "load": false
     },
-    "CC - AIO": {
-      "load": false
-    },
     "DanZAIO": {
       "load": false
     },
@@ -35019,16 +35019,10 @@
     "Legend - XP TRACKER": {
       "load": false
     },
-    "M S Standard": {
-      "load": false
-    },
     "Momo AIO": {
       "load": false
     },
     "NS": {
-      "load": false
-    },
-    "Notasy AIO": {
       "load": false
     },
     "NovaChamps": {
@@ -35037,22 +35031,10 @@
     "NovaUtils": {
       "load": false
     },
-    "Potato AIO": {
-      "load": false
-    },
-    "Python - AIO": {
-      "load": false
-    },
     "R-AIO": {
       "load": false
     },
-    "RU(SA)_AIO": {
-      "load": false
-    },
     "Ragnarok": {
-      "load": false
-    },
-    "RushPack": {
       "load": false
     },
     "T0-AIO": {
@@ -35074,9 +35056,6 @@
       "load": false
     },
     "[Xaxup AIO]": {
-      "load": false
-    },
-    "[YL AIO]": {
       "load": false
     },
     "cache 1372655327": {
@@ -35107,9 +35086,6 @@
       "load": false
     },
     "tripp tech": {
-      "load": false
-    },
-    "小海-AI合集": {
       "load": false
     }
   },
@@ -52119,21 +52095,21 @@
       "manuale": {
         "IsToggle": false,
         "MouseWheelBind": false,
-        "PermaShowValue": false,
+        "PermaShowValue": true,
         "key": 84,
         "value": false
       },
       "manualr": {
         "IsToggle": false,
         "MouseWheelBind": false,
-        "PermaShowValue": false,
+        "PermaShowValue": true,
         "key": 65,
         "value": false
       },
       "qx": {
         "IsToggle": true,
         "MouseWheelBind": true,
-        "PermaShowValue": false,
+        "PermaShowValue": true,
         "key": 0,
         "value": false
       }
@@ -52181,6 +52157,14 @@
         },
         "IsOpen": {
           "value": false
+        },
+        "Jinx": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "PracticeTool_TargetDummy": {
+          "PermaShowValue": false,
+          "value": false
         }
       },
       "blacklistnear": {
@@ -52193,6 +52177,14 @@
           "value": false
         },
         "IsOpen": {
+          "value": false
+        },
+        "Jinx": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "PracticeTool_TargetDummy": {
+          "PermaShowValue": false,
           "value": false
         }
       },
@@ -52218,6 +52210,14 @@
           "value": false
         },
         "IsOpen": {
+          "value": false
+        },
+        "Jinx": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "PracticeTool_TargetDummy": {
+          "PermaShowValue": false,
           "value": false
         }
       },
@@ -52292,6 +52292,14 @@
           "value": false
         },
         "IsOpen": {
+          "value": false
+        },
+        "Jinx": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "PracticeTool_TargetDummy": {
+          "PermaShowValue": false,
           "value": false
         }
       },
@@ -98301,7 +98309,7 @@
   "[Python - AIO] - Ashe": {
     "Combo": {
       "IsOpen": {
-        "value": false
+        "value": true
       },
       "Q": {
         "ComboQ": {
@@ -98412,7 +98420,7 @@
     "R_HotKey": {
       "IsToggle": false,
       "MouseWheelBind": false,
-      "PermaShowValue": false,
+      "PermaShowValue": true,
       "key": 65,
       "value": false
     },
@@ -119531,6 +119539,30 @@
       "PermaShowValue": false,
       "value": true
     },
+    "fowKSmenu": {
+      "IsOpen": {
+        "value": false
+      },
+      "cancelKSfowHotkey": {
+        "IsToggle": false,
+        "MouseWheelBind": false,
+        "PermaShowValue": true,
+        "key": 48,
+        "value": false
+      },
+      "minRangeFoW": {
+        "PermaShowValue": false,
+        "value": 800
+      },
+      "minRangeFoWignore": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "useKSfow": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
     "info": {
       "PermaShowValue": false
     },
@@ -119619,6 +119651,10 @@
             "value": false
           },
           "wWhitelistAmbessa": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistAshe": {
             "PermaShowValue": false,
             "value": true
           },
@@ -119784,6 +119820,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistAshe": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistBrand": {
             "PermaShowValue": false,
             "value": true
@@ -119935,6 +119975,10 @@
             "value": false
           },
           "wWhitelistAmbessa": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistAshe": {
             "PermaShowValue": false,
             "value": true
           },
@@ -120701,6 +120745,10 @@
         "PermaShowValue": false,
         "value": false
       },
+      "masteryKillAshe": {
+        "PermaShowValue": false,
+        "value": false
+      },
       "masteryKillCaitlyn": {
         "PermaShowValue": false,
         "value": false
@@ -120742,6 +120790,10 @@
         "value": false
       },
       "masteryWinAmbessa": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "masteryWinAshe": {
         "PermaShowValue": false,
         "value": false
       },
