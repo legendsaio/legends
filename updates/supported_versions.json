@@ -14,9 +14,11 @@
       "versions": [
         "16.21.829.8620"
       ]
-    },
+    }
+  },
+  "upcoming_artifacts": {
     "myapp.hanbot.dll": {
-      "sha256": "1443b25f6fc4bbb659e1f7deaab9121f8cdc6d219ad24e099f6339b0acf04aa1",
+      "status": "coming_soon",
       "versions": [
         "16.21.829.8620"
       ]
