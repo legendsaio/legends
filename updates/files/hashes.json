@@ -1299,8 +1299,8 @@
     },
     {
       "path": "plugins/hanbot/shards/Alexis AIO .shard",
-      "size": 5243088,
-      "sha256": "aeb4e006128dda225e82da92ce69ddab499362e587e435615920b729a3eeaa2f"
+      "size": 5915096,
+      "sha256": "8efaca0a05f4ab3ad6e2057c2c50223047b3a01613ba79dd9d13d8935b492d0e"
     },
     {
       "path": "plugins/hanbot/shards/Alexis Auth.shard",

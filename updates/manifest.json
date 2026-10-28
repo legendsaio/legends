@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "aio-20261028-045428",
-  "key_id": "aio-20261028-045428",
+  "version": "aio-20261028-182008-alexis",
+  "key_id": "aio-20261028-182008-alexis",
   "auth_protocol": 2,
-  "release_sequence": 1793138116,
-  "issued_at": 1793138116,
-  "expires_at": 1795730116,
-  "generated_at": "2026-10-27T21:55:16.8873918Z",
+  "release_sequence": 1793186438,
+  "issued_at": 1793186438,
+  "expires_at": 1795778438,
+  "generated_at": "2026-10-28T11:20:38.9902669Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "runtime_files": {
     "url": "files/hashes.json",
     "size": 82579,
-    "sha256": "7de0aedbbacbe7b94dd219209a5c19cc5b9f1e991f6bc692aabb8f41eaf95197"
+    "sha256": "f8a4f8f13a14fdf7ccb0f2e82d9f9ac1f5fabb9d30419a5337cace78349d902b"
   },
   "files": [
     {
