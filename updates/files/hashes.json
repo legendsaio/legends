@@ -279,8 +279,8 @@
     },
     {
       "path": "config/rtx.json",
-      "size": 154,
-      "sha256": "0b7a397712a05a957e0b95aa2cf85bad7749bb89d407bad44ae7127a0095a978"
+      "size": 128579,
+      "sha256": "a0a13f34294298b3c76a93f9cbf823b87958767b5006750a54039a1863991fcf"
     },
     {
       "path": "plugins/bgx/plugins/x64/ADCSeries.dll",
@@ -1301,11 +1301,6 @@
       "path": "plugins/hanbot/shards/Alexis AIO .shard",
       "size": 5915096,
       "sha256": "8efaca0a05f4ab3ad6e2057c2c50223047b3a01613ba79dd9d13d8935b492d0e"
-    },
-    {
-      "path": "plugins/hanbot/shards/Alexis Auth.shard",
-      "size": 17,
-      "sha256": "0e4521745872ffda447c4fe5a51bd3f5f01060b99ab62cd3e82b0ed25e68916f"
     },
     {
       "path": "plugins/hanbot/shards/ArcherAIO.shard",
