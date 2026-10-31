@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "riot-device-key-20261031",
-  "key_id": "riot-device-key-20261031",
+  "version": "riot-device-transfer-20261031",
+  "key_id": "riot-device-transfer-20261031",
   "auth_protocol": 2,
   "device_proof_protocol": 1,
-  "release_sequence": 1793423677,
-  "issued_at": 1793423677,
-  "expires_at": 1796015677,
-  "generated_at": "2026-10-31T05:14:38.3715407Z",
+  "release_sequence": 1793426864,
+  "issued_at": 1793426864,
+  "expires_at": 1796018864,
+  "generated_at": "2026-10-31T06:07:44.7043614Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "runtime_files": {
     "url": "files/hashes.json",
@@ -285,10 +285,14 @@
     {
       "path": "loader.exe",
       "url": "loader.exe",
-      "sha256": "e92aa2a715902f66861639b28bbb75458b409836bddbbbfa2e1043e6a36eed3a",
-      "size": 5610496,
-      "component_version": "16.21.834.2754.01",
+      "sha256": "2d8f67b1cac4de39e9ddb5476855d0352f4a2f6ab201fde8a316d56b0ca013ba",
+      "size": 5722624,
+      "component_version": "16.21.834.2754.02",
       "version_history": [
+        {
+          "version": "16.21.834.2754.02",
+          "sha256": "2d8f67b1cac4de39e9ddb5476855d0352f4a2f6ab201fde8a316d56b0ca013ba"
+        },
         {
           "version": "16.21.834.2754.01",
           "sha256": "e92aa2a715902f66861639b28bbb75458b409836bddbbbfa2e1043e6a36eed3a"
