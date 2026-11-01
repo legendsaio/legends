@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "loader-startup-autoupdate-20261031",
-  "key_id": "loader-startup-autoupdate-20261031",
+  "version": "riot-bootrom-tpm-20261101",
+  "key_id": "riot-bootrom-tpm-20261101",
   "auth_protocol": 2,
   "device_proof_protocol": 1,
-  "release_sequence": 1793436051,
-  "issued_at": 1793436051,
-  "expires_at": 1796028051,
-  "generated_at": "2026-10-31T08:40:52.1171324Z",
+  "release_sequence": 1793515346,
+  "issued_at": 1793515346,
+  "expires_at": 1796107346,
+  "generated_at": "2026-11-01T06:42:28.6660203Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "runtime_files": {
     "url": "files/hashes.json",
@@ -293,10 +293,14 @@
     {
       "path": "loader.exe",
       "url": "loader.exe",
-      "sha256": "aa9aa7553c7ac665208ff80335a5a5ef44f4ed8ea8dfbc2596eba1aac2a606be",
-      "size": 5723648,
-      "component_version": "16.21.834.2754.03",
+      "sha256": "f6d5f96e70f0f419650b19722b06fb7bba15359de26560310d5b8e1fbb0d672b",
+      "size": 5746688,
+      "component_version": "16.21.834.2754.04",
       "version_history": [
+        {
+          "version": "16.21.834.2754.04",
+          "sha256": "f6d5f96e70f0f419650b19722b06fb7bba15359de26560310d5b8e1fbb0d672b"
+        },
         {
           "version": "16.21.834.2754.03",
           "sha256": "aa9aa7553c7ac665208ff80335a5a5ef44f4ed8ea8dfbc2596eba1aac2a606be"
