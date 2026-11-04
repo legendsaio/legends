@@ -87,6 +87,89 @@
                     }
                 }
             },
+            "Diana": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q DianaArcArc": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": true
+                    }
+                },
+                "Q DianaQ": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                },
+                "R DianaR": {
+                    "DangerLevel": {
+                        "value": 5
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
+            },
             "Fizz": {
                 "E FizzEBig": {
                     "DangerLevel": {
@@ -172,6 +255,37 @@
             },
             "IsOpen": {
                 "value": false
+            },
+            "Vi": {
+                "IsOpen": {
+                    "value": false
+                },
+                "Q Vi": {
+                    "DangerLevel": {
+                        "value": 3
+                    },
+                    "Draw": {
+                        "value": true
+                    },
+                    "Enable": {
+                        "value": true
+                    },
+                    "ForceFastEvade": {
+                        "value": false
+                    },
+                    "Is Danger": {
+                        "value": true
+                    },
+                    "IsOpen": {
+                        "value": false
+                    },
+                    "MinHP": {
+                        "value": 100
+                    },
+                    "TakeClosestPath": {
+                        "value": false
+                    }
+                }
             }
         },
         "advanced_tab": {
@@ -255,14 +369,38 @@
                 "IsOpen": {
                     "value": false
                 },
+                "spellBlockerEAshe": {
+                    "value": true
+                },
+                "spellBlockerEIllaoi": {
+                    "value": true
+                },
                 "spellBlockerEJhin": {
+                    "value": true
+                },
+                "spellBlockerQAshe": {
+                    "value": false
+                },
+                "spellBlockerQIllaoi": {
                     "value": true
                 },
                 "spellBlockerQJhin": {
                     "value": true
                 },
+                "spellBlockerRAshe": {
+                    "value": false
+                },
+                "spellBlockerRIllaoi": {
+                    "value": true
+                },
                 "spellBlockerRJhin": {
                     "value": true
+                },
+                "spellBlockerWAshe": {
+                    "value": true
+                },
+                "spellBlockerWIllaoi": {
+                    "value": false
                 },
                 "spellBlockerWJhin": {
                     "value": true
@@ -2044,6 +2182,41 @@
                 "value": false
             }
         },
+        "blackoutActivatormeleeMagnetOrbwalkingTab": {
+            "IsOpen": {
+                "value": false
+            },
+            "blackoutActivatormagnetOrbUnderTurret": {
+                "value": true
+            },
+            "blackoutActivatormagnetOrbwalkingCursorDistanceNew": {
+                "value": 1000
+            },
+            "blackoutActivatormagnetOrbwalkingDisableEvade": {
+                "value": true
+            },
+            "blackoutActivatormagnetOrbwalkingEnemyDistanceNew": {
+                "value": 650
+            },
+            "blackoutActivatormagnetOrbwalkingMode": {
+                "value": 1
+            },
+            "blackoutActivatormagnetOrbwalkingModesSelection": {
+                "value": 0
+            },
+            "magnetOrbHotkey_new": {
+                "IsToggle": true,
+                "MouseWheelBind": true,
+                "key": 0,
+                "value": false
+            },
+            "magnetOrbwalkingSelectedTargetNew": {
+                "IsToggle": true,
+                "MouseWheelBind": false,
+                "key": 76,
+                "value": false
+            }
+        },
         "blackoutActivatorpingSpellsTab": {
             "IsOpen": {
                 "value": false
@@ -2057,6 +2230,9 @@
                 }
             },
             "blackoutActivatorpingEnemyUltimateBlacklistTab": {
+                "Diana": {
+                    "value": false
+                },
                 "Fizz": {
                     "value": false
                 },
@@ -2064,6 +2240,9 @@
                     "value": false
                 },
                 "PracticeTool_TargetDummy": {
+                    "value": false
+                },
+                "Vi": {
                     "value": false
                 }
             },
@@ -2235,6 +2414,35 @@
             "blackoutActivatorturretRangeThickness": {
                 "value": 2
             }
+        }
+    },
+    "blackoutActivatorblackoutActivatorPermashowTab": {
+        "IsOpen": {
+            "value": false
+        },
+        "blackoutActivatordrawPermashow": {
+            "value": false
+        },
+        "blackoutActivatorpermashowBackgroundColor": {
+            "color": 1677721600
+        },
+        "blackoutActivatorpermashowDragKey": {
+            "IsToggle": false,
+            "MouseWheelBind": false,
+            "key": 1,
+            "value": false
+        },
+        "blackoutActivatorpermashowTextColor": {
+            "color": 4289722171
+        },
+        "blackoutActivatorpermashowWidth": {
+            "value": 300
+        },
+        "blackoutActivatorpermashowX": {
+            "value": 1215
+        },
+        "blackoutActivatorpermashowY": {
+            "value": 900
         }
     },
     "core_plugins": {
@@ -3069,6 +3277,25 @@
                 "value": 100
             }
         },
+        "base_ult": {
+            "IsOpen": {
+                "value": false
+            },
+            "b.enabled": {
+                "value": true
+            },
+            "combo.disable": {
+                "value": true
+            },
+            "combo.dmg": {
+                "value": 100
+            },
+            "g_c": {
+                "IsOpen": {
+                    "value": false
+                }
+            }
+        },
         "gloabl.not": {
             "IsOpen": {
                 "value": false
@@ -3099,6 +3326,36 @@
             }
         },
         "leveler": {
+            "Asheleveler.enabled": {
+                "value": true
+            },
+            "Asheleveler.lvl1": {
+                "value": 1
+            },
+            "Asheleveler.lvl2": {
+                "value": 1
+            },
+            "Asheleveler.lvl3": {
+                "value": 1
+            },
+            "Asheleveler.start_lvl": {
+                "value": 2
+            },
+            "Illaoileveler.enabled": {
+                "value": true
+            },
+            "Illaoileveler.lvl1": {
+                "value": 1
+            },
+            "Illaoileveler.lvl2": {
+                "value": 1
+            },
+            "Illaoileveler.lvl3": {
+                "value": 1
+            },
+            "Illaoileveler.start_lvl": {
+                "value": 2
+            },
             "IsOpen": {
                 "value": false
             },
@@ -3516,12 +3773,30 @@
                 "block.walk.inwall": {
                     "value": false
                 },
+                "disable_aa_comboAshe": {
+                    "value": 0
+                },
+                "disable_aa_comboIllaoi": {
+                    "value": 0
+                },
                 "disable_aa_comboJhin": {
                     "value": 0
+                },
+                "disable_aa_combo_aa_cntAshe": {
+                    "value": 2
+                },
+                "disable_aa_combo_aa_cntIllaoi": {
+                    "value": 2
                 },
                 "disable_aa_combo_aa_cntJhin": {
                     "value": 2
                 }
+            },
+            "support.support_mode.Ashe": {
+                "value": false
+            },
+            "support.support_mode.Illaoi": {
+                "value": false
             },
             "support.support_mode.Jhin": {
                 "value": false
@@ -3602,6 +3877,25 @@
             "IsOpen": {
                 "value": false
             },
+            "plugin##bgx/BGX.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/BGX.dll##Ashe": {
+                    "value": false
+                }
+            },
+            "plugin##bgx/CSXAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/CSXAIO.dll##Ashe": {
+                    "value": false
+                },
+                "plugin##bgx/CSXAIO.dll##Illaoi": {
+                    "value": false
+                }
+            },
             "plugin##bgx/L9AIO.dll": {
                 "IsOpen": {
                     "value": false
@@ -3620,6 +3914,9 @@
             },
             "plugin##bgx/RTXPOWER.dll": {
                 "IsOpen": {
+                    "value": false
+                },
+                "plugin##bgx/RTXPOWER.dll##Ashe": {
                     "value": false
                 },
                 "plugin##bgx/RTXPOWER.dll##Jhin": {
@@ -3646,7 +3943,18 @@
                 "IsOpen": {
                     "value": false
                 },
+                "plugin##rtx/LeaguesharpAIO.dll##Ashe": {
+                    "value": false
+                },
                 "plugin##rtx/LeaguesharpAIO.dll##Jhin": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/LotusAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/LotusAIO.dll##Ashe": {
                     "value": false
                 }
             },
@@ -3654,7 +3962,18 @@
                 "IsOpen": {
                     "value": false
                 },
+                "plugin##rtx/Marksman.dll##Ashe": {
+                    "value": false
+                },
                 "plugin##rtx/Marksman.dll##Jhin": {
+                    "value": false
+                }
+            },
+            "plugin##rtx/xDreammsAIO.dll": {
+                "IsOpen": {
+                    "value": false
+                },
+                "plugin##rtx/xDreammsAIO.dll##Ashe": {
                     "value": false
                 }
             }
@@ -3949,6 +4268,20 @@
             "IsOpen": {
                 "value": false
             },
+            "hero_Diana": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Diana": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Diana": {
+                    "value": 0
+                }
+            },
             "hero_Fizz": {
                 "IsOpen": {
                     "value": false
@@ -3976,11 +4309,53 @@
                 "skins.PracticeTool_TargetDummy": {
                     "value": 0
                 }
+            },
+            "hero_Vi": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Vi": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Vi": {
+                    "value": 0
+                }
             }
         },
         "local": {
             "IsOpen": {
                 "value": false
+            },
+            "hero_Ashe": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Ashe": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Ashe": {
+                    "value": 0
+                }
+            },
+            "hero_Illaoi": {
+                "IsOpen": {
+                    "value": false
+                },
+                "chroma.Illaoi": {
+                    "value": 0
+                },
+                "element": {
+                    "value": 0
+                },
+                "skins.Illaoi": {
+                    "value": 0
+                }
             },
             "hero_Jhin": {
                 "IsOpen": {

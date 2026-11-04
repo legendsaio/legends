@@ -279,8 +279,8 @@
     },
     {
       "path": "config/rtx.json",
-      "size": 128579,
-      "sha256": "a0a13f34294298b3c76a93f9cbf823b87958767b5006750a54039a1863991fcf"
+      "size": 139593,
+      "sha256": "4b548f0f952303b1c0320ef0b99b9f2535dd5104720883f3de61549fb8836b09"
     },
     {
       "path": "plugins/bgx/plugins/x64/ADCSeries.dll",
