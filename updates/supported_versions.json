@@ -6,13 +6,13 @@
     "myapp.rtx.dll": {
       "sha256": "4bbca294ca739683d9a6536f1b95879bd3bf8627342302c90f2c6a74bc1bb28f",
       "versions": [
-        "16.21.834.2754"
+        "16.22.834.8910"
       ]
     },
     "myapp.legendsense.dll": {
       "sha256": "c7e9803991734e669219f45f1ec52081c71034e50d0d9a08b16cfaa76a485b2b",
       "versions": [
-        "16.21.834.2754"
+        "16.22.834.8910"
       ]
     }
   },
@@ -20,7 +20,7 @@
     "myapp.hanbot.dll": {
       "status": "coming_soon",
       "versions": [
-        "16.21.829.8620"
+        "16.22.834.8910"
       ]
     }
   }
