@@ -4,13 +4,18 @@
   "files": [
     {
       "path": "Mods/PowerAIO.dll",
-      "size": 15707136,
-      "sha256": "5f87eb27dad36e366684de23bbb25c08ae3212d8b7ae3568f54589038781e702"
+      "size": 15859712,
+      "sha256": "f361141b4286425f1cb950a9798fbd0781d3c232d08b3eb5b8cf9971b7ccc319"
     },
     {
       "path": "Mods/a3_pred.dll",
-      "size": 7332352,
-      "sha256": "27da281faa2d3618034a1afd1ba7e4380c082168106f605afee0e2b7c8a31e7e"
+      "size": 7696896,
+      "sha256": "42ce76674c255c1fce41e3f3e9bd918e67294ada835b6007c040bb089cc6c7c2"
+    },
+    {
+      "path": "Mods/evade.dll",
+      "size": 32610816,
+      "sha256": "c63bc1952578ee9cb645544f4397dfe1aee3633cd785df0bbe4253fa393e78bd"
     },
     {
       "path": "Mods/mayhem_choices_wr.dll",

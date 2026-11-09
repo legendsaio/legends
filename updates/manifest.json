@@ -1,19 +1,19 @@
 {
   "schema": 1,
   "product": "legendsaio",
-  "version": "aio-20261109-212800",
-  "key_id": "aio-20261109-212800",
+  "version": "aio-20261109-232657-mods",
+  "key_id": "aio-20261109-232657-mods",
   "auth_protocol": 2,
   "device_proof_protocol": 1,
-  "release_sequence": 1794234550,
-  "issued_at": 1794234550,
-  "expires_at": 1796826550,
-  "generated_at": "2026-11-09T14:29:10.8694189Z",
+  "release_sequence": 1794241801,
+  "issued_at": 1794241801,
+  "expires_at": 1796833801,
+  "generated_at": "2026-11-09T16:30:02.4497550Z",
   "base_url": "https://raw.githubusercontent.com/legendsaio/legends/main/updates/files/",
   "runtime_files": {
     "url": "files/hashes.json",
-    "size": 82565,
-    "sha256": "e609359c51cacbcabb28d614ba13b95a0f16296d2c50f7ccd89de64afc5cc326"
+    "size": 82717,
+    "sha256": "75b1f1254a38572243de913378da85d4c8ae7dcd6a8b901c7003d77f782b2367"
   },
   "files": [
     {
