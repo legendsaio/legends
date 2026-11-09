@@ -4,19 +4,19 @@
   "match": "exact",
   "artifacts": {
     "myapp.rtx.dll": {
-      "sha256": "ef872a95909a4b754383fdfe2f90565c7f162d8f5aec2c7539438b112a532f32",
+      "sha256": "9b4fac5f8ac9adadf5b341abac7f499dc5e16388c770eab45be37f8336d8037e",
       "versions": [
         "16.22.834.8910"
       ]
     },
     "myapp.legendsense.dll": {
-      "sha256": "9595f5b8bdd1641f56e9dc43fbc69e48155a10d3f548744bf92a32fbc37fd55c",
+      "sha256": "08ae6e7b6d4ae3e6937284c5d9823e6c739988c250979aa6bae3e978e5129bdc",
       "versions": [
         "16.22.834.8910"
       ]
     },
     "myapp.hanbot.dll": {
-      "sha256": "d72d807f441cb76f1223eb081b4ed66a64a999d7950bdd996860c2ae7c708d75",
+      "sha256": "f9ff84c72f51792d15a5dc9979169bd028bb65d3aaea525ac4640ccf8aa063b1",
       "versions": [
         "16.22.834.8910"
       ]

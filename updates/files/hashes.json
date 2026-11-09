@@ -278,6 +278,11 @@
       "sha256": "fd6919891cf85319b05bf0f57ad6b298cd9667ddf1c3c8f2b08f4cdd9e24b5a6"
     },
     {
+      "path": "config/hanbot.json",
+      "size": 153563,
+      "sha256": "1ac1dc2c612bf5b496f10cd7ecfc6a1419ade016302eb1c129fb7161a6f2e609"
+    },
+    {
       "path": "config/rtx.json",
       "size": 139593,
       "sha256": "4b548f0f952303b1c0320ef0b99b9f2535dd5104720883f3de61549fb8836b09"
