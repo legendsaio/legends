@@ -17623,6 +17623,44 @@
         "load": true
       }
     },
+    "Ezreal": {
+      "Aorus AIO": {
+        "load": false
+      },
+      "DanZAIO": {
+        "load": false
+      },
+      "FH Official": {
+        "load": false
+      },
+      "FrostAIO": {
+        "load": false
+      },
+      "Notasy AIO": {
+        "load": false
+      },
+      "NovaChamps": {
+        "load": false
+      },
+      "R-AIO": {
+        "load": false
+      },
+      "RU(SA)_AIO": {
+        "load": false
+      },
+      "RushPack": {
+        "load": false
+      },
+      "X''": {
+        "load": false
+      },
+      "Xueli AIO": {
+        "load": false
+      },
+      "[YL AIO]": {
+        "load": false
+      }
+    },
     "Fiora": {
       "FH AIO - decoded editable package [EXPERIMENTAL]": {
         "load": false
@@ -18099,6 +18137,7 @@
     "Draven": 2,
     "Ekko": 2,
     "Elise": 2,
+    "Ezreal": 2,
     "Fiora": 1,
     "Gangplank": 2,
     "Gnar": 2,
@@ -21663,7 +21702,7 @@
       "CustomColor": {
         "BackgroundColorV5": {
           "PermaShowValue": false,
-          "color": 2785742098,
+          "color": 1862270976,
           "value": false
         },
         "IsOpen": {
@@ -21676,7 +21715,7 @@
         },
         "LogoColorV5B": {
           "PermaShowValue": false,
-          "color": 4289088468,
+          "color": 4293281371,
           "value": false
         },
         "ScrollbarBgColorV5": {
@@ -21686,7 +21725,7 @@
         },
         "ScrollbarGrabActiveColorV5": {
           "PermaShowValue": false,
-          "color": 4289088468,
+          "color": 4293281371,
           "value": false
         },
         "ScrollbarGrabColorV5": {
@@ -21696,17 +21735,17 @@
         },
         "ScrollbarGrabHoveredColorV5": {
           "PermaShowValue": false,
-          "color": 4290536933,
+          "color": 4293281371,
           "value": false
         },
         "TitleColorAV5": {
           "PermaShowValue": false,
-          "color": 4284900974,
+          "color": 4293281371,
           "value": false
         },
         "TitleColorCV5": {
           "PermaShowValue": false,
-          "color": 4290139105,
+          "color": 4294967295,
           "value": false
         },
         "TitleColorV5": {
@@ -21716,32 +21755,32 @@
         },
         "TooltipIconColorV5": {
           "PermaShowValue": false,
-          "color": 4289088468,
+          "color": 4293281371,
           "value": false
         },
         "TreeComponentColorV5": {
           "PermaShowValue": false,
-          "color": 2518094368,
+          "color": 3188921107,
           "value": false
         },
         "TreeFocusColorV5": {
           "PermaShowValue": false,
-          "color": 2691445895,
+          "color": 3030591807,
           "value": false
         },
         "WindowComponentMainActiveColorV5": {
           "PermaShowValue": false,
-          "color": 4285805199,
+          "color": 4285756275,
           "value": false
         },
         "WindowComponentMainColorV5": {
           "PermaShowValue": false,
-          "color": 4289088468,
+          "color": 4293281371,
           "value": false
         },
         "WindowComponentMainHoveredColorV5": {
           "PermaShowValue": false,
-          "color": 4290536933,
+          "color": 4294967295,
           "value": false
         },
         "WindowTextColorV5": {
@@ -21800,11 +21839,7 @@
     },
     "developertool": {
       "ConsoleHkey": {
-        "IsToggle": true,
-        "MouseWheelBind": false,
-        "PermaShowValue": false,
-        "key": 119,
-        "value": false
+        "PermaShowValue": false
       },
       "Display_component_internal_name": {
         "PermaShowValue": false,
@@ -26479,6 +26514,51 @@
         "value": true
       },
       "IsOpen": {
+        "value": false
+      },
+      "MiaGainVisionPingMode": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "MiaGainVisionSound": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "MiaMaxPossibleCircleRange": {
+        "PermaShowValue": false,
+        "value": 6000
+      },
+      "MiaTrackFoWParticles": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MiaWarnDuration": {
+        "PermaShowValue": false,
+        "value": 5
+      },
+      "MiaWarnRange": {
+        "PermaShowValue": false,
+        "value": 3000
+      },
+      "MiaWorldAvatarScale": {
+        "PermaShowValue": false,
+        "value": 45
+      },
+      "MiaWorldAvatarStyle": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "MiaWorldDrawHealth": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "MiaWorldPossibleCircle": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "MiaWorldPossibleCircleColor": {
+        "PermaShowValue": false,
+        "color": 1862270975,
         "value": false
       }
     },
@@ -34992,13 +35072,10 @@
     "391367950": {
       "load": false
     },
-    "Aorus AIO": {
-      "load": false
-    },
     "Avada AIO": {
       "load": false
     },
-    "DanZAIO": {
+    "CC - AIO": {
       "load": false
     },
     "FH Official": {
@@ -35006,9 +35083,6 @@
     },
     "FH Utility": {
       "load": true
-    },
-    "FrostAIO": {
-      "load": false
     },
     "Kernel Utility": {
       "load": false
@@ -35019,19 +35093,22 @@
     "Legend - XP TRACKER": {
       "load": false
     },
+    "M S Standard": {
+      "load": false
+    },
     "Momo AIO": {
       "load": false
     },
     "NS": {
       "load": false
     },
-    "NovaChamps": {
-      "load": false
-    },
     "NovaUtils": {
       "load": false
     },
-    "R-AIO": {
+    "Potato AIO": {
+      "load": false
+    },
+    "Python - AIO": {
       "load": false
     },
     "Ragnarok": {
@@ -35041,12 +35118,6 @@
       "load": false
     },
     "Victory - 工具箱": {
-      "load": false
-    },
-    "X''": {
-      "load": false
-    },
-    "Xueli AIO": {
       "load": false
     },
     "[HGAIO]": {
@@ -35086,6 +35157,9 @@
       "load": false
     },
     "tripp tech": {
+      "load": false
+    },
+    "小海-AI合集": {
       "load": false
     }
   },
@@ -45254,6 +45328,14 @@
       "value": 920
     }
   },
+  "NativeModules": {
+    "Evade": {
+      "load": true
+    },
+    "Kakashi": {
+      "load": false
+    }
+  },
   "Nidalee": {
     "E": {
       "EHP": {
@@ -50217,6 +50299,26 @@
       "PermaShowValue": false,
       "value": false
     },
+    "AutoPingDelay": {
+      "PermaShowValue": false,
+      "value": 100
+    },
+    "AutoPingWard": {
+      "PermaShowValue": false,
+      "value": 0
+    },
+    "DrawMinimapMarkers": {
+      "PermaShowValue": false,
+      "value": true
+    },
+    "DrawTrapRanges": {
+      "PermaShowValue": false,
+      "value": true
+    },
+    "DrawWardOutline": {
+      "PermaShowValue": false,
+      "value": true
+    },
     "Enabled": {
       "PermaShowValue": false,
       "value": true
@@ -50238,6 +50340,59 @@
       "PermaShowValue": false,
       "key": 20,
       "value": false
+    },
+    "TrapFilter": {
+      "FilterCaitlynTrap": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FilterGpBarrel": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FilterJhinTrap": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FilterJinxZiggsMines": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FilterMaokaiSapling": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FilterNidaleeTrap": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FilterOtherDeployables": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FilterShacoBox": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FilterTeemoShroom": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FilterTurretsOn": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FilterZyraPlantsOn": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "FilterZyraSeed": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "IsOpen": {
+        "value": false
+      }
     }
   },
   "Orbwalker": {
@@ -50266,6 +50421,10 @@
         "PermaShowValue": false,
         "value": true
       },
+      "AttackWhenBlinded": {
+        "PermaShowValue": false,
+        "value": false
+      },
       "CheckBlockingAABuff": {
         "PermaShowValue": false,
         "value": true
@@ -50281,6 +50440,10 @@
       "ExtraWindUpTime2_Kalista": {
         "PermaShowValue": false,
         "value": 43
+      },
+      "HighASNoMove": {
+        "PermaShowValue": false,
+        "value": false
       },
       "HoldRadius": {
         "PermaShowValue": false,
@@ -50402,6 +50565,10 @@
         "value": false
       },
       "Support ModeElise": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "Support ModeEzreal": {
         "PermaShowValue": false,
         "value": false
       },
@@ -78190,6 +78357,136 @@
       }
     }
   },
+  "SecondCamera": {
+    "AutoGankRange": {
+      "PermaShowValue": false,
+      "value": 3200
+    },
+    "DynamicZoom": {
+      "PermaShowValue": false,
+      "value": true
+    },
+    "Enable": {
+      "PermaShowValue": false,
+      "value": false
+    },
+    "IsOpen": {
+      "value": true
+    },
+    "MaxDynZoom": {
+      "PermaShowValue": false,
+      "value": 115
+    },
+    "PipActMode": {
+      "PermaShowValue": false,
+      "value": 0
+    },
+    "PipAutoCfg": {
+      "AutoGank": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "AutoHoldSecs": {
+        "PermaShowValue": false,
+        "value": 3
+      },
+      "AutoLowHp": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "AutoLowHpPct": {
+        "PermaShowValue": false,
+        "value": 35
+      },
+      "AutoObjective": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "AutoRecallTp": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "AutoSkirmish": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "IsOpen": {
+        "value": false
+      }
+    },
+    "PipBaseZoom": {
+      "PermaShowValue": false,
+      "value": 60
+    },
+    "PipHeroFallback": {
+      "PermaShowValue": false,
+      "value": 0
+    },
+    "PipLockedHeroId": {
+      "PermaShowValue": false,
+      "value": 0
+    },
+    "PipOverlayCfg": {
+      "DragWindow": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "PipShowHeader": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "PipShowPathsOn": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "ShowUnitBars": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "PipToggleKey": {
+      "IsToggle": true,
+      "MouseWheelBind": false,
+      "PermaShowValue": false,
+      "key": 192,
+      "value": true
+    },
+    "PipWindowCfg": {
+      "IsOpen": {
+        "value": false
+      },
+      "SmoothFollow": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "WinH": {
+        "PermaShowValue": false,
+        "value": 300
+      },
+      "WinW": {
+        "PermaShowValue": false,
+        "value": 480
+      },
+      "WinX": {
+        "PermaShowValue": false,
+        "value": 20
+      },
+      "WinY": {
+        "PermaShowValue": false,
+        "value": 120
+      }
+    },
+    "SecondCameraHookStatus": {
+      "PermaShowValue": false
+    },
+    "TargetMode": {
+      "PermaShowValue": false,
+      "value": 0
+    }
+  },
   "StatusHUD": {
     "IsOpen": {
       "value": true
@@ -78281,6 +78578,382 @@
         "PermaShowValue": false,
         "color": 4294967295,
         "value": true
+      }
+    }
+  },
+  "TacticalAwareness": {
+    "IsOpen": {
+      "value": true
+    },
+    "tac_dash_tracker": {
+      "IsOpen": {
+        "value": false
+      },
+      "dash_allies": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "dash_arc_clr": {
+        "PermaShowValue": false,
+        "color": 4281653682,
+        "value": false
+      },
+      "dash_duration": {
+        "PermaShowValue": false,
+        "value": 4.0
+      },
+      "dash_enemies": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "dash_self": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "dash_whitelist": {
+        "IsOpen": {
+          "value": false
+        },
+        "barrier": {
+          "IsOpen": {
+            "value": false
+          },
+          "color": {
+            "PermaShowValue": false,
+            "color": 4294961831,
+            "value": false
+          },
+          "enable": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "cleanse": {
+          "IsOpen": {
+            "value": false
+          },
+          "color": {
+            "PermaShowValue": false,
+            "color": 4280144289,
+            "value": false
+          },
+          "enable": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "default": {
+          "IsOpen": {
+            "value": false
+          },
+          "color": {
+            "PermaShowValue": false,
+            "color": 4294967295,
+            "value": false
+          },
+          "enable": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "exhaust": {
+          "IsOpen": {
+            "value": false
+          },
+          "color": {
+            "PermaShowValue": false,
+            "color": 4294142176,
+            "value": false
+          },
+          "enable": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "flash": {
+          "IsOpen": {
+            "value": false
+          },
+          "color": {
+            "PermaShowValue": false,
+            "color": 4293708904,
+            "value": false
+          },
+          "enable": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "ghost": {
+          "IsOpen": {
+            "value": false
+          },
+          "color": {
+            "PermaShowValue": false,
+            "color": 4285571583,
+            "value": false
+          },
+          "enable": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "heal": {
+          "IsOpen": {
+            "value": false
+          },
+          "color": {
+            "PermaShowValue": false,
+            "color": 4286311839,
+            "value": false
+          },
+          "enable": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "ignite": {
+          "IsOpen": {
+            "value": false
+          },
+          "color": {
+            "PermaShowValue": false,
+            "color": 4294927176,
+            "value": false
+          },
+          "enable": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "smite": {
+          "IsOpen": {
+            "value": false
+          },
+          "color": {
+            "PermaShowValue": false,
+            "color": 4294944002,
+            "value": false
+          },
+          "enable": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        },
+        "snowball": {
+          "IsOpen": {
+            "value": false
+          },
+          "color": {
+            "PermaShowValue": false,
+            "color": 4282964987,
+            "value": false
+          },
+          "enable": {
+            "PermaShowValue": false,
+            "value": true
+          }
+        }
+      }
+    },
+    "tac_inhib_timers": {
+      "IsOpen": {
+        "value": false
+      },
+      "health_relic_enable": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "health_relic_minimap_sync": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "inhib_enable": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "inhib_minimap_clr": {
+        "PermaShowValue": false,
+        "color": 4294967295,
+        "value": false
+      },
+      "inhib_minimap_font": {
+        "PermaShowValue": false,
+        "value": 13
+      },
+      "inhib_world_clr": {
+        "PermaShowValue": false,
+        "color": 4294967295,
+        "value": false
+      },
+      "inhib_world_font": {
+        "PermaShowValue": false,
+        "value": 20
+      },
+      "nexus_turret_enable": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "tac_path_tracker": {
+      "IsOpen": {
+        "value": false
+      },
+      "path_allies": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "path_allies_clr": {
+        "PermaShowValue": false,
+        "color": 4285821927,
+        "value": false
+      },
+      "path_dest_clr": {
+        "PermaShowValue": false,
+        "color": 4281653682,
+        "value": false
+      },
+      "path_enable": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "path_enemies": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "path_enemies_clr": {
+        "PermaShowValue": false,
+        "color": 4285821927,
+        "value": false
+      },
+      "path_fow": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "path_fow_set_pos": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "path_icon_size": {
+        "PermaShowValue": false,
+        "value": 32
+      },
+      "path_joint_clr": {
+        "PermaShowValue": false,
+        "color": 4294961831,
+        "value": false
+      },
+      "path_reach_time": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "path_self": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "path_self_clr": {
+        "PermaShowValue": false,
+        "color": 4285821927,
+        "value": false
+      },
+      "path_style": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "path_text_clr": {
+        "PermaShowValue": false,
+        "color": 4294967295,
+        "value": false
+      },
+      "path_thickness": {
+        "PermaShowValue": false,
+        "value": 2.0
+      }
+    },
+    "tac_spec_champions": {
+      "IsOpen": {
+        "value": false
+      },
+      "kata_clr": {
+        "PermaShowValue": false,
+        "color": 4280790624,
+        "value": false
+      },
+      "kata_clr_hit": {
+        "PermaShowValue": false,
+        "color": 4293610827,
+        "value": false
+      },
+      "kata_daggers": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "xayah_clr": {
+        "PermaShowValue": false,
+        "color": 4279505940,
+        "value": false
+      },
+      "xayah_clr_hit": {
+        "PermaShowValue": false,
+        "color": 4293610827,
+        "value": false
+      },
+      "xayah_e2": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "xayah_style": {
+        "PermaShowValue": false,
+        "value": 1
+      },
+      "yasuo_clr": {
+        "PermaShowValue": false,
+        "color": 4281653682,
+        "value": false
+      },
+      "yasuo_e": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "tac_xp_tracker": {
+      "IsOpen": {
+        "value": false
+      },
+      "shared_xp_tracker": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "xp_allies": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "xp_ally_color": {
+        "PermaShowValue": false,
+        "color": 1717792370,
+        "value": false
+      },
+      "xp_ally_inside_color": {
+        "PermaShowValue": false,
+        "color": 3010771385,
+        "value": false
+      },
+      "xp_enemies": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "xp_enemy_color": {
+        "PermaShowValue": false,
+        "color": 3437326421,
+        "value": false
+      },
+      "xp_strict": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "xp_thickness": {
+        "PermaShowValue": false,
+        "value": 2.0
       }
     }
   },
@@ -79581,6 +80254,53 @@
       },
       "IsOpen": {
         "value": false
+      },
+      "Reset": {
+        "PermaShowValue": false,
+        "value": false
+      }
+    }
+  },
+  "TargetSelectorEzreal": {
+    "Advanced": {
+      "AttackOnlySelectedTarget": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "AttackSelectedTarget": {
+        "PermaShowValue": false,
+        "value": true
+      },
+      "IsOpen": {
+        "value": false
+      }
+    },
+    "Drawings": {
+      "IsOpen": {
+        "value": false
+      },
+      "SelectedTarget": {
+        "PermaShowValue": false,
+        "value": true
+      }
+    },
+    "IsOpen": {
+      "value": true
+    },
+    "Mode": {
+      "PermaShowValue": false,
+      "value": 0
+    },
+    "Priorities": {
+      "Info": {
+        "PermaShowValue": false
+      },
+      "IsOpen": {
+        "value": false
+      },
+      "Nocturne": {
+        "PermaShowValue": false,
+        "value": 2
       },
       "Reset": {
         "PermaShowValue": false,
@@ -99435,6 +100155,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "Ezreal": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "FiddleSticks": {
             "PermaShowValue": false,
             "value": true
@@ -101762,6 +102486,60 @@
           "PermaShowValue": false
         }
       },
+      "EzrealEvadingMethods": {
+        "EzrealEzrealE": {
+          "IsOpen": {
+            "value": false
+          },
+          "assistAngleLimit": {
+            "PermaShowValue": false,
+            "value": 90.0
+          },
+          "dangerLevel": {
+            "PermaShowValue": false,
+            "value": 3
+          },
+          "fallbackAction": {
+            "PermaShowValue": false,
+            "value": 1
+          },
+          "isEnabled": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "isPreferable": {
+            "PermaShowValue": false,
+            "value": false
+          },
+          "manualUsageTitle": {
+            "PermaShowValue": false
+          }
+        },
+        "IsOpen": {
+          "value": false
+        }
+      },
+      "EzrealMovement": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        }
+      },
+      "EzrealTurnAround": {
+        "IsOpen": {
+          "value": false
+        },
+        "isEnabled": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "turnAroundInfo": {
+          "PermaShowValue": false
+        }
+      },
       "FioraEvadingMethods": {
         "FioraFioraQ": {
           "IsOpen": {
@@ -102639,7 +103417,7 @@
           },
           "assistAngleLimit": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "dangerLevel": {
             "PermaShowValue": false,
@@ -102684,7 +103462,7 @@
           },
           "assistAngleLimit": {
             "PermaShowValue": false,
-            "value": 15
+            "value": 15.0
           },
           "dangerLevel": {
             "PermaShowValue": false,
@@ -102712,7 +103490,7 @@
           },
           "assistAngleLimit": {
             "PermaShowValue": false,
-            "value": 15
+            "value": 15.0
           },
           "dangerLevel": {
             "PermaShowValue": false,
@@ -104251,6 +105029,47 @@
         }
       },
       "spellBlock_Elise": {
+        "E": {
+          "PermaShowValue": false,
+          "value": 3
+        },
+        "EDelayFlash": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "IsOpen": {
+          "value": false
+        },
+        "Q": {
+          "PermaShowValue": false,
+          "value": 3
+        },
+        "QDelayFlash": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "R": {
+          "PermaShowValue": false,
+          "value": 3
+        },
+        "RDelayFlash": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "W": {
+          "PermaShowValue": false,
+          "value": 3
+        },
+        "WDelayFlash": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "useNewSpellBlocker": {
+          "PermaShowValue": false,
+          "value": false
+        }
+      },
+      "spellBlock_Ezreal": {
         "E": {
           "PermaShowValue": false,
           "value": 3
@@ -113610,13 +114429,64 @@
       "IsOpen": {
         "value": false
       },
+      "advancedSettingsMenuWarning": {
+        "PermaShowValue": false
+      },
       "evadeBufferTime5": {
         "PermaShowValue": false,
-        "value": 0
+        "value": 0.0
+      },
+      "forbiddenPathRelativeAngleMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "forbiddenPathRelativeAngleMax": {
+          "PermaShowValue": false,
+          "value": 180.0
+        },
+        "forbiddenPathRelativeAngleMin": {
+          "PermaShowValue": false,
+          "value": 170.0
+        },
+        "forbiddenPathRelativeAngleMode": {
+          "PermaShowValue": false,
+          "value": 0
+        },
+        "forbiddenPathRelativeAngleWarning": {
+          "PermaShowValue": false
+        }
+      },
+      "forbiddenSkillshotRelativeAngleMenu": {
+        "IsOpen": {
+          "value": false
+        },
+        "forbiddenSkillshotRelativeAngleMax": {
+          "PermaShowValue": false,
+          "value": 91.0
+        },
+        "forbiddenSkillshotRelativeAngleMin": {
+          "PermaShowValue": false,
+          "value": 89.0
+        },
+        "forbiddenSkillshotRelativeAngleMode": {
+          "PermaShowValue": false,
+          "value": 0
+        },
+        "forbiddenSkillshotRelativeAngleWarning": {
+          "PermaShowValue": false
+        }
+      },
+      "isCrossingAllowed": {
+        "PermaShowValue": false,
+        "value": true
       },
       "isPathChangeAllowed": {
         "PermaShowValue": false,
         "value": true
+      },
+      "pathingFix": {
+        "PermaShowValue": false,
+        "value": false
       },
       "usePreciseDodgingNearMinions": {
         "PermaShowValue": false,
@@ -113815,11 +114685,15 @@
       },
       "spellAreaCornerSmoothness": {
         "PermaShowValue": false,
-        "value": 25
+        "value": 25.0
       },
       "spellAreaLineWidth": {
         "PermaShowValue": false,
         "value": 1
+      },
+      "spellAreaLineWidth2": {
+        "PermaShowValue": false,
+        "value": 2.0
       }
     }
   },
@@ -113960,7 +114834,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -113971,7 +114845,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -114039,7 +114913,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -114050,7 +114924,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -114118,7 +114992,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 30
+            "value": 30.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -114129,7 +115003,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -114197,7 +115071,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 20
+            "value": 20.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -114208,7 +115082,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -114276,7 +115150,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 15
+            "value": 15.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -114287,7 +115161,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -114355,7 +115229,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 15
+            "value": 15.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -114366,7 +115240,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -114434,7 +115308,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 35
+            "value": 35.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -114445,7 +115319,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -114513,7 +115387,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 35
+            "value": 35.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -114524,7 +115398,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -114592,7 +115466,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -114603,7 +115477,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -114671,7 +115545,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -114682,7 +115556,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -114707,16 +115581,38 @@
             "IsOpen": {
               "value": false
             },
+            "evadeAbilityDelayInfo": {
+              "PermaShowValue": false
+            },
             "evadeDelayMenuDesc": {
+              "PermaShowValue": false
+            },
+            "evadeMovementDelayInfo": {
               "PermaShowValue": false
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "extreme2": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "high2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "isStartDelayFromFirstSpell": {
               "PermaShowValue": false,
@@ -114724,11 +115620,19 @@
             },
             "low": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "low2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "medium2": {
+              "PermaShowValue": false,
+              "value": 0.0
             }
           },
           "humanizerMenuDesc": {
@@ -114744,22 +115648,22 @@
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             },
             "low": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             },
             "maxEvadeAngleMenuDesc": {
               "PermaShowValue": false
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             }
           }
         },
@@ -114891,7 +115795,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -114902,7 +115806,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -114970,7 +115874,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -114981,7 +115885,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -115049,7 +115953,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -115060,7 +115964,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 40
+            "value": 40.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -115128,7 +116032,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -115139,7 +116043,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 60
+            "value": 60.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -115207,7 +116111,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -115218,7 +116122,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 80
+            "value": 80.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -115286,7 +116190,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -115297,7 +116201,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 50
+            "value": 50.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -115365,7 +116269,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -115376,7 +116280,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 70
+            "value": 70.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -115444,7 +116348,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -115455,7 +116359,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -115523,7 +116427,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -115534,7 +116438,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -115602,7 +116506,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -115613,7 +116517,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -115638,16 +116542,38 @@
             "IsOpen": {
               "value": false
             },
+            "evadeAbilityDelayInfo": {
+              "PermaShowValue": false
+            },
             "evadeDelayMenuDesc": {
+              "PermaShowValue": false
+            },
+            "evadeMovementDelayInfo": {
               "PermaShowValue": false
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "extreme2": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "high2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "isStartDelayFromFirstSpell": {
               "PermaShowValue": false,
@@ -115655,11 +116581,19 @@
             },
             "low": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "low2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "medium2": {
+              "PermaShowValue": false,
+              "value": 0.0
             }
           },
           "humanizerMenuDesc": {
@@ -115675,22 +116609,22 @@
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             },
             "low": {
               "PermaShowValue": false,
-              "value": 180
+              "value": 180.0
             },
             "maxEvadeAngleMenuDesc": {
               "PermaShowValue": false
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 195
+              "value": 195.0
             }
           }
         },
@@ -115822,7 +116756,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -115833,7 +116767,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -115901,7 +116835,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -115912,7 +116846,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -115980,7 +116914,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 15
+            "value": 15.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -115991,7 +116925,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -116059,7 +116993,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 15
+            "value": 15.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -116070,7 +117004,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -116138,7 +117072,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -116149,7 +117083,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -116217,7 +117151,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -116228,7 +117162,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -116296,7 +117230,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -116307,7 +117241,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -116375,7 +117309,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -116386,7 +117320,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -116454,7 +117388,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -116465,7 +117399,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -116533,7 +117467,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -116544,7 +117478,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -116569,16 +117503,38 @@
             "IsOpen": {
               "value": false
             },
+            "evadeAbilityDelayInfo": {
+              "PermaShowValue": false
+            },
             "evadeDelayMenuDesc": {
+              "PermaShowValue": false
+            },
+            "evadeMovementDelayInfo": {
               "PermaShowValue": false
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "extreme2": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "high2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "isStartDelayFromFirstSpell": {
               "PermaShowValue": false,
@@ -116586,11 +117542,19 @@
             },
             "low": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "low2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "medium2": {
+              "PermaShowValue": false,
+              "value": 0.0
             }
           },
           "humanizerMenuDesc": {
@@ -116606,22 +117570,22 @@
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             },
             "low": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             },
             "maxEvadeAngleMenuDesc": {
               "PermaShowValue": false
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             }
           }
         },
@@ -116802,7 +117766,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -116813,7 +117777,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -116881,7 +117845,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -116892,7 +117856,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -116960,7 +117924,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 15
+            "value": 15.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -116971,7 +117935,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 70
+            "value": 70.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -117039,7 +118003,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 15
+            "value": 15.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -117050,7 +118014,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 80
+            "value": 80.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -117118,7 +118082,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 35
+            "value": 35.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -117129,7 +118093,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 35
+            "value": 35.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -117197,7 +118161,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -117208,7 +118172,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -117276,7 +118240,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -117287,7 +118251,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -117355,7 +118319,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -117366,7 +118330,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -117434,7 +118398,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -117445,7 +118409,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -117513,7 +118477,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -117524,7 +118488,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -117549,16 +118513,38 @@
             "IsOpen": {
               "value": false
             },
+            "evadeAbilityDelayInfo": {
+              "PermaShowValue": false
+            },
             "evadeDelayMenuDesc": {
+              "PermaShowValue": false
+            },
+            "evadeMovementDelayInfo": {
               "PermaShowValue": false
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "extreme2": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "high2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "isStartDelayFromFirstSpell": {
               "PermaShowValue": false,
@@ -117566,11 +118552,19 @@
             },
             "low": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "low2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "medium2": {
+              "PermaShowValue": false,
+              "value": 0.0
             }
           },
           "humanizerMenuDesc": {
@@ -117586,22 +118580,22 @@
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 170
+              "value": 170.0
             },
             "low": {
               "PermaShowValue": false,
-              "value": 100
+              "value": 100.0
             },
             "maxEvadeAngleMenuDesc": {
               "PermaShowValue": false
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 135
+              "value": 135.0
             }
           }
         },
@@ -117733,7 +118727,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -117744,7 +118738,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -117812,7 +118806,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -117823,7 +118817,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -117891,7 +118885,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -117902,7 +118896,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -117970,7 +118964,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -117981,7 +118975,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -118049,7 +119043,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -118060,7 +119054,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -118128,7 +119122,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -118139,7 +119133,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -118207,7 +119201,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -118218,7 +119212,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -118286,7 +119280,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -118297,7 +119291,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -118365,7 +119359,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -118376,7 +119370,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -118444,7 +119438,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -118455,7 +119449,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -118480,16 +119474,38 @@
             "IsOpen": {
               "value": false
             },
+            "evadeAbilityDelayInfo": {
+              "PermaShowValue": false
+            },
             "evadeDelayMenuDesc": {
+              "PermaShowValue": false
+            },
+            "evadeMovementDelayInfo": {
               "PermaShowValue": false
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "extreme2": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "high2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "isStartDelayFromFirstSpell": {
               "PermaShowValue": false,
@@ -118497,11 +119513,19 @@
             },
             "low": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "low2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "medium2": {
+              "PermaShowValue": false,
+              "value": 0.0
             }
           },
           "humanizerMenuDesc": {
@@ -118517,22 +119541,22 @@
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 170
+              "value": 170.0
             },
             "low": {
               "PermaShowValue": false,
-              "value": 100
+              "value": 100.0
             },
             "maxEvadeAngleMenuDesc": {
               "PermaShowValue": false
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 135
+              "value": 135.0
             }
           }
         },
@@ -118664,7 +119688,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -118675,7 +119699,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -118743,7 +119767,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -118754,7 +119778,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -118822,7 +119846,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -118833,7 +119857,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 80
+            "value": 80.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -118901,7 +119925,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -118912,7 +119936,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -118980,7 +120004,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -118991,7 +120015,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -119059,7 +120083,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -119070,7 +120094,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -119138,7 +120162,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -119149,7 +120173,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -119217,7 +120241,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -119228,7 +120252,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -119296,7 +120320,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -119307,7 +120331,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -119375,7 +120399,7 @@
           },
           "enemyHealth": {
             "PermaShowValue": false,
-            "value": 0
+            "value": 0.0
           },
           "isActive": {
             "PermaShowValue": false,
@@ -119386,7 +120410,7 @@
           },
           "playerHealth": {
             "PermaShowValue": false,
-            "value": 100
+            "value": 100.0
           },
           "spellRulesTitle": {
             "PermaShowValue": false
@@ -119411,16 +120435,38 @@
             "IsOpen": {
               "value": false
             },
+            "evadeAbilityDelayInfo": {
+              "PermaShowValue": false
+            },
             "evadeDelayMenuDesc": {
+              "PermaShowValue": false
+            },
+            "evadeMovementDelayInfo": {
               "PermaShowValue": false
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "extreme2": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC": {
+              "PermaShowValue": false,
+              "value": 0.0
+            },
+            "hardCC2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "high2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "isStartDelayFromFirstSpell": {
               "PermaShowValue": false,
@@ -119428,11 +120474,19 @@
             },
             "low": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "low2": {
+              "PermaShowValue": false,
+              "value": 0.0
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 0
+              "value": 0.0
+            },
+            "medium2": {
+              "PermaShowValue": false,
+              "value": 0.0
             }
           },
           "humanizerMenuDesc": {
@@ -119448,22 +120502,22 @@
             },
             "extreme": {
               "PermaShowValue": false,
-              "value": 360
+              "value": 360.0
             },
             "high": {
               "PermaShowValue": false,
-              "value": 170
+              "value": 170.0
             },
             "low": {
               "PermaShowValue": false,
-              "value": 100
+              "value": 100.0
             },
             "maxEvadeAngleMenuDesc": {
               "PermaShowValue": false
             },
             "medium": {
               "PermaShowValue": false,
-              "value": 135
+              "value": 135.0
             }
           }
         },
@@ -119678,6 +120732,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistEzreal": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistFiddleSticks": {
             "PermaShowValue": false,
             "value": true
@@ -119844,6 +120902,10 @@
             "PermaShowValue": false,
             "value": true
           },
+          "wWhitelistEzreal": {
+            "PermaShowValue": false,
+            "value": true
+          },
           "wWhitelistFiddleSticks": {
             "PermaShowValue": false,
             "value": true
@@ -119999,6 +121061,10 @@
             "value": true
           },
           "wWhitelistEkko": {
+            "PermaShowValue": false,
+            "value": true
+          },
+          "wWhitelistEzreal": {
             "PermaShowValue": false,
             "value": true
           },
@@ -120263,6 +121329,10 @@
           "PermaShowValue": false,
           "value": true
         },
+        "champListNocturne": {
+          "PermaShowValue": false,
+          "value": true
+        },
         "champListPracticeTool_TargetDummy": {
           "PermaShowValue": false,
           "value": true
@@ -120416,6 +121486,10 @@
           "value": true
         },
         "champListPathNeeko": {
+          "PermaShowValue": false,
+          "value": true
+        },
+        "champListPathNocturne": {
           "PermaShowValue": false,
           "value": true
         },
@@ -120761,6 +121835,10 @@
         "PermaShowValue": false,
         "value": false
       },
+      "masteryKillEzreal": {
+        "PermaShowValue": false,
+        "value": false
+      },
       "masteryKillGangplank": {
         "PermaShowValue": false,
         "value": false
@@ -120806,6 +121884,10 @@
         "value": false
       },
       "masteryWinDiana": {
+        "PermaShowValue": false,
+        "value": false
+      },
+      "masteryWinEzreal": {
         "PermaShowValue": false,
         "value": false
       },
@@ -121073,6 +122155,10 @@
           "value": false
         },
         "enemyChampListNeeko": {
+          "PermaShowValue": false,
+          "value": false
+        },
+        "enemyChampListNocturne": {
           "PermaShowValue": false,
           "value": false
         },
